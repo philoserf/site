@@ -5,7 +5,7 @@ N:mark;ayers;;;
 NICKNAME:philoserf
 EMAIL:mark@philoserf.com
 KEY;TYPE=PGP:/key.asc
-PHOTO;TYPE=JPEG;VALUE=URI:/img/avatar.png
+PHOTO;TYPE=JPEG;VALUE=URI:/img/avatar.jpeg
 SOURCE:/vcard.vcf
 TITLE:Senior Site Reliability Engineer
 ORG:Hypori
