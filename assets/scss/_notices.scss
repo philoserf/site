@@ -50,29 +50,6 @@
   }
 }
 
-.notice.example {
-  background-color: $bg-color-notice-example-content;
-
-  .notice-title {
-    background-color: $bg-color-notice-example-title;
-
-    i {
-      color: $fg-color-notice-example-icon;
-    }
-  }
-}
-
-.notice.question {
-  background-color: $bg-color-notice-question-content;
-
-  .notice-title {
-    background-color: $bg-color-notice-question-title;
-
-    i {
-      color: $fg-color-notice-question-icon;
-    }
-  }
-}
 
 .notice.info {
   background-color: $bg-color-notice-info-content;

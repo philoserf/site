@@ -8,7 +8,6 @@ params:
   since: 2023
   info: a human being, being human
   description: while increasing entropy globally
-  commit: https://github.com/philoserf/site/tree/
   keywords: website
   avatarURL: /img/avatar.png
   colorScheme: auto
@@ -35,3 +34,8 @@ menus:
     - name: "Posts"
       url: "posts/"
       weight: 90
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
