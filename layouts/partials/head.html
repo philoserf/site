@@ -1,5 +1,13 @@
 {{ partial "head/meta-tags.html" . }}
 
+<!-- Resource hints -->
+<link rel="preconnect" href="{{ .Site.BaseURL }}">
+{{ if .HasShortcode "mermaid" }}<link rel="preconnect" href="https://cdn.jsdelivr.net">{{ end }}
+<link rel="dns-prefetch" href="{{ .Site.BaseURL }}">
+
+<!-- Cache control -->
+<meta http-equiv="Cache-Control" content="max-age=86400, public">
+
 {{ if .Params.canonicalUrl }}
 <link rel="canonical" href="{{ .Params.canonicalUrl }}">
 {{ else }}
