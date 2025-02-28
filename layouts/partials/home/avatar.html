@@ -1,3 +1,13 @@
 {{ with .Site.Params.avatarURL }}
-  <div class="avatar"><img src="{{ . | relURL }}" alt="avatar"></div>
+  <div class="avatar">
+    <img src="{{ . | relURL }}" 
+         srcset="{{ replace . ".jpeg" "-200.jpeg" | relURL }} 200w, 
+                 {{ replace . ".jpeg" "-400.jpeg" | relURL }} 400w, 
+                 {{ . | relURL }} 800w"
+         sizes="(max-width: 400px) 200px, 
+                (max-width: 800px) 400px,
+                800px"
+         alt="Profile photo of {{ $.Site.Params.author }}"
+         loading="lazy">
+  </div>
 {{ end }}

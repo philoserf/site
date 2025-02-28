@@ -14,10 +14,11 @@
 {{ end }}
 
 <body class="preload-transitions {{ $csClass }}">
+  <a class="skip-to-content" href="#main-content">Skip to content</a>
   <main class="wrapper">
     {{ partial "header.html" . }}
 
-    <div class="content">
+    <div id="main-content" class="content">
       {{ block "content" . }}{{ end }}
     </div>
 
@@ -26,37 +27,40 @@
 
   {{ if .HasShortcode "mermaid" }}
   <script src="https://cdn.jsdelivr.net/npm/mermaid@9.3.0/dist/mermaid.min.js"
-    integrity="sha256-QdTG1YTLLTwD3b95jLqFxpQX9uYuJMNAtVZgwKX4oYU=" crossorigin="anonymous"></script>
+    integrity="sha256-QdTG1YTLLTwD3b95jLqFxpQX9uYuJMNAtVZgwKX4oYU=" crossorigin="anonymous"
+    defer></script>
   <script>
-    mermaid.initialize({ startOnLoad: true });
+    document.addEventListener('DOMContentLoaded', function() {
+      mermaid.initialize({ startOnLoad: true });
+    });
   </script>
   {{ end }}
 
   {{ if hugo.IsServer }}
   {{ $script := resources.Get "js/coder.js" }}
-  <script src="{{ $script.RelPermalink }}"></script>
+  <script src="{{ $script.RelPermalink }}" defer></script>
   {{ else }}
   {{ $script := resources.Get "js/coder.js" | minify | fingerprint }}
-  <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+  <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>
   {{ end }}
 
   {{ range .Site.Params.customJS }}
   {{ if hugo.IsServer }}
   {{ $script := resources.Get . }}
-  <script src="{{ $script.RelPermalink }}"></script>
+  <script src="{{ $script.RelPermalink }}" defer></script>
   {{ else }}
   {{ $script := resources.Get . | minify | fingerprint }}
-  <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+  <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>
   {{ end }}
   {{ end }}
 
   {{ range .Site.Params.customRemoteJS }}
   {{ if hugo.IsServer }}
   {{ $script := resources.GetRemote . }}
-  <script src="{{ $script.RelPermalink }}"></script>
+  <script src="{{ $script.RelPermalink }}" defer></script>
   {{ else }}
   {{ $script := resources.GetRemote . | minify | fingerprint }}
-  <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+  <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>
   {{ end }}
   {{ end }}
 

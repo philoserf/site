@@ -241,6 +241,22 @@ figure {
   transition: $null-transition;
 }
 
+.skip-to-content {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: $link-color;
+  color: $bg-color;
+  padding: 8px;
+  z-index: 100;
+  transition: top 0.2s ease;
+
+  &:focus {
+    top: 0;
+    text-decoration: none;
+  }
+}
+
 .wrapper {
   display: flex;
   flex-direction: column;
