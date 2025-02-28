@@ -14,7 +14,6 @@ tasks:
   fix:
     deps: [bootstrap]
     cmds:
-      - go run ./post_import.go
       - prettier --write --list-different --ignore-unknown .
       - markdownlint --fix .
 

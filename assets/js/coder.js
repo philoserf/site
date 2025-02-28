@@ -60,18 +60,6 @@ function setTheme(theme) {
     });
   }
 
-  if (theme === "dark") {
-    const message = {
-      type: "set-theme",
-      theme: "github-dark",
-    };
-  } else {
-    const message = {
-      type: "set-theme",
-      theme: "github-light",
-    };
-  }
-
   // Create and send event
   const event = new Event("themeChanged");
   document.dispatchEvent(event);

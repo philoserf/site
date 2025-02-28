@@ -1,6 +1,5 @@
 .task/
 Brewfile.lock.json
-post_import
 
 # Created by https://www.toptal.com/developers/gitignore/api/hugo
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo
