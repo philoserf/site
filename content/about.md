@@ -2,12 +2,48 @@
 title: About
 ---
 
-From mowing lawns in small town America to exploring ancient ruins across Italy, Turkey, and Japan, Mark Ayers' journey reflects a commitment to growth and service. His path has wound through small-town exurbia to bustling urban centers, with stops at Fortune 500 meeting rooms and nimble tech startups along the way.
+# Mark Ayers
 
-After earning his Political Science degree from the University at Albany (SUNY), Mark honed his leadership abilities through U.S. Army service, where he developed a disciplined approach to team collaboration and mission success. This foundation has proved invaluable across roles at non-profit organizations, where he channels his diverse experience into meaningful community impact initiatives.
+_We are all human beings, being human._
 
-Beyond his professional endeavors, Mark finds fulfillment in cultural exploration. He balances this wanderlust with a dedication to family life and personal wellness, embodying the belief that a rich life draws from both ambitious pursuits and meaningful connections.
+## Who I Am
 
-_The views expressed here are his own. They are not endorsed, approved, or reviewed by any other person or organization._
+I think deeply, learn constantly, make unexpected connections, and articulate complex ideas while maintaining confidence in a strategic vision.
+
+Former US Army paratrooper and Ranger, I've navigated both corporate landscapes and startup terrains, specializing in learning how to do the next thing we must do.
+
+## Philosophy
+
+> Simplicity is hard but mandatory.  
+> Use one file until you need another.  
+> Use one folder until you need another.  
+> Name things once.  
+> Submit to defaults until you have a strong reason.  
+> Ask permission only once.  
+> Yes, and...  
+> Assume good intentions.
+
+## Background
+
+I hold a BA in Political Science from SUNY Albany, but my education continues daily through challenges, conversations, and the constant pursuit of the next necessary skill.
+
+## Beyond Work
+
+When not solving complex problems, you might find me:
+
+- Traversing backcountry trails with everything I need on my back.
+- Exploring far-flung corners of the world.
+- Crafting the perfect balance of flavors in a cocktail glass.
+- Finding rhythm and meaning in spoken word.
+
+## Connect
+
+The simplest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
+
+---
+
+_This page follows my own rule: one file until you need another._
+
+_The views expressed here are my own. They are not endorsed, approved, or reviewed by any other person or organization._
 
 This site is built on [Apple](http://apple.com/) hardware, using [Hugo](https://gohugo.io/), hosted on [GitHub Pages](https://github.com/), and cached by [Cloudflare](https://cloudflare.com/).
