@@ -12,7 +12,7 @@ A former US Army paratrooper and Ranger, I've navigated corporate landscapes and
 
 ## Philosophy
 
-> Assume good intentions.
+> Assume good intentions.  
 > Only ask for permission once.  
 > Simplicity is hard but mandatory.  
 > Use one file until you need another.  
