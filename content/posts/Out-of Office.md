@@ -15,4 +15,4 @@ Once upon a time in a corporate environment this was my always-on out of office 
 >
 > This also means that if you change a meeting invitation on the day of the meeting I will not be aware of that change.
 >
-> Please text or call me at 123.456.7890 if you need for me to become aware of your email of meeting update.
+> Please text or call me at 123.456.7890 if you need for me to become aware of your email or meeting update.
