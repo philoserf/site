@@ -1,10 +1,18 @@
-name: Fix Markdown Headers
+name: Fix Markdown Headings
 
 on:
-  pull_request:
+  push:
+    branches:
+      - main
     paths:
-      - "**.md"
-    types: [opened, synchronize, reopened]
+      - "content/posts/**.md"
+  workflow_dispatch:
+    inputs:
+      scan_all_files:
+        description: "Scan all markdown files in content/posts instead of just recently changed ones"
+        required: false
+        default: false
+        type: boolean
 
 jobs:
   fix-headers:
@@ -16,28 +24,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
           fetch-depth: 0
-          
-      - name: Fetch base branch
-        run: |
-          git fetch origin ${{ github.base_ref || 'main' }}
 
       - name: Find and fix markdown files with multiple top-level headings
         run: |
           echo "Finding markdown files with multiple top-level headings..."
-          
-          # Get base branch for diffing
-          BASE_BRANCH="${{ github.base_ref || 'main' }}"
-          echo "Base branch: $BASE_BRANCH"
-          
-          # Use safer method to get changed files
-          echo "Finding changed markdown files..."
-          FILES_TO_FIX=$(git diff --name-only --diff-filter=ACMRT origin/$BASE_BRANCH...HEAD | grep '\.md$' || echo "")
 
-          if [ -z "$FILES_TO_FIX" ]; then
-            echo "No markdown files changed in this PR."
-            exit 0
+          # Determine if we should scan all files or just recently changed ones
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ github.event.inputs.scan_all_files }}" == "true" ]]; then
+            echo "Manual run with scan_all_files=true - scanning all markdown files in content/posts directory..."
+            FILES_TO_FIX=$(find ./content/posts -type f -name "*.md" | sort)
+          else
+            # Check latest commit for changed markdown files in content/posts directory
+            echo "Finding changed markdown files in content/posts directory..."
+            FILES_TO_FIX=$(git diff-tree --no-commit-id --name-only -r HEAD | grep '^content/posts/.*\.md$' || echo "")
+            
+            if [ -z "$FILES_TO_FIX" ]; then
+              echo "No markdown files changed in this commit."
+              exit 0
+            fi
           fi
 
           CHANGES_MADE=false
@@ -95,13 +100,30 @@ jobs:
             exit 0
           fi
 
-          git add -A
-          git commit -m "Fix: Remove duplicate top-level headings in markdown files
+          # Determine commit message based on trigger
+          COMMIT_MSG="Fix Markdown Headings"
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            if [[ "${{ github.event.inputs.scan_all_files }}" == "true" ]]; then
+              COMMIT_MSG="${COMMIT_MSG} (manual run - all files)"
+            else
+              COMMIT_MSG="${COMMIT_MSG} (manual run)"
+            fi
+          else
+            COMMIT_MSG="${COMMIT_MSG} (automatic run)"
+          fi
 
-          This automated commit removes duplicate top-level (# Title) headings from markdown files to fix markdownlint error MD025."
+          # Get list of fixed files for commit message
+          FIXED_FILES=$(git diff --name-only | tr '\n' ' ')
+
+          git add -A
+          git commit -m "${COMMIT_MSG}
+
+          This automated commit removes duplicate top-level (# Title) headings from markdown files to fix markdownlint error MD025.
+
+          Fixed files: ${FIXED_FILES}"
           git push
           echo "result=changes_committed" >> $GITHUB_OUTPUT
-          
+
       - name: Report outcome
         if: always()
         run: |
