@@ -4,14 +4,8 @@ on:
   workflow_dispatch: null
   push:
     branches: [main]
-    paths-ignore:
-      - "content/posts/**.md"  # Don't trigger on markdown changes, let fix-markdown-headings handle it first
   schedule:
     - cron: "25 15 * * *"
-  workflow_run:
-    workflows: ["Fix Markdown Headings"]
-    types:
-      - completed
 
 permissions:
   contents: read
