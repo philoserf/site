@@ -9,16 +9,19 @@ params:
   info: a human being, being human
   description: while increasing entropy globally
   keywords: website
-  avatarURL: /img/avatar.jpeg
+  avatarURL: /images/avatar.jpeg
   colorScheme: auto
   hideColorSchemeToggle: false
   social:
     - name: GitHub
-      icon: "fa fa-github fa-2x"
+      icon: "bi bi-github"
       url: https://github.com/philoserf/
     - name: Mastodon
-      icon: "fa fa-mastodon fa-2x"
+      icon: "bi bi-mastodon"
       url: https://pkm.social/@philoserf
+    - name: Bluesky
+      icon: "bi bi-twitter"
+      url: https://philoserf.bsky.social
 
 menus:
   main:
@@ -28,9 +31,6 @@ menus:
     - name: "Now"
       url: "now/"
       weight: 2
-    - name: "Contact"
-      url: "contact/"
-      weight: 3
     - name: "Posts"
       url: "posts/"
       weight: 90
