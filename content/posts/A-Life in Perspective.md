@@ -3,7 +3,7 @@ created: 2025-01-07
 date: 2025-01-06
 share: true
 title: A Life in Perspective
-updated: 2025-02-27
+updated: 2025-03-02
 ---
 
 # A Life in Perspective
