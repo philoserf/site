@@ -1,0 +1,114 @@
+name: Fix Markdown Headers
+
+on:
+  pull_request:
+    paths:
+      - "**.md"
+    types: [opened, synchronize, reopened]
+
+jobs:
+  fix-headers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+          
+      - name: Fetch base branch
+        run: |
+          git fetch origin ${{ github.base_ref || 'main' }}
+
+      - name: Find and fix markdown files with multiple top-level headings
+        run: |
+          echo "Finding markdown files with multiple top-level headings..."
+          
+          # Get base branch for diffing
+          BASE_BRANCH="${{ github.base_ref || 'main' }}"
+          echo "Base branch: $BASE_BRANCH"
+          
+          # Use safer method to get changed files
+          echo "Finding changed markdown files..."
+          FILES_TO_FIX=$(git diff --name-only --diff-filter=ACMRT origin/$BASE_BRANCH...HEAD | grep '\.md$' || echo "")
+
+          if [ -z "$FILES_TO_FIX" ]; then
+            echo "No markdown files changed in this PR."
+            exit 0
+          fi
+
+          CHANGES_MADE=false
+
+          for file in $FILES_TO_FIX; do
+            if [ ! -f "$file" ]; then
+              echo "File $file does not exist, skipping."
+              continue
+            fi
+            
+            # Count top-level headings
+            TOP_LEVEL_COUNT=$(grep -c "^# " "$file" || true)
+            
+            if [ "$TOP_LEVEL_COUNT" -gt 1 ]; then
+              echo "Fixing multiple top-level headings in $file"
+              
+              # Create a temporary file
+              TEMP_FILE=$(mktemp)
+              
+              # Remove the first top-level heading
+              awk '
+                BEGIN { removed = 0 }
+                /^# / {
+                  if (removed == 0) {
+                    removed = 1
+                  } else {
+                    print
+                  }
+                  next
+                }
+                { print }
+              ' "$file" > "$TEMP_FILE"
+              
+              # Replace the original file
+              mv "$TEMP_FILE" "$file"
+              CHANGES_MADE=true
+            fi
+          done
+
+          if [ "$CHANGES_MADE" = true ]; then
+            echo "Changes made to fix markdown headers."
+          else
+            echo "No files needed fixing."
+          fi
+
+      - name: Commit changes if needed
+        id: commit_changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          if git diff --quiet; then
+            echo "No changes to commit - all markdown files are already properly formatted"
+            echo "result=no_changes_needed" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          git add -A
+          git commit -m "Fix: Remove duplicate top-level headings in markdown files
+
+          This automated commit removes duplicate top-level (# Title) headings from markdown files to fix markdownlint error MD025."
+          git push
+          echo "result=changes_committed" >> $GITHUB_OUTPUT
+          
+      - name: Report outcome
+        if: always()
+        run: |
+          if [ "${{ steps.commit_changes.outputs.result }}" == "no_changes_needed" ]; then
+            echo "✅ Validation successful - No Markdown heading fixes needed"
+          elif [ "${{ steps.commit_changes.outputs.result }}" == "changes_committed" ]; then
+            echo "✅ Validation successful - Fixed duplicate Markdown headings and committed changes"
+          else
+            echo "✅ Validation completed"
+          fi
