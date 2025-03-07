@@ -2,10 +2,7 @@
 date: 2025-03-01
 share: true
 title: Out of office
-updated: 2025-03-01
 ---
-
-# Out of office
 
 Once upon a time in a corporate environment this was my always-on out of office message:
 
