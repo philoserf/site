@@ -4,8 +4,6 @@ share: true
 title: Books that have impacted my worldview
 ---
 
-# Books that have impacted my worldview
-
 I believe these authors and stories had the most significant effect on my worldview. To the best of my memory, they are in the order I encountered them.
 
 - The works of Edgar Allen Poe, 1835–1849
