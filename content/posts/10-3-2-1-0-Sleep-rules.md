@@ -2,10 +2,7 @@
 date: 2025-02-20
 share: true
 title: 10-3-2-1-0 Sleep rules
-updated: 2025-03-05
 ---
-
-# 10-3-2-1-0 Sleep rules
 
 The 10-3-2-1-0 rule for better sleep includes:
 
