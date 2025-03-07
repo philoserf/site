@@ -1,9 +1,7 @@
 ---
-created: 2025-01-07
-date: 2025-01-06
+date: 2024-09-06
 share: true
 title: Books that have impacted my worldview
-updated: 2025-02-27
 ---
 
 # Books that have impacted my worldview
