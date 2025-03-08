@@ -1,6 +1,5 @@
 title: Mark Ayers
 baseURL: https://philoserf.com/
-languageCode: en-US
 copyright: Mark Ayers
 
 params:
@@ -8,6 +7,7 @@ params:
   since: 2023
   info: a human being, being human
   description: while increasing entropy globally
+  license: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
   keywords: website
   avatarURL: /images/avatar.jpeg
   colorScheme: auto
@@ -39,3 +39,5 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+taxonomies: []

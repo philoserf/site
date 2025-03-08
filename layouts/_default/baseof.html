@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}">
+<html lang="en">
 
 <head>
   <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
@@ -44,27 +44,7 @@
   <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>
   {{ end }}
 
-  {{ range .Site.Params.customJS }}
-  {{ if hugo.IsServer }}
-  {{ $script := resources.Get . }}
-  <script src="{{ $script.RelPermalink }}" defer></script>
-  {{ else }}
-  {{ $script := resources.Get . | minify | fingerprint }}
-  <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>
-  {{ end }}
-  {{ end }}
 
-  {{ range .Site.Params.customRemoteJS }}
-  {{ if hugo.IsServer }}
-  {{ $script := resources.GetRemote . }}
-  <script src="{{ $script.RelPermalink }}" defer></script>
-  {{ else }}
-  {{ $script := resources.GetRemote . | minify | fingerprint }}
-  <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>
-  {{ end }}
-  {{ end }}
-
-  {{- partial "body/extensions" . -}}
 </body>
 
 </html>
