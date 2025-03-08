@@ -16,6 +16,4 @@ My current pastimes are …
 - craft cocktails
 - reading
 
----
-
 This is [Now page](https://nownownow.com/about) was updated on 2024-08-21.

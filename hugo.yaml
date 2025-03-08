@@ -40,4 +40,4 @@ markup:
     renderer:
       unsafe: true
 
-taxonomies: []
+taxonomies: {}
