@@ -26,10 +26,11 @@
 
   article {
     a:where(.external-link)::after {
-      @include fa-icon;
-      content: fa-content($fa-var-external-link);
+      content: "\F1C5"; /* Bootstrap Icons: box-arrow-up-right */
+      font-family: bootstrap-icons;
       padding-left: 0.5em;
       font-size: 0.75em;
+      vertical-align: middle;
     }
 
     details {
