@@ -6,7 +6,7 @@ title: A life in perspective
 
 Updated: 2024-07-22
 
-# Key
+## Key
 
 | Mark |      Meaning      |
 | :--: | :---------------: |
@@ -17,7 +17,7 @@ Updated: 2024-07-22
 |  🟥  | Expected End Date |
 |  🟦  |       Bonus       |
 
-# A life by decades
+## A life by decades
 
 75% done
 
@@ -25,7 +25,7 @@ Updated: 2024-07-22
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 🟪  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟩  | ⬜  | 🟥  | 🟦  |
 
-# A life by years
+## A life by years
 
 73% done
 
@@ -42,7 +42,7 @@ Updated: 2024-07-22
 | 80  | ⬜  | ⬜  | ⬜  | ⬜  | ⬜  | 🟥  | 🟦  | 🟦  | 🟦  | 🟦  |
 | 90  | 🟦  | 🟦  | 🟦  | 🟦  | 🟦  | 🟦  | 🟦  | 🟦  | 🟦  | 🟦  |
 
-# A life by months
+## A life by months
 
 70% done
 
