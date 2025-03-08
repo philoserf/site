@@ -1,14 +1,33 @@
 BEGIN:VCARD
 VERSION:3.0
+
+# Basic Information
 FN:Mark Ayers
-N:mark;ayers;;;
+N:Ayers;Mark;;;
 NICKNAME:philoserf
-EMAIL:mark@philoserf.com
-KEY;TYPE=PGP:/key.asc
-PHOTO;TYPE=JPEG;VALUE=URI:/images/avatar.jpeg
-SOURCE:/vcard.vcf
-TITLE:Senior Site Reliability Engineer
-ORG:Hypori
-TZ:-05:00
+BDAY:1962-07-04
+LANG:en-US
+
+# Contact Details
+EMAIL;TYPE=INTERNET:mark@philoserf.com
+TEL;TYPE=CELL:+12062804061
+ADDR;TYPE=HOME:;;160 ROLLINGWOOD DR;Rockford;MI;49341;United States
+
+# Professional Info
+TITLE:Sales Specialist
+ORG:Apple
+TZ:America/Detroit
+
+# Online Presence
 URL:https://philoserf.com/
+X-SOCIALPROFILE;TYPE=github:https://github.com/philoserf
+X-SOCIALPROFILE;TYPE=mastodon:https://pkm.social/@philoserf
+X-SOCIALPROFILE;TYPE=bluesky:https://philoserf.bsky.social/
+# X-SOCIALPROFILE;TYPE=linkedin:https://linkedin.com/in/TBD
+
+# Additional Info
+PHOTO;TYPE=JPEG:https://philoserf.com/images/avatar.jpeg
+SOURCE:https://philoserf.com/vcard.vcf
+NOTE:Deeply think\, learn constantly\, make unexpected connections\, and articulate complex ideas with confidence in a strategic vision.
+REV:20250306T120000Z
 END:VCARD

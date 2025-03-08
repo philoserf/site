@@ -3,7 +3,6 @@
 <!-- Resource hints -->
 <link rel="preconnect" href="{{ .Site.BaseURL }}">
 {{ if .HasShortcode "mermaid" }}<link rel="preconnect" href="https://cdn.jsdelivr.net">{{ end }}
-<link rel="dns-prefetch" href="{{ .Site.BaseURL }}">
 
 <!-- Cache control -->
 <meta http-equiv="Cache-Control" content="max-age=86400, public">
@@ -18,12 +17,4 @@
 
 {{ partialCached "head/color-scheme.html" . }}
 
-{{ partialCached "head/custom-styles.html" . }}
-
 {{ partialCached "head/custom-icons.html" . }}
-
-{{ partial "head/alternative-output-formats.html" . }}
-
-{{ if .IsHome }}{{ partial "head/hugo-generator.html" . }}{{ end }}
-
-{{ partial "head/extensions.html" . }}
