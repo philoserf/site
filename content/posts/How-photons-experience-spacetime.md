@@ -21,6 +21,7 @@ Similarly, time dilation dictates that for the photon, time slows down by this s
 # The Observer's Perspective
 
 For us as observers moving slower than light, reality is quite different:
+
 - The distance between points A and B remains measurable and finite
 - Light travels at a constant speed c (approximately 299,792,458 meters per second)
 - The journey takes a calculable time: t = d/c, where d is the distance
