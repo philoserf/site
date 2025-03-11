@@ -10,4 +10,4 @@ title: Books I am reading
 - _Outlive_ by Peter Attia, 2023
 - _The Book of Elsewhere_ by Keanu Reeves and China Miéville, 2024
 
-related: [Books I may read](./Books-I-may-read.md), [Books I have read](./Books-I-have-read.md), [Books that remapped my mental landscapes](./Books-that-remapped-my-mental-landscapes.md)
+related: [[content/posts/Books-I-may-read|Books I may read]], [[content/posts/Books-I-have-read|Books I have read]], [[content/posts/Books-that-remapped-my-mental-landscapes|Books that remapped my mental landscapes]]
