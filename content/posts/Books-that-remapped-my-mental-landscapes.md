@@ -1,7 +1,7 @@
 ---
 date: 2024-09-06
 share: true
-title: Books that have impacted my worldview
+title: Books that remapped my mental landscapes
 ---
 
 I believe these authors and stories had the most significant effect on my worldview. To the best of my memory, they are in the order I encountered them.
@@ -15,3 +15,5 @@ I believe these authors and stories had the most significant effect on my worldv
 - _The Canopus in Argos: Archive_ by Doris Lessing, 1974–1980
 - _My Friends_ by Emmanuel Bove, 1924; translated by Janet Louth, 1986
 - Brian M. Stableford's Emortality series, 1999–2002
+
+related: [Books I may read](./Books-I-may-read.md), [Books I am reading](./Books-I-am-reading.md), [Books that remapped my mental landscapes](Books-that-remapped-my-mental-landscapes.md)
