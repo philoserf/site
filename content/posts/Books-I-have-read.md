@@ -52,4 +52,4 @@ title: Books I have read
 - _Working Class_ by Nathan Lowell, 2023
 - _School Days_ by Nathan Lowell, 2023
 
-related: [Books I may read](./Books-I-may-read.md), [Books I am reading](./Books-I-am-reading.md), [Books that remapped my mental landscapes](./Books-that-remapped-my-mental-landscapes.md)
+related: [Books I may read](Books%20I%20may%20read.md), [Books I am reading](Books%20I%20am%20reading.md), [Books that remapped my mental landscapes](Books%20that%20remapped%20my%20mental%20landscapes.md)
