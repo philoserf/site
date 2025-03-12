@@ -4,8 +4,6 @@ date: 2025-03-11
 title: Books I may read
 ---
 
-## Formatted Book List
-
 - _Growing Up Absurd: Problems of Youth in the Organized Society_ by Paul Goodman, 1960
 - _Pale Fire_ by Vladimir Nabokov, 1962
 - _The Street of Crocodiles_ by Bruno Schulz, 1963 (English translation)
@@ -24,13 +22,13 @@ title: Books I may read
 - _Courting the Wild Twin_ by Martin Shaw, 2020
 - _Gormenghast_ by Mervyn Peake, 1950 (second novel in the trilogy; the series began with _Titus Groan_, 1946)
 
-### The Expanse Series
+## The Expanse Series
 
 1. _Persepolis Rising_ by James S.A. Corey, 2017
 2. _Tiamat's Wrath_ by James S.A. Corey, 2019
 3. _Leviathan Falls_ by James S.A. Corey, 2021
 
-### Dumarest of Terra Series
+## Dumarest of Terra Series
 
 1. _Derai_ by E.C. Tubb, 1968
 2. _Toyman_ by E.C. Tubb, 1969
