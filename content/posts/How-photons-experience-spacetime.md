@@ -2,6 +2,7 @@
 date: 2025-01-06
 share: true
 title: How photons experience spacetime
+slug: how-photons-experience-spacetime
 ---
 
 ## TL;DR
@@ -26,7 +27,7 @@ For us as observers moving slower than light, reality is quite different:
 - Light travels at a constant speed c (approximately 299,792,458 meters per second)
 - The journey takes a calculable time: t = d/c, where d is the distance
 
-This finite journey time allows us to measure vast cosmic distances using light-years—the distance light travels in one Earth year.
+This finite journey time allows us to measure immense cosmic distances using light-years—the distance light travels in one Earth year.
 
 ## The Deep Insight
 
