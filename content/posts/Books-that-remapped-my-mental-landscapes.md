@@ -2,11 +2,12 @@
 date: 2024-09-06
 share: true
 title: Books that remapped my mental landscapes
+slug: books-that-remapped-my-mental-landscapes
 ---
 
 I believe these authors and stories had the most significant effect on my worldview. To the best of my memory, they are in the order I encountered them.
 
-- The works of Edgar Allen Poe, 1835–1849
+- The works of Edgar Allan Poe, 1835–1849
 - Arthur Conan Doyle's Sherlock Holmes stories, 1887-1927
 - Robert E. Howard's Conan stories, 1932–1970s
 - J.R.R. Tolkien's Lord of the Rings, 1937–1955
