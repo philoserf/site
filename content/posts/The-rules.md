@@ -2,6 +2,7 @@
 date: 2023-02-23
 share: true
 title: The rules
+slug: the-rules
 ---
 
 Yes, and…  
@@ -13,7 +14,7 @@ Use one file until you need another.
 Use one folder until you need another.  
 Submit to defaults until you have a strong reason not to.
 
-## Todo
+## TODO
 
 - [ ] Add _why_ & provide examples
 - [ ] Add more rules by others that align with these principles
