@@ -1,6 +1,6 @@
 ---
 share: true
-date: 2025-03-11
+date: 2025-03-12
 title: Books I have read
 ---
 
@@ -32,6 +32,7 @@ title: Books I have read
 - _Nemesis Games_ by James S.A. Corey, 2015
 - _In Ashes Born_ by Nathan Lowell, 2015
 - _Rising Strong_ by Brené Brown, 2015
+- _Babylon's Ashes_ by James S.A. Corey, 2016
 - _To Fire Called_ by Nathan Lowell, 2017
 - _Her Body and Other Parties_ by Amy Landon, 2017
 - _In Darkness Forged_ by Nathan Lowell, 2018
