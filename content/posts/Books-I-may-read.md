@@ -4,6 +4,7 @@ date: 2025-03-11
 title: Books I may read
 ---
 
+- _Gormenghast_ by Mervyn Peake, 1950 (second novel in the trilogy; the series began with _Titus Groan_, 1946)
 - _Growing Up Absurd: Problems of Youth in the Organized Society_ by Paul Goodman, 1960
 - _Pale Fire_ by Vladimir Nabokov, 1962
 - _The Street of Crocodiles_ by Bruno Schulz, 1963 (English translation)
@@ -20,7 +21,6 @@ title: Books I may read
 - _21 Lessons for the 21st Century_ by Yuval Noah Harari, 2018
 - _The Age of Surveillance Capitalism_ by Shoshana Zuboff, 2019
 - _Courting the Wild Twin_ by Martin Shaw, 2020
-- _Gormenghast_ by Mervyn Peake, 1950 (second novel in the trilogy; the series began with _Titus Groan_, 1946)
 
 ## The Expanse Series
 
@@ -62,22 +62,3 @@ title: Books I may read
 30. _The Temple of Truth_ by E.C. Tubb, 1985
 31. _The Return_ by E.C. Tubb, 1997
 32. _Child of Earth_ by E.C. Tubb, 2008
-
-The Traitor Son Cycle:
-
-1. The Red Knight by Miles Cameron, 2012
-2. The Fell Sword by Miles Cameron, 2014
-3. The Dread Wyrm by Miles Cameron, 2015
-4. A Plague of Swords by Miles Cameron, 2016
-5. The Fall of Dragons by Miles Cameron, 2017
-
-Masters & Mages series:
-
-1. Cold Iron by Miles Cameron, 2018
-2. Dark Forge by Miles Cameron, 2019
-3. Bright Steel by Miles Cameron, 2019
-
-The Against All Gods series:
-
-1. Artifact Space by Miles Cameron, 2021
-2. Deep Black by Miles Cameron, 2022
