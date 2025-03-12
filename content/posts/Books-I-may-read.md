@@ -1,6 +1,6 @@
 ---
 share: true
-date: 2025-03-11
+date: 2025-03-12
 title: Books I may read
 ---
 
@@ -24,9 +24,8 @@ title: Books I may read
 
 ## The Expanse Series
 
-1. _Persepolis Rising_ by James S.A. Corey, 2017
-2. _Tiamat's Wrath_ by James S.A. Corey, 2019
-3. _Leviathan Falls_ by James S.A. Corey, 2021
+1. _Tiamat's Wrath_ by James S.A. Corey, 2019
+2. _Leviathan Falls_ by James S.A. Corey, 2021
 
 ## Dumarest of Terra Series
 
