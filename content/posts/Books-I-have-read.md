@@ -51,5 +51,3 @@ title: Books I have read
 - _Hard Knocks_ by Nathan Lowell, 2023
 - _Working Class_ by Nathan Lowell, 2023
 - _School Days_ by Nathan Lowell, 2023
-
-related: [Books I may read](content/posts/Books-I-may-read.md), [Books I am reading](content/posts/Books-I-am-reading.md), [Books that remapped my mental landscapes](content/posts/Books-that-remapped-my-mental-landscapes.md), Grow, Share
