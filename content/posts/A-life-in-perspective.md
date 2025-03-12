@@ -2,6 +2,7 @@
 date: 2024-07-22
 share: true
 title: A life in perspective
+slug: a-life-in-perspective
 ---
 
 Updated: 2024-07-22
