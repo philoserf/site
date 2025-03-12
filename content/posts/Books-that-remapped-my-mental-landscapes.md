@@ -15,4 +15,3 @@ I believe these authors and stories had the most significant effect on my worldv
 - _The Canopus in Argos: Archive_ by Doris Lessing, 1974–1980
 - _My Friends_ by Emmanuel Bove, 1924; translated by Janet Louth, 1986
 - Brian M. Stableford's Emortality series, 1999–2002
-
