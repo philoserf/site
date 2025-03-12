@@ -83,5 +83,3 @@ The Against All Gods series:
 
 1. Artifact Space by Miles Cameron, 2021
 2. Deep Black by Miles Cameron, 2022
-
-related: [Books I am reading](content/posts/Books-I-am-reading.md), [Books I have read](content/posts/Books-I-have-read.md), [Books that remapped my mental landscapes](content/posts/Books-that-remapped-my-mental-landscapes.md), Grow, Share
