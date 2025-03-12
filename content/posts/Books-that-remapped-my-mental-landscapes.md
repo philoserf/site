@@ -16,4 +16,3 @@ I believe these authors and stories had the most significant effect on my worldv
 - _My Friends_ by Emmanuel Bove, 1924; translated by Janet Louth, 1986
 - Brian M. Stableford's Emortality series, 1999–2002
 
-related: [Books I may read](content/posts/Books-I-may-read.md), [Books I am reading](content/posts/Books-I-am-reading.md), [Books that remapped my mental landscapes](Books-that-remapped-my-mental-landscapes.md), Share
