@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2025-03-13
 title: Safari plugins
 share: true
 slug: safari-plugins
