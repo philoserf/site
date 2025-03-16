@@ -5,7 +5,7 @@ title: A life in perspective
 slug: a-life-in-perspective
 ---
 
-Updated: 2024-07-22
+updated: 2024-07-22
 
 ## Key
 

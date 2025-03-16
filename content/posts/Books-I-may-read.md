@@ -7,6 +7,10 @@ slug: books-i-may-read
 
 related: [Books I have read]({{< ref "Books I have read" >}}), [Books I am reading]({{< ref "Books I am reading" >}})
 
+- Eternity by Greg Bear
+- Permutation City by Greg Egan
+- House of Suns by Alastair Reynolds
+- The World at the End of Time by Frederik Pohl
 - _Gormenghast_ by Mervyn Peake, 1950 (second novel in the trilogy; the series began with _Titus Groan_, 1946)
 - _Growing Up Absurd: Problems of Youth in the Organized Society_ by Paul Goodman, 1960
 - _Pale Fire_ by Vladimir Nabokov, 1962
