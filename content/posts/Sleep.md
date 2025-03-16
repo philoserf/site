@@ -49,11 +49,11 @@ Try to keep cool.
 
 Our bodies don't sleep as well when they're warm. "Keep your bedroom cool (18ºC/65ºF is great)," Gibson says. "Your core body temperature needs to drop by about 1ºC to help you find deep sleep; if you're too warm, you might not be able to access it."
 
-"Having a shower or a bath before bed can also lower your body temperature, which encourages sleep," adds counselor Dr Michelle Ruth.
+"Taking a shower or a bath before bed can also lower your body temperature, which encourages sleep," adds counselor Dr Michelle Ruth.
 
 Time limit your naps.
 
-"Some people, quite simply, can't nap effectively," Morgan says. "But for those who can, there's many types of nap. The two main categories are compensatory naps (catching up on sleep) and hedonistic naps (siestas, naps for fun). Either way, the sweet spot is a 30-35-minute nap (excluding the time it'll take you to sleep). No more than 40 minutes, either way. You want to enjoy the benefit of proper sleep but avoid sinking into a deep sleep, giving you sleep inertia (that weighty feeling you get)."
+"Some people, quite simply, can't nap effectively," Morgan says. "But for those who can, there are many types of nap. The two main categories are compensatory naps (catching up on sleep) and hedonistic naps (siestas, naps for fun). Either way, the sweet spot is a 30-35-minute nap (excluding the time it'll take you to sleep). No more than 40 minutes, either way. You want to enjoy the benefit of proper sleep but avoid sinking into a deep sleep, giving you sleep inertia (that weighty feeling you get)."
 
 5-HTP is the supplement of choice
 
@@ -65,7 +65,7 @@ Yep, the science on chamomile's sleep benefits is sound. "It contains the flavon
 
 As does eating Probiotics
 
-Probiotics are suitable for many aspects of our health, but there might be another benefit you need to learn about. "Gut health specialists have suggested that how our brain and stomach work together may be very important for sleep," Lee says. Gut bacteria produce gamma-aminobutyric acid (GABA). "GABA is a neurotransmitter known to induce feelings of rest," Lee says. "This process may, therefore, have a direct effect on sleep. There hasn't been a lot of research just yet, however."
+Probiotics are suitable for many aspects of our health, but there might be another benefit you need to learn about. "Gut health specialists have suggested that how our brain and stomach work together may be very important for sleep," Lee says. Gut bacteria produce gamma-amino butyric acid (GABA). "GABA is a neurotransmitter known to induce feelings of rest," Lee says. "This process may, therefore, have a direct effect on sleep. There hasn't been a lot of research just yet, however."
 
 It would be best if you also got your zinc on.
 
@@ -113,7 +113,7 @@ Our circadian rhythm regulates when we're tired and when we're alert. Morgan say
 
 Meditation works
 
-Getting Zen is a pretty obvious way to sleep better, and the practice works. "A 2018 review, which included 18 trials and 1,654 people, concluded there was moderate evidence that mindful meditation improved sleep quality," Lee says. "At five to 12 months of follow-up, mindfulness meditation was as good as other evidence-based sleep treatments at inducing sleep and improving sleep quality. Also, meditating for 10-30 minutes a day has been shown to reduce stress, depression, and anxiety and improve sleep."
+Getting Zen is a pretty obvious way to sleep better, and the practice works. "A 2018 review, which included 18 trials and 1,654 people, concluded there was moderate evidence that mindful meditation improved sleep quality," Lee says. "At five to 12 months of follow-up, mindfulness meditation was as good as other evidence-based sleep treatments at inducing sleep and improving sleep quality. Also, meditating for 10–30 minutes a day has been shown to reduce stress, depression, and anxiety and improve sleep."
 
 Jot down those worries.
 
@@ -153,4 +153,4 @@ It's sexier. But also "bright lights impact on melatonin production, which is th
 
 Humidify your life
 
-While this might seem incredibly extra (especially in the UK, where MR PORTER is based), Lee says that "keeping the air in your bedroom well humidified (the optimum is 40 to 60 percent humidity) can help keep your nasal passageways, mouth, and airways, stay hydrated, which can aid night-time breathing." So consider it; you're worth it.
+While this might seem incredibly extra (especially in the UK, where MR PORTER is based), Lee says that "keeping the air in your bedroom well humidified (the optimum is 40 to 60 percent humidity) can help keep your nasal passageways, mouth, and airways, stay hydrated, which can aid nighttime breathing." So consider it; you're worth it.
