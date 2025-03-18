@@ -1,18 +1,19 @@
 ---
 title: About
+aliases: ["contact", "colophon"]
 ---
 
 _We are all human beings, being human._
 
 ## Philosophy
 
-Yes, and...  
-Name things once.  
-Assume good intentions.  
-Only ask for permission once.  
-Simplicity is hard but essential.  
-Use one file until you need another.  
-Use one folder until you need another.  
+Yes, and...
+Name things once.
+Assume good intentions.
+Only ask for permission once.
+Simplicity is hard but essential.
+Use one file until you need another.
+Use one folder until you need another.
 Submit to defaults until you have a strong reason to deviate.
 
 Deeply think, learn constantly, make unexpected connections, and articulate complex ideas with confidence in a strategic vision.

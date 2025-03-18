@@ -4,6 +4,7 @@ share: true
 title: On the real terrain
 slug: on-the-real-terrain
 ---
+
 by Mark Ayers, 2018
 
 The clouds forge phantom landscapes  
