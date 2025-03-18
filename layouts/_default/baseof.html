@@ -26,12 +26,15 @@
   </main>
 
   {{ if .HasShortcode "mermaid" }}
-  <script src="https://cdn.jsdelivr.net/npm/mermaid@9.3.0/dist/mermaid.min.js"
-    integrity="sha256-QdTG1YTLLTwD3b95jLqFxpQX9uYuJMNAtVZgwKX4oYU=" crossorigin="anonymous"
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10.7.0/dist/mermaid.min.js"
+    integrity="sha256-QdA9QotARFXEXMkfZbEL6+aeL1vgxvG+GIPRbJgpGkI=" crossorigin="anonymous"
     defer></script>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      mermaid.initialize({ startOnLoad: true });
+      mermaid.initialize({ 
+        startOnLoad: true,
+        theme: '{{ if eq .Site.Params.colorScheme "dark" }}dark{{ else }}default{{ end }}'
+      });
     });
   </script>
   {{ end }}

@@ -1,14 +1,23 @@
 {
-  "name": "Locally reversing entropy &vbar; and increasing entropy globally",
-  "short_name": "Locally reversing entropy",
+  "name": "Good Enough Drafts",
+  "short_name": "Good Enough Drafts",
+  "description": "Personal site of Mark Ayers - thoughts, experiences, and explorations",
   "icons": [
     {
-      "src": "/android-chrome-144x144.png",
+      "src": "/images/android-chrome-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
+    },
+    {
+      "src": "/images/android-chrome-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
 }
