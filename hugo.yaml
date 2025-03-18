@@ -5,13 +5,12 @@ copyright: Mark Ayers
 params:
   author: Mark Ayers
   since: 2005
-  info: a human being, being human
+  info: COGITA·DISCE·NECTE·ENVNTIA
   description: while increasing entropy globally
   license: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
   keywords: website
   avatarURL: /images/avatar.jpeg
   colorScheme: auto
-  hideColorSchemeToggle: false
   social:
     - name: GitHub
       icon: "bi bi-github"
@@ -23,6 +22,13 @@ params:
       icon: "bi bi-twitter"
       url: https://philoserf.bsky.social
 
+taxonomies: {} # Taxonomies are not used in this site
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allow inline HTML
+
 menus:
   main:
     - name: "About"
@@ -31,13 +37,9 @@ menus:
     - name: "Now"
       url: "now/"
       weight: 2
+    - name: "Uses"
+      url: "uses/"
+      weight: 3
     - name: "Posts"
       url: "posts/"
       weight: 90
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-
-taxonomies: {}

@@ -2,20 +2,17 @@
 title: Now
 ---
 
-I am …
+updated: 2025-03-17
 
-- based in Greater Grand Rapids, Michigan
-- working as a sales specialist for Apple retail
-- contributing to open source projects and communities
-- trying to sleep, move, eat, grow, play, & share each day
-- learning everything, anything, & always
-- grateful for the gift of insatiable curiosity
+I am based in Greater Grand Rapids, Michigan, and work as a sales specialist for Apple retail. I am contributing to open source projects and communities. Each day, I strive to sleep, move, eat, grow, play, and share. I am constantly learning and exploring new things.
 
-My current pastimes are …
+I am grateful for the gift of insatiable curiosity.
 
-- building strength through deadlift, squat, and bench press 3x weekly
-- experimenting with craft cocktails (currently perfecting Old Fashioned variants, especially rye and rum variations)
-- reading actively (see <https://philoserf.com/posts/books-i-am-reading/>)
-- looking forward to the total Solar eclipse on 2026-08-12 as seen from Bilbao
+My current pastimes include:
 
-The [Now page](https://nownownow.com/about) was updated on 2025-03-14.
+- Building strength through deadlifts, squats, and bench presses three times a week.
+- Building stamina through running, rowing, and HIIT workouts three times a week.
+- Experimenting with craft cocktails, particularly perfecting Old Fashioned variants, especially those with rye and rum.
+- Reading actively (see <https://philoserf.com/posts/books-i-am-reading/>).
+
+I am looking forward to the total solar eclipse on August 12, 2026, as seen from Bilbao.
