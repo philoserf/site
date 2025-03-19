@@ -1,8 +1,28 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#ffffff">
+<meta name="language" content="{{ .Site.Language.Lang | default "en" }}">
 
 {{ with .Site.Params.author }}
 <meta name="author" content="{{ . }}">{{ end }}
 <meta name="description" content="{{ .Description | default (.Summary | default .Site.Params.description ) }}">
 <meta name="keywords" content="{{ (delimit .Keywords ", ") | default .Site.Params.keywords }}">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
+<meta property="og:description" content="{{ .Description | default (.Summary | default .Site.Params.description ) }}">
+{{ with .Params.images }}{{ range first 1 . }}
+<meta property="og:image" content="{{ . | absURL }}">{{ end }}{{ else }}
+<meta property="og:image" content="{{ .Site.Params.avatarURL | absURL }}">{{ end }}
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}">
+<meta name="twitter:description" content="{{ .Description | default (.Summary | default .Site.Params.description ) }}">
+{{ with .Params.images }}{{ range first 1 . }}
+<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}{{ else }}
+<meta name="twitter:image" content="{{ .Site.Params.avatarURL | absURL }}">{{ end }}

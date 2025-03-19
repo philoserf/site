@@ -2,7 +2,22 @@
 
 <!-- Resource hints -->
 <link rel="preconnect" href="{{ .Site.BaseURL }}">
-{{ if .HasShortcode "mermaid" }}<link rel="preconnect" href="https://cdn.jsdelivr.net">{{ end }}
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
+<!-- Preload critical resources -->
+<link rel="preload" href="{{ .Site.Params.avatarURL | default "/images/avatar.jpeg" | relURL }}" as="image">
+{{ if hugo.IsServer }}
+<link rel="preload" href="{{ (resources.Get "scss/coder.scss" | resources.ExecuteAsTemplate "style.coder.css" . | toCSS (dict "targetPath" "css/coder.css" "enableSourceMap" true)).RelPermalink }}" as="style">
+{{ if or (eq .Site.Params.colorScheme "auto") (eq .Site.Params.colorScheme "dark") }}
+<link rel="preload" href="{{ (resources.Get "scss/coder-dark.scss" | resources.ExecuteAsTemplate "style.coder-dark.css" . | toCSS (dict "targetPath" "css/coder-dark.css" "enableSourceMap" true)).RelPermalink }}" as="style">
+{{ end }}
+{{ else }}
+<link rel="preload" href="{{ (resources.Get "scss/coder.scss" | resources.ExecuteAsTemplate "style.coder.css" . | toCSS (dict "targetPath" "css/coder.css") | minify | fingerprint).RelPermalink }}" as="style">
+{{ if or (eq .Site.Params.colorScheme "auto") (eq .Site.Params.colorScheme "dark") }}
+<link rel="preload" href="{{ (resources.Get "scss/coder-dark.scss" | resources.ExecuteAsTemplate "style.coder-dark.css" . | toCSS (dict "targetPath" "css/coder-dark.css") | minify | fingerprint).RelPermalink }}" as="style">
+{{ end }}
+{{ end }}
 
 <!-- Cache control -->
 <meta http-equiv="Cache-Control" content="max-age=86400, public">
