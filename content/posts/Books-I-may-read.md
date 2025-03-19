@@ -11,7 +11,7 @@ related: [Books I have read]({{< ref "Books I have read" >}}), [Books I am readi
 - _Permutation City_ by Greg Egan
 - _House of Suns_ by Alastair Reynolds
 - _The World at the End of Time_ by Frederik Pohl
-- _Against the Machine: On the Unmaking of Humanity_ By Paul Kingsnorth, 2025
+- _Against the Machine: On the Unmaking of Humanity_ by Paul Kingsnorth, 2025
 - _Gormenghast_ by Mervyn Peake, 1950 (second novel in the trilogy; the series began with _Titus Groan_, 1946)
 - _Growing Up Absurd: Problems of Youth in the Organized Society_ by Paul Goodman, 1960
 - _Pale Fire_ by Vladimir Nabokov, 1962
