@@ -6,7 +6,7 @@ editor: Mark Ayers
 publisher: Mark Ayers
 email: mark@philoserf.com
 site: https://philoserf.com/
-jocation: Greater Grand Rapids, Michigan, USA
+location: Greater Grand Rapids, Michigan, USA
 
 /* SITE */
 hosting: GitHub Pages
