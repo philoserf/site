@@ -5,8 +5,6 @@ share: true
 slug: safari-plugins
 ---
 
-related: [Apple products]({{< ref "Apple products" >}}), [iOS apps]({{< ref "iOS apps" >}}), [macOS apps]({{< ref "macOS apps" >}}), [iPadOS apps]({{< ref "iPadOS apps" >}}), [Safari plugins]({{< ref "Safari plugins" >}})
-
 ## Obsidian Web Clipper
 
 home: <https://obsidian.md/clipper>  
