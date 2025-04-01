@@ -5,14 +5,13 @@ title: The rules
 slug: the-rules
 ---
 
-Yes, and…  
-Name things once.  
-Assume good intentions.  
-Only ask for permission once.  
-Simplicity is hard but essential.  
-Use one file until you need another.  
-Use one folder until you need another.  
-Submit to defaults until you have a strong reason not to.
+- Yes, and…
+- Name things once
+- Embrace simplicity
+- Ask permission once
+- Assume good intentions
+- Use one file/folder until needed
+- Accept defaults first, deviate when justified
 
 ## TODO
 
