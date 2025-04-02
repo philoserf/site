@@ -1,9 +1,9 @@
 ---
-date: 2025-03-01
-share: true
-title: Out of office
-slug: out-of-office
+title: "Out of Office"
+date: 2025-04-02
+draft: false
 ---
+
 
 Once upon a time in a corporate environment, this was my always-on out-of-office message:
 

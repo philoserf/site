@@ -1,9 +1,9 @@
 ---
-date: 2025-02-12
-share: true
-title: Astronomical events for Rockford Michigan in 2025
-slug: astronomical-events-for-rockford-michigan-in-2025
+title: "Astronomical Events for Rockford Michigan in 2025"
+date: 2025-04-02
+draft: false
 ---
+
 
 | Date         | Time                                                     | Event                                                                          |
 | ------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------ |

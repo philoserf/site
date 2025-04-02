@@ -1,9 +1,9 @@
 ---
-date: 2023-02-23
-share: true
-title: The rules
-slug: the-rules
+title: "The Rules"
+date: 2025-04-02
+draft: false
 ---
+
 
 - Yes, and…
 - Name things once

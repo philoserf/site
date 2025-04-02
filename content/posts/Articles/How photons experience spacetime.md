@@ -1,9 +1,9 @@
 ---
-date: 2025-01-06
-share: true
-title: How photons experience spacetime
-slug: how-photons-experience-spacetime
+title: "How photons experience spacetime"
+date: 2025-04-02
+draft: false
 ---
+
 
 ## TL;DR
 

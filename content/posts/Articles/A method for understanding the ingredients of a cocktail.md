@@ -1,9 +1,9 @@
 ---
-date: 2025-01-06
-share: true
-title: A method for understanding the ingredients of a cocktail
-slug: a-method-for-understanding-the-ingredients-of-a-cocktail
+title: "A method for understanding the ingredients of a cocktail"
+date: 2025-04-02
+draft: false
 ---
+
 
 1. Mix 14ml of an ingredient with 1L of water
 2. Sip the water and consider the qualities of the ingredient

@@ -1,11 +1,11 @@
 ---
-date: 2023-01-31
-share: true
-title: Move
-slug: move
+title: "Move"
+date: 2025-04-02
+draft: false
 ---
 
-related: [Sleep]({{< ref "Sleep" >}}), [Move]({{< ref "Move" >}}), [Eat]({{< ref "Eat" >}}), [Grow]({{< ref "Grow" >}}), [Play]({{< ref "Play" >}}), [Share]({{< ref "Share" >}})
+
+related: [Sleep]({{< ref "/sleep" >}}), [Move]({{< ref "/move" >}}), [Eat]({{< ref "/eat" >}}), [Grow]({{< ref "/grow" >}}), [Play]({{< ref "/play" >}}), [Share]({{< ref "/share" >}})
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
 

@@ -1,9 +1,9 @@
 ---
-date: 2024-07-22
-share: true
-title: A life in perspective
-slug: a-life-in-perspective
+title: "A Life in Perspective"
+date: 2025-04-02
+draft: false
 ---
+
 
 updated: 2024-07-22
 

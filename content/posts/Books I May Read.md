@@ -1,11 +1,11 @@
 ---
-share: true
-date: 2025-03-19
-title: Books I may read
-slug: books-i-may-read
+title: "Books I May Read"
+date: 2025-04-02
+draft: false
 ---
 
-related: [Books I have read]({{< ref "Books I have read" >}}), [Books I am reading]({{< ref "Books I am reading" >}})
+
+related: [Books I have read]({{< ref "/books-i-have-read" >}}), [Books I am reading]({{< ref "/books-i-am-reading" >}})
 
 - _Eternity_ by Greg Bear
 - _Permutation City_ by Greg Egan

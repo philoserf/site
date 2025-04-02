@@ -1,9 +1,9 @@
 ---
-date: 2024-09-06
-share: true
-title: Books that remapped my mental landscapes
-slug: books-that-remapped-my-mental-landscapes
+title: "Books that remapped my mental landscapes"
+date: 2025-04-02
+draft: false
 ---
+
 
 I believe these authors and stories had the most significant effect on my worldview. To the best of my memory, they are in the order I encountered them.
 

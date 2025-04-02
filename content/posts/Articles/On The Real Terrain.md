@@ -1,9 +1,9 @@
 ---
-date: 2018-11-15
-share: true
-title: On the real terrain
-slug: on-the-real-terrain
+title: "On The Real Terrain"
+date: 2025-04-02
+draft: false
 ---
+
 
 by Mark Ayers, 2018
 

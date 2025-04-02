@@ -1,9 +1,9 @@
 ---
-date: 2025-02-17
-share: true
-title: Sunrise and sunset for Rockford Michigan in 2025
-slug: sunrise-and-sunset-for-rockford-michigan-in-2025
+title: "Sunrise and sunset for Rockford Michigan in 2025"
+date: 2025-04-02
+draft: false
 ---
+
 
 ## April
 

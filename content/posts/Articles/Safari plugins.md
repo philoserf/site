@@ -1,9 +1,9 @@
 ---
-date: 2025-03-13
-title: Safari plugins
-share: true
-slug: safari-plugins
+title: "Safari plugins"
+date: 2025-04-02
+draft: false
 ---
+
 
 ## Obsidian Web Clipper
 

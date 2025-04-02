@@ -1,11 +1,11 @@
 ---
-share: true
-date: 2025-03-12
-title: Books I am reading
-slug: books-i-am-reading
+title: "Books I Am Reading"
+date: 2025-04-02
+draft: false
 ---
 
-related: [Books I may read]({{< ref "Books I may read" >}}), [Books I have read]({{< ref "Books I have read" >}})
+
+related: [Books I may read]({{< ref "/books-i-may-read" >}}), [Books I have read]({{< ref "/books-i-have-read" >}})
 
 - _Aria: Canticle of the Monomyth_ by Christian Moore & Owen Seyler, 1994
 - _Persepolis Rising_ by James S.A. Corey, 2017

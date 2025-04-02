@@ -1,11 +1,10 @@
 ---
-share: true
-date: 2025-03-12
-title: Books I have read
-slug: books-i-have-read
+title: "Books I Have Read"
+date: 2025-04-02
+draft: false
 ---
 
-related: [Books I may read]({{< ref "Books I may read" >}}). [Books I am reading]({{< ref "Books I am reading" >}})
+related: [Books I may read]({{< ref "/books-i-may-read" >}}). [Books I am reading]({{< ref "/books-i-am-reading" >}})
 
 > [!note] Incomplete  
 > This list began in late 2022

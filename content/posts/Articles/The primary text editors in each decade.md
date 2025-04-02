@@ -1,9 +1,9 @@
 ---
-date: 2025-03-13
-share: true
-title: The primary text editors in each decade
-slug: the-primary-text-editors-in-each-decade
+title: "The primary text editors in each decade"
+date: 2025-04-02
+draft: false
 ---
+
 
 ## 1960s: Line Editors & Early Terminals
 
