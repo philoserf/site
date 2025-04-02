@@ -13,7 +13,7 @@ From a photon's perspective, the universe is compressed to a single point—all 
 
 For a photon traveling through spacetime, something remarkable happens: the entire universe contracts along its direction of motion. According to the Lorentz transformation, an object moving at velocity v experiences length contraction by a factor of:
 
-\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
+$\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
 
 For a photon where v = c, this factor becomes infinite, causing all distances in its direction of travel to contract to zero. The photon exists at its origin and destination simultaneously.
 

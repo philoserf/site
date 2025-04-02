@@ -4,9 +4,6 @@ date: 2025-04-02
 draft: false
 ---
 
-
-related: [Books I have read]({{< ref "/books-i-have-read" >}}), [Books I am reading]({{< ref "/books-i-am-reading" >}})
-
 - _Eternity_ by Greg Bear
 - _Permutation City_ by Greg Egan
 - _House of Suns_ by Alastair Reynolds

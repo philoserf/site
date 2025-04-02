@@ -4,9 +4,6 @@ date: 2025-04-02
 draft: false
 ---
 
-related: [Books I may read]({{< ref "/books-i-may-read" >}}), [Books I am reading]({{< ref "/books-i-am-reading" >}})
-
-> [!note] Incomplete  
 > This list began in late 2022
 
 - _Tarnsman of Gor_ by John Norman, 1966
