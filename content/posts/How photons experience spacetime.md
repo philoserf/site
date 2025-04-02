@@ -2,6 +2,7 @@
 title: "How photons experience spacetime"
 date: 2025-04-02
 draft: false
+math: true
 ---
 
 
