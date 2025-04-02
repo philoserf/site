@@ -23,6 +23,10 @@ body {
   }
 }
 
+iframe[src*="disqus"] {
+  color-scheme: light;
+}
+
 a {
   font-weight: 500;
   color: $link-color;
@@ -143,6 +147,7 @@ strong {
     margin: 2rem 0 2rem;
     padding: 1rem;
     border-radius: 1rem;
+    overflow-x: auto;
   }
 }
 
@@ -170,11 +175,11 @@ code {
   font-weight: 400;
   border-radius: 0.6rem;
   padding: 0.3rem 0.6rem;
+  background-color: $darker-alt-bg-color;
+  color: $fg-color;
   @media only screen and (max-width: 768px) {
     font-size: 1.5rem;
   }
-  background-color: $darker-alt-bg-color;
-  color: $fg-color;
 }
 
 blockquote {
@@ -183,6 +188,9 @@ blockquote {
   line-height: 2.2rem;
   font-weight: 400;
   font-style: italic;
+}
+* {
+  -webkit-tap-highlight-color: transparent;
 }
 
 th,
@@ -239,22 +247,6 @@ figure {
   -ms-transition: $null-transition;
   -o-transition: $null-transition;
   transition: $null-transition;
-}
-
-.skip-to-content {
-  position: absolute;
-  top: -40px;
-  left: 0;
-  background: $link-color;
-  color: $bg-color;
-  padding: 8px;
-  z-index: 100;
-  transition: top 0.2s ease;
-
-  &:focus {
-    top: 0;
-    text-decoration: none;
-  }
 }
 
 .wrapper {

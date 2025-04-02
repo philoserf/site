@@ -13,13 +13,13 @@ params:
   colorScheme: auto
   social:
     - name: GitHub
-      icon: "bi bi-github"
+      icon: "fa-brands fa-github"
       url: https://github.com/philoserf/
     - name: Mastodon
-      icon: "bi bi-mastodon"
+      icon: "fa-brands fa-mastodon"
       url: https://pkm.social/@philoserf
     - name: Bluesky
-      icon: "bi bi-twitter"
+      icon: "fa-brands fa-bluesky"
       url: https://philoserf.bsky.social
 
 taxonomies: {} # Taxonomies are not used in this site
