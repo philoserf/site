@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
-date: 2025-04-02
+date: 2025-04-04
 draft: false
 ---
 
-> This list began in late 2022
+
+incomplete: This list began in late 2022
 
 - _Tarnsman of Gor_ by John Norman, 1966
 - _The Winds of Gath_ by E.C. Tubb, 1968
