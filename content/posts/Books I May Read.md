@@ -1,14 +1,15 @@
 ---
 title: "Books I May Read"
-date: 2025-04-02
+date: 2025-04-04
 draft: false
 ---
 
-- _Eternity_ by Greg Bear
-- _Permutation City_ by Greg Egan
-- _House of Suns_ by Alastair Reynolds
-- _The World at the End of Time_ by Frederik Pohl
-- _Against the Machine: On the Unmaking of Humanity_ by Paul Kingsnorth, 2025
+
+- _Outlive_ by Peter Attia, 2023
+- _The Book of Elsewhere_ by Keanu Reeves and China Miéville, 2024
+
+---
+
 - _Gormenghast_ by Mervyn Peake, 1950 (second novel in the trilogy; the series began with _Titus Groan_, 1946)
 - _Growing Up Absurd: Problems of Youth in the Organized Society_ by Paul Goodman, 1960
 - _Pale Fire_ by Vladimir Nabokov, 1962
@@ -18,6 +19,10 @@ draft: false
 - _The Box Man_ by Kobo Abe, 1974 (English translation)
 - _Dhalgren_ by Samuel R. Delany, 1975
 - _Dictionary of the Khazars_ by Milorad Pavić, 1988 (English translation)
+- _Eternity_ by Greg Bear, 1988
+- _The World at the End of Time_ by Frederik Pohl, 1990
+- _Permutation City_ by Greg Egan, 1994
+- _House of Suns_ by Alastair Reynolds, 2008
 - _Oryx and Crake_ by Margaret Atwood, 2003
 - _This Changes Everything_ by Naomi Klein, 2014
 - _Eleanor Oliphant Is Completely Fine_ by Gail Honeyman, 2017
@@ -26,6 +31,7 @@ draft: false
 - _21 Lessons for the 21st Century_ by Yuval Noah Harari, 2018
 - _The Age of Surveillance Capitalism_ by Shoshana Zuboff, 2019
 - _Courting the Wild Twin_ by Martin Shaw, 2020
+- _Against the Machine: On the Unmaking of Humanity_ by Paul Kingsnorth, 2025
 
 ## The Expanse Series
 

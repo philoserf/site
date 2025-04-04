@@ -1,6 +1,6 @@
 ---
 title: "Books that remapped my mental landscapes"
-date: 2025-04-02
+date: 2025-04-04
 draft: false
 ---
 
