@@ -2,7 +2,6 @@
 title: "Among Mountains and Seasons"
 date: 2025-04-11
 draft: false
-related: [[Poetry]]
 updated: "2025-04-08"
 ---
 
