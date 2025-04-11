@@ -1,12 +1,14 @@
 ---
 title: "Books I Have Read"
-date: 2025-04-04
+date: 2025-04-11
 draft: false
+updated: "2025-04-08"
 ---
 
 
 incomplete: This list began in late 2022
 
+- _Persepolis Rising_ by James S.A. Corey, 2017
 - _Tarnsman of Gor_ by John Norman, 1966
 - _The Winds of Gath_ by E.C. Tubb, 1968
 - _The Florians_ by Brian Stableford, 1976

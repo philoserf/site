@@ -1,7 +1,9 @@
 ---
 title: "Books I May Read"
-date: 2025-04-04
+date: 2025-04-11
 draft: false
+related: [[Books I Am Reading]],[[Books I Have Read]]
+updated: "2025-04-08"
 ---
 
 
@@ -35,8 +37,7 @@ draft: false
 
 ## The Expanse Series
 
-1. _Tiamat's Wrath_ by James S.A. Corey, 2019
-2. _Leviathan Falls_ by James S.A. Corey, 2021
+_Leviathan Falls_ by James S.A. Corey, 2021
 
 ## Dumarest of Terra Series
 
