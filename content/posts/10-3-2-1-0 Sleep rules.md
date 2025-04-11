@@ -1,7 +1,8 @@
 ---
 title: "10-3-2-1-0 Sleep rules"
-date: 2025-04-04
+date: 2025-04-11
 draft: false
+updated: "2025-04-08"
 ---
 
 

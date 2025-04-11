@@ -1,7 +1,8 @@
 ---
 title: "A method for understanding the ingredients of a cocktail"
-date: 2025-04-04
+date: 2025-04-11
 draft: false
+updated: "2025-04-08"
 ---
 
 

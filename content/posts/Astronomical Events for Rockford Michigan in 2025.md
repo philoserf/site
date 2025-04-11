@@ -1,7 +1,8 @@
 ---
 title: "Astronomical Events for Rockford Michigan in 2025"
-date: 2025-04-04
+date: 2025-04-11
 draft: false
+updated: "2025-04-08"
 ---
 
 
