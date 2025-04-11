@@ -2,7 +2,6 @@
 title: "Books I May Read"
 date: 2025-04-11
 draft: false
-related: [[Books I Am Reading]],[[Books I Have Read]]
 updated: "2025-04-08"
 ---
 
