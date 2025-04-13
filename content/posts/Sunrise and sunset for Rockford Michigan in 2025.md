@@ -1,6 +1,6 @@
 ---
 title: "Sunrise and sunset for Rockford Michigan in 2025"
-date: 2025-04-11
+date: 2025-04-13
 draft: false
 updated: "2025-04-08"
 ---

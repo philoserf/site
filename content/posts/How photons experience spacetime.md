@@ -1,6 +1,6 @@
 ---
 title: "How photons experience spacetime"
-date: 2025-04-11
+date: 2025-04-13
 draft: false
 math: true
 updated: "2025-04-08"

@@ -1,15 +1,10 @@
 ---
 title: "Books I May Read"
-date: 2025-04-11
+date: 2025-04-13
 draft: false
-updated: "2025-04-08"
+updated: "2025-04-12"
 ---
 
-
-- _Outlive_ by Peter Attia, 2023
-- _The Book of Elsewhere_ by Keanu Reeves and China Miéville, 2024
-
----
 
 - _Gormenghast_ by Mervyn Peake, 1950 (second novel in the trilogy; the series began with _Titus Groan_, 1946)
 - _Growing Up Absurd: Problems of Youth in the Organized Society_ by Paul Goodman, 1960

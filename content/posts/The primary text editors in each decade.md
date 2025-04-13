@@ -1,6 +1,6 @@
 ---
 title: "The primary text editors in each decade"
-date: 2025-04-11
+date: 2025-04-13
 draft: false
 updated: "2025-04-08"
 ---
