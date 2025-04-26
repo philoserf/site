@@ -7,38 +7,32 @@ _We are all human beings, being human._
 
 ## Philosophy
 
-Yes, and...
-Name things once.
-Assume good intentions.
-Only ask for permission once.
-Simplicity is hard but essential.
-Use one file until you need another.
-Use one folder until you need another.
-Submit to defaults until you have a strong reason to deviate.
+Yes, and…  
+Name things once.  
+Assume good intentions.  
+Only ask for permission once.  
+Simplicity is hard but essential.  
+Use one file until you need another.  
+Use one folder until you need another.  
+Submit to defaults first; customize intentionally.
 
-Deeply think, learn constantly, make unexpected connections, and articulate complex ideas with confidence in a strategic vision.
+Think deeply, learn continuously, reveal connections, articulate clearly—all with strategic vision.
 
 ## Who I Am
 
-A former US Army paratrooper and Ranger. I have worked in large and very large corporations, small startups, and middling scale-ups where I specialize in learning new skills.
-
-I hold a Bachelor of Arts in Political Science from the University at Albany and continue learning daily through challenges, conversations, and skill acquisition.
+A former US Army paratrooper and Ranger. I have worked in large corporations, small startups, and middling scale-ups where I specialize in learning new skills. I earned my Bachelor of Arts in Political Science from the University at Albany, focusing on international economics. Since graduation, I’ve cultivated an autodidactic approach to knowledge, broadening my awareness across diverse fields and then delving deep where connections emerge. This systematic learning transforms daily experiences into an integrated web of applicable expertise.
 
 ## Beyond Work
 
 When not solving complex problems, you might find me:
 
-- Traversing backcountry trails with everything I need on my back.
-- Exploring far-flung corners of the world.
-- Crafting perfect balance in a cocktail glass.
-- Finding rhythm and meaning in spoken and written word.
+- Hiking backcountry trails with a backpack.
+- Exploring culture and landscape around the world.
+- Crafting the perfect balance of flavors in a cocktail glass.
+- Finding rhythm and meaning with the spoken word.
 
 ## Connect
 
-The simplest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com). Add me to your contacts: [Download vCard](/vcard.vcf)
-
-## Colophon
-
-This site is built on [Apple](http://apple.com/) hardware, using [Hugo](https://gohugo.io/), hosted on [GitHub Pages](https://github.com/), and cached by [Cloudflare](https://cloudflare.com/).
+The simplest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
 
 _The views expressed here are my own. They are not endorsed, approved, or reviewed by any other person or organization._
