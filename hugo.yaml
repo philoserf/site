@@ -1,6 +1,7 @@
 title: Good Enough Drafts
 baseURL: https://philoserf.com/
 copyright: Mark Ayers
+theme: hugo-coder
 
 params:
   author: Mark Ayers
