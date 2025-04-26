@@ -20,14 +20,14 @@ Think deeply, learn continuously, reveal connections, articulate clearly—all w
 
 ## Who I Am
 
-A former US Army paratrooper and Ranger. I have worked in large and very large corporations, small startups, and middling scale-ups where I specialize in learning new skills. I earned my Bachelor of Arts in Political Science from the University at Albany, focusing on international economics. Since graduation, I’ve cultivated an autodidactic approach to knowledge, broadening my awareness across diverse fields and then delving deep where connections emerge. This systematic learning transforms daily experiences into an integrated web of applicable expertise.
+A former US Army paratrooper and Ranger. I have worked in large corporations, small startups, and middling scale-ups where I specialize in learning new skills. I earned my Bachelor of Arts in Political Science from the University at Albany, focusing on international economics. Since graduation, I’ve cultivated an autodidactic approach to knowledge, broadening my awareness across diverse fields and then delving deep where connections emerge. This systematic learning transforms daily experiences into an integrated web of applicable expertise.
 
 ## Beyond Work
 
 When not solving complex problems, you might find me:
 
-- Hiking backcountry trails with backpack.
-- Exploring culture and landscape in the world.
+- Hiking backcountry trails with a backpack.
+- Exploring culture and landscape around the world.
 - Crafting the perfect balance of flavors in a cocktail glass.
 - Finding rhythm and meaning with the spoken word.
 
