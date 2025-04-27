@@ -1,4 +1,4 @@
-title: Good Enough Drafts
+title: Mark Ayers
 baseURL: https://philoserf.com/
 copyright: Mark Ayers
 theme: hugo-coder
@@ -7,9 +7,18 @@ params:
   author: Mark Ayers
   since: 2005
   info: COGITA·DISCE·NECTE·ENVNTIA
-  description: while increasing entropy globally
+  description: >-
+    Personal digital presence of Mark Ayers – former US Army Ranger, technologist,
+    and interdisciplinary thinker. Exploring intersections of technology, strategy,
+    and personal development through semi-weekly essays and structured content.
+    Guided by the philosophy of deep thinking, continuous learning, connection-making,
+    and clear articulation. A minimalist digital space featuring professional journey,
+    current projects, and technical preferences shaped by military discipline and
+    cross-domain expertise.
   license: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
-  keywords: website
+  keywords: >-
+    cogita, disce, necte, enuntia, interdisciplinary thinking, technology strategy,
+    personal development, military background, minimalism, intellectual essays
   avatarURL: /images/avatar.jpeg
   colorScheme: auto
   social:
