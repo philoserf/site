@@ -5,7 +5,7 @@ lastmod: 2025-04-25
 publish: true
 ---
 
-lastmod: 2025-04-25
+_updated: 2025-04-25_
 
 I am based in Greater Grand Rapids, Michigan, and work as a sales specialist for Apple retail. I am contributing to open-source projects and communities. Each day, I strive to sleep, move, eat, grow, play, and share. I am constantly learning and exploring new things.
 
@@ -16,7 +16,7 @@ My current pastimes include:
 - Building strength through deadlifts, squats, and bench press three times a week.
 - Building stamina through running, rowing, and HIIT workouts three times a week.
 - Experimenting with craft cocktails, particularly perfecting Old Fashioned variants.
-- Reading actively (see <https://philoserf.com/posts/books-i-am-reading/>).
+- Reading actively. See [Books I am reading](https://philoserf.com/posts/books-i-am-reading/).
 
 I am looking forward to:
 
