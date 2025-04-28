@@ -45,7 +45,7 @@ menus:
       url: "posts/about/"
       weight: 1
     - name: "Now"
-      url: "now/"
+      url: "posts/now/"
       weight: 2
     - name: "Uses"
       url: "posts/uses/"
