@@ -5,6 +5,9 @@ lastmod: 2025-04-28
 publish: true
 ---
 
+_incomplete: This list began in late 2022_  
+_updated: 2025-04-28_
+
 ## Recent
 
 - _Tiamat's Wrath_ by James S.A. Corey, 2019
@@ -12,11 +15,16 @@ publish: true
 
 ## Sorted by publication date
 
+### Before the twenty-first century
+
 - _Tarnsman of Gor_ by John Norman, 1966
 - _The Winds of Gath_ by E.C. Tubb, 1968
 - _The Florians_ by Brian Stableford, 1976
 - _Hyperion_ by Dan Simmons, 1989
 - _The Anatomy of a Golf Course_ by Tom Doak, 1992
+
+### The first two decades of the twenty-first century
+
 - _Await Your Reply_ by Dan Chaon, 2009
 - _Last Night in Montreal_ by Emily St. John Mandel, 2009
 - _The Singer's Gun_ by Emily St. John Mandel, 2009
@@ -45,6 +53,9 @@ publish: true
 - _Home Run_ by Nathan Lowell, 2018
 - _Milk Run_ by Nathan Lowell, 2016
 - _Suicide Run_ by Nathan Lowell, 2018
+
+### The current decade
+
 - _The Glass Hotel_ by Emily St. John Mandel, 2020
 - _Finwell Bay_ by Nathan Lowell, 2020
 - _Cape Grace_ by Nathan Lowell, 2020
