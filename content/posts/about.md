@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2025-04-25
-lastmod: 2025-04-25
+date: 2025-01-01
+lastmod: 2025-04-28
 publish: true
 ---
 
@@ -22,7 +22,7 @@ Think deeply, learn continuously, reveal connections, articulate clearly—all w
 
 ## Who I Am
 
-A former US Army paratrooper and Ranger. I have worked in large corporations, small startups, and middling scale-ups where I specialize in learning new skills. I earned my Bachelor of Arts in Political Science from the University at Albany, focusing on international economics. Since graduation, I've cultivated an autodidactic approach to knowledge, broadening my awareness across diverse fields and then delving deep where connections emerge.
+A former US Army paratrooper and Ranger, I've worked in various settings, from large corporations to small startups and middling-scale-ups, specializing in acquiring new skills. I earned my Bachelor of Arts in Political Science from the University at Albany, focusing on international economics. Since then, I've learned independently, broadening my knowledge across diverse fields and exploring areas where connections emerge.
 
 ## Beyond Work
 
