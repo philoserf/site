@@ -5,9 +5,6 @@ lastmod: 2025-04-28
 publish: true
 ---
 
-{{< admonition note "incomplete: This list began in late 2022" >}}
-
-{{< /admonition >}}
 ## Recent
 
 - _Tiamat's Wrath_ by James S.A. Corey, 2019
