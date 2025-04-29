@@ -1,8 +1,9 @@
 ---
 title: "About"
 date: 2025-01-01
-lastmod: 2025-04-28
+lastmod: 2025-04-29
 publish: true
+aliases: [/about]
 ---
 
 _We are all human beings, being human._
