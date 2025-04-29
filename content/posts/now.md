@@ -16,7 +16,7 @@ My current pastimes include:
 - Building strength through deadlifts, squats, and bench press three times a week.
 - Building stamina through running, rowing, and HIIT workouts three times a week.
 - Experimenting with craft cocktails, particularly perfecting Old Fashioned variants.
-- Reading actively. See [Books I am reading](https://philoserf.com/posts/books-i-am-reading/).
+- Reading actively. See [Books I Am Reading](https://philoserf.com/posts/books-i-am-reading/).
 
 I am looking forward to:
 
