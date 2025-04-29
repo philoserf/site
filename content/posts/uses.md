@@ -1,8 +1,9 @@
 ---
 title: "Uses"
 date: 2025-04-25
-lastmod: 2025-04-25
+lastmod: 2025-04-29
 publish: true
+aliases: [/uses]
 ---
 
 ## Hardware
