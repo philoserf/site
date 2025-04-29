@@ -5,8 +5,6 @@ lastmod: 2025-04-28
 publish: true
 ---
 
-_updated: 2025-04-28_
-
 ## Recent additions
 
 - Williams' "Memory, Sorrow and Thorn" series: 1988–1993

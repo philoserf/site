@@ -1,11 +1,9 @@
 ---
 title: "Now"
 date: 2025-04-25
-lastmod: 2025-04-25
+lastmod: 2025-04-28
 publish: true
 ---
-
-_updated: 2025-04-25_
 
 I am based in Greater Grand Rapids, Michigan, and work as a sales specialist for Apple retail. I am contributing to open-source projects and communities. Each day, I strive to sleep, move, eat, grow, play, and share. I am constantly learning and exploring new things.
 

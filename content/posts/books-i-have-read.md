@@ -5,9 +5,6 @@ lastmod: 2025-04-28
 publish: true
 ---
 
-_incomplete: This list began in late 2022_  
-_updated: 2025-04-28_
-
 ## Recent
 
 - _Tiamat's Wrath_ by James S.A. Corey, 2019
@@ -68,3 +65,5 @@ _updated: 2025-04-28_
 - _Hard Knocks_ by Nathan Lowell, 2023
 - _Working Class_ by Nathan Lowell, 2023
 - _School Days_ by Nathan Lowell, 2023
+
+This list, started in late 2022, is far from complete. I'm sure I've missed some and will again.
