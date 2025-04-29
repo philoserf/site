@@ -26,12 +26,7 @@ A former US Army paratrooper and Ranger, I've worked in various settings, from l
 
 ## Beyond Work
 
-When not solving complex problems, you might find me:
-
-- Hiking backcountry trails with a backpack.
-- Exploring culture and landscape around the world.
-- Crafting the perfect balance of flavors in a cocktail glass.
-- Finding rhythm and meaning with the spoken word.
+When I step away from complex problems, I'm drawn to adventures that challenge and inspire. My backpack and I navigate remote backcountry trails, while my passport collects stamps from cultural explorations across continents. Back home, my creative side emerges through the careful balance of spirits and flavors in a cocktail glass, and in moments where I can capture the power of rhythm and meaning with the spoken word.
 
 ## Connect
 
