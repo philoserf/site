@@ -1,9 +1,10 @@
 ---
-title: "Sólbrjótandi"
-date: 2025-05-01
-lastmod: 2025-05-01
+date: "2025-05-01"
+lastmod: "2025-05-01"
 publish: true
+title: "Sólbrjótandi"
 ---
+
 
 We had a frost yesterday morning and rain this morning. The birds sing and caw, busying themselves with the work they must do. Our gardens and all of nature awaken around us.
 
