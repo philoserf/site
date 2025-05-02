@@ -1,9 +1,12 @@
 ---
 title: "About"
 date: 2025-01-01
-lastmod: 2025-04-29
+lastmod: 2025-05-02
 publish: true
 aliases: [/about]
+category:
+  - Worldview
+description: Reflections on life philosophy and personal growth, combining a military background with diverse experiences in global travel, cocktail crafting, and spoken word artistry. Emphasizes simplicity, learning, and strategic vision.
 ---
 
 _We are all human beings, being human._

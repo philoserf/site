@@ -1,9 +1,10 @@
 ---
 title: "Uses"
 date: 2025-04-25
-lastmod: 2025-04-29
+lastmod: 2025-05-02
 publish: true
 aliases: [/uses]
+description: Details about personal tech setup including various Apple devices, preferred coding software, and tools for knowledge management.
 ---
 
 ## Hardware
