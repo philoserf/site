@@ -1,11 +1,11 @@
 ---
 title: "Books I Have Read"
 date: 2025-04-28
-lastmod: 2025-04-28
+lastmod: 2025-05-05
 publish: true
 ---
 
-## Recent
+## Recently finished
 
 - _Tiamat's Wrath_ by James S.A. Corey, 2019
 - _Persepolis Rising_ by James S.A. Corey, 2017
