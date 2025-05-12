@@ -1,9 +1,41 @@
 ---
 title: "Books I May Read"
-date: 2025-05-05
-lastmod: 2025-05-05
+date: 2025-05-11
+lastmod: 2025-05-11
 publish: true
 ---
+
+## Next up
+
+- _Aria: Canticle of the Monomyth_ by Christian Moore & Owen Seyler, 1994
+- _Outlive_ by Peter Attia, 2023
+- _The Book of Elsewhere_ by Keanu Reeves and China Miéville, 2024
+
+## Primary list
+
+- _Gormenghast_ by Mervyn Peake, 1950
+- _Growing Up Absurd_ by Paul Goodman, 1960
+- _Pale Fire_ by Vladimir Nabokov, 1962
+- _The Street of Crocodiles_ by Bruno Schulz, 1963
+- _Three Trapped Tigers_ by Guillermo Cabrera Infante, 1971
+- _Invisible Cities_ by Italo Calvino, 1974
+- _The Box Man_ by Kobo Abe, 1974
+- _The Power Broker_, by Robert Caro, 1974
+- _Dhalgren_ by Samuel R. Delany, 1975
+- _Dictionary of the Khazars_ by Milorad Pavić, 1988
+- _Eternity_ by Greg Bear, 1988
+- _The World at the End of Time_ by Frederik Pohl, 1990
+- _Permutation City_ by Greg Egan, 1994
+- _House of Suns_ by Alastair Reynolds, 2008
+- _Oryx and Crake_ by Margaret Atwood, 2003
+- _This Changes Everything_ by Naomi Klein, 2014
+- _Eleanor Oliphant Is Completely Fine_ by Gail Honeyman, 2017
+- _Utopia for Realists_ by Rutger Bregman, 2017
+- _Sing, Unburied, Sing_ by Jesmyn Ward, 2017
+- _21 Lessons for the 21st Century_ by Yuval Noah Harari, 2018
+- _The Age of Surveillance Capitalism_ by Shoshana Zuboff, 2019
+- _Courting the Wild Twin_ by Martin Shaw, 2020
+- _Against the Machine_ by Paul Kingsnorth, 2025
 
 ## Additions
 
@@ -28,31 +60,6 @@ publish: true
 - "The Stormlight Archive" by Brandon Sanderson, 2010–present
 - "Broken Empire" by Mark Lawrence, 2011–2013
 - "Broken Earth" by N. K. Jemisin, 2015–2017
-
-## Primary list
-
-- _Gormenghast_ by Mervyn Peake, 1950
-- _Growing Up Absurd_ by Paul Goodman, 1960
-- _Pale Fire_ by Vladimir Nabokov, 1962
-- _The Street of Crocodiles_ by Bruno Schulz, 1963
-- _Three Trapped Tigers_ by Guillermo Cabrera Infante, 1971
-- _Invisible Cities_ by Italo Calvino, 1974
-- _The Box Man_ by Kobo Abe, 1974
-- _Dhalgren_ by Samuel R. Delany, 1975
-- _Dictionary of the Khazars_ by Milorad Pavić, 1988
-- _Eternity_ by Greg Bear, 1988
-- _The World at the End of Time_ by Frederik Pohl, 1990
-- _Permutation City_ by Greg Egan, 1994
-- _House of Suns_ by Alastair Reynolds, 2008
-- _Oryx and Crake_ by Margaret Atwood, 2003
-- _This Changes Everything_ by Naomi Klein, 2014
-- _Eleanor Oliphant Is Completely Fine_ by Gail Honeyman, 2017
-- _Utopia for Realists_ by Rutger Bregman, 2017
-- _Sing, Unburied, Sing_ by Jesmyn Ward, 2017
-- _21 Lessons for the 21st Century_ by Yuval Noah Harari, 2018
-- _The Age of Surveillance Capitalism_ by Shoshana Zuboff, 2019
-- _Courting the Wild Twin_ by Martin Shaw, 2020
-- _Against the Machine_ by Paul Kingsnorth, 2025
 
 ## Dumarest of Terra Series
 
