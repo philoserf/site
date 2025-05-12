@@ -20,7 +20,7 @@ publish: true
 - _Three Trapped Tigers_ by Guillermo Cabrera Infante, 1971
 - _Invisible Cities_ by Italo Calvino, 1974
 - _The Box Man_ by Kobo Abe, 1974
-- _The Power Broker_, by Robert Caro, 1974
+- _The Power Broker_ by Robert Caro, 1974
 - _Dhalgren_ by Samuel R. Delany, 1975
 - _Dictionary of the Khazars_ by Milorad Pavić, 1988
 - _Eternity_ by Greg Bear, 1988
