@@ -1,12 +1,13 @@
 ---
 title: "Books I Have Read"
-date: 2025-04-28
-lastmod: 2025-05-05
+date: 2025-05-11
+lastmod: 2025-05-11
 publish: true
 ---
 
 ## Recently finished
 
+- _Leviathan Falls_ by James S.A. Corey, 2021
 - _Tiamat's Wrath_ by James S.A. Corey, 2019
 - _Persepolis Rising_ by James S.A. Corey, 2017
 

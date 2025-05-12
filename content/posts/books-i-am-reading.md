@@ -1,11 +1,8 @@
 ---
 title: "Books I Am Reading"
-date: 2025-04-28
-lastmod: 2025-04-28
+date: 2025-05-11
+lastmod: 2025-05-11
 publish: true
 ---
 
-- _Aria: Canticle of the Monomyth_ by Christian Moore & Owen Seyler, 1994
-- _Leviathan Falls_ by James S.A. Corey, 2021
-- _Outlive_ by Peter Attia, 2023
-- _The Book of Elsewhere_ by Keanu Reeves and China Miéville, 2024
+- _Harlot's Ghost_ by Norman Mailer, 1991
