@@ -5,4 +5,4 @@ lastmod: 2025-05-11
 publish: true
 ---
 
-- _Harlot's Ghost_by Norman Mailer, 1991
+- _Harlot's Ghost_ by Norman Mailer, 1991
