@@ -1,12 +1,13 @@
 ---
 title: "Books I Have Read"
-date: 2025-05-11
-lastmod: 2025-05-11
+date: 2025-05-17
+lastmod: 2025-05-17
 publish: true
 ---
 
 ## Recently finished
 
+- _Harlot's Ghost_ by Norman Mailer, 1991
 - _Leviathan Falls_ by James S.A. Corey, 2021
 - _Tiamat's Wrath_ by James S.A. Corey, 2019
 - _Persepolis Rising_ by James S.A. Corey, 2017
