@@ -1,7 +1,7 @@
 ---
 title: "Books I May Read"
-date: 2025-05-11
-lastmod: 2025-05-11
+date: 2025-05-17
+lastmod: 2025-05-17
 publish: true
 ---
 
@@ -10,6 +10,12 @@ publish: true
 - _Aria: Canticle of the Monomyth_ by Christian Moore & Owen Seyler, 1994
 - _Outlive_ by Peter Attia, 2023
 - _The Book of Elsewhere_ by Keanu Reeves and China Miéville, 2024
+
+## Recent additions
+
+- _Fallingwater Rising: Frank Lloyd Wright, E.J. Kaufmann, and America's Most Extraordinary House_ by Franklin Toker
+- _Frank Lloyd Wright's Fallingwater: The House and Its History_ by Donald Hoffmann
+- _Fallingwater: Frank Lloyd Wright_ by Robert McCarter
 
 ## Primary list
 
