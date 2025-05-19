@@ -1,8 +1,10 @@
 ---
 title: "Books I Have Read"
-date: 2025-05-17
-lastmod: 2025-05-17
+date: 2025-05-18
+lastmod: 2025-05-18
 publish: true
+description: Reading list
+tags: [books]
 ---
 
 ## Recently finished
@@ -20,6 +22,7 @@ publish: true
 - _The Winds of Gath_ by E.C. Tubb, 1968
 - _The Florians_ by Brian Stableford, 1976
 - _Hyperion_ by Dan Simmons, 1989
+- _The Pillars of the Earth_ by Ken Follett, 1989
 - _The Anatomy of a Golf Course_ by Tom Doak, 1992
 
 ### The first two decades of the twenty-first century
