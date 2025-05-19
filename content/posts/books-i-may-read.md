@@ -1,8 +1,10 @@
 ---
 title: "Books I May Read"
-date: 2025-05-17
-lastmod: 2025-05-17
+date: 2025-05-18
+lastmod: 2025-05-18
 publish: true
+description: Reading list
+tags: [books]
 ---
 
 ## Next up
@@ -13,9 +15,19 @@ publish: true
 
 ## Recent additions
 
-- _Fallingwater Rising: Frank Lloyd Wright, E.J. Kaufmann, and America's Most Extraordinary House_ by Franklin Toker
-- _Frank Lloyd Wright's Fallingwater: The House and Its History_ by Donald Hoffmann
-- _Fallingwater: Frank Lloyd Wright_ by Robert McCarter
+### Fallingwater
+
+- _Frank Lloyd Wright's Fallingwater: The House and Its History_ by Donald Hoffmann, 1978
+- _Fallingwater: Frank Lloyd Wright_ by Robert McCarter, 1994
+- _Fallingwater Rising: Frank Lloyd Wright, E.J. Kaufmann, and America's Most Extraordinary House_ by Franklin Toker, 2003​​​​​​​​​​​​​​​​
+
+### Peasant life
+
+- _The Return of Martin Guerre_ by Natalie Zemon Davis, 1983
+- _Life in a Medieval Village_ by Frances and Joseph Gies, 1990
+- _Montaillou_ by Emmanuel Le Roy Ladurie, 1975
+- _The Time Traveler's Guide to Medieval England_ by Ian Mortimer, 2008
+- _The Good Men_ by Charmaine Craig, 2002
 
 ## Primary list
 
