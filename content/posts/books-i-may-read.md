@@ -19,7 +19,7 @@ tags: [books]
 
 - _Frank Lloyd Wright's Fallingwater: The House and Its History_ by Donald Hoffmann, 1978
 - _Fallingwater: Frank Lloyd Wright_ by Robert McCarter, 1994
-- _Fallingwater Rising: Frank Lloyd Wright, E.J. Kaufmann, and America's Most Extraordinary House_ by Franklin Toker, 2003​​​​​​​​
+- _Fallingwater Rising: Frank Lloyd Wright, E.J. Kaufmann, and America's Most Extraordinary House_ by Franklin Toker, 2003
 
 ### Peasant life
 
