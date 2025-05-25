@@ -1,7 +1,7 @@
 ---
 title: "Books I Have Read"
-date: 2025-05-18
-lastmod: 2025-05-18
+date: 2025-05-24
+lastmod: 2025-05-24
 publish: true
 description: Reading list
 tags: [books]
@@ -9,6 +9,8 @@ tags: [books]
 
 ## Recently finished
 
+- _Breath: The New Science of a Lost Art_ by James Nestor, 2020
+- _Jennifer Government_ by Max Barry, 2003
 - _Harlot's Ghost_ by Norman Mailer, 1991
 - _Leviathan Falls_ by James S.A. Corey, 2021
 - _Tiamat's Wrath_ by James S.A. Corey, 2019
