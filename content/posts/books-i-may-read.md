@@ -1,7 +1,7 @@
 ---
 title: "Books I May Read"
-date: 2025-05-18
-lastmod: 2025-05-18
+date: 2025-05-27
+lastmod: 2025-05-27
 publish: true
 description: Reading list
 tags: [books]
@@ -14,6 +14,8 @@ tags: [books]
 - _The Book of Elsewhere_ by Keanu Reeves and China Miéville, 2024
 
 ## Recent additions
+
+- _How to Live Safely in a Science Fictional Universe_ by Charles Yu, 2010
 
 ### Fallingwater
 
@@ -68,6 +70,7 @@ tags: [books]
 
 ### Series
 
+- "Dumarest of Terra" by E.C. Tubb, 1968-2008
 - "Memory, Sorrow and Thorn" by Tad Williams, 1988–1993
 - "The Wheel of Time" by Robert Jordan (and Brandon Sanderson), 1990–2013
 - "Realm of the Elderlings" by Robin Hobb, 1995–2017
@@ -78,38 +81,3 @@ tags: [books]
 - "The Stormlight Archive" by Brandon Sanderson, 2010–present
 - "Broken Empire" by Mark Lawrence, 2011–2013
 - "Broken Earth" by N. K. Jemisin, 2015–2017
-
-## Dumarest of Terra Series
-
-1. _Derai_ by E.C. Tubb, 1968
-2. _Toyman_ by E.C. Tubb, 1969
-3. _Kalin_ by E.C. Tubb, 1969
-4. _The Jester at Scar_ by E.C. Tubb, 1970
-5. _Lallia_ by E.C. Tubb, 1971
-6. _Technos_ by E.C. Tubb, 1972
-7. _Veruchia_ by E.C. Tubb, 1973
-8. _Mayenne_ by E.C. Tubb, 1973
-9. _Jondelle_ by E.C. Tubb, 1973
-10. _Zenya_ by E.C. Tubb, 1974
-11. _Eloise_ by E.C. Tubb, 1975
-12. _Eye of the Zodiac_ by E.C. Tubb, 1975
-13. _Jack of Swords_ by E.C. Tubb, 1976
-14. _Spectrum of the Forgotten Sun_ by E.C. Tubb, 1976
-15. _Haven of Darkness_ by E.C. Tubb, 1977
-16. _Prison of Night_ by E.C. Tubb, 1977
-17. _Incident of Ath_ by E.C. Tubb, 1978
-18. _The Quillian Sector_ by E.C. Tubb, 1978
-19. _Web of Sand_ by E.C. Tubb, 1979
-20. _Iduna's Universe_ by E.C. Tubb, 1979
-21. _The Terra Data_ by E.C. Tubb, 1980
-22. _World of Promise_ by E.C. Tubb, 1980
-23. _Nectar of Heaven_ by E.C. Tubb, 1981
-24. _The Terridae_ by E.C. Tubb, 1981
-25. _The Coming Event_ by E.C. Tubb, 1982
-26. _Earth is Heaven_ by E.C. Tubb, 1982
-27. _Melome_ by E.C. Tubb, 1983
-28. _Angado_ by E.C. Tubb, 1984
-29. _Symbol of Terra_ by E.C. Tubb, 1984
-30. _The Temple of Truth_ by E.C. Tubb, 1985
-31. _The Return_ by E.C. Tubb, 1997
-32. _Child of Earth_ by E.C. Tubb, 2008
