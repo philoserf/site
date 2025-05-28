@@ -1,7 +1,7 @@
 ---
 title: "Now"
-date: 2025-04-28
-lastmod: 2025-05-18
+date: 2025-05-27
+lastmod: 2025-05-27
 publish: true
 aliases: [/now]
 description: A Grand Rapids-based sales specialist shares their balanced lifestyle focused on fitness, intellectual growth, and diverse interests, including crafting cocktails and reading. Anticipates upcoming travels and experiences, such as a road trip to DC, a Caribbean cruise, and witnessing a solar eclipse in Bilbao.
@@ -19,7 +19,8 @@ My current pastimes include:
 
 I am looking forward to:
 
-- a road trip to DC later this spring
-- a Caribbean cruise in late autumn
+- a few road trips in June.
+- a trip to Seattle in July.
+- a Caribbean cruise in late autumn.
 - the total solar eclipse on August 12, 2026, as seen from Bilbao.
-- a trip to Ireland, still in the planning
+- a trip to Ireland, still in the planning.
