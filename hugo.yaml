@@ -32,7 +32,8 @@ params:
       icon: "fa-brands fa-bluesky"
       url: https://philoserf.bsky.social
 
-taxonomies: {} # Taxonomies are not used in this site
+taxonomies:
+  tag: tags
 
 markup:
   goldmark:
