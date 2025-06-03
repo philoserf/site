@@ -1,7 +1,7 @@
 ---
 title: "Books I May Read"
-date: 2025-05-27
-lastmod: 2025-05-27
+date: 2025-06-03
+lastmod: 2025-06-03
 publish: true
 description: Reading list
 tags: [books]
@@ -15,6 +15,7 @@ tags: [books]
 
 ## Recent additions
 
+- _The River of Consciousness_ by Oliver Sacks, 2017
 - _How to Live Safely in a Science Fictional Universe_ by Charles Yu, 2010
 
 ### Fallingwater

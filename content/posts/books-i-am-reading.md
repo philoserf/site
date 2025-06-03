@@ -1,11 +1,11 @@
 ---
 title: "Books I Am Reading"
-date: 2025-05-24
-lastmod: 2025-05-24
+date: 2025-05-31
+lastmod: 2025-05-31
 publish: true
 description: Reading list
 tags: [books]
 ---
 
-- _Casino Royale_ by Ian Fleming, 1953
+- _Foundation_ by Isaac Asimov, 1951
 - _Fallingwater: A Frank Lloyd Wright Country House_ by Edgar Kaufmann Jr., 1986

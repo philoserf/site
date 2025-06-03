@@ -1,7 +1,7 @@
 ---
 title: "Books I Have Read"
-date: 2025-05-24
-lastmod: 2025-05-24
+date: 2025-05-31
+lastmod: 2025-05-31
 publish: true
 description: Reading list
 tags: [books]
@@ -9,6 +9,7 @@ tags: [books]
 
 ## Recently finished
 
+- _Casino Royale_ by Ian Fleming, 1953
 - _Breath: The New Science of a Lost Art_ by James Nestor, 2020
 - _Jennifer Government_ by Max Barry, 2003
 - _Harlot's Ghost_ by Norman Mailer, 1991
