@@ -15,6 +15,7 @@ tags: [books]
 
 ## Recent additions
 
+- _Gates of Fire_ by Steven Pressfield, 1998
 - _The River of Consciousness_ by Oliver Sacks, 2017
 - _How to Live Safely in a Science Fictional Universe_ by Charles Yu, 2010
 
