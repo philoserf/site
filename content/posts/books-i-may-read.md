@@ -1,7 +1,7 @@
 ---
 title: "Books I May Read"
-date: 2025-06-03
-lastmod: 2025-06-03
+date: 2025-06-08
+lastmod: 2025-06-08
 publish: true
 description: Reading list
 tags: [books]
@@ -15,6 +15,7 @@ tags: [books]
 
 ## Recent additions
 
+- _The Grammar of Fantasy: An Introduction to the Art of Inventing Stories_ by Gianni Rodari, 1973
 - _Gates of Fire_ by Steven Pressfield, 1998
 - _The River of Consciousness_ by Oliver Sacks, 2017
 - _How to Live Safely in a Science Fictional Universe_ by Charles Yu, 2010
