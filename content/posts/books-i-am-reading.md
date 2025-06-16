@@ -1,10 +1,11 @@
 ---
-title: "Books I Am Reading"
 date: 2025-06-09
-lastmod: 2025-06-09
+lastmod: 2025-06-15
 publish: true
-description: Reading list
-tags: [books]
+description: Exploration of Greg Egan's ficitional insights and architectural analysis of Frank Lloyd Wright's Fallingwater by Edgar Kaufmann Jr.
+tags: [architecture, books]
+category: Books to Read
+title: Books I Am Reading
 ---
 
 - _Distress_ by Greg Egan, 1995
