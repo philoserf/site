@@ -1,10 +1,11 @@
 ---
-title: "Books I May Read"
 date: 2025-06-08
-lastmod: 2025-06-08
+lastmod: 2025-06-15
 publish: true
-description: Reading list
-tags: [books]
+description: A curated list of books categorized into different themes, including recent additions, primary list, standalone works, and series. It offers a diverse range of literary works covering various genres and time periods.
+tags: [books, literature, reading]
+category: Books to Read
+title: Books I May Read
 ---
 
 ## Next up
