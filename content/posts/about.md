@@ -1,11 +1,12 @@
 ---
-title: "About"
 date: 2025-01-01
-lastmod: 2025-05-18
+lastmod: 2025-06-15
 publish: true
 aliases: [/about]
-description: Reflections on life philosophy and personal growth, combining a military background with diverse experiences in global travel, cocktail crafting, and spoken word artistry. Emphasizes simplicity, learning, and strategic vision.
-tags: [adventurer, philosophy, self-discovery]
+description: The article delves into personal philosophy, continuous learning, and life experiences beyond work, offering insights into the balance of professional growth and adventurous pursuits. It highlights the journey of a former US Army Ranger exploring diverse fields and cultural adventures.
+tags: [adventure, adventurer, learning, philosophy, self-discovery, self-improvement]
+category: Ideas & Inspiration
+title: About
 ---
 
 _We are all human beings, being human._
