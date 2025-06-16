@@ -1,6 +1,7 @@
 ---
 title: Books I May Read
 date: 2025-06-08
+description: Reading list
 lastmod: 2025-06-15
 publish: true
 ---
