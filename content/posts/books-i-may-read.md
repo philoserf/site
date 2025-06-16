@@ -1,10 +1,8 @@
 ---
-title: "Books I May Read"
 date: 2025-06-08
-lastmod: 2025-06-08
+lastmod: 2025-06-15
 publish: true
-description: Reading list
-tags: [books]
+title: Books I May Read
 ---
 
 ## Next up
