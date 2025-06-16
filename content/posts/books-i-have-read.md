@@ -1,6 +1,7 @@
 ---
 title: Books I Have Read
 date: 2025-06-09
+description: Reading list
 lastmod: 2025-06-15
 publish: true
 ---
