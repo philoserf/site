@@ -1,11 +1,11 @@
 ---
-title: "Uses"
 date: 2025-04-25
-lastmod: 2025-05-18
+lastmod: 2025-06-15
 publish: true
 aliases: [/uses]
-description: Details about personal tech setup including various Apple devices, preferred coding software, and tools for knowledge management.
-tags: [hardware, software, technology]
+description: Details on the author's hardware and software setup, including Apple devices and tools like Ghostty terminal and Visual Studio Code for coding in Go, along with Obsidian for knowledge management.
+tags: [coding, hardware, productivity, software, technology]
+title: Uses
 ---
 
 ## Hardware

@@ -1,10 +1,10 @@
 ---
-title: "Sólbrjótandi"
 date: 2025-05-01
-lastmod: 2025-05-18
+lastmod: 2025-06-15
 publish: true
-description: Reflects on the transition from winter to late spring, emphasizing the changes in daylight and nature’s renewal. Mentions Beltane and highlights the interplay of light, taking cues from Old Irish and Old Norse terms.
-tags: [beltane, day-breaking, late-spring]
+description: Reflects on the transition from spring to summer, highlighting the natural renewal and increased daylight. Describes the cultural significance of May Day and Beltane, emphasizing the awakening of gardens and nature during this period.
+tags: [beltane, day-breaking, late-spring, lifestyle, mindfulness, nature]
+title: Embracing the Day-Breaking Transition
 ---
 
 We had a frost yesterday morning and rain this morning. The birds sing and caw, busying themselves with the work they must do. Our gardens and all of nature awaken around us.
