@@ -1,10 +1,10 @@
 ---
-date: 2024-07-07
-lastmod: 2025-06-15
-tags: [life-stages, lifestyle, mindfulness, personal-development, planning, self-improvement]
-description: The visualization of a life journey through different time intervals emphasizes progress and future goals. The life cycle is divided into decades, years, and months, symbolized using color-coded blocks representing past, present, and expectations.
 title: A Life in Perspective
+date: 2024-07-07
+description: The visualization of a life journey through different time intervals emphasizes progress and future goals. The life cycle is divided into decades, years, and months, symbolized using color-coded blocks representing past, present, and expectations.
+lastmod: 2025-06-15
 publish: true
+tags: [life-stages, lifestyle, mindfulness, personal-development, planning, self-improvement]
 ---
 
 ## Key
