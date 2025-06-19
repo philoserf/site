@@ -2,15 +2,15 @@
 title: A Life in Perspective
 date: 2024-07-07
 description: The visualization of a life journey through different time intervals emphasizes progress and future goals. The life cycle is divided into decades, years, and months, symbolized using color-coded blocks representing past, present, and expectations.
-lastmod: 2025-06-15
+lastmod: 2025-06-18
 publish: true
-tags: [life-stages, lifestyle, mindfulness, personal-development, planning, self-improvement]
+tags: []
 ---
 
 ## Key
 
 | Mark |      Meaning      |
-|:--: |:---------------: |
+| :--: | :---------------: |
 |  🟪  |       Birth       |
 |  🟧  |       Past        |
 |  🟩  |       Today       |
@@ -23,7 +23,7 @@ tags: [life-stages, lifestyle, mindfulness, personal-development, planning, self
 75% done
 
 |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  | 9+  |
-|:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 🟪  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟩  | ⬜  | 🟥  | 🟦  |
 
 ## A life by years
@@ -31,7 +31,7 @@ tags: [life-stages, lifestyle, mindfulness, personal-development, planning, self
 73% done
 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
-|:-- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 0   | 🟪  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 10  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 20  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
@@ -48,7 +48,7 @@ tags: [life-stages, lifestyle, mindfulness, personal-development, planning, self
 70% done
 
 |     |  J  |  A  |  S  |  O  |  N  |  D  |  J  |  F  |  M  |  A  |  M  |  J  |
-| --- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1   | 🟪  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 2   | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 3   | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |

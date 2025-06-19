@@ -3,9 +3,9 @@ title: About
 aliases: [/about]
 date: 2025-01-01
 description: The article delves into personal philosophy, continuous learning, and life experiences beyond work, offering insights into the balance of professional growth and adventurous pursuits. It highlights the journey of a former US Army Ranger exploring diverse fields and cultural adventures.
-lastmod: 2025-06-15
+lastmod: 2025-06-18
 publish: true
-tags: [adventure, adventurer, learning, philosophy, self-discovery, self-improvement]
+tags: []
 ---
 
 _We are all human beings, being human._
