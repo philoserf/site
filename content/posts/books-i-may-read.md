@@ -1,7 +1,7 @@
 ---
 title: "Books I May Read"
 date: 2025-06-28
-description: A diverse reading list featuring books across various genres, including fantasy, science fiction, history, and architecture. Highlights include contemporary works, classic literature, and notable series.
+description: A curated reading list featuring a diverse range of genres, including fiction, non-fiction, and series. Notable works include both classic and contemporary literature, exploring themes from architecture to medieval life, with recent publications and timeless classics.
 lastmod: 2025-06-28
 publish: true
 tags: [books, lifestyle, literature, personal-development, reading]
@@ -35,31 +35,31 @@ tags: [books, lifestyle, literature, personal-development, reading]
 - _The Good Men_ by Charmaine Craig, 2002
 - _The Time Traveler's Guide to Medieval England_ by Ian Mortimer, 2008
 
-### Traveller-esk, -adjacent
+### Traveller-es, -adjacent
 
-- Decider by William H. Keith Jr. (as Ian Douglas), 2001
-- Sky Raiders by J. Andrew Keith, 1982
-- Dorsai! by Gordon R. Dickson, 1959
-- The Forever War by Joe Haldeman, 1974
-- Retief: Envoy to New Worlds by Keith Laumer, 1963
-- The Mercenary by Jerry Pournelle, 1977
-- Hammer's Slammers by David Drake, 1979
-- Necromancer (Childe Cycle) by Gordon R. Dickson, 1962
-- Hospital Station (Sector General) by James White, 1962
-- The Praxis by Walter Jon Williams, 2002
-- Revelation Space by Alastair Reynolds, 2000
-- The Face of Battle by John Keegan, 1976
-- Supplying War by Martin van Creveld, 1977
+- _Dorsai!_ by Gordon R. Dickson, 1959  
+- _Necromancer (Childe Cycle)_ by Gordon R. Dickson, 1962  
+- _Hospital Station (Sector General)_ by James White, 1962  
+- _Retief: Envoy to New Worlds_ by Keith Laumer, 1963  
+- _The Forever War_ by Joe Haldeman, 1974  
+- _The Face of Battle_ by John Keegan, 1976  
+- _The Mercenary_ by Jerry Pournelle, 1977  
+- _Supplying War_ by Martin van Creveld, 1977  
+- _Hammer's Slammers_ by David Drake, 1979  
+- _Sky Raiders_ by J. Andrew Keith, 1982  
+- _Revelation Space_ by Alastair Reynolds, 2000  
+- _Decider_ by William H. Keith Jr. (as Ian Douglas), 2001  
+- _The Praxis_ by Walter Jon Williams, 2002  
 
 Caine Riordan
 
-- Trial by Fire by Charles E. Gannon, 2014
-- Raising Caine by Charles E. Gannon, 2015
-- Caine's Mutiny by Charles E. Gannon, 2017
-- Marque of Caine by Charles E. Gannon, 2019
-- Endangered Species by Charles E. Gannon, 2022
-- Protected Species by Charles E. Gannon, 2023
-- Adversarials by Charles E. Gannon, 2024
+- _Trial by Fire_ by Charles E. Gannon, 2014  
+- _Raising Caine_ by Charles E. Gannon, 2015  
+- _Caine's Mutiny_ by Charles E. Gannon, 2017  
+- _Marque of Caine_ by Charles E. Gannon, 2019  
+- _Endangered Species_ by Charles E. Gannon, 2022  
+- _Protected Species_ by Charles E. Gannon, 2023  
+- _Adversarials_ by Charles E. Gannon, 2024  
 
 ## Primary list
 
