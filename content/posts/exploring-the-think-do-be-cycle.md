@@ -2,16 +2,9 @@
 title: Exploring the Think, Do, Be Cycle
 date: 2025-01-06
 description: Explores the cycle of think, do, and be, emphasizing how these aspects of human experience shape identity, action, and growth through different sequences and approaches.
-lastmod: 2025-06-18
+lastmod: 2025-06-27
 publish: true
-tags:
-  [
-    personal-development,
-    personal-growth,
-    philosophy,
-    self-development,
-    self-improvement,
-  ]
+tags: []
 ---
 
 I must think deeply, act decisively, and become intentionally.
