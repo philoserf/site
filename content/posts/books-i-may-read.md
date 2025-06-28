@@ -1,9 +1,10 @@
 ---
-title: Books I May Read
-date: 2025-06-08
-description: Reading list
-lastmod: 2025-06-15
+title: "Books I May Read"
+date: 2025-06-28
+description: A diverse reading list featuring books across various genres, including fantasy, science fiction, history, and architecture. Highlights include contemporary works, classic literature, and notable series.
+lastmod: 2025-06-28
 publish: true
+tags: [books, lifestyle, literature, personal-development, reading]
 ---
 
 ## Next up
@@ -14,6 +15,7 @@ publish: true
 
 ## Recent additions
 
+- _Pico Della Mirandola: Oration on the Dignity of Man: A New Translation and Commentary_
 - _The Grammar of Fantasy: An Introduction to the Art of Inventing Stories_ by Gianni Rodari, 1973
 - _Gates of Fire_ by Steven Pressfield, 1998
 - _The River of Consciousness_ by Oliver Sacks, 2017
@@ -32,6 +34,32 @@ publish: true
 - _Life in a Medieval Village_ by Frances and Joseph Gies, 1990
 - _The Good Men_ by Charmaine Craig, 2002
 - _The Time Traveler's Guide to Medieval England_ by Ian Mortimer, 2008
+
+### Traveller-esk, -adjacent
+
+- Decider by William H. Keith Jr. (as Ian Douglas), 2001
+- Sky Raiders by J. Andrew Keith, 1982
+- Dorsai! by Gordon R. Dickson, 1959
+- The Forever War by Joe Haldeman, 1974
+- Retief: Envoy to New Worlds by Keith Laumer, 1963
+- The Mercenary by Jerry Pournelle, 1977
+- Hammer's Slammers by David Drake, 1979
+- Necromancer (Childe Cycle) by Gordon R. Dickson, 1962
+- Hospital Station (Sector General) by James White, 1962
+- The Praxis by Walter Jon Williams, 2002
+- Revelation Space by Alastair Reynolds, 2000
+- The Face of Battle by John Keegan, 1976
+- Supplying War by Martin van Creveld, 1977
+
+Caine Riordan
+
+- Trial by Fire by Charles E. Gannon, 2014
+- Raising Caine by Charles E. Gannon, 2015
+- Caine's Mutiny by Charles E. Gannon, 2017
+- Marque of Caine by Charles E. Gannon, 2019
+- Endangered Species by Charles E. Gannon, 2022
+- Protected Species by Charles E. Gannon, 2023
+- Adversarials by Charles E. Gannon, 2024
 
 ## Primary list
 

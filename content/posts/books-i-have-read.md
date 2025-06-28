@@ -1,13 +1,15 @@
 ---
-title: Books I Have Read
-date: 2025-06-09
-description: Reading list
-lastmod: 2025-06-15
+title: "Books I Have Read"
+date: 2025-06-28
+description: "A curated list of books read, sorted by publication date, covering various genres and including works from different eras. The list highlights titles such as 'Foundation', 'Station Eleven', and 'Breath: The New Science of a Lost Art'."
+lastmod: 2025-06-28
 publish: true
+tags: [learning, literature, reading, self-improvement]
 ---
 
 ## Recently finished
 
+- _Distress_ by Greg Egan, 1995
 - _Foundation_ by Isaac Asimov, 1951
 - _Casino Royale_ by Ian Fleming, 1953
 - _Breath: The New Science of a Lost Art_ by James Nestor, 2020
