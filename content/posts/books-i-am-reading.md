@@ -8,6 +8,7 @@ tags: [architecture, creativity, learning, personal-development]
 ---
 
 In omnibus form:
+
 - _The Fifth Foreign Legion_ by Andrew Keith & William H. Keith Jr., 1982
 - _Honor and Fidelity_ by Andrew Keith & William H. Keith Jr., 1983
 - _Duty and Honor_ by Andrew Keith & William H. Keith Jr., 1983  
