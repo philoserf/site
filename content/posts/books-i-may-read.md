@@ -15,7 +15,7 @@ tags: [books, lifestyle, literature, reading]
 - _The Dispossessed_ by Ursula K. Le Guin, 1974
 - _Outlive_ by Peter Attia, 2023
 - _Always Coming Home_ by Ursula K. Le Guin, 1985
-- _The Mushroom at the End of the World_ by Anna Lowenhang Tsing, 2015
+- _The Mushroom at the End of the World_ by Anna Lowenhaupt Tsing, 2015
 - _The Book of Elsewhere_ by Keanu Reeves and China Miéville, 2024
 - _Aria: Canticle of the Monomyth_ by Christian Moore & Owen Seyler, 1994
 
