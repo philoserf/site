@@ -1,5 +1,5 @@
 ---
-title: Exploring the Think, Do, Be Cycle
+title: Think, Do, Be
 date: 2025-01-06
 description: Explores the 'Think, Do, Be' cycle, presenting various sequences of thought, action, and identity that influence personal growth and development.
 lastmod: 2025-06-28

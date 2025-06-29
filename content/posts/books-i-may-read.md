@@ -51,7 +51,7 @@ tags: [books, lifestyle, literature, personal-development, reading]
 - _Decider_ by William H. Keith Jr. (as Ian Douglas), 2001  
 - _The Praxis_ by Walter Jon Williams, 2002  
 
-Caine Riordan
+### Caine Riordan
 
 - _Trial by Fire_ by Charles E. Gannon, 2014  
 - _Raising Caine_ by Charles E. Gannon, 2015  
