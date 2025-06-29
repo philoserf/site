@@ -1,17 +1,17 @@
 ---
 title: "Books I Am Reading"
 date: 2025-06-28
-description: Overview of books being read, including a science fiction series by Andrew Keith & William H. Keith Jr., and an architectural study of Frank Lloyd Wright's Fallingwater by Edgar Kaufmann Jr.
+description: A reading list featuring science fiction novels by Andrew and William H. Keith Jr. and a book on Frank Lloyd Wright's architectural masterpiece, Fallingwater.
 lastmod: 2025-06-28
 publish: true
-tags: [architecture, creativity, learning]
+tags: [architecture, creativity, learning, literature, reading]
 ---
 
 In omnibus form:
 
-- _The Fifth Foreign Legion_ by Andrew Keith & William H. Keith Jr., 1982
-- _Honor and Fidelity_ by Andrew Keith & William H. Keith Jr., 1983
-- _Duty and Honor_ by Andrew Keith & William H. Keith Jr., 1983
+- _March or Die_ by Andrew Keith & William H. Keith Jr., 1992
+- _Honor and Fidelity_ by Andrew Keith & William H. Keith Jr., 1992
+- _Cohort of the Damned_ by Andrew Keith & William H. Keith Jr., 1993
 
 ---
 
