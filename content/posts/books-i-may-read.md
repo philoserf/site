@@ -9,12 +9,15 @@ tags: [books, lifestyle, literature, reading]
 
 ## Up Next
 
-- _Aria: Canticle of the Monomyth_ by Christian Moore & Owen Seyler, 1994
 - _The Spell of the Sensuous_ by David Abram, 1996
+- _The Overstory_ by Richard Powers, 2018
 - _The Righteous Mind_ by Jonathan Haidt, 2012
-- _The Mushroom at the End of the World_ by Anna Lowenhang Tsing, 2015
+- _The Dispossessed_ by Ursula K. Le Guin, 1974
 - _Outlive_ by Peter Attia, 2023
+- _Always Coming Home_ by Ursula K. Le Guin, 1985
+- _The Mushroom at the End of the World_ by Anna Lowenhang Tsing, 2015
 - _The Book of Elsewhere_ by Keanu Reeves and China Miéville, 2024
+- _Aria: Canticle of the Monomyth_ by Christian Moore & Owen Seyler, 1994
 
 ## Core Collection
 
@@ -23,7 +26,7 @@ tags: [books, lifestyle, literature, reading]
 - _Pale Fire_ by Vladimir Nabokov, 1962
 - _The Street of Crocodiles_ by Bruno Schulz, 1963
 - _Three Trapped Tigers_ by Guillermo Cabrera Infante, 1971
-- _The Grammar of Fantasy: An Introduction to the Art of Inventing Stories_ by Gianni Rodari, 1973
+- _The Grammar of Fantasy_ by Gianni Rodari, 1973
 - _Invisible Cities_ by Italo Calvino, 1974
 - _The Box Man_ by Kobo Abe, 1974
 - _The Power Broker_ by Robert Caro, 1974
