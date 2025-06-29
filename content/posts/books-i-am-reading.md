@@ -4,7 +4,7 @@ date: 2025-06-28
 description: Overview of books being read, including a science fiction series by Andrew Keith & William H. Keith Jr., and an architectural study of Frank Lloyd Wright's Fallingwater by Edgar Kaufmann Jr.
 lastmod: 2025-06-28
 publish: true
-tags: [architecture, creativity, learning, personal-development]
+tags: [architecture, creativity, learning]
 ---
 
 In omnibus form:
