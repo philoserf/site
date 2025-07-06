@@ -1,15 +1,14 @@
 ---
 title: "Books I May Read"
-date: 2025-06-28
-description: A curated list of books to read across various genres including historical texts, military science fiction, and series collections, along with personal recommendations and core literary works.
-lastmod: 2025-06-28
+date: 2025-07-06
+description: A curated list of books spanning various genres, including literature, military science fiction, historical works, and series collections, offering a diverse reading experience with both classic and contemporary titles.
+lastmod: 2025-07-06
 publish: true
-tags: [books, lifestyle, literature, reading]
+tags: [books, historical, lifestyle, literature, reading]
 ---
 
 ## Up Next
 
-- _The Spell of the Sensuous_ by David Abram, 1996
 - _The Overstory_ by Richard Powers, 2018
 - _The Righteous Mind_ by Jonathan Haidt, 2012
 - _The Dispossessed_ by Ursula K. Le Guin, 1974
