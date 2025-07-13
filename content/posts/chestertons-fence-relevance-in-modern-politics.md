@@ -4,7 +4,15 @@ date: 2025-07-04
 description: Examines Chesterton's fence principle in the context of modern American politics, exploring how efficiency logic challenges traditional institutions and questioning whether institutional value can be measured purely by visible outcomes.
 lastmod: 2025-07-05
 publish: true
-tags: [decision-making, governance, institutional-reform, philosophy, political-philosophy, politics]
+tags:
+  [
+    decision-making,
+    governance,
+    institutional-reform,
+    philosophy,
+    political-philosophy,
+    politics,
+  ]
 ---
 
 When Elon Musk and Vivek Ramaswamy announced their Department of Government Efficiency would systematically eliminate federal agencies, they armed themselves with the most seductive weapon in the reformer's arsenal: the simple question "What's this for?" It's a powerful tool—and a dangerous one.
