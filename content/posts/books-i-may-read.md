@@ -1,10 +1,10 @@
 ---
 title: "Books I May Read"
-date: 2025-07-06
-description: A curated list of books spanning various genres, including literature, military science fiction, historical works, and series collections, offering a diverse reading experience with both classic and contemporary titles.
-lastmod: 2025-07-06
+date: 2025-07-10
+description: A curated list of books across various genres, including recent additions, core collections, military science fiction, historical works, and series collections, highlighting diverse authors and themes.
+lastmod: 2025-07-13
 publish: true
-tags: [books, historical, lifestyle, literature, reading]
+tags: [book-recommendations, literature, reading]
 ---
 
 ## Up Next
@@ -96,3 +96,16 @@ tags: [books, historical, lifestyle, literature, reading]
 - "Broken Empire" by Mark Lawrence, 2011–2013
 - "Caine Riordan" series by Charles E. Gannon, 2014–2024
 - "Broken Earth" by N. K. Jemisin, 2015–2017
+
+## Recently added
+
+- The Eagle of the Ninth by Rosemary Sutcliff, 1954
+- Dreaming the Eagle by Manda Scott, 2003
+- The Lantern Bearers by Rosemary Sutcliff, 1959
+- The Mabinogion - Davies translation, 2007
+- The Crystal Cave by Mary Stewart, 1970
+- The Winter King by Bernard Cornwell, 1995
+- Isolde by Rosamund Allen, 1989
+- The High Kings series by Joy Chant, 1983-1988
+- Asterix in Britain by Goscinny & Uderzo, 1966
+- The Lark Rising Trilogy by Gillian Bradshaw, 1980s
