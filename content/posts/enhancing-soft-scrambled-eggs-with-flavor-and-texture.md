@@ -17,10 +17,7 @@ Adding heavy cream to your soft-scrambled eggs enhances their richness, creamine
 - Grated Cheese: Mix in grated Parmesan, cheddar, or goat cheese for added depth.
 - Diced Veggies: Fold in sautéed mushrooms, bell peppers, or spinach.
 
-## Texture and
-
-Contrast
-
+## Texture and Contrast
 - Crispy Bacon or Prosciutto: Crumble cooked bacon or prosciutto into the eggs.
 - Toasted Nuts or Seeds: Sprinkle toasted almonds, walnuts, or sesame seeds on top.
 - Caramelized Onions: Mix in sweet, caramelized onions.
