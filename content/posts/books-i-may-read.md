@@ -1,15 +1,14 @@
 ---
 title: "Books I May Read"
-date: 2025-07-10
-description: A curated list of books across various genres, including recent additions, core collections, military science fiction, historical works, and series collections, highlighting diverse authors and themes.
-lastmod: 2025-07-13
+date: 2025-07-16
+description: An organized catalogue of books spanning various genres, including upcoming, core collection, military science fiction, and medieval social history, highlighting titles like The Righteous Mind, Outlive, and The Alchemist.
+lastmod: 2025-07-16
 publish: true
-tags: [book-recommendations, literature, reading]
+tags: [book-recommendations, learning, literature, planning, reading]
 ---
 
 ## Up Next
 
-- _The Overstory_ by Richard Powers, 2018
 - _The Righteous Mind_ by Jonathan Haidt, 2012
 - _The Dispossessed_ by Ursula K. Le Guin, 1974
 - _Outlive_ by Peter Attia, 2023
@@ -17,6 +16,10 @@ tags: [book-recommendations, literature, reading]
 - _The Mushroom at the End of the World_ by Anna Lowenhaupt Tsing, 2015
 - _The Book of Elsewhere_ by Keanu Reeves and China Miéville, 2024
 - _Aria: Canticle of the Monomyth_ by Christian Moore & Owen Seyler, 1994
+
+## Recently added
+
+- _The Alchemist_ by Paulo Cuelho, 1988
 
 ## Core Collection
 
@@ -55,29 +58,32 @@ tags: [book-recommendations, literature, reading]
 - _Courting the Wild Twin_ by Martin Shaw, 2020
 - _Against the Machine_ by Paul Kingsnorth, 2025
 
-## Military Science Fiction
+## Military Science Fiction & Space Warfare
 
-- _Dorsai!_ by Gordon R. Dickson, 1959
-- _Necromancer (Childe Cycle)_ by Gordon R. Dickson, 1962
-- _Hospital Station (Sector General)_ by James White, 1962
-- _Retief: Envoy to New Worlds_ by Keith Laumer, 1963
-- _The Forever War_ by Joe Haldeman, 1974
-- _The Face of Battle_ by John Keegan, 1976
-- _The Mercenary_ by Jerry Pournelle, 1977
-- _Supplying War_ by Martin van Creveld, 1977
-- _Hammer's Slammers_ by David Drake, 1979
-- _Sky Raiders_ by J. Andrew Keith, 1982
-- _Revelation Space_ by Alastair Reynolds, 2000
-- _Decider_ by William H. Keith Jr. (as Ian Douglas), 2001
-- _The Praxis_ by Walter Jon Williams, 2002
+1. _The Face of Battle_ Keegan, 1976) — Foundation: Real warfare psychology and tactics
+2. _Supplying War_ (van Creveld, 1977) — Logistics reality: Critical military infrastructure understanding
+3. _Dorsai_! (Dickson, 1959) — Genre origins: Foundational military sci-fi warrior culture
+4. _Hospital Station_ (Sector General) (White, 1962) — Palate cleanser: Optimistic space medicine between conflicts
+5. _Necromancer_ (Childe Cycle) (Dickson, 1962) — Philosophical expansion: Dickson's deeper military mysticism
+6. _Retief: Envoy to New Worlds_ (Laumer, 1963) — Diplomatic satire: Military bureaucracy humor break
+7. _The Forever War _(Haldeman, 1974) — Vietnam allegory: Anti-war military sci-fi masterpiece
+8. _The Mercenary_ (Pournelle, 1977) — Professional soldiers: Realistic military economics
+9. _Hammer's Slammers_ (Drake, 1979) — Tank warfare: Gritty combined-arms tactics
+10. _Sky Raiders_ (Keith, 1982) — Space marines: Atmospheric assault specialists
+11. _Revelation Space_ (Reynolds, 2000) — Hard sci-fi warfare: Physics-based space combat
+12. _The Praxis_ (Williams, 2002) — Fleet operations: Complex space naval strategy
+13. _Decider_ (Douglas, 2001) — Modern synthesis: Contemporary military sci-fi evolution
 
-## Historical
+## Medieval Social History
 
-- _Montaillou_ by Emmanuel Le Roy Ladurie, 1975
-- _The Return of Martin Guerre_ by Natalie Zemon Davis, 1983
-- _Life in a Medieval Village_ by Frances and Joseph Gies, 1990
-- _The Good Men_ by Charmaine Craig, 2002
-- _The Time Traveler's Guide to Medieval England_ by Ian Mortimer, 2008
+1. _The Time Traveler's Guide to Medieval England_ (Mortimer, 2008) — Engaging foundation: Immersive, accessible introduction to daily medieval life
+2. _Life in a Medieval Village_ (Gies, 1990) — Structural framework: Systematic overview of village social organization
+3. _The Return of Martin Guerre_ (Davis, 1983) — Microhistory method: Compelling case study introducing detailed historical detective work
+4. _Montaillou_ (Le Roy Ladurie, 1975) — Masterwork: Dense, brilliant reconstruction of medieval mentalities via Inquisition records
+5. _The Good Men_ (Craig, 2002) — Fictional synthesis: Novel drawing on Cathar historical knowledge for emotional resonance
+
+## FLW
+
 - _Frank Lloyd Wright's Fallingwater: The House and Its History_ by Donald Hoffmann, 1978
 - _Fallingwater: Frank Lloyd Wright_ by Robert McCarter, 1994
 - _Fallingwater Rising: Frank Lloyd Wright, E.J. Kaufmann, and America's Most Extraordinary House_ by Franklin Toker, 2003
@@ -97,15 +103,15 @@ tags: [book-recommendations, literature, reading]
 - "Caine Riordan" series by Charles E. Gannon, 2014–2024
 - "Broken Earth" by N. K. Jemisin, 2015–2017
 
-## Recently added
+## Celtic Britain & Arthurian Legends
 
-- _The Eagle of the Ninth_ by Rosemary Sutcliff, 1954
-- _Dreaming the Eagle_ by Manda Scott, 2003
-- _The Lantern Bearers_ by Rosemary Sutcliff, 1959
-- _The Mabinogion_ —Davies translation, 2007
-- _The Crystal Cave_ by Mary Stewart, 1970
-- _The Winter King_ by Bernard Cornwell, 1995
-- _Isolde_ by Rosamund Allen, 1989
-- The High Kings series by Joy Chant, 1983-1988
-- _Asterix in Britain_ by Goscinny & Uderzo, 1966
-- The Lark Rising Trilogy by Gillian Bradshaw, 1980s
+1. _The Mabinogion_ (Davies, 2007) — Foundation: Pure Celtic mythology and storytelling traditions
+2. _Asterix in Britain_ (1966) — Palate cleanser: Light introduction to Romano-Celtic cultural clash
+3. _The Eagle of the Ninth_ (Sutcliff, 1954) — Roman occupation: Classic entry point, excellent prose
+4. _The Lantern Bearers_ (Sutcliff, 1959) — Roman withdrawal: Direct thematic continuation
+5. _The Crystal Cave_ (Stewart, 1970) — Merlin's origins: Bridge to Arthurian material
+6. _The Winter King_ (Cornwell, 1995) — Arthur demythologized: Gritty historical approach
+7. _Dreaming the Eagle_ (Scott, 2003) — Boudica's rebellion: Complex, mature perspective on Celtic resistance
+8. _Isolde_ (Allen, 1989) — Tristan & Isolde: Romantic Arthurian tradition
+9. The High Kings series (Chant, 1983-88) — Epic fantasy synthesis
+10. Lark Rising Trilogy (Bradshaw, 1980s) — Advanced: Sophisticated historical fiction finale
