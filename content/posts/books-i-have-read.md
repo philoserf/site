@@ -1,14 +1,15 @@
 ---
 title: "Books I Have Read"
-date: 2025-07-06
-description: A curated list of books read, organized by publication date and spanning various genres. The collection begins with works from the mid-20th century to the current decade, highlighting both classic and contemporary literature.
-lastmod: 2025-07-06
+date: 2025-07-16
+description: A curated list of books read by the author, organized by publication date, spanning genres and decades, and beginning in late 2022.
+lastmod: 2025-07-16
 publish: true
-tags: [books, learning, literature, reading, self-improvement]
+tags: [books, learning, literature, organization, personal-development, reading, self-improvement]
 ---
 
 ## Recently finished
 
+- _The Spell of the Sensuous_ by David Abram, 1996
 - _March or Die_ by Andrew Keith & William H. Keith Jr., 1992
 - _Honor and Fidelity_ by Andrew Keith & William H. Keith Jr., 1992
 - _Cohort of the Damned_ by Andrew Keith & William H. Keith Jr., 1993
