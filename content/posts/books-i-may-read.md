@@ -60,20 +60,19 @@ tags: [book-recommendations, learning, literature, planning, reading]
 
 ## Military Science Fiction & Space Warfare
 
-1. _The Face of Battle_ Keegan, 1976) — Foundation: Real warfare psychology and tactics
+1. _The Face of Battle_ (Keegan, 1976) — Foundation: Real warfare psychology and tactics
 2. _Supplying War_ (van Creveld, 1977) — Logistics reality: Critical military infrastructure understanding
 3. _Dorsai_! (Dickson, 1959) — Genre origins: Foundational military sci-fi warrior culture
 4. _Hospital Station_ (Sector General) (White, 1962) — Palate cleanser: Optimistic space medicine between conflicts
 5. _Necromancer_ (Childe Cycle) (Dickson, 1962) — Philosophical expansion: Dickson's deeper military mysticism
 6. _Retief: Envoy to New Worlds_ (Laumer, 1963) — Diplomatic satire: Military bureaucracy humor break
-7. _The Forever War _(Haldeman, 1974) — Vietnam allegory: Anti-war military sci-fi masterpiece
+7. _The Forever War_ (Haldeman, 1974) — Vietnam allegory: Anti-war military sci-fi masterpiece
 8. _The Mercenary_ (Pournelle, 1977) — Professional soldiers: Realistic military economics
 9. _Hammer's Slammers_ (Drake, 1979) — Tank warfare: Gritty combined-arms tactics
 10. _Sky Raiders_ (Keith, 1982) — Space marines: Atmospheric assault specialists
 11. _Revelation Space_ (Reynolds, 2000) — Hard sci-fi warfare: Physics-based space combat
 12. _The Praxis_ (Williams, 2002) — Fleet operations: Complex space naval strategy
 13. _Decider_ (Douglas, 2001) — Modern synthesis: Contemporary military sci-fi evolution
-
 ## Medieval Social History
 
 1. _The Time Traveler's Guide to Medieval England_ (Mortimer, 2008) — Engaging foundation: Immersive, accessible introduction to daily medieval life
