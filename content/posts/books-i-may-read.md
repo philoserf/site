@@ -1,8 +1,8 @@
 ---
 title: "Books I May Read"
-date: 2025-07-16
+date: 2025-07-20
 description: An organized catalogue of books spanning various genres, including upcoming, core collection, military science fiction, and medieval social history, highlighting titles like The Righteous Mind, Outlive, and The Alchemist.
-lastmod: 2025-07-16
+lastmod: 2025-07-20
 publish: true
 tags: [book-recommendations, learning, literature, planning, reading]
 ---
@@ -19,6 +19,8 @@ tags: [book-recommendations, learning, literature, planning, reading]
 
 ## Recently added
 
+- _A Death in the Family_ by Karl Ove Knausgård, 2012
+- _Outline_ by Rachel Cusk, 2014
 - _The Alchemist_ by Paulo Coelho, 1988
 
 ## Core Collection
@@ -66,7 +68,7 @@ tags: [book-recommendations, learning, literature, planning, reading]
 4. _Hospital Station_ (Sector General) (White, 1962) — Palate cleanser: Optimistic space medicine between conflicts
 5. _Necromancer_ (Childe Cycle) (Dickson, 1962) — Philosophical expansion: Dickson's deeper military mysticism
 6. _Retief: Envoy to New Worlds_ (Laumer, 1963) — Diplomatic satire: Military bureaucracy humor break
-7. _The Forever War _(Haldeman, 1974) — Vietnam allegory: Anti-war military sci-fi masterpiece
+7. _The Forever War_(Haldeman, 1974) — Vietnam allegory: Anti-war military sci-fi masterpiece
 8. _The Mercenary_ (Pournelle, 1977) — Professional soldiers: Realistic military economics
 9. _Hammer's Slammers_ (Drake, 1979) — Tank warfare: Gritty combined-arms tactics
 10. _Sky Raiders_ (Keith, 1982) — Space marines: Atmospheric assault specialists
@@ -115,3 +117,9 @@ tags: [book-recommendations, learning, literature, planning, reading]
 8. _Isolde_ (Allen, 1989) — Tristan & Isolde: Romantic Arthurian tradition
 9. The High Kings series (Chant, 1983-88) — Epic fantasy synthesis
 10. Lark Rising Trilogy (Bradshaw, 1980s) — Advanced: Sophisticated historical fiction finale
+
+## Moneyless economy
+
+- _The Dispossessed_ by Ursula K. Le Guin (1974) — anarchist gift economy
+- _Fully Automated Luxury Communism_ by Aaron Bastani (2019) — post-scarcity advocacy
+- _Manna by Marshall Brain_ (2003) — AI-managed economies
