@@ -68,7 +68,7 @@ tags: [book-recommendations, learning, literature, planning, reading]
 4. _Hospital Station_ (Sector General) (White, 1962) — Palate cleanser: Optimistic space medicine between conflicts
 5. _Necromancer_ (Childe Cycle) (Dickson, 1962) — Philosophical expansion: Dickson's deeper military mysticism
 6. _Retief: Envoy to New Worlds_ (Laumer, 1963) — Diplomatic satire: Military bureaucracy humor break
-7. _The Forever War_(Haldeman, 1974) — Vietnam allegory: Anti-war military sci-fi masterpiece
+7. _The Forever War_ (Haldeman, 1974) — Vietnam allegory: Anti-war military sci-fi masterpiece
 8. _The Mercenary_ (Pournelle, 1977) — Professional soldiers: Realistic military economics
 9. _Hammer's Slammers_ (Drake, 1979) — Tank warfare: Gritty combined-arms tactics
 10. _Sky Raiders_ (Keith, 1982) — Space marines: Atmospheric assault specialists
