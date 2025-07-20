@@ -122,4 +122,4 @@ tags: [book-recommendations, learning, literature, planning, reading]
 
 - _The Dispossessed_ by Ursula K. Le Guin (1974) — anarchist gift economy
 - _Fully Automated Luxury Communism_ by Aaron Bastani (2019) — post-scarcity advocacy
-- _Manna by Marshall Brain_ (2003) — AI-managed economies
+- _Manna_ by Marshall Brain (2003) — AI-managed economies
