@@ -62,7 +62,7 @@ tags: [book-recommendations, learning, literature, planning, reading]
 
 ## Military Science Fiction & Space Warfare
 
-1. _The Face of Battle_ Keegan, 1976) — Foundation: Real warfare psychology and tactics
+1. _The Face of Battle_ (Keegan, 1976) — Foundation: Real warfare psychology and tactics
 2. _Supplying War_ (van Creveld, 1977) — Logistics reality: Critical military infrastructure understanding
 3. _Dorsai_! (Dickson, 1959) — Genre origins: Foundational military sci-fi warrior culture
 4. _Hospital Station_ (Sector General) (White, 1962) — Palate cleanser: Optimistic space medicine between conflicts
