@@ -1,11 +1,11 @@
 ---
-title: About
+title: "About"
 aliases: [/about]
 date: 2025-01-01
-description: The article delves into personal philosophy, continuous learning, and life experiences beyond work, offering insights into the balance of professional growth and adventurous pursuits. It highlights the journey of a former US Army Ranger exploring diverse fields and cultural adventures.
-lastmod: 2025-06-18
+description: Explore simplicity and strategic thinking in life and work. The author shares personal insights from diverse experiences, blending philosophy with self-improvement, creativity, and lifelong learning across various fields.
+lastmod: 2025-07-17
 publish: true
-tags: []
+tags: [creativity, personal-development, philosophy]
 ---
 
 _We are all human beings, being human._
