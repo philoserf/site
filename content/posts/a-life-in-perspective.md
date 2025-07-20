@@ -1,10 +1,10 @@
 ---
-title: A Life in Perspective
+title: "A Life in Perspective"
 date: 2024-07-07
-description: The visualization of a life journey through different time intervals emphasizes progress and future goals. The life cycle is divided into decades, years, and months, symbolized using color-coded blocks representing past, present, and expectations.
-lastmod: 2025-07-06
+description: A visual representation of life progress through decades, years, and months using color-coded markers. It reflects past achievements, present status, and future aspirations, emphasizing personal development and goal setting.
+lastmod: 2025-07-17
 publish: true
-tags: []
+tags: [goal-setting, personal-development, self-awareness]
 ---
 
 ## Key
