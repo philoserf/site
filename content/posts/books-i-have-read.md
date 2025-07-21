@@ -1,6 +1,6 @@
 ---
 title: "Books I Have Read"
-date: 2025-07-16
+date: 2025-07-21
 description: A curated list of books read, organized by publication date, beginning from the late 20th century to the current decade, showcasing a diverse range of genres and authors.
 lastmod: 2025-07-21
 publish: true
