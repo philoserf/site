@@ -19,8 +19,6 @@ My current pastimes include:
 
 I am looking forward to:
 
-- a few road trips in June.
-- a trip to Seattle in July.
 - a Caribbean cruise in late autumn.
 - the total solar eclipse on August 12, 2026, as seen from Bilbao.
 - a trip to Ireland, still in the planning.
