@@ -2,7 +2,7 @@
 title: "A Life in Perspective"
 date: 2024-07-07
 description: A visual representation of life progress through decades, years, and months using color-coded markers. It reflects past achievements, present status, and future aspirations, emphasizing personal development and goal setting.
-lastmod: 2025-07-17
+lastmod: 2025-07-23
 publish: true
 tags: [goal-setting, personal-development, self-awareness]
 ---
