@@ -1,14 +1,16 @@
 ---
 title: "Books I Have Read"
-date: 2025-07-16
-description: A curated list of books read, organized by publication date, beginning from the late 20th century to the current decade, showcasing a diverse range of genres and authors.
-lastmod: 2025-07-21
+date: 2025-07-26
+description: Comprehensive list of books read recently, organized by publication date and including titles across a variety of genres from notable authors.
+lastmod: 2025-07-26
 publish: true
-tags: [books, learning, literature, organization, personal-development, reading, self-improvement]
+tags: [books, learning, literature, personal-development, productivity, reading]
 ---
 
 ## Recently finished
 
+- _The Righteous Mind_ by Jonathan Haidt, 2012
+- _The Overstory_ by Richard Powers, 2018
 - _Manna_ by Marshall Brain, 2012
 - _The Spell of the Sensuous_ by David Abram, 1996
 - _March or Die_ by Andrew Keith & William H. Keith Jr., 1992
