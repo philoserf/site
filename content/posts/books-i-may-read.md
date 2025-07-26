@@ -1,16 +1,14 @@
 ---
 title: "Books I May Read"
-date: 2025-07-20
-description: An organized catalogue of books spanning various genres, including upcoming, core collection, military science fiction, and medieval social history, highlighting titles like The Righteous Mind, Outlive, and The Alchemist.
-lastmod: 2025-07-20
+date: 2025-07-26
+description: A curated list of books across various genres, including upcoming reads, recent additions, core literary collections, military science fiction, medieval social history, Arthurian legends, and explorations of economic models.
+lastmod: 2025-07-26
 publish: true
-tags: [book-recommendations, learning, literature, planning, reading]
+tags: [book-list, book-recommendations, learning, literature, productivity, reading]
 ---
 
 ## Up Next
 
-- _The Righteous Mind_ by Jonathan Haidt, 2012
-- _The Dispossessed_ by Ursula K. Le Guin, 1974
 - _Outlive_ by Peter Attia, 2023
 - _Always Coming Home_ by Ursula K. Le Guin, 1985
 - _The Mushroom at the End of the World_ by Anna Lowenhaupt Tsing, 2015
