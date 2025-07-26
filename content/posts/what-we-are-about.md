@@ -43,4 +43,4 @@ This poem captures an intriguing perspective on human presence across vast scale
 2. Replace the abstract conclusion with a concrete image that shows rather than tells what "we are about"
 3. Consider whether "fingerprints" and "hard edges" work together as metaphors or if one should dominate
 
-The core observation about human presence spanning from aircraft to remote valleys is compelling. The poem needs sharper focus on either the geometric/architectural imagery or the biological/trace imagery to fully land its impact.​​​​​​​​​​​​​​​​
+The core observation about human presence spanning from aircraft to remote valleys is compelling. The poem needs sharper focus on either the geometric/architectural imagery or the biological/trace imagery to fully land its impact.
