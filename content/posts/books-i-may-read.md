@@ -1,8 +1,8 @@
 ---
 title: "Books I May Read"
-date: 2025-07-26
-description: A curated list of books across various genres, including upcoming reads, recent additions, core literary collections, military science fiction, medieval social history, Arthurian legends, and explorations of economic models.
-lastmod: 2025-07-26
+date: 2025-07-27
+description: A curated list of books to explore, organized by themes such as medieval social history, military science fiction, and Celtic mythology, alongside new additions and core collection reads across various genres and time periods.
+lastmod: 2025-07-27
 publish: true
 tags: [book-list, book-recommendations, learning, literature, productivity, reading]
 ---
@@ -17,6 +17,13 @@ tags: [book-list, book-recommendations, learning, literature, productivity, read
 
 ## Recently added
 
+- _Asceticism of the Mind_ by Inbar Graiver
+- _Walden_ by Henry David Thoreau
+- _The Attention Merchants_ by Tim Wu
+- _Tigana_ by Guy Gavriel Kay
+- _The Lions of Al-Rassan_ by Guy Gavriel Kay
+- _Sailing to Sarantium_ by Guy Gavriel Kay
+- _Under Heaven_ by Guy Gavriel Kay
 - _A Death in the Family_ by Karl Ove Knausgård, 2012
 - _Outline_ by Rachel Cusk, 2014
 - _The Alchemist_ by Paulo Coelho, 1988
