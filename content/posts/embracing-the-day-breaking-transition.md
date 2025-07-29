@@ -4,7 +4,7 @@ date: 2025-05-01
 description: Reflects on the transition from spring to summer, highlighting the natural renewal and increased daylight. Describes the cultural significance of May Day and Beltane, emphasizing the awakening of gardens and nature during this period.
 lastmod: 2025-06-15
 publish: true
-tags: [beltane, day-breaking, late-spring, lifestyle, mindfulness, nature]
+tags: [beltane, day-breaking, late-spring, lifestyle, self-awareness, nature]
 ---
 
 We had a frost yesterday morning and rain this morning. The birds sing and caw, busying themselves with the work they must do. Our gardens and all of nature awaken around us.
