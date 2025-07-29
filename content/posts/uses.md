@@ -5,7 +5,7 @@ date: 2025-04-25
 description: Details on the author's hardware and software setup, including Apple devices and tools like Ghostty terminal and Visual Studio Code for coding in Go, along with Obsidian for knowledge management.
 lastmod: 2025-06-15
 publish: true
-tags: [coding, hardware, productivity, software, technology]
+tags: [technology, hardware, productivity, technology, technology]
 ---
 
 ## Hardware
