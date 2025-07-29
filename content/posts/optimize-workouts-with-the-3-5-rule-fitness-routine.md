@@ -5,7 +5,7 @@ date: 2023-02-01
 description: Explore a flexible 3-5 rule fitness routine designed to optimize workouts with a systematic approach to days per week, exercises, repetitions, sets, and rest intervals.
 lastmod: 2025-07-23
 publish: true
-tags: [exercise, fitness, lifestyle, planning, routine, training]
+tags: [fitness, fitness, lifestyle, productivity, routine, training]
 ---
 
 source: Andy Galpin
