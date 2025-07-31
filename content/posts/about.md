@@ -1,14 +1,17 @@
 ---
 title: "About"
 aliases: [/about]
-date: 2025-01-01
+date: 2025-07-29
 description: Explore simplicity and strategic thinking in life and work. The author shares personal insights from diverse experiences, blending philosophy with self-improvement, creativity, and lifelong learning across various fields.
-lastmod: 2025-07-17
+lastmod: 2025-07-30
 publish: true
 tags: [creativity, personal-development, philosophy]
 ---
 
-_We are all human beings, being human._
+> We are all human beings, being human.
+>
+> HOMO·HOMINIS·ESSE  
+> COGITA·DISCE·NECTE·ENUNTIA
 
 ## Philosophy
 
