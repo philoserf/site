@@ -2,9 +2,9 @@
 title: Think, Do, Be
 date: 2025-01-06
 description: Explores the 'Think, Do, Be' cycle, presenting various sequences of thought, action, and identity that influence personal growth and development.
-lastmod: 2025-06-28
+lastmod: 2025-07-30
 publish: true
-tags: [personal-development, philosophy, self-improvement]
+tags: [personal-development, philosophy]
 ---
 
 I must think deeply, act decisively, and become intentionally.
