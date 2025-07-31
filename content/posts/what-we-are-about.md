@@ -1,10 +1,10 @@
 ---
 title: "What We Are About"
 date: 2019-07-04
-description: Analyzes a poem exploring human presence across vast landscapes, emphasizing human traces and civilization's impact on nature. Offers strengths, areas for improvement, and recommendations to enhance cohesion and imagery.
+description: Explores human presence in both vast and intimate scales through poetic imagery, contrasting ordered civilization with natural landscapes, and offers analysis for enhancing metaphorical clarity and flow.
 lastmod: 2025-07-30
 publish: true
-tags: []
+tags: [creativity, personal-development, poetry]
 ---
 
 by Mark Ayers, 2019
