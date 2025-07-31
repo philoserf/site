@@ -1,10 +1,10 @@
 ---
 title: "Books I May Read"
 date: 2025-07-27
-description: A curated list of books to explore, organized by themes such as medieval social history, military science fiction, and Celtic mythology, alongside new additions and core collection reads across various genres and time periods.
-lastmod: 2025-07-27
+description: Explore an extensive list of books categorized by themes such as science fiction, medieval history, Celtic mythology, and more. This compilation offers readers a diverse selection of literary works ranging from modern classics to insightful explorations of historical and philosophical ideas.
+lastmod: 2025-07-30
 publish: true
-tags: [book-list, book-recommendations, learning, literature, productivity, reading]
+tags: [culture, history, reading]
 ---
 
 ## Up Next
@@ -125,6 +125,5 @@ tags: [book-list, book-recommendations, learning, literature, productivity, read
 
 ## Moneyless economy
 
-- _The Dispossessed_ by Ursula K. Le Guin (1974) — anarchist gift economy
 - _Fully Automated Luxury Communism_ by Aaron Bastani (2019) — post-scarcity advocacy
 - _Manna_ by Marshall Brain (2003) — AI-managed economies
