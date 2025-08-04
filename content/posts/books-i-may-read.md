@@ -9,7 +9,6 @@ tags: [culture, history, literature, personal-development, philosophy, reading, 
 
 ## Up Next
 
-- _Outlive_ by Peter Attia (2023) - Longevity medicine and healthspan optimization
 - _Always Coming Home_ by Ursula K. Le Guin (1985) - Anthropological fiction of future California societies
 - _The Mushroom at the End of the World_ by Anna Lowenhaupt Tsing (2015) - Anthropology of capitalist ruins through matsutake mushrooms
 - _The Book of Elsewhere_ by Keanu Reeves and China Miéville (2024) - Science fiction collaboration
@@ -17,7 +16,7 @@ tags: [culture, history, literature, personal-development, philosophy, reading, 
 
 ## Recently Added
 
-- _Asceticism of the Mind_ by Inbar Graiver (date unknown) - Philosophical examination of mental discipline
+- _Asceticism of the Mind_ by Inbar Graiver (n.d.) - Philosophical examination of mental discipline
 - _Walden_ by Henry David Thoreau (1854) - Classic on simple living and nature
 - _The Attention Merchants_ by Tim Wu (2016) - History of advertising and attention capture
 - _Tigana_ by Guy Gavriel Kay (1990) - Fantasy epic about memory and cultural erasure
