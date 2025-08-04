@@ -18,8 +18,9 @@ My current pastimes include:
 
 I am reading:
 
-- _Fallingwater: A Frank Lloyd Wright Country House_ by Edgar Kaufmann Jr., 1986
-- _The Dispossessed_ by Ursula K. Le Guin, 1974
+- _Diaspora_ by Greg Egan (1997)
+- _Fallingwater: A Frank Lloyd Wright Country House_ by Edgar Kaufmann Jr. (1986)
+- _Outlive_ by Peter Attia (2023)
 
 I am looking forward to:
 
