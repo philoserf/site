@@ -23,6 +23,8 @@ Reading:
 
 I am looking forward to:
 
-- a Caribbean cruise in late autumn.
+- a few comedy shows
+- a family gathering further up the mitten
+- a Caribbean cruise with family in late autumn.
 - the total solar eclipse on August 12, 2026, as seen from Bilbao.
 - a trip to Ireland, still in the planning.
