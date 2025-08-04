@@ -1,6 +1,6 @@
 ---
 title: "Now"
-aliases: [/books-i-am-reading, /now]
+aliases: [/now, /posts/books-i-am-reading]
 date: 2025-08-04
 description: Sales specialist in Greater Grand Rapids, Michigan, with passions in fitness, open-source contributions, and crafting cocktails. Enjoys reading, family gatherings, and exploring diverse interests driven by curiosity. Upcoming events include comedy shows, a Caribbean cruise, and planning a trip to Ireland.
 lastmod: 2025-08-04
