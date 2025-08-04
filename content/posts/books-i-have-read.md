@@ -1,14 +1,15 @@
 ---
 title: "Books I Have Read"
-date: 2025-07-26
+date: 2025-08-04
 description: Comprehensive list of books read recently, organized by publication date and including titles across a variety of genres from notable authors.
-lastmod: 2025-07-26
+lastmod: 2025-08-04
 publish: true
 tags: [books, learning, literature, personal-development, productivity, reading]
 ---
 
 ## Recently finished
 
+- _The Dispossessed_ by Ursula K. Le Guin, 1974
 - _The Righteous Mind_ by Jonathan Haidt, 2012
 - _The Overstory_ by Richard Powers, 2018
 - _Manna_ by Marshall Brain, 2012
