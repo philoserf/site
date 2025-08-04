@@ -1,10 +1,14 @@
 ---
 title: "Books I May Read"
-date: 2025-07-30
-description: Explore an extensive list of books categorized by themes such as science fiction, medieval history, Celtic mythology, and more. This compilation offers readers a diverse selection of literary works ranging from modern classics to insightful explorations of historical and philosophical ideas.
-lastmod: 2025-07-30
+date: 2025-08-03
+description: A curated list of books spanning various genres including science fiction, medieval history, and consciousness studies, categorized into sections like Up Next, Recently Added, and Core Collection.
+lastmod: 2025-08-03
 publish: true
-tags: [culture, history, reading]
+tags:
+  - culture
+  - history
+  - personal-development
+  - reading
 ---
 
 ## Up Next
@@ -126,4 +130,13 @@ tags: [culture, history, reading]
 ## Moneyless economy
 
 - _Fully Automated Luxury Communism_ by Aaron Bastani (2019) — post-scarcity advocacy
-- _Manna_ by Marshall Brain (2003) — AI-managed economies
+
+## Consciousness and Meaning
+
+- _Experiencing and the Creation of Meaning_ by Eugene Gendlin (1962) - Establishes felt sense as foundation for meaning-creation; essential groundwork for all experiential approaches
+- _All Things Shining_ by Hubert Dreyfus & Sean Dorrance Kelly (2011) - Builds existential framework on experiential foundation; addresses nihilism and sacred meaning directly
+- _The Divided Self_ by R.D. Laing (1960) - Applies experiential insights to authentic being vs. false self; works better with existential context established
+- _The Master and His Emissary_ by Iain McGilchrist (2009) - Provides neurological framework for different modes of attention; sets up archetypal thinking scientifically
+- _Re-Visioning Psychology_ by James Hillman (1975) - Archetypal critique more accessible with brain hemisphere context; challenges reductive psychology
+- _The Embodied Mind_ by Francisco Varela, Evan Thompson & Eleanor Rosch (1991) - Complex synthesis requiring all previous foundations; bridges cognitive science and contemplative practice
+- _The Ego Tunnel_ by Thomas Metzinger (2009) - Most technical consciousness studies; capstone requiring full conceptual toolkit from earlier works​​​​​​​​​​​​​​​​
