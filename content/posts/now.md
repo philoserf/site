@@ -2,10 +2,10 @@
 title: "Now"
 aliases: [/now, /posts/books-i-am-reading]
 date: 2025-08-04
-description: Sales specialist in Greater Grand Rapids, Michigan, with passions in fitness, open-source contributions, and crafting cocktails. Enjoys reading, family gatherings, and exploring diverse interests driven by curiosity. Upcoming events include comedy shows, a Caribbean cruise, and planning a trip to Ireland.
+description: A sales specialist in Michigan fosters intellectual growth and shares knowledge, while maintaining a lifestyle of functional movement, nutritious eating, and joyful play. Current pursuits include strength training, reading diverse books, and exploring craft cocktails, with upcoming travel plans and family gatherings.
 lastmod: 2025-08-04
 publish: true
-tags: [culture, curiosity, fitness, lifestyle, personal-development, self-improvement]
+tags: [culture, curiosity, fitness, lifestyle, nutrition, personal-development, productivity, self-improvement]
 ---
 
 Based in Greater Grand Rapids, Michigan, I help people discover Apple products and services as a sales specialist. I contribute improvements to open-source projects whenever I spot opportunities. Each day follows my core rhythm: sleep deliberately, move functionally, eat nutritiously, grow intellectually, play joyfully, and share generously. Currently exploring a broad range of interests with depth where appropriate—letting curiosity lead rather than ambition. I am grateful for the gift of insatiable curiosity.
@@ -18,7 +18,7 @@ My current pastimes include:
 
 I am reading:
 
-- _Diaspora_ by Greg Egan (1997)
+- _Altered Carbon_ by Richard K. Morgan (2002)
 - _Fallingwater: A Frank Lloyd Wright Country House_ by Edgar Kaufmann Jr. (1986)
 - _Outlive_ by Peter Attia (2023)
 
