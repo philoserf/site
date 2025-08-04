@@ -16,10 +16,10 @@ My current pastimes include:
 - Building stamina through running, rowing, and HIIT workouts thrice a week.
 - Experimenting with craft cocktails, particularly perfecting Manhattan variants.
 
-Reading:
+I am reading:
 
 - _Fallingwater: A Frank Lloyd Wright Country House_ by Edgar Kaufmann Jr., 1986
-- _The Dispossessed_ by Ursula K. Le Guin, 1974.
+- _The Dispossessed_ by Ursula K. Le Guin, 1974
 
 I am looking forward to:
 
