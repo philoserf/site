@@ -4,7 +4,7 @@ date: 2025-01-01
 description: Provides detailed sunrise and sunset times for Rockford, Michigan, for each day of 2025, allowing for convenient planning of activities that depend on daylight hours.
 lastmod: 2025-07-30
 publish: true
-tags: [lifestyle, planning, science]
+tags: [lifestyle, productivity, science]
 ---
 
 ## July
