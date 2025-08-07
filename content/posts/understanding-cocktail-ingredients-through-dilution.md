@@ -1,10 +1,10 @@
 ---
 title: Understanding Cocktail Ingredients Through Dilution
 date: 2024-06-01
-description: A method for understanding cocktail ingredients by tasting them diluted in water, focusing on the unique qualities of each ingredient. The technique involves mixing 14ml of each component with 1L of water, except for spicy ingredients which require different handling.
-lastmod: 2025-08-03
+description: Experimenting with diluting 14ml of cocktail ingredients in 1L of water, this method helps explore and understand the unique qualities of bases, bitters, liquors, juices, and syrups.
+lastmod: 2025-08-07
 publish: true
-tags: [cocktail-experimentation, cognitive-function, culinary-method, healthy-eating, ingredient-tasting, self-improvement]
+tags: [learning, lifestyle, nutrition]
 ---
 
 1. Mix 14ml of an ingredient with 1L of water
