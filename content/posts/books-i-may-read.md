@@ -1,10 +1,10 @@
 ---
 title: "Books I May Read"
 date: 2025-08-04
-description: A curated list of books spans genres including science fiction, fantasy, philosophy, and historical fiction, offering diverse insights into consciousness, societal issues, and storytelling. Included are works on longevity medicine, capitalism, military strategy, and the intricacies of human experience.
-lastmod: 2025-08-04
+description: A curated list of books spanning various genres including fantasy, science fiction, philosophy, and consciousness studies, featuring works by renowned authors such as Ursula K. Le Guin, Tim Wu, and Margaret Atwood.
+lastmod: 2025-08-07
 publish: true
-tags: [culture, history, literature, personal-development, philosophy, reading, science-fiction, self-improvement]
+tags: [culture, literature, reading]
 ---
 
 ## Up Next
