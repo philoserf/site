@@ -1,14 +1,16 @@
 ---
 title: "Books I Have Read"
-date: 2025-08-04
+date: 2025-08-16
 description: Comprehensive list of books read recently, organized by publication date and including titles across a variety of genres from notable authors.
-lastmod: 2025-08-04
+lastmod: 2025-08-16
 publish: true
 tags: [books, learning, literature, personal-development, productivity, reading]
 ---
 
 ## Recently finished
 
+- _Ghouls_ by Richard Lee Byers (2020)
+- _Altered Carbon_ by Richard K. Morgan (2002)
 - _The Dispossessed_ by Ursula K. Le Guin, 1974
 - _The Righteous Mind_ by Jonathan Haidt, 2012
 - _The Overstory_ by Richard Powers, 2018
