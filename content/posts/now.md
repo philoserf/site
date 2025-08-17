@@ -1,9 +1,9 @@
 ---
 title: "Now"
 aliases: [/now, /posts/books-i-am-reading]
-date: 2025-08-04
+date: 2025-08-15
 description: A sales specialist based in Grand Rapids embraces a lifestyle of deliberate sleep, functional movement, and nutritious eating. Engages in strength training and running while exploring diverse interests, from crafting cocktails to reading. Anticipates upcoming events, including travel and cultural experiences.
-lastmod: 2025-08-07
+lastmod: 2025-08-15
 publish: true
 tags: [curiosity, fitness, healthy-eating]
 ---
@@ -18,9 +18,10 @@ My current pastimes include:
 
 I am reading:
 
-- _Altered Carbon_ by Richard K. Morgan (2002)
 - _Fallingwater: A Frank Lloyd Wright Country House_ by Edgar Kaufmann Jr. (1986)
 - _Outlive_ by Peter Attia (2023)
+- _The Venetians_ by Paul Strathern (2013)
+- _Widowed_ by Chris A. Jackson (2019)
 
 I am looking forward to:
 
