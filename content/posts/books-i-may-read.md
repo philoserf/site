@@ -16,7 +16,7 @@ tags: [culture, literature, reading]
 
 ## Recently Added
 
-- The Last Ringbearer by Kirill Eskov (1999)
+- _The Last Ringbearer_ by Kirill Eskov (1999)
 - _Asceticism of the Mind_ by Inbar Graiver (n.d.) - Philosophical examination of mental discipline
 - _Walden_ by Henry David Thoreau (1854) - Classic on simple living and nature
 - _The Attention Merchants_ by Tim Wu (2016) - History of advertising and attention capture
