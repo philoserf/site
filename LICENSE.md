@@ -1,9 +1,9 @@
 # License
 
 ## Code (Blog Scaffolding)
-The code and technical implementation in this repository is licensed under the Unlicense.
 
-Unlicense
+The code and technical implementation in this repository are licensed under the Unlicense.
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
@@ -30,6 +30,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <https://unlicense.org>
 
 ## Content (Writing and Articles)
-All written content, articles, and blog posts in this repository are NOT LICENSED and remain under full copyright protection. No permission is granted to copy, distribute, or use this content without explicit written permission.
 
-Copyright © 2023-2025 by Mark Ayers. All rights reserved.
+This section applies only to written content and media assets; it does not apply to source code, templates, or configuration files.
+
+Copyright © 2023–2025 by Mark Ayers. All rights reserved.
