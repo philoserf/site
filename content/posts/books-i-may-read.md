@@ -1,8 +1,8 @@
 ---
 title: "Books I May Read"
-date: 2025-08-04
+date: 2025-08-18
 description: A curated list of books spanning various genres including fantasy, science fiction, philosophy, and consciousness studies, featuring works by renowned authors such as Ursula K. Le Guin, Tim Wu, and Margaret Atwood.
-lastmod: 2025-08-15
+lastmod: 2025-08-18
 publish: true
 tags: [culture, literature, reading]
 ---
@@ -16,6 +16,7 @@ tags: [culture, literature, reading]
 
 ## Recently Added
 
+- _The Last Ringbearer_ by Kirill Eskov (1999)
 - _Asceticism of the Mind_ by Inbar Graiver (n.d.) - Philosophical examination of mental discipline
 - _Walden_ by Henry David Thoreau (1854) - Classic on simple living and nature
 - _The Attention Merchants_ by Tim Wu (2016) - History of advertising and attention capture
