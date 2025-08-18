@@ -1,9 +1,9 @@
 ---
 title: "Now"
 aliases: [/now, /posts/books-i-am-reading]
-date: 2025-08-15
+date: 2025-08-18
 description: A sales specialist based in Grand Rapids embraces a lifestyle of deliberate sleep, functional movement, and nutritious eating. Engages in strength training and running while exploring diverse interests, from crafting cocktails to reading. Anticipates upcoming events, including travel and cultural experiences.
-lastmod: 2025-08-15
+lastmod: 2025-08-18
 publish: true
 tags: [curiosity, fitness, healthy-eating]
 ---
@@ -22,6 +22,7 @@ I am reading:
 - _Outlive_ by Peter Attia (2023)
 - _The Venetians_ by Paul Strathern (2013)
 - _Widowed_ by Chris A. Jackson (2019)
+- _Grim Begins_ by Wiktor Miesok (2025)
 
 I am looking forward to:
 
