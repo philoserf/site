@@ -2,9 +2,12 @@
 title: Understanding Cocktail Ingredients Through Dilution
 date: 2024-06-01
 description: Experimenting with diluting 14ml of cocktail ingredients in 1L of water, this method helps explore and understand the unique qualities of bases, bitters, liquors, juices, and syrups.
-lastmod: 2025-08-16
+lastmod: 2025-08-20
 publish: true
-tags: [learning, lifestyle, nutrition]
+tags:
+  - learning
+  - lifestyle
+  - nutrition
 ---
 
 1. Mix 14ml of an ingredient with 1L of water

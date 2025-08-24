@@ -1,11 +1,16 @@
 ---
 title: "Now"
-aliases: [/now, /posts/books-i-am-reading]
+aliases:
+  - /now
+  - /posts/books-i-am-reading
 date: 2025-08-18
 description: A sales specialist based in Grand Rapids embraces a lifestyle of deliberate sleep, functional movement, and nutritious eating. Engages in strength training and running while exploring diverse interests, from crafting cocktails to reading. Anticipates upcoming events, including travel and cultural experiences.
-lastmod: 2025-08-18
+lastmod: 2025-08-20
 publish: true
-tags: [curiosity, fitness, healthy-eating]
+tags:
+  - curiosity
+  - fitness
+  - nutrition
 ---
 
 Based in Greater Grand Rapids, Michigan, I help people discover Apple products and services as a sales specialist. I contribute improvements to open-source projects whenever I spot opportunities. Each day follows my core rhythm: sleep deliberately, move functionally, eat nutritiously, grow intellectually, play joyfully, and share generously. Currently exploring a broad range of interests with depth where appropriate—letting curiosity lead rather than ambition. I am grateful for the gift of insatiable curiosity.

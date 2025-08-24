@@ -3,9 +3,11 @@ title: Optimize Workouts with the 3-5 Rule
 category: Health
 date: 2023-02-01
 description: Andy Galpin proposes optimizing workouts using the 3-5 Rule, involving 3-5 days per week with 3-5 exercises, repetitions, and sets, alongside 3-5 minutes of rest between sets.
-lastmod: 2025-08-16
+lastmod: 2025-08-20
 publish: true
-tags: [exercise, fitness, strategy]
+tags:
+  - fitness
+  - strategy
 ---
 
 source: Andy Galpin

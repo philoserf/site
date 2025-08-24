@@ -1,11 +1,15 @@
 ---
 title: Uses
-aliases: [/uses]
+aliases:
+  - /uses
 date: 2025-04-25
 description: Details on the author's hardware and software setup, including Apple devices and tools like Ghostty terminal and Visual Studio Code for coding in Go, along with Obsidian for knowledge management.
-lastmod: 2025-08-16
+lastmod: 2025-08-20
 publish: true
-tags: [hardware, productivity, technology]
+tags:
+  - hardware
+  - productivity
+  - technology
 ---
 
 ## Hardware

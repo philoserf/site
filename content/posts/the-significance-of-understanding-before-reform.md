@@ -2,9 +2,12 @@
 title: The Significance of Understanding Before Reform
 date: 2025-07-04
 description: Explore the importance of understanding the purpose of institutions before advocating for change, contrasting modernist optimism with nihilistic destruction. Highlights the risks of superficial understanding and the value of historical functionalism in reform efforts.
-lastmod: 2025-08-16
+lastmod: 2025-08-20
 publish: true
-tags: [critical-thinking, philosophy, problem-solving]
+tags:
+  - critical-thinking
+  - philosophy
+  - strategy
 ---
 
 We've been here before.

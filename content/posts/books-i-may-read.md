@@ -2,9 +2,12 @@
 title: "Books I May Read"
 date: 2025-08-18
 description: A curated list of books spanning various genres including fantasy, science fiction, philosophy, and consciousness studies, featuring works by renowned authors such as Ursula K. Le Guin, Tim Wu, and Margaret Atwood.
-lastmod: 2025-08-18
+lastmod: 2025-08-20
 publish: true
-tags: [culture, literature, reading]
+tags:
+  - culture
+  - literature
+  - reading
 ---
 
 ## Up Next
