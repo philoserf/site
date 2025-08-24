@@ -2,9 +2,15 @@
 title: "Books I Have Read"
 date: 2025-08-16
 description: Comprehensive list of books read recently, organized by publication date and including titles across a variety of genres from notable authors.
-lastmod: 2025-08-16
+lastmod: 2025-08-20
 publish: true
-tags: [books, learning, literature, personal-development, productivity, reading]
+tags:
+  - books
+  - learning
+  - literature
+  - personal-development
+  - productivity
+  - reading
 ---
 
 ## Recently finished
