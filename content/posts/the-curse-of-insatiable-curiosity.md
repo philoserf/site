@@ -2,9 +2,13 @@
 title: The Curse of Insatiable Curiosity
 date: 2025-08-04
 description: Explores the human condition of insatiable curiosity and the pursuit of knowledge, likening it to a curse where every discovery only deepens our awareness of ignorance, driving a relentless quest for understanding.
-lastmod: 2025-08-16
+lastmod: 2025-08-20
 publish: true
-tags: [curiosity, knowledge, philosophy, self-awareness]
+tags:
+  - curiosity
+  - knowledge
+  - philosophy
+  - self-awareness
 ---
 
 The story goes like this: in the garden, there was one tree we weren't supposed to touch. One bite, and we'd know too much. We bit. We knew. We fell.
