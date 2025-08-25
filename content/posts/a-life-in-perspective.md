@@ -2,7 +2,7 @@
 title: "A Life in Perspective"
 date: 2024-07-07
 description: A visual representation of life progress through decades, years, and months using color-coded markers. It reflects past achievements, present status, and future aspirations, emphasizing personal development and goal setting.
-lastmod: 2025-08-20
+lastmod: 2025-08-25
 publish: true
 tags:
   - goal-setting
@@ -13,7 +13,7 @@ tags:
 ## Key
 
 | Mark |      Meaning      |
-| :--: | :---------------: |
+|:--: |:---------------: |
 |  🟪  |       Birth       |
 |  🟧  |       Past        |
 |  🟩  |       Today       |
@@ -26,7 +26,7 @@ tags:
 75% done
 
 |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  | 9+  |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
 | 🟪  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟩  | ⬜  | 🟥  | 🟦  |
 
 ## A life by years
@@ -34,7 +34,7 @@ tags:
 73% done
 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|:-- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
 | 0   | 🟪  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 10  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 20  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
@@ -51,7 +51,7 @@ tags:
 70% done
 
 |     |  J  |  A  |  S  |  O  |  N  |  D  |  J  |  F  |  M  |  A  |  M  |  J  |
-| --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| --- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
 | 1   | 🟪  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 2   | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 3   | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
