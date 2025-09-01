@@ -5,9 +5,6 @@ description: Reflects on the transition from spring to summer, highlighting the 
 lastmod: 2025-08-20
 publish: true
 tags:
-  - beltane
-  - day-breaking
-  - late-spring
   - lifestyle
   - nature
   - self-awareness
