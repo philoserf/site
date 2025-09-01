@@ -1,11 +1,10 @@
 ---
 title: "Books I Have Read"
-date: 2025-08-16
+date: 2025-08-30
 description: Comprehensive list of books read recently, organized by publication date and including titles across a variety of genres from notable authors.
-lastmod: 2025-08-20
+lastmod: 2025-08-30
 publish: true
 tags:
-  - books
   - learning
   - literature
   - personal-development
@@ -15,6 +14,7 @@ tags:
 
 ## Recently finished
 
+- _Widowed_ by Chris A. Jackson (2019)
 - _Ghouls_ by Richard Lee Byers (2020)
 - _Altered Carbon_ by Richard K. Morgan (2002)
 - _The Dispossessed_ by Ursula K. Le Guin, 1974
