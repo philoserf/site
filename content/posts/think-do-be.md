@@ -2,7 +2,7 @@
 title: "Think, Do, Be"
 date: 2025-01-06
 description: Exploring the integration of thinking, doing, and being, this article delineates various approaches to personal growth, highlighting how thought, action, and identity interplay to shape human experience and character.
-lastmod: 2025-08-20
+lastmod: 2025-08-25
 publish: true
 tags:
   - personal-development
