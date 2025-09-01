@@ -7,7 +7,6 @@ description: Details on the author's hardware and software setup, including Appl
 lastmod: 2025-08-20
 publish: true
 tags:
-  - hardware
   - productivity
   - technology
 ---
