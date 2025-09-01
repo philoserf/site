@@ -5,8 +5,6 @@ description: Provides a step-by-step Chemex coffee brewing guide, including meas
 lastmod: 2025-08-20
 publish: true
 tags:
-  - brewing
-  - chemex
   - coffee
   - recipe
 ---
