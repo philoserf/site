@@ -9,7 +9,6 @@ tags:
   - creativity
   - nutrition
   - recipe
-  - scrambled-eggs
 ---
 
 My method of scrambling eggs involved preheating the pan, adding some butter, then cracking whole eggs directly into the pan. I then start slowly and consistently turning and moving the eggs until finished. Generally this and some salt and fresh ground pepper are enough. Occasionally the embellishments below vary the result.
