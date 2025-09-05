@@ -2,7 +2,7 @@
 title: "Books I Have Read"
 date: 2025-08-30
 description: Comprehensive list of books read recently, organized by publication date and including titles across a variety of genres from notable authors.
-lastmod: 2025-08-30
+lastmod: 2025-09-05
 publish: true
 tags:
   - learning
@@ -14,10 +14,11 @@ tags:
 
 ## Recently finished
 
+- _The Venetians_ by Paul Strathern (2013)
 - _Widowed_ by Chris A. Jackson (2019)
 - _Ghouls_ by Richard Lee Byers (2020)
-- _Altered Carbon_ by Richard K. Morgan (2002)
-- _The Dispossessed_ by Ursula K. Le Guin, 1974
+- _Altered Carbon_ by Richard K. Morgan (2002)  
+The - _The Dispossessed_ by Ursula K. Le Guin, 1974
 - _The Righteous Mind_ by Jonathan Haidt, 2012
 - _The Overstory_ by Richard Powers, 2018
 - _Manna_ by Marshall Brain, 2012
