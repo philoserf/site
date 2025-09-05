@@ -1,8 +1,8 @@
 ---
 title: "Books I May Read"
-date: 2025-08-18
+date: 2025-09-05
 description: A curated list of books spanning various genres including fantasy, science fiction, philosophy, and consciousness studies, featuring works by renowned authors such as Ursula K. Le Guin, Tim Wu, and Margaret Atwood.
-lastmod: 2025-08-20
+lastmod: 2025-09-05
 publish: true
 tags:
   - culture
@@ -12,8 +12,6 @@ tags:
 
 ## Up Next
 
-- _Always Coming Home_ by Ursula K. Le Guin (1985) - Anthropological fiction of future California societies
-- _The Mushroom at the End of the World_ by Anna Lowenhaupt Tsing (2015) - Anthropology of capitalist ruins through matsutake mushrooms
 - _The Book of Elsewhere_ by Keanu Reeves and China Miéville (2024) - Science fiction collaboration
 - _Aria: Canticle of the Monomyth_ by Christian Moore & Owen Seyler (1994) - Mythological fantasy adventure
 
