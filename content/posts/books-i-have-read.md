@@ -18,7 +18,7 @@ tags:
 - _The Venetians_ by Paul Strathern (2013)
 - _Widowed_ by Chris A. Jackson (2019)
 - _Ghouls_ by Richard Lee Byers (2020)
-- _Altered Carbon_ by Richard K. Morgan (2002)  
+- _Altered Carbon_ by Richard K. Morgan (2002)
 - _The Dispossessed_ by Ursula K. Le Guin, 1974
 - _The Righteous Mind_ by Jonathan Haidt, 2012
 - _The Overstory_ by Richard Powers, 2018
@@ -78,15 +78,15 @@ tags:
 - _Home Run_ by Nathan Lowell, 2018
 - _Milk Run_ by Nathan Lowell, 2016
 - _Suicide Run_ by Nathan Lowell, 2018
+- _The Case Against Reality_ by Donald Hoffman, 2019
+- _In Praise of Walking_ by Shane O'Mara, 2019
+- _Fortuna_ by Kristyn Merbeth, 2019
 
 ### The current decade
 
 - _The Glass Hotel_ by Emily St. John Mandel, 2020
 - _Finwell Bay_ by Nathan Lowell, 2020
 - _Cape Grace_ by Nathan Lowell, 2020
-- _The Case Against Reality_ by Donald Hoffman, 2019
-- _In Praise of Walking_ by Shane O'Mara, 2019
-- _Fortuna_ by Kristyn Merbeth, 2019
 - _Sea of Tranquility_ by Emily St. John Mandel, 2022
 - _Little Rabbit_ by Alyssa Songsiridej, 2022
 - _The Four Foundations of Golf_ by Jon Sherman, 2022
