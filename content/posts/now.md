@@ -3,9 +3,9 @@ title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
-date: 2025-09-05
+date: 2025-09-11
 description: A sales specialist based in Grand Rapids embraces a lifestyle of deliberate sleep, functional movement, and nutritious eating. Engages in strength training and running while exploring diverse interests, from crafting cocktails to reading. Anticipates upcoming events, including travel and cultural experiences.
-lastmod: 2025-09-05
+lastmod: 2025-09-11
 publish: true
 tags:
   - curiosity
@@ -27,12 +27,13 @@ I am reading:
 - _Outlive_ by Peter Attia (2023)
 - _Grim Begins_ by Wiktor Miesok (2025)
 - _Wet Work_ by Chris A. Jackson (2020)
-- _The Wind in the Willows_ by Kenneth Grahame (1908)
+- _The Star Diaries_ by Stanislaw Lem (1957)
 
 I am looking forward to:
 
-- A couple of nights out to see comedians.
 - A family gathering further up the Mitten.
+- A couple of nights out to see comedians.
+- A birthday roadtrip with Kerry.
 - A Caribbean cruise with family in late autumn.
 - The total solar eclipse on August 12, 2026, as seen from Bilbao.
 - A trip to Ireland, still in the planning.
