@@ -27,13 +27,13 @@ I am reading:
 - _Outlive_ by Peter Attia (2023)
 - _Grim Begins_ by Wiktor Miesok (2025)
 - _Wet Work_ by Chris A. Jackson (2020)
-- _The Star Diaries_ by Stanislaw Lem (1957)
+- _The Star Diaries_ by Stanisław Lem (1957)
 
 I am looking forward to:
 
 - A family gathering further up the Mitten.
 - A couple of nights out to see comedians.
-- A birthday roadtrip with Kerry.
+- A birthday road trip with Kerry.
 - A Caribbean cruise with family in late autumn.
 - The total solar eclipse on August 12, 2026, as seen from Bilbao.
 - A trip to Ireland, still in the planning.
