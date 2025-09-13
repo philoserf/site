@@ -1,8 +1,8 @@
 ---
 title: "Books I Have Read"
-date: 2025-09-10
+date: 2025-09-12
 description: Comprehensive list of books read recently, organized by publication date and including titles across a variety of genres from notable authors.
-lastmod: 2025-09-10
+lastmod: 2025-09-12
 publish: true
 tags:
   - learning
@@ -14,6 +14,7 @@ tags:
 
 ## Recently finished
 
+- _Wet Work_ by Chris A. Jackson (2020)
 - _The Wind in the Willows_ by Kenneth Grahame (1908)
 - _The Venetians_ by Paul Strathern (2013)
 - _Widowed_ by Chris A. Jackson (2019)
@@ -71,12 +72,12 @@ tags:
 - _In Ashes Born_ by Nathan Lowell, 2015
 - _Rising Strong_ by Brené Brown, 2015
 - _Babylon's Ashes_ by James S.A. Corey, 2016
+- _Milk Run_ by Nathan Lowell, 2016
 - _To Fire Called_ by Nathan Lowell, 2017
 - _Her Body and Other Parties_ by Amy Landon, 2017
 - _In Darkness Forged_ by Nathan Lowell, 2018
 - _Forever and a Day_ by Anthony Horowitz, 2018
 - _Home Run_ by Nathan Lowell, 2018
-- _Milk Run_ by Nathan Lowell, 2016
 - _Suicide Run_ by Nathan Lowell, 2018
 - _The Case Against Reality_ by Donald Hoffman, 2019
 - _In Praise of Walking_ by Shane O'Mara, 2019
