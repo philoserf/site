@@ -3,9 +3,9 @@ title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
-date: 2025-09-11
+date: 2025-09-12
 description: A sales specialist based in Grand Rapids embraces a lifestyle of deliberate sleep, functional movement, and nutritious eating. Engages in strength training and running while exploring diverse interests, from crafting cocktails to reading. Anticipates upcoming events, including travel and cultural experiences.
-lastmod: 2025-09-11
+lastmod: 2025-09-12
 publish: true
 tags:
   - curiosity
@@ -26,7 +26,6 @@ I am reading:
 - _Fallingwater: A Frank Lloyd Wright Country House_ by Edgar Kaufmann Jr. (1986)
 - _Outlive_ by Peter Attia (2023)
 - _Grim Begins_ by Wiktor Miesok (2025)
-- _Wet Work_ by Chris A. Jackson (2020)
 - _The Star Diaries_ by Stanisław Lem (1957)
 
 I am looking forward to:
