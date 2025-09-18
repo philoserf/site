@@ -123,7 +123,7 @@ tags:
 - _The Winter King_ by Bernard Cornwell (1995): Arthur demythologized: Gritty historical approach
 - _Dreaming the Eagle_ by Manda Scott (2003): Boudica's rebellion: Complex, mature perspective on Celtic resistance
 - _Isolde_ by Joan Allen (1989): Tristan & Isolde: Romantic Arthurian tradition
-- _The High Kings_ series by Joy Chant (1983-88): Epic fantasy synthesis
+- _The High Kings_ series by Joy Chant (1983–1988): Epic fantasy synthesis
 - _Lark Rising Trilogy_ by Gillian Bradshaw (1980s): Advanced: Sophisticated historical fiction finale
 
 ## Moneyless Economy
