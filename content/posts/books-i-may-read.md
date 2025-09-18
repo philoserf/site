@@ -138,4 +138,4 @@ tags:
 - _The Master and His Emissary_ by Iain McGilchrist (2009): Provides neurological framework for different modes of attention; sets up archetypal thinking scientifically
 - _Re-Visioning Psychology_ by James Hillman (1975): Archetypal critique more accessible with brain hemisphere context; challenges reductive psychology
 - _The Embodied Mind_ by Francisco Varela, Evan Thompson & Eleanor Rosch (1991): Complex synthesis requiring all previous foundations; bridges cognitive science and contemplative practice
-- _The Ego Tunnel_ by Thomas Metzinger (2009): Most technical consciousness studies; capstone requiring full conceptual toolkit from earlier works​​​​​​​​​​​​​​​​
+- _The Ego Tunnel_ by Thomas Metzinger (2009): Most technical consciousness studies; capstone requiring full conceptual toolkit from earlier works
