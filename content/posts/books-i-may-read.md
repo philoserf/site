@@ -1,8 +1,8 @@
 ---
 title: "Books I May Read"
-date: 2025-09-17
+date: 2025-09-25
 description: A curated collection of books spanning various genres, including science fiction, philosophical works, and historical novels. Provides insights into consciousness, societal issues, and personal development, featuring works by renowned and diverse authors.
-lastmod: 2025-09-17
+lastmod: 2025-09-25
 publish: true
 tags:
   - consciousness
@@ -19,17 +19,18 @@ tags:
 
 ## Recently Added
 
-- _The Last Ringbearer_ by Kirill Eskov (1999)
 - _Asceticism of the Mind_ by Inbar Graiver (n.d.): Philosophical examination of mental discipline
 - _Walden_ by Henry David Thoreau (1854): Classic on simple living and nature
-- _The Attention Merchants_ by Tim Wu (2016): History of advertising and attention capture
+- _Kingdoms of Elfin_ by Sylvia Townsend Warner (1977)
+- _The Alchemist_ by Paulo Coelho (1988): Allegorical novel about pursuing dreams
 - _Tigana_ by Guy Gavriel Kay (1990): Fantasy epic about memory and cultural erasure
 - _The Lions of Al-Rassan_ by Guy Gavriel Kay (1995): Medieval Spain-inspired fantasy
 - _Sailing to Sarantium_ by Guy Gavriel Kay (1998): Byzantine-inspired historical fantasy
+- _The Last Ringbearer_ by Kirill Eskov (1999)
 - _Under Heaven_ by Guy Gavriel Kay (2010): Tang Dynasty China-inspired fantasy
 - _A Death in the Family_ by Karl Ove Knausgård (2012): Autobiographical novel, first in My Struggle series
 - _Outline_ by Rachel Cusk (2014): Experimental novel told through conversations
-- _The Alchemist_ by Paulo Coelho (1988): Allegorical novel about pursuing dreams
+- _The Attention Merchants_ by Tim Wu (2016): History of advertising and attention capture
 
 ## Core Collection
 
