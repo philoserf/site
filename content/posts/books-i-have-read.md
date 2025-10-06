@@ -1,8 +1,8 @@
 ---
 title: "Books I Have Read"
-date: 2025-09-12
+date: 2025-10-06
 description: Comprehensive list of books read recently, organized by publication date and including titles across a variety of genres from notable authors.
-lastmod: 2025-09-12
+lastmod: 2025-10-06
 publish: true
 tags:
   - learning
@@ -14,6 +14,7 @@ tags:
 
 ## Recently finished
 
+- _The Star Diaries_ by Stanisław Lem (1957)
 - _Wet Work_ by Chris A. Jackson (2020)
 - _The Wind in the Willows_ by Kenneth Grahame (1908)
 - _The Venetians_ by Paul Strathern (2013)
