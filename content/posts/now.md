@@ -3,9 +3,9 @@ title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
-date: 2025-09-12
+date: 2025-10-06
 description: A sales specialist based in Grand Rapids embraces a lifestyle of deliberate sleep, functional movement, and nutritious eating. Engages in strength training and running while exploring diverse interests, from crafting cocktails to reading. Anticipates upcoming events, including travel and cultural experiences.
-lastmod: 2025-09-12
+lastmod: 2025-10-06
 publish: true
 tags:
   - curiosity
@@ -23,16 +23,13 @@ My current pastimes include:
 
 I am reading:
 
+- _The King of Elfland's Daughter_ by Lord Dunsany (1924)
 - _Fallingwater: A Frank Lloyd Wright Country House_ by Edgar Kaufmann Jr. (1986)
 - _Outlive_ by Peter Attia (2023)
-- _The Star Diaries_ by Stanisław Lem (1957)
 - _Meru_ by S.B. Divya (2025)
 
 I am looking forward to:
 
-- A family gathering further up the Mitten.
-- A birthday road trip with Kerry.
-- A couple of nights out to see comedians.
 - A Caribbean cruise with family in late autumn.
 - The total solar eclipse on August 12, 2026, as seen from Bilbao.
 - A trip to Ireland, still in the planning.
