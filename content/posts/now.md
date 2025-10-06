@@ -24,6 +24,7 @@ My current pastimes include:
 I am reading:
 
 - _The King of Elfland's Daughter_ by Lord Dunsany (1924)
+- _The Span of the Stars_ by Gareth Hanrahan (2019)
 - _Fallingwater: A Frank Lloyd Wright Country House_ by Edgar Kaufmann Jr. (1986)
 - _Outlive_ by Peter Attia (2023)
 - _Meru_ by S.B. Divya (2025)
