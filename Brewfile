@@ -1,3 +1,5 @@
 brew "gh"
+brew "go-task"
 brew "hugo"
+brew "markdownlint-cli"
 brew "prettier"

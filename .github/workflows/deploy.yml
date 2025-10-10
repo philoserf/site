@@ -25,7 +25,7 @@ jobs:
     if: github.repository == 'philoserf/site'
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.145.0
+      HUGO_VERSION: 0.151.0
     steps:
       - uses: actions/checkout@v5
         with:
