@@ -1,8 +1,8 @@
 ---
 title: "Books I Have Read"
-date: 2025-10-06
+date: 2025-10-14
 description: Comprehensive list of books read recently, organized by publication date and including titles across a variety of genres from notable authors.
-lastmod: 2025-10-06
+lastmod: 2025-10-14
 publish: true
 tags:
   - learning
@@ -14,6 +14,7 @@ tags:
 
 ## Recently finished
 
+- _The King of Elfland's Daughter_ by Lord Dunsany (1924)
 - _The Star Diaries_ by Stanisław Lem (1957)
 - _Wet Work_ by Chris A. Jackson (2020)
 - _The Wind in the Willows_ by Kenneth Grahame (1908)

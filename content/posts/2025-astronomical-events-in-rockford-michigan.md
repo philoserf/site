@@ -1,10 +1,13 @@
 ---
-title: 2025 Astronomical Events in Rockford, Michigan
+title: 2025 Astronomical Events in Rockford
 date: 2025-01-01
-description: An overview of astronomical events in Rockford, Michigan for 2025, including full moons, new moons, eclipses, and solstices. Key events include a total lunar eclipse in March and a partial lunar eclipse in September.
-lastmod: 2025-09-01
+description: Explore the key astronomical events in Rockford, Michigan for 2025, including full moons, new moons, equinoxes, solstices, and traditional observances like Imbolc and Samhain.
+lastmod: 2025-10-14
 publish: true
-tags: []
+tags:
+  - astronomy
+  - culture
+  - nature
 ---
 
 | Date         | Time                                                                 | Event                                                                                       |

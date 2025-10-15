@@ -3,9 +3,9 @@ title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
-date: 2025-10-06
+date: 2025-10-14
 description: A sales specialist based in Grand Rapids embraces a lifestyle of deliberate sleep, functional movement, and nutritious eating. Engages in strength training and running while exploring diverse interests, from crafting cocktails to reading. Anticipates upcoming events, including travel and cultural experiences.
-lastmod: 2025-10-06
+lastmod: 2025-10-14
 publish: true
 tags:
   - curiosity
@@ -23,7 +23,6 @@ My current pastimes include:
 
 I am reading:
 
-- _The King of Elfland's Daughter_ by Lord Dunsany (1924)
 - _The Span of the Stars_ by Gareth Hanrahan (2019)
 - _Fallingwater: A Frank Lloyd Wright Country House_ by Edgar Kaufmann Jr. (1986)
 - _Outlive_ by Peter Attia (2023)
