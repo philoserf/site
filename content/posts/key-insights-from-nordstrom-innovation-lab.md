@@ -28,7 +28,6 @@ Source: Nordstrom's Innovation Lab
 - Lean Canvas
 - Rainforest Canvas
 - Jobs To Be Done
-- Kaizen
 - User Stories
 - Journey Mapping
 - Personae
@@ -68,7 +67,6 @@ Source: Nordstrom's Innovation Lab
 - GameStorming
 - Small Bets
 - The Toyota Way
-- Gamestorming
 - StrengthsFinder
 
 ## Rituals
