@@ -11,6 +11,10 @@ tasks:
     cmds:
       - brew bundle
 
+  update:
+    cmds:
+      - git submodule update --remote --merge
+
   fix:
     deps: [bootstrap]
     cmds:
