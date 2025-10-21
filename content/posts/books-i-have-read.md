@@ -1,7 +1,7 @@
 ---
 title: "Books I Have Read"
 date: 2025-10-14
-description: Comprehensive list of books read recently, organized by publication date and including titles across a variety of genres from notable authors.
+description: A comprehensive list of recently read books spanning various genres and publication dates, from early classics to modern releases. Notable titles and authors include works by Lord Dunsany, Emily St. John Mandel, and Isaac Asimov.
 lastmod: 2025-10-14
 publish: true
 tags:
