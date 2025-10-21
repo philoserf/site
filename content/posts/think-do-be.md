@@ -1,10 +1,12 @@
 ---
 title: "Think, Do, Be"
 date: 2025-01-06
-description: Exploring the integration of thinking, doing, and being, this article delineates various approaches to personal growth, highlighting how thought, action, and identity interplay to shape human experience and character.
+description: Explores how thinking, doing, and being interact to shape personal growth and identity through various cognitive, experiential, and philosophical approaches.
 lastmod: 2025-10-21
 publish: true
 tags:
+  - cognitive-function
+  - identity
   - personal-development
   - philosophy
   - psychology
