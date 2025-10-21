@@ -6,9 +6,6 @@ description: Insights into Nordstrom Innovation Lab's use of agile methodologies
 lastmod: 2025-10-19
 publish: true
 tags:
-  - agile-methodologies
-  - business-frameworks
-  - empathy-techniques
   - innovation
 ---
 
@@ -116,18 +113,21 @@ Personal: StrengthsFinder (Rath)
 ### Remote Adaptations
 
 Async-friendly:
+
 - All frameworks (Miro, FigJam, Notion)
 - Silent Brainstorming, Affinity Mapping, Dot Voting
 - Five Second Test, Smoke Test, A/B Testing
 - Lean Coffee, Retrospectives (with discipline)
 
 Requires adaptation:
+
 - Daily Standup - needs camera-on discipline
 - Show + Tell - pre-record option reduces engagement
 - Journey Mapping - harder to collaborate live
 - Pairing - possible but friction, use VS Code Live Share
 
 Avoid remote:
+
 - Back-to-Back Listening - needs physical presence
 - Flexible Work Spaces - inherently physical
 - Auditions - rapport harder to build
