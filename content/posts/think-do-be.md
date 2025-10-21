@@ -2,7 +2,7 @@
 title: "Think, Do, Be"
 date: 2025-01-06
 description: Exploring the integration of thinking, doing, and being, this article delineates various approaches to personal growth, highlighting how thought, action, and identity interplay to shape human experience and character.
-lastmod: 2025-08-25
+lastmod: 2025-10-21
 publish: true
 tags:
   - personal-development
@@ -47,3 +47,9 @@ Intuitive approach: Core identity drives immediate action, followed by analytica
 ## Think → Be → Do
 
 Philosophical approach: Deep study transforms one's fundamental worldview, which drives new behavioral patterns. The scholar–practitioner model systematically integrates knowledge into character development and then into practical application.
+
+## Related
+
+- [Think]({{< ref "think" >}})
+- [Do]({{< ref "do" >}})
+- [Be]({{< ref "be" >}})
