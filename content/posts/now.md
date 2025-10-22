@@ -4,7 +4,7 @@ aliases:
   - /now
   - /posts/books-i-am-reading
 date: 2025-10-14
-description: A sales specialist based in Grand Rapids embraces a lifestyle of deliberate sleep, functional movement, and nutritious eating. Engages in strength training and running while exploring diverse interests, from crafting cocktails to reading. Anticipates upcoming events, including travel and cultural experiences.
+description: A Grand Rapids sales specialist embraces a lifestyle centered around intentional sleep, functional movement, and nutritious eating. Passionate about strength training, running, and crafting cocktails. Engages in reading diverse books and eagerly anticipates travel and cultural experiences.
 lastmod: 2025-10-14
 publish: true
 tags:

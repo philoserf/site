@@ -1,7 +1,7 @@
 ---
 title: "Books I May Read"
 date: 2025-09-25
-description: A curated collection of books spanning various genres, including science fiction, philosophical works, and historical novels. Provides insights into consciousness, societal issues, and personal development, featuring works by renowned and diverse authors.
+description: A diverse book collection spanning science fiction, philosophical works, and historical novels. Covers consciousness, societal issues, and personal growth, showcasing acclaimed authors.
 lastmod: 2025-09-25
 publish: true
 tags:

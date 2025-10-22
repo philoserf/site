@@ -3,13 +3,14 @@ title: "About"
 aliases:
   - /about
 date: 2025-07-29
-description: Explore simplicity and strategic thinking in life and work. The author shares personal insights from diverse experiences, blending philosophy with self-improvement, creativity, and lifelong learning across various fields.
+description: Insights on simplicity and strategic thinking in life through personal experiences. The narrative blends philosophy with self-improvement, lifelong learning, and creativity, highlighted by travels and artistic pursuits, encouraging deep thinking and intentional living.
 lastmod: 2025-08-20
 publish: true
 tags:
   - creativity
   - personal-development
   - philosophy
+  - self-improvement
 ---
 
 We are all human beings, being human.

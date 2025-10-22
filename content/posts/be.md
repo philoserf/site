@@ -1,10 +1,11 @@
 ---
 title: "Be"
 date: 2025-01-06
-description: Encourages practicing mindfulness and self-awareness by embracing qualities such as kindness, generosity, patience, and courage. Promotes living fully in the present with attributes like creativity, curiosity, and gratitude.
+description: Emphasizes mindfulness and self-awareness by embracing kindness, generosity, patience, and courage. Encourages living fully with creativity, curiosity, and gratitude.
 lastmod: 2025-10-21
 publish: true
 tags:
+  - mindfulness
   - personal-development
   - self-awareness
 ---
