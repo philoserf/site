@@ -26,7 +26,7 @@ The passive consumer serves critical functions:
 
 Without passive consumption, the active Consumer becomes another form of work, defeating its restorative purpose. The system requires both deliberate integration AND genuinely unproductive time to remain sustainable.
 
-The key is recognizing when passive consumption serves restoration versus when it becomes avoidance of necessary Maker or Manager work.​​​​​​​​​​​​​​​​
+The key is recognizing when passive consumption serves restoration versus when it becomes avoidance of necessary Maker or Manager work.
 
 ## Related
 
