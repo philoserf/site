@@ -34,27 +34,27 @@ Today, at forty-six, aches tug at his joints and his reflexes are slower. But Da
 
 No one asks why he maintains two ships. Most assume sentimentality. They're half right.
 
-Physical Presence & Temperament
+## Physical Presence & Temperament
 
 Brann Dace moves deliberately, conserving energy the way a veteran spacer conserves oxygen. His frame is lean from years in low-g corridors, but the stiffness in his shoulders reveals accumulated damage. He wears practical fabrics, favors redundant seals and pockets, and avoids clothing that telegraphs affiliation. His voice is quiet, pitched for briefing rooms, corridors, and starship bridges. He listens more than he speaks, especially in conflict.
 
 Temperamentally, Dace dislikes spectacle. He is patient, suspicious, and unfailingly polite until diplomacy fails. The only time his façade cracks is when someone suggests the Imperium doesn't keep secrets—it triggers a flicker of old fear.
 
-Adventure Hooks (Ship-Tied)
+## Adventure Hooks (Ship-Tied)
 
-The Free Trader
+### The Free Trader
 
-- A lucrative cargo contract is tangled in a customs dispute; his old law-enforcement contacts want leverage.
-- A rival trader accuses Dace of tariff fraud. Clearing his name means revealing old Intelligence ties.
+A lucrative cargo contract is tangled in a customs dispute; his old law-enforcement contacts want leverage.  
+A rival trader accuses Dace of tariff fraud. Clearing his name means revealing old Intelligence ties.
 
-The Type-S Scout/Courier
+### The Type-S Scout/Courier
 
-- Imperial recall order: the depot wants it reactivated for a courier route near hostile space.
-- Someone tries to pull maintenance records—someone hunting. The wake leads toward his Intelligence Enemy.
+Imperial recall order: the depot wants it reactivated for a courier route near hostile space.  
+Someone tries to pull maintenance records—someone hunting. The wake leads toward his Intelligence Enemy.
 
 Both ships represent choices: safety in plain sight, or speed in the shadows.
 
-Character Page (Traveller-style)
+## Character Page (Traveller-style)
 
 Name: Brann Dace
 
@@ -64,41 +64,41 @@ Age: 46
 
 Homeworld: Frontier Imperial world (average tech)
 
-Characteristics
+### Characteristics
 
-- Strength 5 (reduced by aging)
-- Dexterity 5 (reduced by aging)
-- Endurance 2 (reduced by aging)
-- Intellect 8
-- Education 4
-- Social Standing 7
-- Psi 0
+ Strength 5 (reduced by aging)  
+ Dexterity 5 (reduced by aging)  
+ Endurance 2 (reduced by aging)  
+ Intellect 8  
+ Education 4  
+ Social Standing 7  
+ Psi 0
 
-Careers
+### Careers
 
-- Scout (Courier) — Rank 1
-- Agent (Intelligence) — Rank 0
-- Agent (Law Enforcement) — Rank 0
-- Merchant (Free Trader) — Rank 0
+ Scout (Courier) — Rank 1  
+ Agent (Intelligence) — Rank 0  
+ Agent (Law Enforcement) — Rank 0  
+ Merchant (Free Trader) — Rank 0
 
-Notable Events
+### Notable Events
 
-- Delivered critical Imperial message (diplomatic training)
-- Lost close family member
-- Caused diplomatic incident with minor polity (Rival)
-- Learned forbidden intelligence (Enemy)
-- Built law-enforcement contact network
-- Legal trouble resolved through diplomacy
-- High-profit run enabled Free Trader acquisition
+ Delivered critical Imperial message (diplomatic training)  
+ Lost close family member  
+ Caused diplomatic incident with minor polity (Rival)  
+ Learned forbidden intelligence (Enemy)  
+ Built law-enforcement contact network  
+ Legal trouble resolved through diplomacy  
+ High-profit run enabled Free Trader acquisition
 
-Benefits
+### Benefits
 
-- Type-S Scout/Courier (reserve obligations)
-- Free Trader
-- Cr70,000 total mustering-out credits
-- Weapon (player's choice, likely small-arms legal)
+ Type-S Scout/Courier (reserve obligations)  
+ Free Trader  
+ Cr70,000 total mustering-out credits  
+ Weapon (player's choice, likely small-arms legal)
 
-Skills
+### Skills
 
 Astrogation-0  
 Carouse-0  
@@ -115,20 +115,20 @@ Streetwise-2
 Survival-1  
 Vacc Suit-1
 
-Contacts, Rival, Enemy
+### Contacts, Rival, Enemy
 
-- 1 law-enforcement contact (bureaucratic)
-- Rival: minor world official from political incident
-- Enemy: Intelligence faction operative tied to forbidden knowledge
+ One law-enforcement contact (bureaucratic)  
+ Rival: minor world official from political incident  
+ Enemy: Intelligence faction operative tied to forbidden knowledge
 
-Equipment (typical)
+### Equipment (typical)
 
-- Standard vacc suit (well-maintained seals)
-- Spacer comm with encrypted channel package
-- Low-profile sidearm (legal starport carry)
+ Standard vacc suit (well-maintained seals)  
+ Spacer comm with encrypted channel package  
+ Low-profile sidearm (legal starport carry)
 
-Current Situation
+### Current Situation
 
-- Operating Free Trader on marginal routes
-- Quietly monitoring mothballed Type-S
-- Maintaining distance from threats
+ Operating Free Trader on marginal routes  
+ Quietly monitoring mothballed Type-S  
+ Maintaining distance from threats
