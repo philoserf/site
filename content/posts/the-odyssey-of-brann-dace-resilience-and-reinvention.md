@@ -26,7 +26,7 @@ Attempting to vanish behind forged identities, he applied for work in the Rogue 
 
 The turning point came aboard a merchant line. His administrative discipline and diplomatic calm smoothed cargo flow. When one high-risk run delivered perfectly—tight timing, ravenous market, favorable tariffs—he received a windfall. Combined with his Merchant benefit, it allowed him to acquire a Free Trader. Not new. Not glamorous. But profitable—something the Scout ship had never been.
 
-The Free Trader became his public face: a legitimate hull, a dull registry number, a thousand kilos of cargo capacity. He moved freight between marginal worlds, negotiated berthing fees, and kept customs inspectors politely confused. For a few years, he even experienced the high life—good meals, better drink, and travel without fear.
+The Free Trader became his public face: a legitimate hull, a dull registry number, a thousand kilos of cargo capacity. He moved freight between marginal worlds, negotiated berthing fees, and kept customs inspectors politely confused. For a few years, he even experienced the high life—good meals, better drink, and travel without fear.#
 
 Behind all of it, the Type-S slept in reserve storage, its IISS serial number dormant in Imperial systems. Brann kept paying the fees. Sometimes he sent a software patch. Sometimes he checked the environmental log. He never explained to crew why he smiled faintly when someone mentioned the Scouts.
 
@@ -34,25 +34,6 @@ Today, at forty-six, aches tug at his joints and his reflexes are slower. But Da
 
 No one asks why he maintains two ships. Most assume sentimentality. They're half right.
 
-## Physical Presence & Temperament
-
-Brann Dace moves deliberately, conserving energy the way a veteran spacer conserves oxygen. His frame is lean from years in low-g corridors, but the stiffness in his shoulders reveals accumulated damage. He wears practical fabrics, favors redundant seals and pockets, and avoids clothing that telegraphs affiliation. His voice is quiet, pitched for briefing rooms, corridors, and starship bridges. He listens more than he speaks, especially in conflict.
-
-Temperamentally, Dace dislikes spectacle. He is patient, suspicious, and unfailingly polite until diplomacy fails. The only time his façade cracks is when someone suggests the Imperium doesn't keep secrets—it triggers a flicker of old fear.
-
-## Adventure Hooks (Ship-Tied)
-
-### The Free Trader
-
-A lucrative cargo contract is tangled in a customs dispute; his old law-enforcement contacts want leverage.  
-A rival trader accuses Dace of tariff fraud. Clearing his name means revealing old Intelligence ties.
-
-### The Type-S Scout/Courier
-
-Imperial recall order: the depot wants it reactivated for a courier route near hostile space.  
-Someone tries to pull maintenance records—someone hunting. The wake leads toward his Intelligence Enemy.
-
-Both ships represent choices: safety in plain sight, or speed in the shadows.
 
 ## Character Page (Traveller-style)
 
@@ -132,3 +113,23 @@ Vacc Suit-1
  Operating Free Trader on marginal routes  
  Quietly monitoring mothballed Type-S  
  Maintaining distance from threats
+
+###  Physical Presence & Temperament
+
+Brann Dace moves deliberately, conserving energy the way a veteran spacer conserves oxygen. His frame is lean from years in low-g corridors, but the stiffness in his shoulders reveals accumulated damage. He wears practical fabrics, favors redundant seals and pockets, and avoids clothing that telegraphs affiliation. His voice is quiet, pitched for briefing rooms, corridors, and starship bridges. He listens more than he speaks, especially in conflict.
+
+Temperamentally, Dace dislikes spectacle. He is patient, suspicious, and unfailingly polite until diplomacy fails. The only time his façade cracks is when someone suggests the Imperium doesn't keep secrets—it triggers a flicker of old fear.
+
+### Adventure Hooks (Ship-Tied)
+
+#### The Free Trader
+
+A lucrative cargo contract is tangled in a customs dispute; his old law-enforcement contacts want leverage.  
+A rival trader accuses Dace of tariff fraud. Clearing his name means revealing old Intelligence ties.
+
+####  The Type-S Scout/Courier
+
+Imperial recall order: the depot wants it reactivated for a courier route near hostile space.  
+Someone tries to pull maintenance records—someone hunting. The wake leads toward his Intelligence Enemy.
+
+Both ships represent choices: safety in plain sight, or speed in the shadows.
