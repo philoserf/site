@@ -26,7 +26,7 @@ Attempting to vanish behind forged identities, he applied for work in the Rogue 
 
 The turning point came aboard a merchant line. His administrative discipline and diplomatic calm smoothed cargo flow. When one high-risk run delivered perfectly—tight timing, ravenous market, favorable tariffs—he received a windfall. Combined with his Merchant benefit, it allowed him to acquire a Free Trader. Not new. Not glamorous. But profitable—something the Scout ship had never been.
 
-The Free Trader became his public face: a legitimate hull, a dull registry number, a thousand kilos of cargo capacity. He moved freight between marginal worlds, negotiated berthing fees, and kept customs inspectors politely confused. For a few years, he even experienced the high life—good meals, better drink, and travel without fear.#
+The Free Trader became his public face: a legitimate hull, a dull registry number, a thousand kilos of cargo capacity. He moved freight between marginal worlds, negotiated berthing fees, and kept customs inspectors politely confused. For a few years, he even experienced the high life—good meals, better drink, and travel without fear.
 
 Behind all of it, the Type-S slept in reserve storage, its IISS serial number dormant in Imperial systems. Brann kept paying the fees. Sometimes he sent a software patch. Sometimes he checked the environmental log. He never explained to crew why he smiled faintly when someone mentioned the Scouts.
 
