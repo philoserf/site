@@ -34,7 +34,6 @@ Today, at forty-six, aches tug at his joints and his reflexes are slower. But Da
 
 No one asks why he maintains two ships. Most assume sentimentality. They're half right.
 
-
 ## Character Page (Traveller-style)
 
 Name: Brann Dace
@@ -84,8 +83,7 @@ Homeworld: Frontier Imperial world (average tech)
 Astrogation-0  
 Carouse-0  
 Deception-2  
-Diplomat-1  
-Diplomat-1  
+Diplomat-2  
 Drive-0  
 Engineer-2  
 Gun Combat-0  
@@ -114,7 +112,7 @@ Vacc Suit-1
  Quietly monitoring mothballed Type-S  
  Maintaining distance from threats
 
-###  Physical Presence & Temperament
+### Physical Presence & Temperament
 
 Brann Dace moves deliberately, conserving energy the way a veteran spacer conserves oxygen. His frame is lean from years in low-g corridors, but the stiffness in his shoulders reveals accumulated damage. He wears practical fabrics, favors redundant seals and pockets, and avoids clothing that telegraphs affiliation. His voice is quiet, pitched for briefing rooms, corridors, and starship bridges. He listens more than he speaks, especially in conflict.
 
@@ -127,7 +125,7 @@ Temperamentally, Dace dislikes spectacle. He is patient, suspicious, and unfaili
 A lucrative cargo contract is tangled in a customs dispute; his old law-enforcement contacts want leverage.  
 A rival trader accuses Dace of tariff fraud. Clearing his name means revealing old Intelligence ties.
 
-####  The Type-S Scout/Courier
+#### The Type-S Scout/Courier
 
 Imperial recall order: the depot wants it reactivated for a courier route near hostile space.  
 Someone tries to pull maintenance records—someone hunting. The wake leads toward his Intelligence Enemy.
