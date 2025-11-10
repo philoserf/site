@@ -3,9 +3,9 @@ title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
-date: 2025-10-14
+date: 2025-11-07
 description: A Grand Rapids sales specialist embraces a lifestyle centered around intentional sleep, functional movement, and nutritious eating. Passionate about strength training, running, and crafting cocktails. Engages in reading diverse books and eagerly anticipates travel and cultural experiences.
-lastmod: 2025-10-14
+lastmod: 2025-11-07
 publish: true
 tags:
   - curiosity
@@ -24,9 +24,9 @@ My current pastimes include:
 I am reading:
 
 - _The Span of the Stars_ by Gareth Hanrahan (2019)
-- _Fallingwater: A Frank Lloyd Wright Country House_ by Edgar Kaufmann Jr. (1986)
 - _Outlive_ by Peter Attia (2023)
 - _Meru_ by S.B. Divya (2025)
+- _A Canticle for Leibowitz_ by Walter M Miller Jr (1959)
 
 I am looking forward to:
 
