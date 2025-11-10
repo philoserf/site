@@ -4,7 +4,7 @@ aliases:
   - /about
 date: 2025-07-29
 description: Explores simplicity and strategic thinking in life through personal experiences, blending philosophy with self-improvement, lifelong learning, and creativity. Highlights travels, artistic pursuits, and intentional living.
-lastmod: 2025-08-20
+lastmod: 2025-10-22
 publish: true
 tags:
   - creativity
@@ -37,7 +37,7 @@ Mark Ayers has worked mowing lawns, fast food, and retail, served in the U.S. Ar
 
 After graduating in Political Science from the University at Albany, Mark refined his leadership, collaboration, and discipline through military service. He has held roles in local non-profits, sharing his expertise to drive community change.
 
-Mark’s life isn’t just about work. He enjoys exploring new places, cherishes family moments, and maintains personal well-being.
+Mark's life isn't just about work. He enjoys exploring new places, cherishes family moments, and maintains personal well-being.
 
 ## Connect
 
