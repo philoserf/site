@@ -46,7 +46,7 @@ Homeworld: Frontier Imperial world (average tech)
 
 ### Characteristics
 
- Strength 5 (reduced by aging)  
+Strength 5 (reduced by aging)  
  Dexterity 5 (reduced by aging)  
  Endurance 2 (reduced by aging)  
  Intellect 8  
@@ -56,14 +56,14 @@ Homeworld: Frontier Imperial world (average tech)
 
 ### Careers
 
- Scout (Courier) — Rank 1  
+Scout (Courier) — Rank 1  
  Agent (Intelligence) — Rank 0  
  Agent (Law Enforcement) — Rank 0  
  Merchant (Free Trader) — Rank 0
 
 ### Notable Events
 
- Delivered critical Imperial message (diplomatic training)  
+Delivered critical Imperial message (diplomatic training)  
  Lost close family member  
  Caused diplomatic incident with minor polity (Rival)  
  Learned forbidden intelligence (Enemy)  
@@ -73,7 +73,7 @@ Homeworld: Frontier Imperial world (average tech)
 
 ### Benefits
 
- Type-S Scout/Courier (reserve obligations)  
+Type-S Scout/Courier (reserve obligations)  
  Free Trader  
  Cr70,000 total mustering-out credits  
  Weapon (player's choice, likely small-arms legal)
@@ -96,19 +96,19 @@ Vacc Suit-1
 
 ### Contacts, Rival, Enemy
 
- One law-enforcement contact (bureaucratic)  
+One law-enforcement contact (bureaucratic)  
  Rival: minor world official from political incident  
  Enemy: Intelligence faction operative tied to forbidden knowledge
 
 ### Equipment (typical)
 
- Standard vacc suit (well-maintained seals)  
+Standard vacc suit (well-maintained seals)  
  Spacer comm with encrypted channel package  
  Low-profile sidearm (legal starport carry)
 
 ### Current Situation
 
- Operating Free Trader on marginal routes  
+Operating Free Trader on marginal routes  
  Quietly monitoring mothballed Type-S  
  Maintaining distance from threats
 

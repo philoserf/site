@@ -1,8 +1,8 @@
 ---
 title: "Books I Have Read"
-date: 2025-10-14
+date: 2025-11-07
 description: A comprehensive list of recently read books spanning various genres and publication dates, from early classics to modern releases. Notable titles and authors include works by Lord Dunsany, Emily St. John Mandel, and Isaac Asimov.
-lastmod: 2025-10-14
+lastmod: 2025-11-07
 publish: true
 tags:
   - learning
@@ -14,6 +14,7 @@ tags:
 
 ## Recently finished
 
+- _Snow Crash_ by Neal Stephenson (1992)
 - _The King of Elfland's Daughter_ by Lord Dunsany (1924)
 - _The Star Diaries_ by Stanisław Lem (1957)
 - _Wet Work_ by Chris A. Jackson (2020)
