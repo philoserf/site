@@ -1,4 +1,5 @@
 ---
+title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
@@ -10,7 +11,6 @@ tags:
   - curiosity
   - fitness
   - nutrition
-title: Embracing a Lifestyle of Deliberate Rhythms and Exploration
 ---
 
 Currently based in Greater Grand Rapids, Michigan, I contribute improvements to open-source projects whenever I spot opportunities. Each day follows my core rhythm: sleep deliberately, move functionally, eat nutritiously, grow intellectually, play joyfully, and share generously. Currently exploring a broad range of interests with depth where appropriate—letting curiosity lead rather than ambition. I am grateful for the gift of insatiable curiosity.
@@ -21,6 +21,7 @@ My current pastimes include:
 - Crafting winter-themed toddies and hot-buttered rums
 
 I am reading:
+
 - _Grognard_ by Loren Wiseman (2017)
 - _Outlive_ by Peter Attia (2023)
 - _Meru_ by SB Divya (2025)
