@@ -2,9 +2,9 @@
 title: "About"
 aliases:
   - /about
-date: 2025-07-29
-description: Explores simplicity and strategic thinking in life through personal experiences, blending philosophy with self-improvement, lifelong learning, and creativity. Highlights travels, artistic pursuits, and intentional living.
-lastmod: 2025-10-22
+date: 2025-11-19
+description: Explores simplicity and strategic thinking through personal experiences, blending philosophy with self-improvement, lifelong learning, and creativity. Highlights travels, artistic pursuits, and intentional living, underscoring the importance of clarity, discipline, and effective communication.
+lastmod: 2025-11-19
 publish: true
 tags:
   - creativity
@@ -13,34 +13,21 @@ tags:
   - self-improvement
 ---
 
+This is where I think in public—exploring ideas as they arrive, reflecting on experience earned over years, sharing the things I had to learn the hard way, testing what might help others think better, and saying what I believe needs saying—clearly, publicly, and without hedging.
+
 We are all human beings, being human.
 
 HOMO·HOMINIS·ESSE  
 COGITA·DISCE·NECTE·ENUNTIA
 
-## Philosophy
+I keep my rules simple: say yes and build; name things once; assume good intentions; ask for permission only when it matters; keep tools and structure as small as possible; follow defaults until they fail; keep the signal sharp.
 
-Yes, and…  
-Name things once.  
-Assume good intentions.  
-Only ask for permission once.  
-Simplicity is hard but essential.  
-Use one file until you need another.  
-Use one folder until you need another.  
-Submit to defaults first; customize intentionally.
+I've spent time in small towns, big cities, ancient ruins, busy shops, server rooms, and a few places in between. I've shoveled snow, served burgers, worn a uniform, led teams, survived meetings that should've been emails, and worked alongside people trying to make something better.
 
-Think deeply, learn continuously, reveal connections, articulate clearly—all with strategic vision.
+Years in the Army taught me how clarity and discipline can carry a team through chaos. Time in nonprofits reminded me that small groups can move mountains. Work across companies of every size revealed that good people everywhere are trying to solve hard problems with limited time.
 
-## Who I Am
+What I carry from all of it: a sense of consequence, a habit of watching the edges, and the belief that thought only becomes real when translated into words others can use.
 
-Mark Ayers has worked mowing lawns, fast food, and retail, served in the U.S. Army, and worked for Fortune 500 companies and tech startups. After being raised in small towns and exurbia, his journey has taken him from urban centers to ancient ruins in Italy, Turkey, and Japan.
+The easiest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
 
-After graduating in Political Science from the University at Albany, Mark refined his leadership, collaboration, and discipline through military service. He has held roles in local non-profits, sharing his expertise to drive community change.
-
-Mark's life isn't just about work. He enjoys exploring new places, cherishes family moments, and maintains personal well-being.
-
-## Connect
-
-The simplest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
-
-_The views expressed here are my own. They are not endorsed, approved, or reviewed by any other person or organization._
+_The views here are my own._
