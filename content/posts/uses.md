@@ -14,21 +14,21 @@ tags:
 
 ## Hardware
 
-- iPhone Air  
-- iPad Pro (M4) with Pencil Pro  
-- MacBook Air (M4)  
-- Mac Mini (M4 Pro)  
-- LG HDR Ultra-Wide QHD monitor  
-- Apple Watch Series 10  
-- AirPods Pro 3  
+- iPhone Air
+- iPad Pro (M4) with Pencil Pro
+- MacBook Air (M4)
+- Mac Mini (M4 Pro)
+- LG HDR Ultra-Wide QHD monitor
+- Apple Watch Series 10
+- AirPods Pro 3
 
 ## Software
 
-- Terminal: Ghostty + Fish  
-- Editor: Visual Studio Code  
-- Languages: Go (primary), occasional TypeScript  
-- Notes & knowledge: Obsidian  
-- Experiments: Claude Code  
+- Terminal: Ghostty + Fish
+- Editor: Visual Studio Code
+- Languages: Go (primary), occasional TypeScript
+- Notes & knowledge: Obsidian
+- Experiments: Claude Code
 
 ## Purpose
 
