@@ -1,33 +1,23 @@
 BEGIN:VCARD
 VERSION:3.0
-
-# Basic Information
 FN:Mark Ayers
 N:Ayers;Mark;;;
 NICKNAME:philoserf
-BDAY:1962-07-04
+BDAY:19620704
 LANG:en-US
 
-# Contact Details
 EMAIL;TYPE=INTERNET:mark@philoserf.com
 TEL;TYPE=CELL:+12062804061
-ADDR;TYPE=HOME:;;160 ROLLINGWOOD DR;Rockford;MI;49341;United States
-
-# Professional Info
-TITLE:Sales Specialist
-ORG:Apple
+ADR;TYPE=HOME:;;160 Rollingwood Dr;Rockford;MI;49341;United States
 TZ:America/Detroit
 
-# Online Presence
 URL:https://philoserf.com/
-X-SOCIALPROFILE;TYPE=github:https://github.com/philoserf
-X-SOCIALPROFILE;TYPE=mastodon:https://pkm.social/@philoserf
-X-SOCIALPROFILE;TYPE=bluesky:https://philoserf.bsky.social/
-# X-SOCIALPROFILE;TYPE=linkedin:https://linkedin.com/in/TBD
+X-SOCIALPROFILE;type=github:https://github.com/philoserf
+X-SOCIALPROFILE;type=mastodon:https://pkm.social/@philoserf
+X-SOCIALPROFILE;type=bluesky:https://philoserf.bsky.social/
 
-# Additional Info
-PHOTO;TYPE=JPEG:https://philoserf.com/images/avatar.jpeg
+PHOTO;VALUE=URI:https://philoserf.com/images/avatar.jpeg
 SOURCE:https://philoserf.com/vcard.vcf
-NOTE:Deeply think\, learn constantly\, make unexpected connections\, and articulate complex ideas with confidence in a strategic vision.
-REV:20250306T120000Z
+NOTE:COGITA·DISCE·NECTE·ENUNTIA
+REV:20251119T120000Z
 END:VCARD
