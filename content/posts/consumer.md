@@ -2,7 +2,7 @@
 title: "Consumer"
 date: 2025-04-11
 description: Emphasizes the consumer's role in stress relief and cognitive restoration through passive consumption and deliberate integration, highlighting the importance of mental downtime.
-lastmod: 2025-10-21
+lastmod: 2025-11-19
 tags:
   - mental-health
   - self-improvement
@@ -27,9 +27,3 @@ The passive consumer serves critical functions:
 Without passive consumption, the active Consumer becomes another form of work, defeating its restorative purpose. The system requires both deliberate integration AND genuinely unproductive time to remain sustainable.
 
 The key is recognizing when passive consumption serves restoration versus when it becomes avoidance of necessary Maker or Manager work.​​​​​​​​​​​​​​​​
-
-## Related
-
-- [Maker]({{< ref "maker" >}})
-- [Manager]({{< ref "manager" >}})
-- [Maker, Manager, & Consumer]({{< ref "maker-manager-consumer" >}})
