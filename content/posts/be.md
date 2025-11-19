@@ -11,9 +11,3 @@ tags:
 ---
 
 Be here now, sure. Be present for others. Be yourself, and realize _anatta_. Be kind. Be generous. Be loving. Be patient. Be forgiving. Be grateful. Be humble. Be honest. Be strong. Be wise. Be courageous. Be curious. Be creative. Be playful. Be mindful. Be aware. Be awake. Be alive.
-
-## Related
-
-- [Think]({{< ref "think" >}})
-- [Do]({{< ref "do" >}})
-- [Think, Do, Be]({{< ref "think-do-be" >}})

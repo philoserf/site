@@ -2,7 +2,7 @@
 title: "Think, Do, Be"
 date: 2025-01-06
 description: Explores how thinking, doing, and being interact to shape personal growth and identity through various cognitive, experiential, and philosophical approaches.
-lastmod: 2025-10-21
+lastmod: 2025-11-19
 publish: true
 tags:
   - cognitive-function
@@ -49,9 +49,3 @@ Intuitive approach: Core identity drives immediate action, followed by analytica
 ## Think → Be → Do
 
 Philosophical approach: Deep study transforms one's fundamental worldview, which drives new behavioral patterns. The scholar–practitioner model systematically integrates knowledge into character development and then into practical application.
-
-## Related
-
-- [Think]({{< ref "think" >}})
-- [Do]({{< ref "do" >}})
-- [Be]({{< ref "be" >}})

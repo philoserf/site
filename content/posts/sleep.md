@@ -15,9 +15,7 @@ My critical foci for a happy, healthy, productive life are these: sleep, move, e
 
 Sleep: Sleep is the foundation for all other activities, regulates hormones, enables recovery, and enhances cognitive function
 
-## Notes
-
-- To help improve sleep consistency, try to go to bed and wake up on schedule each day. Also, limit exposure to screens close to bedtime to help your body prepare for rest.
+To help improve sleep consistency, try to go to bed and wake up on schedule each day. Also, limit exposure to screens close to bedtime to help your body prepare for rest.
 
 ## 10-3-2-1-0
 
@@ -162,12 +160,3 @@ It's sexier. But also "bright lights impact on melatonin production, which is th
 Humidify your life
 
 While this might seem incredibly extra (especially in the UK, where MR PORTER is based), Lee says that "keeping the air in your bedroom well humidified (the optimum is 40 to 60 percent humidity) can help keep your nasal passageways, mouth, and airways, stay hydrated, which can aid nighttime breathing." So consider it; you're worth it.
-
-## Related
-
-- [Move]({{< ref "move" >}})
-- [Eat]({{< ref "eat" >}})
-- [Grow]({{< ref "grow" >}})
-- [Play]({{< ref "play" >}})
-- [Share]({{< ref "share" >}})
-- [Sleep, Move, Eat, Grow, Play & Share]({{< ref "sleep-move-eat-grow-play-share" >}})
