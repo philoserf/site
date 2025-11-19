@@ -4,7 +4,7 @@ aliases:
   - /now
   - /posts/books-i-am-reading
 date: 2025-11-19
-description: "Exploring a life of deliberate rhythms in Grand Rapids, Michigan: focusing on sleep, movement, nutrition, and intellectual growth. Passionate about strength training, crafting cocktails, and curiosity-driven exploration through reading and travel. Engaged in open-source contributions and planning future journeys."
+description: Pursuing deliberate living in Grand Rapids, emphasizing sleep, movement, nutrition, and intellectual growth. Engages in strength training, mixology, and exploratory reading and travel. Active in open-source contributions and strategic travel planning.
 lastmod: 2025-11-19
 publish: true
 tags:
