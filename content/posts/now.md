@@ -4,18 +4,18 @@ aliases:
   - /now
   - /posts/books-i-am-reading
 date: 2025-11-20
-lastmod: 2025-11-20
+lastmod: 2025-11-21
 publish: true
 tags:
-  - books-to-read
-  - self-improvement
+  - health-span
+  - reading
   - travel
-description: Exploring Greater Grand Rapids, focusing on health improvement, reading classic science fiction, and planning upcoming trips to Ireland and Spain for unique experiences, including the 2026 total solar eclipse.
+description: Exploring books like Grognard and A Canticle for Leibowitz, focusing on building strength for long-term health, and looking forward to a solar eclipse in Spain and a planned trip to Ireland.
 ---
 
 ## Where am I
 
-- Greater Grand Rapids, Michigan
+- Greater Detroit, Michigan
 
 ## What am I Reading
 
