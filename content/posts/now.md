@@ -3,27 +3,27 @@ title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
-date: 2025-11-20
-lastmod: 2025-11-21
+date: 2025-11-22
+lastmod: 2025-11-22
 publish: true
 tags:
-  - health-span
-  - reading
   - travel
-description: Exploring books like Grognard and A Canticle for Leibowitz, focusing on building strength for long-term health, and looking forward to a solar eclipse in Spain and a planned trip to Ireland.
+  - reading
+  - holidays
+description: Flying from Detroit to San Juan while reading and planning trips. Focused on holiday relaxation with family and looking forward to a solar eclipse and future travels.
 ---
 
 ## Where am I
 
-- Greater Detroit, Michigan
+- In the sky between Detroit, Michigan and San Juan, Puerto Rico
 
-## What am I Reading
+## What am I reading
 
 - _Grognard_ by Loren Wiseman (1992) and _A Canticle for Leibowitz_ by Walter M Miller Jr (1959)
 
 ## What am I focused on
 
-- Building strength and stamina for long-term health-span
+- Relaxing with family for the holidays
 
 ## What I'm looking forward to
 
