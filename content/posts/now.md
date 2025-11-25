@@ -4,18 +4,18 @@ aliases:
   - /now
   - /posts/books-i-am-reading
 date: 2025-11-22
-lastmod: 2025-11-22
+lastmod: 2025-11-24
 publish: true
 tags:
+  - books
+  - relaxation
   - travel
-  - reading
-  - holidays
-description: Flying from Detroit to San Juan while reading and planning trips. Focused on holiday relaxation with family and looking forward to a solar eclipse and future travels.
+description: Enjoying the holidays in the Caribbean, reading classic books, and looking forward to a solar eclipse and future travels.
 ---
 
 ## Where am I
 
-- In the sky between Detroit, Michigan and San Juan, Puerto Rico
+- in the Caribbean Sea
 
 ## What am I reading
 
