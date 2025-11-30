@@ -3,19 +3,19 @@ title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
-date: 2025-11-22
-lastmod: 2025-11-24
+date: 2025-11-30
+lastmod: 2025-11-30
 publish: true
 tags:
   - books
-  - relaxation
+  - solar-eclipse
   - travel
-description: Enjoying the holidays in the Caribbean, reading classic books, and looking forward to a solar eclipse and future travels.
+description: Enjoying Puerto Rico, reading two books, and planning future travels. Looking forward to winter weather, a solar eclipse in Spain, and a 2027 trip to Ireland.
 ---
 
 ## Where am I
 
-- in the Caribbean Sea
+- San Juan, Puerto Rico
 
 ## What am I reading
 
@@ -23,7 +23,7 @@ description: Enjoying the holidays in the Caribbean, reading classic books, and 
 
 ## What am I focused on
 
-- Relaxing with family for the holidays
+- heading home into winter weather
 
 ## What I'm looking forward to
 
