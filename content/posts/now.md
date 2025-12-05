@@ -3,14 +3,14 @@ title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
-date: 2025-12-02
-lastmod: 2025-12-02
+date: 2025-12-04
+lastmod: 2025-12-04
 publish: true
 tags:
-  - books
+  - hobbies
   - reading
-  - travel
-description: Currently in Grand Rapids, Michigan, reading Grognard and A Canticle for Leibowitz. Focusing on settling back in after travels. Anticipating a cold winter, Ignite! Seattle event, Spain's solar eclipse, and planning a trip to Ireland for 2027.
+  - travel-plans
+description: Currently at home in Grand Rapids, Michigan, focused on returning from travels and reading. Looking forward to a cold winter, Ignite! Seattle, a solar eclipse in Spain, and planning a trip to Ireland.
 ---
 
 ## Where am I
@@ -24,11 +24,11 @@ At home in Greater Grand Rapids, Michigan
 
 ## What am I focused on
 
-Settling back into home after some time away
+Returning home after some time away
 
 ## What I'm looking forward to
 
 - A cold, dark winter
 - Ignite! Seattle 50 at Benaroya Hall in March
-- The 2026 total solar eclipse, as seen from Spain
+- A total solar eclipse on August 12, 2026, viewed from Spain
 - A trip to Ireland, in planning for 2027
