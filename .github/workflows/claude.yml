@@ -10,12 +10,12 @@ on:
   pull_request_review:
     types: [submitted]
 
-permissions:
-  id-token: write
-
 jobs:
   claude-response:
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
     steps:
       - uses: anthropics/claude-code-action@v1
         with:
