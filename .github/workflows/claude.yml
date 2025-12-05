@@ -1,4 +1,5 @@
 name: Claude Assistant
+
 on:
   issue_comment:
     types: [created]
@@ -12,6 +13,9 @@ on:
 jobs:
   claude-response:
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
     steps:
       - uses: anthropics/claude-code-action@v1
         with:
