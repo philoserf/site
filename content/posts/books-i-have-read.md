@@ -12,7 +12,7 @@ description: A comprehensive list of books organized by publication date, highli
 
 ## Recently finished
 
-- _A Canticle for Leibowitz_ by Walter M Miller Jr (1959)
+- _A Canticle for Leibowitz_ by Walter M. Miller Jr. (1959)
 - _Snow Crash_ by Neal Stephenson (1992)
 - _The King of Elfland's Daughter_ by Lord Dunsany (1924)
 - _The Star Diaries_ by Stanisław Lem (1957)
