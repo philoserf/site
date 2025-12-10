@@ -3,14 +3,14 @@ title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
-date: 2025-12-05
-lastmod: 2025-12-05
+date: 2025-12-10
+lastmod: 2025-12-10
 publish: true
 tags:
-  - hobbies
   - reading
-  - travel-plans
-description: Currently at home in Grand Rapids, Michigan, focused on returning from travels and reading. Looking forward to a cold winter, Ignite! Seattle, a solar eclipse in Spain, and planning a trip to Ireland.
+  - travel
+  - weather
+description: Enjoying time at home in Michigan, reading Burroughs and Wiseman, preparing for a snowy winter, and planning future travels to Spain and Ireland.
 ---
 
 ## Where am I
@@ -24,7 +24,7 @@ At home in Greater Grand Rapids, Michigan
 
 ## What am I focused on
 
-Returning home after some time away
+- Shoveling snow
 
 ## What I'm looking forward to
 
