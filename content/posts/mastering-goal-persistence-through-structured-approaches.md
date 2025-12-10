@@ -23,7 +23,7 @@ Initial progress lifts $P(A_{t})$. Without skill development ($s \rightarrow 0$)
 
 The model explains inverted-U curves: fast start, vulnerable middle, stable end.
 
------
+---
 
 **Learning Go from Python**
 
@@ -41,6 +41,6 @@ Months 2-4: Value tested before benefits materialize. Skill gains slow. Depletio
 
 Month 6+: Survivors see value climb as note networks compound. Skills refine. Depletion falls through automation. Interference stabilizes. $P(A_{t})$ crosses threshold into habit with accelerating returns.
 
------
+---
 
 The middle phase kills most goals: $c > s$ while $I_{t}$ grows. Parameters vary by person—some deplete faster, others manage interference better. Interventions: strengthen $V$ through values alignment, accelerate $s$ through practice, reduce $c$ through rest, control $I_{t}$ through environment design.
