@@ -3,25 +3,30 @@ version: "3"
 
 tasks:
   default:
+    desc: Build the Hugo site (default task)
     deps: [build]
 
   bootstrap:
+    desc: Install all required dependencies via Homebrew
     sources: [Brewfile]
     generates: [Brewfile.lock.json]
     cmds:
       - brew bundle
 
   update:
+    desc: Update hugo-coder theme to latest version
     cmds:
       - git submodule update --remote --merge
 
   fix:
+    desc: Auto-fix formatting with Prettier and markdownlint
     deps: [bootstrap]
     cmds:
       - prettier --write --list-different --ignore-unknown .
       - markdownlint --fix .
 
   build:
+    desc: Build Hugo site including drafts and future posts
     deps: [bootstrap]
     sources: [hugo.yaml, content/**/*, static/**/*]
     generates: [public/**/*]
@@ -29,11 +34,36 @@ tasks:
       - hugo --cleanDestinationDir --buildFuture --buildDrafts --buildExpired
 
   serve:
+    desc: Start local development server with live reload
     deps: [bootstrap]
     cmds:
-      - hugo server --buildDrafts --buildFuture --buildExpired --disableFastRender --navigateToChanged
+      - hugo server --buildDrafts --buildFuture --buildExpired
+        --disableFastRender --navigateToChanged
+
+  validate-content:
+    desc: Validate frontmatter completeness and consistency
+    cmds:
+      - ./scripts/validate-content.sh
+
+  validate:
+    desc: Run all validation checks (content)
+    deps: [validate-content]
+
+  optimize-images:
+    desc: Optimize images in static/images directory
+    deps: [bootstrap]
+    cmds:
+      - |
+        echo "🖼️  Optimizing PNG images..."
+        find static/images -name "*.png" -exec pngquant --force --ext .png --quality=65-80 {} \;
+        echo "🖼️  Optimizing JPEG images..."
+        find static/images -name "*.jpg" -o -name "*.jpeg" | while read img; do
+          mogrify -strip -interlace Plane -quality 85 "$img"
+        done
+        echo "✅ Image optimization complete!"
 
   commit:
+    desc: Interactive commit workflow (requires non-main branch)
     deps: [bootstrap, build]
     interactive: true
     cmds:
@@ -42,5 +72,6 @@ tasks:
       - git diff --name-only
       - read -rp "Control-C to abort, Enter to continue." _
       - git add .
-      - read -rp "Commit message? " COMMIT_MESSAGE && git commit -m "${COMMIT_MESSAGE}"
+      - read -rp "Commit message? " COMMIT_MESSAGE && git commit -m
+        "${COMMIT_MESSAGE}"
       - git push

@@ -1,7 +1,6 @@
 ---
 date: 2025-01-01
-description:
-  Sunrise and sunset times for Rockford, Michigan, for 2025 are provided
+description: Sunrise and sunset times for Rockford, Michigan, for 2025 are provided
   for each day from October through December, aiding in efficient planning of activities
   dependent on daylight.
 lastmod: 2025-10-16
