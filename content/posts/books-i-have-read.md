@@ -1,7 +1,7 @@
 ---
 title: "Books I Have Read"
-date: 2025-12-05
-lastmod: 2025-12-05
+date: 2025-12-11
+lastmod: 2025-12-11
 publish: true
 tags:
   - book-review
@@ -12,6 +12,7 @@ description: A comprehensive list of books organized by publication date, highli
 
 ## Recently finished
 
+- _Grognard_ by Loren Wiseman (1992)
 - _A Canticle for Leibowitz_ by Walter M. Miller Jr. (1959)
 - _Snow Crash_ by Neal Stephenson (1992)
 - _The King of Elfland's Daughter_ by Lord Dunsany (1924)
