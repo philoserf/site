@@ -26,30 +26,15 @@ for contributing to this Hugo-based personal website.
    task bootstrap
    ```
 
-   This installs: Hugo, Prettier, markdownlint-cli, go-task, gh (GitHub CLI),
-   and Ruby
+   This installs: Hugo, Prettier, markdownlint-cli, go-task, gh (GitHub CLI)
 
-3. **Install htmlproofer (optional, for link validation)**
-
-   ```bash
-   # Add Homebrew Ruby to PATH (if not already done)
-   fish_add_path /opt/homebrew/opt/ruby/bin
-
-   # Install htmlproofer without sudo
-   gem install html-proofer
-   ```
-
-   Note: Uses Homebrew's Ruby installation, which doesn't require sudo. For
-   bash/zsh users, add `export PATH="/opt/homebrew/opt/ruby/bin:$PATH"` to
-   your shell profile instead of using `fish_add_path`.
-
-4. **Update theme submodule**
+3. **Update theme submodule**
 
    ```bash
    git submodule update --init --recursive
    ```
 
-5. **Start local development server**
+4. **Start local development server**
 
    ```bash
    task serve
@@ -67,7 +52,9 @@ All development uses [Task](https://taskfile.dev) for command orchestration:
   content
 - `task serve` - Start local development server with live reload
 - `task fix` - Auto-fix formatting with Prettier and markdownlint
-- `task validate-links` - Check for broken internal links in built site
+- `task validate-content` - Validate frontmatter completeness and consistency
+- `task validate` - Run all validation checks
+- `task optimize-images` - Optimize images in static/images directory
 - `task update` - Update hugo-coder theme to latest version
 - `task bootstrap` - Install tools via Homebrew
 - `task commit` - Interactive commit workflow (requires non-main branch)
@@ -137,10 +124,10 @@ publish: true
 
    This runs automatically via pre-commit hook, but you can run manually.
 
-4. **Validate links** (optional)
+4. **Validate content** (optional)
 
    ```bash
-   task validate-links
+   task validate
    ```
 
 5. **Commit your changes**
@@ -175,7 +162,7 @@ publish: true
 ### Formatting
 
 - **Markdown**: Follows markdownlint rules (`.markdownlint.json`)
-- **YAML**: 2-space indentation (see `.yamllint`)
+- **YAML**: 2-space indentation
 - **Line endings**: LF (Unix style) - enforced by `.editorconfig`
 - **Encoding**: UTF-8 - enforced by `.editorconfig`
 - **Trailing whitespace**: Removed automatically
@@ -191,7 +178,6 @@ code quality. This is enforced at `.git/hooks/pre-commit`.
 GitHub Actions automatically:
 
 - Builds the site on every push to main
-- Validates internal links (non-blocking)
 - Deploys to GitHub Pages
 - Runs on daily schedule (3:25 PM UTC)
 
