@@ -18,7 +18,7 @@ developers working on philoserf.com.
 
 ### Project Structure
 
-```
+```text
 /Users/markayers/source/mine/site/
 ├── .github/
 │   ├── workflows/
@@ -144,7 +144,7 @@ hugo --gc --minify
 
 **Build output structure**:
 
-```
+```text
 public/
 ├── index.xml           # RSS feed
 ├── sitemap.xml         # XML sitemap
@@ -164,16 +164,18 @@ public/
 
 All commands orchestrated via `taskfile.yml`:
 
-| Task           | Dependencies     | Purpose                        |
-| -------------- | ---------------- | ------------------------------ |
-| default        | build            | Default task (runs build)      |
-| bootstrap      | none             | Installs Homebrew dependencies |
-| build          | bootstrap        | Builds Hugo site               |
-| serve          | bootstrap        | Local dev server               |
-| fix            | bootstrap        | Runs formatters/linters        |
-| validate-links | bootstrap, build | Checks internal links          |
-| update         | none             | Updates theme submodule        |
-| commit         | bootstrap, build | Interactive commit workflow    |
+| Task             | Dependencies     | Purpose                        |
+| ---------------- | ---------------- | ------------------------------ |
+| default          | build            | Default task (runs build)      |
+| bootstrap        | none             | Installs Homebrew dependencies |
+| build            | bootstrap        | Builds Hugo site               |
+| serve            | bootstrap        | Local dev server               |
+| fix              | bootstrap        | Runs formatters/linters        |
+| validate-content | none             | Validates frontmatter          |
+| validate         | validate-content | Runs all validation checks     |
+| optimize-images  | bootstrap        | Optimizes images               |
+| update           | none             | Updates theme submodule        |
+| commit           | bootstrap, build | Interactive commit workflow    |
 
 **Task Features**:
 
@@ -196,7 +198,7 @@ manual setup.
 
 ### Code Quality Tools
 
-**Prettier** (.prettierrc.json):
+**Prettier**:
 
 - Prose wrapping at 80 characters
 - 2-space indentation
@@ -210,12 +212,6 @@ manual setup.
 - MD013 disabled (line length - handled by Prettier)
 - MD033 disabled (inline HTML - needed for Hugo)
 
-**YAML Lint** (.yamllint):
-
-- Extends default rules
-- 2-space indentation
-- Line length disabled
-
 **EditorConfig** (.editorconfig):
 
 - UTF-8 encoding
@@ -224,27 +220,6 @@ manual setup.
 - Insert final newline
 - 2-space indent for Markdown/YAML
 - Tab indent for Go
-
-### Link Validation
-
-**Tool**: htmlproofer (Ruby gem)
-
-**Configuration**:
-
-```bash
-htmlproofer ./public --disable-external --allow-hash-href --ignore-urls "/^\\/tags\\//"
-```
-
-**Flags explained**:
-
-- `--disable-external` - Only check internal links
-- `--allow-hash-href` - Allow hash-only anchors
-- `--ignore-urls` - Skip tag pages (auto-generated)
-
-**Runs**:
-
-- Locally: `task validate-links`
-- CI: After build, non-blocking (warnings logged)
 
 ## CI/CD Pipeline
 
@@ -262,8 +237,6 @@ htmlproofer ./public --disable-external --allow-hash-href --ignore-urls "/^\\/ta
    - Checkout with submodules
    - Install Hugo 0.151.2
    - Build with `--gc --minify`
-   - Install htmlproofer
-   - Validate links (non-blocking)
    - Upload artifact
 
 2. **Deploy Job**
@@ -529,17 +502,16 @@ chmod +x .git/hooks/pre-commit
 ### Current Testing
 
 1. **Build validation**: CI ensures site compiles
-2. **Link checking**: htmlproofer validates internal links
+2. **Content validation**: Script checks frontmatter completeness
 3. **Lint/format**: Prettier, markdownlint enforce standards
 4. **Manual testing**: Local serve for visual validation
 
 ### Future Testing (Not Yet Implemented)
 
-1. **Content validation**: Script to check frontmatter completeness
-2. **Accessibility testing**: pa11y-ci or similar
-3. **SEO validation**: Check meta tags, Open Graph, Schema.org
-4. **Performance testing**: Lighthouse CI for metrics
-5. **Visual regression**: Screenshot diff testing
+1. **Accessibility testing**: pa11y-ci or similar
+2. **SEO validation**: Check meta tags, Open Graph, Schema.org
+3. **Performance testing**: Lighthouse CI for metrics
+4. **Visual regression**: Screenshot diff testing
 
 ## Monitoring & Analytics
 
@@ -615,7 +587,6 @@ task --dry <task-name>
 - **Task Documentation**: <https://taskfile.dev>
 - **Prettier**: <https://prettier.io/docs/>
 - **Markdownlint**: <https://github.com/DavidAnson/markdownlint>
-- **htmlproofer**: <https://github.com/gjtorikian/html-proofer>
 - **GitHub Pages**: <https://docs.github.com/en/pages>
 
 ---
