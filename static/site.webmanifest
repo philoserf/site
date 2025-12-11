@@ -1,7 +1,7 @@
 {
-  "name": "Good Enough Drafts",
-  "short_name": "Good Enough Drafts",
-  "description": "Personal site of Mark Ayers - thoughts, experiences, and explorations",
+  "name": "Mark Ayers",
+  "short_name": "Mark Ayers",
+  "description": "Personal digital presence of Mark Ayers – former US Army Ranger, technologist, and interdisciplinary thinker. Exploring intersections of technology, strategy, and personal development.",
   "icons": [
     {
       "src": "/images/android-chrome-144x144.png",
