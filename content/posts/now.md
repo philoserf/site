@@ -3,14 +3,14 @@ title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
-date: 2025-12-10
-lastmod: 2025-12-10
+date: 2025-12-11
+lastmod: 2025-12-11
 publish: true
 tags:
+  - daily-routine
   - reading
   - travel
-  - weather
-description: Enjoying time at home in Michigan, reading Burroughs and Wiseman, preparing for a snowy winter, and planning future travels to Spain and Ireland.
+description: Reading books on productivity, speculative fiction, and counterculture. Planning for future travel and experiences, including a winter in Michigan, a speaking event in Seattle, and future trips to Spain and Ireland.
 ---
 
 ## Where am I
@@ -19,12 +19,13 @@ At home in Greater Grand Rapids, Michigan
 
 ## What am I reading
 
-- _Grognard_ by Loren Wiseman (1992)
+- _4:00 A.M. A Productivity Argument_ by Augusto Pinaud (2013)
+- _Meru_ by S.B. Divya (2023)
 - _Naked Lunch_ by William S. Burroughs (1959)
 
 ## What am I focused on
 
-- Shoveling snow
+- Considering daily routines
 
 ## What I'm looking forward to
 
