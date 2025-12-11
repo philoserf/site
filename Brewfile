@@ -1,5 +1,7 @@
 brew "gh"
 brew "go-task"
 brew "hugo"
+brew "imagemagick"
 brew "markdownlint-cli"
+brew "pngquant"
 brew "prettier"
