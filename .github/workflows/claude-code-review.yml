@@ -3,12 +3,12 @@ name: Claude Code Review
 on:
   pull_request:
     types: [opened, synchronize]
-    # Optional: Only run on specific file changes
-    # paths:
-    #   - "src/**/*.ts"
-    #   - "src/**/*.tsx"
-    #   - "src/**/*.js"
-    #   - "src/**/*.jsx"
+    paths:
+      - "content/**/*.md"
+      - "hugo.yaml"
+      - "taskfile.yml"
+      - ".github/workflows/**"
+      - "static/**"
 
 jobs:
   claude-review:
@@ -40,12 +40,13 @@ jobs:
             REPO: ${{ github.repository }}
             PR NUMBER: ${{ github.event.pull_request.number }}
 
-            Please review this pull request and provide feedback on:
-            - Code quality and best practices
-            - Potential bugs or issues
-            - Performance considerations
-            - Security concerns
-            - Test coverage
+            Please review this pull request for this Hugo-based personal website and provide feedback on:
+            - Content quality: frontmatter completeness, tag consistency, description quality
+            - Markdown formatting: adherence to markdownlint rules and site conventions
+            - Configuration changes: hugo.yaml, taskfile.yml, workflow files
+            - Link validity: internal links using proper Hugo ref syntax
+            - Style consistency: following site tone and voice in CLAUDE.md
+            - Build impact: changes that might break the Hugo build
 
             Use the repository's CLAUDE.md for guidance on style and conventions. Be constructive and helpful in your feedback.
 
@@ -53,4 +54,7 @@ jobs:
 
           # See https://github.com/anthropics/claude-code-action/blob/main/docs/usage.md
           # or https://code.claude.com/docs/en/cli-reference for available options
-          claude_args: '--allowed-tools "Bash(gh issue view:*),Bash(gh search:*),Bash(gh issue list:*),Bash(gh pr comment:*),Bash(gh pr diff:*),Bash(gh pr view:*),Bash(gh pr list:*)"'
+          claude_args:
+            '--allowed-tools "Bash(gh issue view:*),Bash(gh search:*),Bash(gh
+            issue list:*),Bash(gh pr comment:*),Bash(gh pr diff:*),Bash(gh pr
+            view:*),Bash(gh pr list:*)"'
