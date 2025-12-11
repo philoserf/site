@@ -1,4 +1,4 @@
-Last update: 2025-03-18
+Last update: 2025-12-10
 
 /* TEAM */
 writer: Mark Ayers
@@ -10,6 +10,5 @@ location: Greater Grand Rapids, Michigan, USA
 
 /* SITE */
 hosting: GitHub Pages
-caching: Cloudflare
 construction: Hugo
 theme: Coder
