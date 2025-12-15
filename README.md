@@ -22,7 +22,7 @@ Visit <http://localhost:1313> for local development.
 
 ## Technology Stack
 
-- **Static Site Generator**: [Hugo](https://gohugo.io/) v0.151.2
+- **Static Site Generator**: [Hugo](https://gohugo.io/) v0.152.2
 - **Theme**: [hugo-coder](https://github.com/luizdepra/hugo-coder)
 - **Build Tool**: [Task](https://taskfile.dev)
 - **Hosting**: GitHub Pages
