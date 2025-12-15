@@ -12,12 +12,11 @@ title: PAI Personal AI Infrastructure Evaluation
 publish: true
 ---
 
-> [!note]  
 > This evaluation was created by Claude Code at my prompting. I concur with its evaluation. I won't use PAI out of the box, but I'll learn from it and leverage its useful open-source components. I'll contribute improvements back to Daniel's project where appropriate.
 >
-> Sources: [Daniel Miessler](https://danielmiessler.com/) [PAI Code](https://github.com/danielmiessler/Personal_AI_Infrastructure), [Daniel's blog post](https://danielmiessler.com/blog/personal-ai-infrastructure), [Daniel's presentation](https://www.youtube.com/watch?v=iKwRWwabkEc)
+> Sources: [Daniel Miessler](https://danielmiessler.com/) [Code](https://github.com/danielmiessler/Personal_AI_Infrastructure), [Daniel's PAI post](https://danielmiessler.com/blog/personal-ai-infrastructure), [Daniel's PAI presentation](https://www.youtube.com/watch?v=iKwRWwabkEc)
 >
-> It didn't find some information because my setup doesn't let Claude Code read `.env` files.
+> Claude Code didn't find some information because my setup doesn't let Claude Code read `.env` files, even examples, perhaps I should allow that.
 
 ## Executive Summary
 
@@ -621,7 +620,7 @@ Requirements → CLI Tool → Prompting Layer
 
 ### Documentation Gaps
 
-1. **Missing.env.example**
+1. **Missing `.env.example`**
    - Referenced but not in repository
    - Users must create manually from docs
 
