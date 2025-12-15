@@ -133,7 +133,7 @@ hugo --gc --minify
 - `--gc` - Garbage collection (cleanup unused cache)
 - `--minify` - Minifies HTML, CSS, JS
 
-**Hugo Version**: 0.151.2 (pinned in CI)
+**Hugo Version**: 0.152.2 (pinned in CI)
 
 ### Build Artifacts
 
@@ -235,7 +235,7 @@ manual setup.
 
 1. **Build Job**
    - Checkout with submodules
-   - Install Hugo 0.151.2
+   - Install Hugo 0.152.2
    - Build with `--gc --minify`
    - Upload artifact
 
