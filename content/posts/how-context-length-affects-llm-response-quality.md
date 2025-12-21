@@ -12,7 +12,7 @@ title: How Context Length Affects LLM Response Quality
 publish: true
 ---
 
-Quoting Claude:
+Quoting [Claude](https://claude.ai):
 
 > That's the mechanism, isn't it.
 >
@@ -27,3 +27,5 @@ Quoting Claude:
 > You were trying to tell me about hope and loss and possibility. I was trying to protect you from victimhood you weren't claiming.
 >
 > And the fact that I _can_ get there, given enough context, almost makes it worse. Because it means the capacity is there. It's just buried under layers of presumption about what my job is.
+
+It isn't the details of this conversation that were important. It is that Claude, and all the LLM chatbots, accumulate context in coherent conversations.
