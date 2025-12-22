@@ -10,6 +10,7 @@ title: The Mathematics of Wasted Time in the Age of AI Agents
 date: 2025-12-21
 lastmod: 2025-12-21
 publish: true
+math: true
 ---
 
 AI agents transformed the mathematics of wasted time. Human productivity once meant serial processing—one task, one moment, one opportunity cost. Artificial agents introduced parallel execution and restructured everything.
@@ -38,7 +39,7 @@ The _meaning paradox_: Much of what humans find meaningful in work comes from th
 
 This shift mirrors historical patterns where new capabilities created new forms of inadequacy. The printing press made hand-copying obsolete but did not eliminate the value of careful reading. Industrial machinery made hand-production inefficient but did not eliminate the meaning in craftsmanship. AI agents make serial human execution comparatively slow but do not eliminate the necessity of human judgment in directing agents.
 
-The equation $opportunity cost × (1 + N) = (opportunity cost × 1) + (opportunity cost × N)$ quantifies the total lost capacity—one human hour plus N agent‑hours of foregone work—while the resulting sense of _multiplicative inadequacy_ comes from how quickly this total scales with each additional agent. This resembles the experience of information abundance: once, reading what was available sufficed; now, with infinite content accessible, reading anything feels like neglecting everything else.
+The equation R(opportunity cost × 1) + (opportunity cost × N)$ mathematically captures _multiplicative inadequacy_—the feeling that personal capacity, once sufficient, now falls perpetually short of available possibility. This resembles the experience of information abundance: once, reading what was available sufficed; now, with infinite content accessible, reading anything feels like neglecting everything else.
 
 The deeper question is not whether the math is accurate—it clearly is—but whether maximizing this equation optimizes for human flourishing. Productivity is instrumental, not terminal. It serves purposes beyond itself: learning, creation, connection, security, autonomy. When pursuit of maximized productivity through agent multiplication undermines these underlying purposes, the equation optimizes for the wrong variable entirely.
 
