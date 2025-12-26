@@ -62,16 +62,3 @@ menus:
     - name: "Posts"
       url: "posts/"
       weight: 90
-
-module:
-  mounts:
-    - source: assets
-      target: assets
-    - source: layouts
-      target: layouts
-    - source: static
-      target: static
-    - source: content
-      target: content
-  imports:
-    - path: github.com/luizdepra/hugo-coder
