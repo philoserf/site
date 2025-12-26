@@ -37,6 +37,8 @@ params:
     - name: Bluesky
       icon: "fa-brands fa-bluesky"
       url: https://philoserf.bsky.social
+  customSCSS:
+    - scss/custom-fonts.scss
 
 taxonomies:
   tag: tags
