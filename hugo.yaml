@@ -37,6 +37,8 @@ params:
     - name: Bluesky
       icon: "fa-brands fa-bluesky"
       url: https://philoserf.bsky.social
+  customSCSS:
+    - scss/custom-fonts.scss
 
 taxonomies:
   tag: tags
@@ -60,3 +62,16 @@ menus:
     - name: "Posts"
       url: "posts/"
       weight: 90
+
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: layouts
+      target: layouts
+    - source: static
+      target: static
+    - source: content
+      target: content
+  imports:
+    - path: github.com/luizdepra/hugo-coder
