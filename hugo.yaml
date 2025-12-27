@@ -6,7 +6,7 @@ theme: hugo-coder
 params:
   author: Mark Ayers
   since: 2005
-  info: >-
+  info: |
     COGITA·DISCE·NECTE·ENUNTIA
 
     A writer exploring systems, sensemaking, and the craft of clear thinking.
