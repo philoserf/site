@@ -6,9 +6,10 @@ theme: hugo-coder
 params:
   author: Mark Ayers
   since: 2005
-  info:
-    A writer exploring systems, sensemaking, and the craft of clear thinking.
+  info: |
     COGITA·DISCE·NECTE·ENUNTIA
+
+    A writer exploring systems, sensemaking, and the craft of clear thinking.
   description: >-
     Personal digital presence of Mark Ayers – former US Army Ranger,
     technologist, and interdisciplinary thinker. Exploring intersections of
@@ -41,6 +42,7 @@ params:
     - scss/custom-fonts.scss
 
 taxonomies:
+  category: types
   tag: tags
 
 markup:
