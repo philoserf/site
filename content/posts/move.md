@@ -2,11 +2,14 @@
 title: "Move"
 date: 2025-04-03
 description: Highlights the benefits of morning movement for metabolism and circulation. Encourages setting goals, tracking progress, and incorporating diverse exercises like weightlifting and yoga to maintain interest and ensure a well-rounded workout routine.
-lastmod: 2025-11-19
+lastmod: 2025-12-17
 tags:
   - fitness
   - health
   - metabolism
+  - do
+  - maker
+  - move
 publish: true
 ---
 
