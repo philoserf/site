@@ -1,5 +1,6 @@
 ---
 title: Life Progress Calendar
+category: article
 date: 1962-07-04
 description: A visual calendar displaying life progress through color-coded grids representing decades, years, and months from birth to expected end of life. This infographic helps visualize time passing and remaining, encouraging intentional living and personal goal setting.
 lastmod: 2025-12-29
@@ -10,7 +11,6 @@ tags:
   - life-visualization
   - mortality-awareness
   - think
-type: article
 ---
 
 ## Key
