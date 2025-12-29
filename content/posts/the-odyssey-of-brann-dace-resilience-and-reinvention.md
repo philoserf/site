@@ -8,7 +8,7 @@ publish: true
 tags:
   - be
   - existentialism
-  - maker
+  - make
   - personal-development
   - play
   - traveller-rpg
