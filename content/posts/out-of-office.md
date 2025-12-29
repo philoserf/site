@@ -2,12 +2,16 @@
 title: "Out of Office"
 date: 2024-04-03
 description: Explores a corporate out-of-office email strategy, emphasizing infrequent email checks due to a busy work schedule. Provides alternative communication methods for urgent needs via text or call.
-lastmod: 2025-11-18
+lastmod: 2025-12-29
+publish: true
 tags:
   - communication
+  - do
   - efficiency
+  - manager
+  - share
   - workflow
-publish: true
+type: article
 ---
 
 Once upon a time in a corporate environment, this was my always-on out-of-office message:
