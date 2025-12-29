@@ -6,7 +6,7 @@ description: A visual calendar displaying life progress through color-coded grid
 lastmod: 2025-12-29
 publish: true
 tags:
-  - consumer
+  - consume
   - grow
   - life-visualization
   - mortality-awareness

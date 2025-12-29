@@ -6,7 +6,7 @@ lastmod: 2025-12-29
 publish: true
 tags:
   - be
-  - consumer
+  - consume
   - mental-health
   - self-improvement
   - sleep

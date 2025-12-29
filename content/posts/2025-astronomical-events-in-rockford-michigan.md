@@ -6,7 +6,7 @@ description: Explore the key astronomical events in Rockford, Michigan for 2025,
 lastmod: 2025-12-29
 publish: true
 tags:
-  - consumer
+  - consume
   - culture
   - nature
   - play

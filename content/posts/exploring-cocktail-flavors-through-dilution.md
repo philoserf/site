@@ -7,7 +7,7 @@ lastmod: 2025-12-29
 publish: true
 tags:
   - cocktail
-  - consumer
+  - consume
   - do
   - eat
   - learning

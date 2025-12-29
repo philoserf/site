@@ -7,7 +7,7 @@ lastmod: 2025-12-29
 publish: true
 tags:
   - be
-  - consumer
+  - consume
   - culture
   - lifestyle
   - nature

@@ -8,7 +8,7 @@ tags:
   - do
   - fitness
   - health
-  - maker
+  - make
   - metabolism
   - move
 ---

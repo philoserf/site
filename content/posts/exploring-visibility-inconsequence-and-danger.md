@@ -8,7 +8,7 @@ publish: true
 tags:
   - agency
   - grow
-  - maker
+  - make
   - philosophy
   - power-dynamics
   - think

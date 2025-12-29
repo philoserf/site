@@ -9,7 +9,7 @@ tags:
   - ai
   - grow
   - investment
-  - maker
+  - make
   - productivity
   - technology
   - think

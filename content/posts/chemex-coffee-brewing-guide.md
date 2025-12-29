@@ -9,7 +9,7 @@ tags:
   - coffee
   - do
   - eat
-  - maker
+  - make
   - recipe
 ---
 

@@ -5,7 +5,7 @@ description: Essential activities like sleep, movement, eating, and sharing cont
 lastmod: 2025-12-29
 publish: true
 tags:
-  - consumer
+  - consume
   - grow
   - lifestyle
   - note-taking

@@ -11,7 +11,7 @@ tags:
   - do
   - grow
   - knowledge-management
-  - maker
+  - make
   - productivity
   - technology
 ---

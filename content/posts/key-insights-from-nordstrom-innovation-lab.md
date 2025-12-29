@@ -9,7 +9,7 @@ tags:
   - do
   - grow
   - innovation
-  - maker
+  - make
 ---
 
 ## Nordstrom's Innovation Lab

@@ -9,7 +9,7 @@ tags:
   - culture
   - grow
   - independence
-  - maker
+  - make
   - music
   - think
 ---

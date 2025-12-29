@@ -9,7 +9,7 @@ tags:
   - do
   - exercise-routine
   - fitness
-  - manager
+  - manage
   - move
   - strategy
   - strength-training

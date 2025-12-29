@@ -7,7 +7,7 @@ publish: true
 tags:
   - communication
   - do
-  - maker
+  - make
   - psychology
   - self-awareness
   - share

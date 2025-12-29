@@ -9,7 +9,7 @@ tags:
   - creativity
   - do
   - grow
-  - maker
+  - make
   - self-expression
 ---
 

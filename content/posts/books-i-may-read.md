@@ -10,7 +10,7 @@ tags:
   - culture
   - grow
   - literature
-  - manager
+  - manage
   - personal-development
   - reading
   - think

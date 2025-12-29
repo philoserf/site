@@ -10,7 +10,7 @@ publish: true
 tags:
   - be
   - creativity
-  - maker
+  - make
   - personal-development
   - philosophy
   - self-improvement
