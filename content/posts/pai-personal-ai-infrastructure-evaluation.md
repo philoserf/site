@@ -1,5 +1,6 @@
 ---
 title: PAI Personal AI Infrastructure Evaluation
+category: article
 date: 2025-12-15
 description: Comprehensive evaluation of PAI (Personal AI Infrastructure), an open-source framework that transforms Claude Code into a structured, self-improving AI operating system with skills, agents, hooks, and history primitives. Receives 9/10 rating for its production-grade architecture and thoughtful design principles.
 lastmod: 2025-12-29
@@ -13,7 +14,6 @@ tags:
   - productivity-tools
   - system-architecture
   - think
-type: article
 ---
 
 > This evaluation was created by Claude Code at my prompting. I concur with its evaluation. I won't use PAI out of the box, but I'll learn from it and leverage its useful open-source components. I'll contribute improvements back to Daniel's project where appropriate.
