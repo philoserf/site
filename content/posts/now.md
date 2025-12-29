@@ -3,6 +3,7 @@ title: "Now"
 aliases:
   - /now
   - /posts/books-i-am-reading
+category: profile
 date: 2025-12-11
 description: Reading books on productivity, speculative fiction, and counterculture. Planning for future travel and experiences, including a winter in Michigan, a speaking event in Seattle, and future trips to Spain and Ireland.
 lastmod: 2025-12-29
@@ -14,7 +15,6 @@ tags:
   - play
   - reading
   - travel
-type: profile
 ---
 
 ## Where am I
