@@ -41,10 +41,6 @@ params:
   customSCSS:
     - scss/custom-fonts.scss
 
-taxonomies:
-  category: types
-  tag: tags
-
 markup:
   goldmark:
     renderer:
