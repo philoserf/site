@@ -21,8 +21,8 @@ This is where I think in public—exploring ideas as they arrive, reflecting on 
 
 We are all human beings, being human.
 
-HOMO·HOMINIS·ESSE  
-COGITA·DISCE·NECTE·ENUNTIA
+<p class="latin-motto">HOMO·HOMINIS·ESSE<br>
+COGITA·DISCE·NECTE·ENUNTIA</p>
 
 I keep my rules simple: say yes and build; name things once; assume good intentions; ask for permission only when it matters; keep tools and structure as small as possible; follow defaults until they fail; keep the signal sharp.
 
