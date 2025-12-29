@@ -8,7 +8,7 @@ publish: true
 tags:
   - ai-behavior
   - ai-conversations
-  - consumer
+  - consume
   - context-windows
   - emergent-behavior
   - grow
