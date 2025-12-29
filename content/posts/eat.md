@@ -5,7 +5,7 @@ description: Emphasizes the importance of consuming nutrient-dense foods. Encour
 lastmod: 2025-12-29
 publish: true
 tags:
-  - consumer
+  - consume
   - do
   - eat
   - healthy-eating
