@@ -1,5 +1,6 @@
 ---
 title: 2025 Astronomical Events in Rockford
+category: article
 date: 2025-01-01
 description: Explore the key astronomical events in Rockford, Michigan for 2025, including full moons, new moons, equinoxes, solstices, and traditional observances like Imbolc and Samhain.
 lastmod: 2025-12-29
@@ -10,7 +11,6 @@ tags:
   - nature
   - play
   - think
-type: article
 ---
 
 | Date         | Time                                                                 | Event                                                                                       |
