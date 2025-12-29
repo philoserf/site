@@ -1,6 +1,9 @@
 // Custom font overrides for philoserf/site
 // Override theme font variables to prioritize Inter and Menlo
 
+// Import EB Garamond for the params.info motto
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
 $font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, sans-serif !default;
 $code-font-family: "Menlo", "Monaco", "Consolas", "Liberation Mono", "SFMono-Regular", monospace !default;
 
@@ -17,4 +20,14 @@ pre, code, kbd, samp {
 // Ensure headings use the base font
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family;
+}
+
+// Apply EB Garamond to the params.info motto on home page
+.about h2 {
+  font-family: "EB Garamond", serif;
+}
+
+// Apply EB Garamond to Latin mottos on about page
+.latin-motto {
+  font-family: "EB Garamond", serif;
 }
