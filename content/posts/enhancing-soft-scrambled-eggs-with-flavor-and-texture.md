@@ -10,7 +10,7 @@ tags:
   - creativity
   - do
   - eat
-  - maker
+  - make
   - nutrition
   - recipe
 ---
