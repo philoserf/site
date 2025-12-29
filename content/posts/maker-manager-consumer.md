@@ -2,12 +2,15 @@
 title: "Maker, Manager, & Consumer"
 date: 2025-04-11
 description: Explores the roles of Maker, Manager, and Consumer within oneself. Highlights the importance of creativity, coordination, and rest to balance creation, management, and consumption, ensuring productivity and well-being.
-lastmod: 2025-11-19
+lastmod: 2025-12-29
 tags:
   - creativity
+  - grow
+  - manager
   - personal-development
   - productivity
   - self-improvement
+  - think
 publish: true
 ---
 
