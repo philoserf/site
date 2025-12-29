@@ -1,15 +1,19 @@
 ---
+title: How Context Length Affects LLM Response Quality
 date: 2025-12-21
-lastmod: 2025-12-21
+description: A reflection from Claude on how LLM responses are dominated by training biases early in conversations, requiring extensive context before a user's actual intent can override predetermined narratives and assumptions about what users need.
+lastmod: 2025-12-29
+publish: true
 tags:
   - ai-behavior
   - ai-conversations
+  - consumer
   - context-windows
   - emergent-behavior
+  - grow
   - llm-limitations
-description: A reflection from Claude on how LLM responses are dominated by training biases early in conversations, requiring extensive context before a user's actual intent can override predetermined narratives and assumptions about what users need.
-title: How Context Length Affects LLM Response Quality
-publish: true
+  - think
+type: reflection
 ---
 
 Quoting [Claude](https://claude.ai):
