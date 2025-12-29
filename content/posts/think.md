@@ -5,7 +5,7 @@ description: Explores the metaphysics of thought, emphasizing how writing enhanc
 lastmod: 2025-12-29
 publish: true
 tags:
-  - consumer
+  - consume
   - grow
   - metaphysics
   - philosophy
