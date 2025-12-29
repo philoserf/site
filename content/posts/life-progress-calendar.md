@@ -1,18 +1,22 @@
 ---
+title: Life Progress Calendar
 date: 1962-07-04
 description: A visual calendar displaying life progress through color-coded grids representing decades, years, and months from birth to expected end of life. This infographic helps visualize time passing and remaining, encouraging intentional living and personal goal setting.
-lastmod: 2025-12-26
+lastmod: 2025-12-29
 publish: true
-title: Life Progress Calendar
 tags:
+  - consumer
+  - grow
   - life-visualization
   - mortality-awareness
+  - think
+type: article
 ---
 
 ## Key
 
 | Mark |      Meaning      |
-|:--: |:---------------: |
+| :--: | :---------------: |
 |  🟪  |       Birth       |
 |  🟧  |       Past        |
 |  🟩  |       Today       |
@@ -23,13 +27,13 @@ tags:
 ## A life by decades
 
 |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  | 9+  |
-|:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 🟪  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟩  | ⬜  | 🟥  | 🟦  |
 
 ## A life by years
 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
-|:-- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 0   | 🟪  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 10  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 20  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
@@ -44,7 +48,7 @@ tags:
 ## A life by months
 
 |     |  J  |  A  |  S  |  O  |  N  |  D  |  J  |  F  |  M  |  A  |  M  |  J  |
-| --- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1   | 🟪  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 2   | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
 | 3   | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  | 🟧  |
