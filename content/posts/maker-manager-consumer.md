@@ -7,7 +7,7 @@ publish: true
 tags:
   - creativity
   - grow
-  - manager
+  - manage
   - personal-development
   - productivity
   - self-improvement
