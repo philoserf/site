@@ -2,11 +2,14 @@
 title: "Consumer"
 date: 2025-04-11
 description: Emphasizes the consumer's role in stress relief and cognitive restoration through passive consumption and deliberate integration, highlighting the importance of mental downtime.
-lastmod: 2025-11-19
+lastmod: 2025-12-17
 tags:
   - mental-health
   - self-improvement
   - stress-management
+  - be
+  - consumer
+  - sleep
 publish: true
 ---
 
