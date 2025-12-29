@@ -8,7 +8,7 @@ tags:
   - contribution
   - do
   - identity
-  - maker
+  - make
   - self-expression
   - share
 ---
