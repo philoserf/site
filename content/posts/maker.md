@@ -2,11 +2,14 @@
 title: "Maker"
 date: 2025-04-11
 description: The Maker transforms ideas into reality using mediums like code, art, and writing, creating tangible value, solutions, and new existence. Leveraging knowledge and intuition, the Maker produces meaningful work that matters.
-lastmod: 2025-11-19
+lastmod: 2025-12-17
 tags:
   - content-creation
   - creativity
   - self-expression
+  - do
+  - maker
+  - grow
 publish: true
 ---
 

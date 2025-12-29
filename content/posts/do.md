@@ -2,11 +2,14 @@
 title: "Do"
 date: 2025-01-06
 description: Actions define identity more than thoughts or intentions; meaningful contributions shape how others perceive us.
-lastmod: 2025-11-19
+lastmod: 2025-12-17
 tags:
   - contribution
   - identity
   - self-expression
+  - do
+  - maker
+  - share
 publish: true
 ---
 

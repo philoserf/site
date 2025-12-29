@@ -1,7 +1,7 @@
 ---
 title: "Think"
 date: 2025-10-21
-lastmod: 2025-11-19
+lastmod: 2025-12-17
 publish: true
 tags:
   - metaphysics
@@ -9,6 +9,9 @@ tags:
   - self-improvement
   - thinking
   - writing
+  - think
+  - consumer
+  - grow
 description: Explores the metaphysics of thought, emphasizing how writing enhances thinking and clarity.
 ---
 

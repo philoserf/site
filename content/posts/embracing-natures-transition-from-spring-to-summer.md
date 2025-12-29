@@ -2,13 +2,17 @@
 title: Embracing Nature's Transition from Spring to Summer
 date: 2025-05-01
 description: Explores the transition from spring to summer, focusing on natural renewal, increased daylight, and the cultural significance of May Day and Beltane.
-lastmod: 2025-11-19
+lastmod: 2025-12-29
 publish: true
 tags:
+  - be
+  - consumer
   - culture
   - lifestyle
   - nature
+  - play
   - self-awareness
+type: reflection
 ---
 
 A frost touched yesterday, rain followed this morning. Birds are already at it—calling, working, filling the air. The gardens and the wider world are waking.

@@ -2,11 +2,14 @@
 title: "Sleep, Move, Eat, Grow, Play & Share"
 date: 2025-01-06
 description: Sleep, movement, nutrition, personal growth, play, and social engagement are vital for health and happiness. These elements form the foundation for thriving and well-being, emphasizing the importance of both personal rejuvenation and social interaction in daily life.
-lastmod: 2025-10-21
+lastmod: 2025-12-17
 tags:
   - health
   - lifestyle
   - well-being
+  - think
+  - manager
+  - grow
 publish: true
 ---
 

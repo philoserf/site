@@ -2,9 +2,12 @@
 title: "Be"
 date: 2025-01-06
 description: Emphasizes mindfulness and self-awareness by embracing kindness, generosity, patience, and courage. Encourages living fully with creativity, curiosity, and gratitude.
-lastmod: 2025-10-21
+lastmod: 2025-12-29
 publish: true
 tags:
+  - be
+  - consumer
+  - grow
   - mindfulness
   - personal-development
   - self-awareness
