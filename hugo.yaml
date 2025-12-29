@@ -42,7 +42,7 @@ params:
     - scss/custom-fonts.scss
 
 taxonomies:
-  category: types
+  type: types
   tag: tags
 
 markup:
