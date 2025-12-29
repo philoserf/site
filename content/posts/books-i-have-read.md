@@ -1,5 +1,6 @@
 ---
 title: "Books I Have Read"
+category: list
 date: 2025-12-11
 description: A comprehensive list of books organized by publication date, highlighting noteworthy titles read since late 2022. The selection spans diverse genres and authors, offering insights into classic and contemporary literature.
 lastmod: 2025-12-29
@@ -11,7 +12,6 @@ tags:
   - literature
   - reading
   - think
-type: list
 ---
 
 ## Recently finished
