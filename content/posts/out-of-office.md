@@ -9,7 +9,7 @@ tags:
   - communication
   - do
   - efficiency
-  - manager
+  - manage
   - share
   - workflow
 ---
