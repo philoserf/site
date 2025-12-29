@@ -8,7 +8,7 @@ tags:
   - grow
   - health
   - lifestyle
-  - manager
+  - manage
   - think
   - well-being
 ---
