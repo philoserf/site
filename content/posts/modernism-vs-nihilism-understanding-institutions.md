@@ -7,7 +7,7 @@ lastmod: 2025-12-29
 publish: true
 tags:
   - grow
-  - maker
+  - make
   - philosophy
   - society
   - think
