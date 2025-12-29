@@ -1,13 +1,17 @@
 ---
+title: "Modernism vs. Nihilism: Understanding Institutions"
 date: 2025-07-04
-lastmod: 2025-08-20
+description: Explores the contrasting perspectives of modernists and nihilists on institutions. Modernists dismantle what seems obsolete without understanding its purpose, while nihilists distrust institutions due to power dynamics. Understanding potential value may influence modernist views but not nihilists, as they reject meaning beyond domination.
+lastmod: 2025-12-29
 publish: true
 tags:
+  - grow
+  - maker
   - philosophy
   - society
+  - think
   - tradition
-description: Explores the contrasting perspectives of modernists and nihilists on institutions. Modernists dismantle what seems obsolete without understanding its purpose, while nihilists distrust institutions due to power dynamics. Understanding potential value may influence modernist views but not nihilists, as they reject meaning beyond domination.
-title: "Modernism vs. Nihilism: Understanding Institutions"
+type: essay
 ---
 
 We've been here before.
