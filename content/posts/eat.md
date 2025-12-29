@@ -2,11 +2,14 @@
 title: "Eat"
 date: 2025-04-03
 description: Emphasizes the importance of consuming nutrient-dense foods. Encourages meal tracking in a food diary and eating post-activity for optimal insulin sensitivity. Aims to enhance overall well-being through mindful eating habits.
-lastmod: 2025-10-21
+lastmod: 2025-12-17
 tags:
   - healthy-eating
   - lifestyle
   - nutrition
+  - do
+  - consumer
+  - eat
 publish: true
 ---
 
