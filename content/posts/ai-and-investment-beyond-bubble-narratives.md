@@ -1,5 +1,6 @@
 ---
 title: "AI and Investment: Beyond Bubble Narratives"
+category: essay
 date: 2025-11-16
 description: AI-driven investments focus on immediate productivity and infrastructure, not speculative hype. Market fluctuations are due to pricing uncertainties. To enhance progress, address regulatory and trust issues. AI infrastructure investments yield tangible productivity benefits despite volatility, contrasting traditional bubble scenarios.
 lastmod: 2025-12-29
@@ -12,7 +13,6 @@ tags:
   - productivity
   - technology
   - think
-type: essay
 ---
 
 Claims of an "AI bubble" usually misread what the money is doing. The bulk of current spending isn't a bet on distant possibilities. It's payment for infrastructure that generates revenue and efficiency **right now**.
