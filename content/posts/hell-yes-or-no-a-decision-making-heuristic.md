@@ -1,5 +1,6 @@
 ---
 title: "Hell Yes or No: A Decision-Making Heuristic"
+category: essay
 date: 2025-12-29
 description: An analysis of Derek Sivers' 'Hell Yes or No' decision-making heuristic, which advocates for eliminating lukewarm commitments by only accepting opportunities that generate immediate enthusiasm, addressing the scarcity of attention in environments of abundant choice.
 lastmod: 2025-12-29
@@ -13,7 +14,6 @@ tags:
   - prioritization
   - think
   - time-management
-type: essay
 ---
 
 A decision-making heuristic popularized by Derek Sivers: tepid enthusiasm indicates misalignment, not compromise.
