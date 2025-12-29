@@ -11,7 +11,7 @@ tags:
   - attention-economy
   - grow
   - human-flourishing
-  - maker
+  - make
   - opportunity-cost
   - productivity
   - think
