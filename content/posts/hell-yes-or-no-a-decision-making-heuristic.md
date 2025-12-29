@@ -9,7 +9,7 @@ tags:
   - decision-making
   - grow
   - heuristics
-  - manager
+  - manage
   - personal-development
   - prioritization
   - think
