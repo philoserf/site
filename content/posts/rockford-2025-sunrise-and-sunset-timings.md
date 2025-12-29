@@ -9,7 +9,7 @@ description:
 lastmod: 2025-12-29
 publish: true
 tags:
-  - consumer
+  - consume
   - lifestyle
   - play
   - productivity
