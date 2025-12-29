@@ -10,7 +10,7 @@ tags:
   - goal-setting
   - grow
   - habits
-  - manager
+  - manage
   - persistence
   - think
 ---
