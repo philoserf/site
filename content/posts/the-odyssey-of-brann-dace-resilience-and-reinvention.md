@@ -1,13 +1,17 @@
 ---
-tags:
-  - existentialism
-  - personal-development
-  - traveller-rpg
-description: Brann Dace's journey from a failed university entry to a resilient interstellar courier, adapting skills and facing challenges. Navigating intelligence secrets, law enforcement, and trade, his life embodies reinvention and resilience on the cosmic frontier.
 title: "The Odyssey of Brann Dace: Resilience and Reinvention"
 date: 2025-10-31
-lastmod: 2025-10-31
+description: Brann Dace's journey from a failed university entry to a resilient interstellar courier, adapting skills and facing challenges. Navigating intelligence secrets, law enforcement, and trade, his life embodies reinvention and resilience on the cosmic frontier.
+lastmod: 2025-12-29
 publish: true
+tags:
+  - be
+  - existentialism
+  - maker
+  - personal-development
+  - play
+  - traveller-rpg
+type: narrative
 ---
 
 Brann Dace grew up on a quiet Imperial frontier world where success meant university placement and corporate service. He wanted that path—steady work, predictable life, civilized gravity wells—but he failed the entrance examinations. It wasn't dramatic; a simple letter, polite phrasing, and the sudden collapse of a future he'd rehearsed.
@@ -36,10 +40,8 @@ No one asks why he maintains two ships. Most assume sentimentality. They're half
 
 ## Character Page (Traveller-style)
 
-Name: Brann Dace
-
-Species: Human
-
+Name: Brann Dace  
+Species: Human  
 Age: 46
 
 Homeworld: Frontier Imperial world (average tech)
