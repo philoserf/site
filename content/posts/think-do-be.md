@@ -2,14 +2,17 @@
 title: "Think, Do, Be"
 date: 2025-01-06
 description: Explores how thinking, doing, and being interact to shape personal growth and identity through various cognitive, experiential, and philosophical approaches.
-lastmod: 2025-11-19
+lastmod: 2025-12-29
 publish: true
 tags:
   - cognitive-function
+  - grow
   - identity
+  - manager
   - personal-development
   - philosophy
   - psychology
+  - think
 ---
 
 I must think deeply, act decisively, and become intentionally.
