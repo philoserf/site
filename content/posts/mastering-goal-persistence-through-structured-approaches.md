@@ -1,14 +1,18 @@
 ---
+title: Mastering Goal Persistence Through Structured Approaches
 date: 2025-12-06
-lastmod: 2025-12-06
+description: Explore how value alignment, skill growth, depletion, and interference impact goal pursuit over time, with insights from learning programming and using Obsidian.
+lastmod: 2025-12-29
 math: true
+publish: true
 tags:
   - goal-setting
+  - grow
   - habits
+  - manager
   - persistence
-description: Explore how value alignment, skill growth, depletion, and interference impact goal pursuit over time, with insights from learning programming and using Obsidian.
-title: Mastering Goal Persistence Through Structured Approaches
-publish: true
+  - think
+type: essay
 ---
 
 Goal pursuit probability at time $t$:
