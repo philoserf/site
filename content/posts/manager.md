@@ -7,7 +7,7 @@ publish: true
 tags:
   - decision-making
   - grow
-  - manager
+  - manage
   - organization
   - think
   - time-management
