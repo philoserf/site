@@ -2,6 +2,7 @@
 title: "Uses"
 aliases:
   - /uses
+category: profile
 date: 2025-11-19
 description: Details the hardware and software setup involving Apple devices and coding in Go, utilizing tools like Ghostty Terminal and Obsidian for an effective workflow.
 lastmod: 2025-12-29
@@ -13,7 +14,6 @@ tags:
   - maker
   - productivity
   - technology
-type: profile
 ---
 
 ## Hardware
