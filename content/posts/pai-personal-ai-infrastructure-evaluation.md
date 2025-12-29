@@ -9,7 +9,7 @@ tags:
   - ai-infrastructure
   - claude-code
   - grow
-  - maker
+  - make
   - personal-ai
   - productivity-tools
   - system-architecture
