@@ -1,5 +1,6 @@
 ---
 title: The 3-5 Rule for Workout Programming
+category: guide
 date: 2023-02-01
 description: "Andy Galpin's 3-5 Rule provides a simple framework for structuring strength workouts: train 3-5 days per week with 3-5 exercises, sets, and repetitions, taking 3-5 minutes rest between sets."
 lastmod: 2025-12-29
@@ -13,7 +14,6 @@ tags:
   - strategy
   - strength-training
   - workout-strategy
-type: guide
 ---
 
 source: Andy Galpin

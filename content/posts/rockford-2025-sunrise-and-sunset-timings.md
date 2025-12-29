@@ -1,5 +1,6 @@
 ---
 title: Rockford 2025 Sunrise and Sunset Timings
+category: article
 date: 2025-01-01
 description:
   Sunrise and sunset times for Rockford, Michigan, for 2025 are provided
@@ -14,7 +15,6 @@ tags:
   - productivity
   - science
   - think
-type: article
 ---
 
 ## November
