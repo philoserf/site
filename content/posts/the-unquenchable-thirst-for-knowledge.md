@@ -9,7 +9,7 @@ tags:
   - curiosity
   - grow
   - knowledge
-  - maker
+  - make
   - philosophy
   - self-awareness
   - think
