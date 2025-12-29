@@ -60,3 +60,7 @@ menus:
     - name: "Posts"
       url: "posts/"
       weight: 90
+
+taxonomies:
+  category: categories
+  tag: tags
