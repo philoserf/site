@@ -8,7 +8,7 @@ tags:
   - cognitive-function
   - grow
   - identity
-  - manager
+  - manage
   - personal-development
   - philosophy
   - psychology
