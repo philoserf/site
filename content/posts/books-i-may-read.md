@@ -1,10 +1,7 @@
 ---
 title: "Books I May Read"
 description: A diverse book collection spanning science fiction, philosophical works, and historical novels. Covers consciousness, societal issues, and personal growth, showcasing acclaimed authors.
-date: 2025-09-25
 category: list
-lastmod: 2026-01-02
-publish: true
 tags:
   - consciousness
   - culture
@@ -14,6 +11,9 @@ tags:
   - personal-development
   - reading
   - think
+date: 2025-09-25
+lastmod: 2026-01-02
+publish: true
 ---
 
 ## Up Next
