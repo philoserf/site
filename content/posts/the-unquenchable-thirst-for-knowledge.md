@@ -1,9 +1,9 @@
 ---
 title: The Unquenchable Thirst for Knowledge
-category: reflection
-date: 2025-08-04
 description: Explores the relentless quest for knowledge born from insatiable curiosity, likening every discovery to an expanding void of ignorance and a perpetual desire for understanding that can never be truly fulfilled.
-lastmod: 2025-12-29
+date: 2025-08-04
+category: reflection
+lastmod: 2026-01-02
 publish: true
 tags:
   - curiosity

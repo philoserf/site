@@ -1,11 +1,11 @@
 ---
 title: "About"
+description: Explores simplicity and strategic thinking through personal experiences, blending philosophy with self-improvement, lifelong learning, and creativity. Highlights travels, artistic pursuits, and intentional living, underscoring the importance of clarity, discipline, and effective communication.
+date: 2025-11-19
 aliases:
   - /about
 category: profile
-date: 2025-11-19
-description: Explores simplicity and strategic thinking through personal experiences, blending philosophy with self-improvement, lifelong learning, and creativity. Highlights travels, artistic pursuits, and intentional living, underscoring the importance of clarity, discipline, and effective communication.
-lastmod: 2025-12-29
+lastmod: 2026-01-02
 publish: true
 tags:
   - be
