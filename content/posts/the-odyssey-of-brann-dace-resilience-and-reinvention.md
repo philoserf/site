@@ -1,10 +1,7 @@
 ---
 title: "The Odyssey of Brann Dace: Resilience and Reinvention"
 description: Brann Dace's journey from a failed university entry to a resilient interstellar courier, adapting skills and facing challenges. Navigating intelligence secrets, law enforcement, and trade, his life embodies reinvention and resilience on the cosmic frontier.
-date: 2025-10-31
 category: narrative
-lastmod: 2026-01-02
-publish: true
 tags:
   - be
   - existentialism
@@ -12,6 +9,9 @@ tags:
   - personal-development
   - play
   - traveller-rpg
+date: 2025-10-31
+lastmod: 2026-01-02
+publish: true
 ---
 
 Brann Dace grew up on a quiet Imperial frontier world where success meant university placement and corporate service. He wanted that path—steady work, predictable life, civilized gravity wells—but he failed the entrance examinations. It wasn't dramatic; a simple letter, polite phrasing, and the sudden collapse of a future he'd rehearsed.
