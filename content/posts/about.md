@@ -1,12 +1,7 @@
 ---
 title: "About"
 description: Explores simplicity and strategic thinking through personal experiences, blending philosophy with self-improvement, lifelong learning, and creativity. Highlights travels, artistic pursuits, and intentional living, underscoring the importance of clarity, discipline, and effective communication.
-date: 2025-11-19
-aliases:
-  - /about
 category: profile
-lastmod: 2026-01-02
-publish: true
 tags:
   - be
   - creativity
@@ -15,6 +10,11 @@ tags:
   - philosophy
   - self-improvement
   - share
+aliases:
+  - /about
+date: 2025-11-19
+lastmod: 2026-01-02
+publish: true
 ---
 
 This is where I think in public—exploring ideas as they arrive, reflecting on experience earned over years, sharing the things I had to learn the hard way, testing what might help others think better, and saying what I believe needs saying—clearly, publicly, and without hedging.
