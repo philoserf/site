@@ -1,10 +1,7 @@
 ---
 title: The Unquenchable Thirst for Knowledge
 description: Explores the relentless quest for knowledge born from insatiable curiosity, likening every discovery to an expanding void of ignorance and a perpetual desire for understanding that can never be truly fulfilled.
-date: 2025-08-04
 category: reflection
-lastmod: 2026-01-02
-publish: true
 tags:
   - curiosity
   - grow
@@ -13,6 +10,9 @@ tags:
   - philosophy
   - self-awareness
   - think
+date: 2025-08-04
+lastmod: 2026-01-02
+publish: true
 ---
 
 The story goes like this: in the garden, there was one tree we weren't supposed to touch. One bite, and we'd know too much. We bit. We knew. We fell.
