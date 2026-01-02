@@ -1,9 +1,9 @@
 ---
 title: "Out of Office"
-category: article
-date: 2024-04-03
 description: Explores a corporate out-of-office email strategy, emphasizing infrequent email checks due to a busy work schedule. Provides alternative communication methods for urgent needs via text or call.
-lastmod: 2025-12-29
+date: 2024-04-03
+category: article
+lastmod: 2026-01-02
 publish: true
 tags:
   - communication
