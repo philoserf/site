@@ -1,5 +1,4 @@
 ---
-title: "Manager"
 description: The Manager persona efficiently coordinates time, energy, and priorities to handle logistics and decision-making, aligning daily actions with long-term objectives to ensure order and direction.
 tags:
   - decision-making
@@ -10,7 +9,6 @@ tags:
   - time-management
 date: 2025-04-11
 lastmod: 2026-01-03
-publish: true
 ---
 
 The self that does the important planning, the required administrivia,
