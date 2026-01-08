@@ -4,12 +4,9 @@ description: An analysis of Derek Sivers' 'Hell Yes or No' decision-making heuri
 category: essay
 tags:
   - decision-making
-  - grow
   - heuristics
-  - manage
   - personal-development
   - prioritization
-  - think
   - time-management
 date: 2025-12-29
 lastmod: 2026-01-02
