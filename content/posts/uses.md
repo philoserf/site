@@ -12,6 +12,7 @@ aliases:
   - /uses
 date: 2025-11-19
 lastmod: 2026-01-02
+title: Uses
 ---
 
 ## Hardware
