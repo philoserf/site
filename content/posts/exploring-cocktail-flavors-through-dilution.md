@@ -4,9 +4,6 @@ description: Experiment with diluting cocktail ingredients in water to understan
 category: guide
 tags:
   - cocktail
-  - consume
-  - do
-  - eat
   - learning
   - lifestyle
   - mixology
