@@ -11,7 +11,6 @@ tags:
   - tradition
 date: 2025-07-04
 lastmod: 2026-01-02
-publish: true
 ---
 
 We've been here before.
