@@ -12,7 +12,6 @@ tags:
 date: 2025-12-06
 lastmod: 2026-01-02
 math: true
-publish: true
 ---
 
 Goal pursuit probability at time $t$:
