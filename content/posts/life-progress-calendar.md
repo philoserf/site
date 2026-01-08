@@ -10,7 +10,6 @@ tags:
   - think
 date: 1962-07-04
 lastmod: 2026-01-03
-publish: true
 ---
 
 ## Key
