@@ -1,4 +1,5 @@
 ---
+title: Out of office
 description: Explores a corporate out-of-office email strategy, emphasizing infrequent email checks due to a busy work schedule. Provides alternative communication methods for urgent needs via text or call.
 category: article
 tags:
@@ -9,7 +10,7 @@ tags:
   - share
   - workflow
 date: 2024-04-03
-lastmod: 2026-01-02
+lastmod: 2026-01-08
 ---
 
 Once upon a time in a corporate environment, this was my always-on out-of-office message:
