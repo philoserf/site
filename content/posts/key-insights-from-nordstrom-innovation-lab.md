@@ -3,10 +3,7 @@ title: Key Insights from Nordstrom Innovation Lab
 description: Insights into Nordstrom Innovation Lab's use of agile methodologies, empathy techniques, and business frameworks to boost productivity and innovation.
 category: guide
 tags:
-  - do
-  - grow
   - innovation
-  - make
 date: 2025-10-18
 lastmod: 2026-01-02
 ---
