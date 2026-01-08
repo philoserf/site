@@ -1,4 +1,5 @@
 ---
+title: Eat
 description: Emphasizes the importance of consuming nutrient-dense foods. Encourages meal tracking in a food diary and eating post-activity for optimal insulin sensitivity. Aims to enhance overall well-being through mindful eating habits.
 tags:
   - consume
@@ -8,7 +9,7 @@ tags:
   - lifestyle
   - nutrition
 date: 2025-04-03
-lastmod: 2026-01-03
+lastmod: 2026-01-08
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
