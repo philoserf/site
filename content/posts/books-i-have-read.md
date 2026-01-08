@@ -1,32 +1,26 @@
 ---
 title: Books I have read
-description: A comprehensive list of books organized by publication date, highlighting noteworthy titles read since late 2022. The selection spans diverse genres and authors, offering insights into classic and contemporary literature.
+description: A comprehensive reading list of books organized by publication date, spanning classic and contemporary literature with a focus on science fiction, fantasy, and literary fiction across the 20th and 21st centuries.
 category: list
 tags:
-  - book-review
-  - consume
-  - grow
-  - literature
-  - reading
-  - think
-date: 2025-12-11
+  - book-catalog
+  - literary-fiction
+  - reading-list
+  - science-fiction
+date: 2026-01-08
 lastmod: 2026-01-08
 ---
 
-## Recently finished
+## Finished in 2026
 
-- _Grognard_ by Loren Wiseman (1992)
-- _A Canticle for Leibowitz_ by Walter M. Miller Jr. (1959)
-- _Snow Crash_ by Neal Stephenson (1992)
-- _The King of Elfland's Daughter_ by Lord Dunsany (1924)
-- _The Star Diaries_ by Stanisław Lem (1957)
-- _Wet Work_ by Chris A. Jackson (2020)
-- _The Wind in the Willows_ by Kenneth Grahame (1908)
-
-## Sorted by publication date
+- (coming soon)
 
 ### Before the twenty-first century
 
+- _The King of Elfland's Daughter_ by Lord Dunsany, 1924
+- _The Wind in the Willows_ by Kenneth Grahame, 1908
+- _The Star Diaries_ by Stanisław Lem, 1957
+- _A Canticle for Leibowitz_ by Walter M. Miller Jr., 1959
 - _Foundation_ by Isaac Asimov, 1951
 - _Casino Royale_ by Ian Fleming, 1953
 - _Tarnsman of Gor_ by John Norman, 1966
@@ -36,9 +30,11 @@ lastmod: 2026-01-08
 - _Hyperion_ by Dan Simmons, 1989
 - _The Pillars of the Earth_ by Ken Follett, 1989
 - _Harlot's Ghost_ by Norman Mailer, 1991
+- _Grognard_ by Loren Wiseman, 1992
 - _March or Die_ by Andrew Keith & William H. Keith Jr., 1992
 - _Honor and Fidelity_ by Andrew Keith & William H. Keith Jr., 1992
 - _The Anatomy of a Golf Course_ by Tom Doak, 1992
+- _Snow Crash_ by Neal Stephenson, 1992
 - _Cohort of the Damned_ by Andrew Keith & William H. Keith Jr., 1993
 - _Distress_ by Greg Egan, 1995
 - _The Spell of the Sensuous_ by David Abram, 1996
@@ -74,7 +70,7 @@ lastmod: 2026-01-08
 - _Milk Run_ by Nathan Lowell, 2016
 - _To Fire Called_ by Nathan Lowell, 2017
 - _Persepolis Rising_ by James S.A. Corey, 2017
-- _Her Body and Other Parties_ by Amy Landon, 2017
+- _Her Body and Other Parties_ by Carmen Maria Machado, 2017
 - _In Darkness Forged_ by Nathan Lowell, 2018
 - _Forever and a Day_ by Anthony Horowitz, 2018
 - _Home Run_ by Nathan Lowell, 2018
@@ -93,6 +89,7 @@ lastmod: 2026-01-08
 - _Cape Grace_ by Nathan Lowell, 2020
 - _Breath: The New Science of a Lost Art_ by James Nestor, 2020
 - _Ghouls_ by Richard Lee Byers, 2020
+- _Wet Work_ by Chris A. Jackson, 2020
 - _Leviathan Falls_ by James S.A. Corey, 2021
 - _Sea of Tranquility_ by Emily St. John Mandel, 2022
 - _Little Rabbit_ by Alyssa Songsiridej, 2022
