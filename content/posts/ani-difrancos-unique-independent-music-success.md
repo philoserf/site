@@ -11,7 +11,6 @@ tags:
   - think
 date: 2025-11-10
 lastmod: 2026-01-07
-publish: true
 ---
 
 Ani DiFranco pulled off something almost nobody else has: full independence with real national reach. Most artists either stay fiercely autonomous and small, or they get famous by giving up pieces of that independence. She didn't. She built Righteous Babe before anyone knew her name, kept her masters, set her own pace, toured constantly, and still landed in college radio, mainstream press, and multiple cultural circles without bending toward any of them.
