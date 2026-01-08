@@ -2,12 +2,9 @@
 title: Think
 description: Explores the metaphysics of thought, emphasizing how writing enhances thinking and clarity.
 tags:
-  - consume
-  - grow
   - metaphysics
   - philosophy
   - self-improvement
-  - think
   - thinking
   - writing
 date: 2025-10-21
