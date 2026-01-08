@@ -12,7 +12,6 @@ tags:
   - think
 date: 2025-08-04
 lastmod: 2026-01-02
-publish: true
 ---
 
 The story goes like this: in the garden, there was one tree we weren't supposed to touch. One bite, and we'd know too much. We bit. We knew. We fell.
