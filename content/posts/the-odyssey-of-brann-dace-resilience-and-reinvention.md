@@ -11,7 +11,6 @@ tags:
   - traveller-rpg
 date: 2025-10-31
 lastmod: 2026-01-02
-publish: true
 ---
 
 Brann Dace grew up on a quiet Imperial frontier world where success meant university placement and corporate service. He wanted that path—steady work, predictable life, civilized gravity wells—but he failed the entrance examinations. It wasn't dramatic; a simple letter, polite phrasing, and the sudden collapse of a future he'd rehearsed.
