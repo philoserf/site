@@ -1,4 +1,5 @@
 ---
+title: Sleep
 description: Discusses the significance of sleep in boosting health and productivity, offering practical tips for better sleep quality, including consistent schedules, light management, and optimized sleep environments. Emphasizes the benefits of daylight, avoiding blue light, and maintaining a cool sleeping atmosphere.
 tags:
   - be
@@ -8,7 +9,7 @@ tags:
   - productivity
   - sleep
 date: 2025-04-03
-lastmod: 2026-01-03
+lastmod: 2026-01-08
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
