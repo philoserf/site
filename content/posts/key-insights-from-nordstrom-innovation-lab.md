@@ -9,7 +9,6 @@ tags:
   - make
 date: 2025-10-18
 lastmod: 2026-01-02
-publish: true
 ---
 
 ## Nordstrom's Innovation Lab
