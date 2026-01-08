@@ -10,12 +10,12 @@ tags:
   - music
   - think
 date: 2025-11-10
-lastmod: 2026-01-02
+lastmod: 2026-01-07
 publish: true
 ---
 
-Ani DiFranco pulled off something almost no one else has: full independence with real national reach. Most artists either stay fiercely autonomous and small, or gain visibility by trading away parts of that independence. She didn't. She built Righteous Babe before she was known, kept her masters, set her own pace, toured constantly, and still landed in college radio, mainstream press, and multiple cultural circles without bending toward them.
+Ani DiFranco pulled off something almost nobody else has: full independence with real national reach. Most artists either stay fiercely autonomous and small, or they get famous by giving up pieces of that independence. She didn't. She built Righteous Babe before anyone knew her name, kept her masters, set her own pace, toured constantly, and still landed in college radio, mainstream press, and multiple cultural circles without bending toward any of them.
 
-The usual comparisons clarify the gap. Fugazi matched her ethics point for point—rights control, price discipline, no corporate infrastructure—but they kept their scope intentionally narrow. Their influence is deep, not wide. Tech N9ne built an independent operation as sophisticated and profitable as anyone's, yet his impact sits squarely inside hip-hop. Alternative Tentacles created a full political–artistic ecosystem, but its reach stayed tethered to punk. King Gizzard, Aesop Rock, and the broader Rhymesayers world show sustained autonomy and serious craft, but their audience remains scene-defined.
+Compare her to similar artists and the difference becomes obvious. Fugazi matched her ethics exactly—rights control, price discipline, no corporate infrastructure—but they kept their world deliberately small. Their influence runs deep, not wide. Tech N9ne built an independent operation as sophisticated and profitable as anyone's, but his impact stays inside hip-hop. Alternative Tentacles created a complete political and artistic ecosystem, but it never broke out of punk. King Gizzard, Aesop Rock, and the broader Rhymesayers world show the same sustained autonomy and serious craft, but their audiences stay within their scenes.
 
-DiFranco cut across those boundaries. She reached listeners far beyond folk, punk, or activism, and did it while retaining control of every part of her work. Others match her ideals, or her scale, or her longevity; almost none reach her particular combination of autonomy, visibility, and endurance.
+DiFranco cut across all those boundaries. She reached listeners far beyond folk, punk, or activism, and she did it while keeping control of everything. Other artists match her on principles, or reach, or staying power. Almost none have all three at once.

@@ -1,9 +1,6 @@
 ---
 title: "Play"
-date: 2025-04-03
 description: Play fosters creativity, reduces stress, and aids personal growth. It allows exploration, learning, and connection beyond daily roles, emphasizing its significance in holistic development.
-lastmod: 2025-12-29
-publish: true
 tags:
   - be
   - consume
@@ -11,6 +8,9 @@ tags:
   - personal-development
   - play
   - stress-management
+date: 2025-04-03
+lastmod: 2026-01-03
+publish: true
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
