@@ -4,12 +4,9 @@ description: Explores the relentless quest for knowledge born from insatiable cu
 category: reflection
 tags:
   - curiosity
-  - grow
   - knowledge
-  - make
   - philosophy
   - self-awareness
-  - think
 date: 2025-08-04
 lastmod: 2026-01-02
 ---
