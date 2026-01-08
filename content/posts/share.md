@@ -1,5 +1,4 @@
 ---
-title: "Share"
 description: Emphasizes the role of social connections and meaningful exchanges in fulfilling psychological needs and strengthening community bonds for a happy, healthy, and productive life.
 tags:
   - communication
@@ -10,7 +9,6 @@ tags:
   - share
 date: 2025-04-03
 lastmod: 2026-01-03
-publish: true
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
@@ -21,9 +19,9 @@ Share: Social connection and meaningful exchange with others to fulfill psycholo
 
 ## Related
 
-- [Sleep]({{< ref "sleep" >}})
-- [Move]({{< ref "move" >}})
-- [Eat]({{< ref "eat" >}})
-- [Grow]({{< ref "grow" >}})
-- [Play]({{< ref "play" >}})
-- [Sleep, Move, Eat, Grow, Play & Share]({{< ref "sleep-move-eat-grow-play-share" >}})
+- [Sleep](sleep)
+- [Move](move)
+- [Eat](eat)
+- [Grow](grow)
+- [Play](play)
+- [Sleep, Move, Eat, Grow, Play & Share](sleep-move-eat-grow-play-share)
