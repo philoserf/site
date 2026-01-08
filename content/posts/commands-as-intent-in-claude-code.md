@@ -9,7 +9,6 @@ tags:
   - system-architecture
 date: 2026-01-02
 lastmod: 2026-01-07
-publish: true
 ---
 
 ## Commands Are Not Instructions
