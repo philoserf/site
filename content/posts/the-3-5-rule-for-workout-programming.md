@@ -13,7 +13,6 @@ tags:
   - workout-strategy
 date: 2023-02-01
 lastmod: 2026-01-02
-publish: true
 ---
 
 source: Andy Galpin
