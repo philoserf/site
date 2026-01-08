@@ -14,7 +14,6 @@ tags:
 date: 2025-12-21
 lastmod: 2026-01-02
 math: true
-publish: true
 ---
 
 AI agents transformed the mathematics of wasted time. Human productivity once meant serial processing—one task, one moment, one opportunity cost. Artificial agents introduced parallel execution and restructured everything.
