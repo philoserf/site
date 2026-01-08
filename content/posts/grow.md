@@ -9,6 +9,7 @@ tags:
   - think
 date: 2025-04-03
 lastmod: 2026-01-03
+tit: Grow
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
