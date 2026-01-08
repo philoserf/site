@@ -1,19 +1,17 @@
 ---
-title: "Now"
-description: Reading books on productivity, speculative fiction, and counterculture. Planning for future travel and experiences, including a winter in Michigan, a speaking event in Seattle, and future trips to Spain and Ireland.
+title: Now
+description: A regularly updated page sharing current location, reading list, focus areas including Claude Code for pair programming, and upcoming travel plans to Seattle and Ireland.
 category: profile
 tags:
-  - be
-  - consume
-  - daily-routine
-  - play
-  - reading
-  - travel
+  - current-projects
+  - now-page
+  - personal-update
+  - reading-list
 aliases:
   - /now
   - /posts/books-i-am-reading
 date: 2025-12-11
-lastmod: 2026-01-02
+lastmod: 2026-01-06
 publish: true
 ---
 
@@ -29,11 +27,12 @@ At home in Greater Grand Rapids, Michigan
 
 ## What am I focused on
 
-- Considering daily routines
+- Really developing an understanding of [Claude Code](https://code.claude.com/docs/en/overview) as a [pair programming](https://youtu.be/aiXr7mEB4ms) partner.
 
 ## What I'm looking forward to
 
 - A cold, dark winter
-- Ignite! Seattle 50 at Benaroya Hall in March
-- A total solar eclipse on August 12, 2026, viewed from Spain
+- I am so torn because I cannot do both of these. I will do the most important.
+  - Ignite! Seattle 50 at Benaroya Hall in March
+  - ~~A total solar eclipse on August 12, 2026, viewed from Spain~~
 - A trip to Ireland, in planning for 2027
