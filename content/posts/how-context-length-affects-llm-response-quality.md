@@ -13,7 +13,6 @@ tags:
   - think
 date: 2025-12-21
 lastmod: 2026-01-02
-publish: true
 ---
 
 Quoting [Claude](https://claude.ai):
