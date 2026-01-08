@@ -13,7 +13,6 @@ tags:
   - time-management
 date: 2025-12-29
 lastmod: 2026-01-02
-publish: true
 ---
 
 A decision-making heuristic popularized by Derek Sivers: tepid enthusiasm indicates misalignment, not compromise.
