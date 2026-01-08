@@ -1,5 +1,4 @@
 ---
-title: "Think, Do, Be"
 description: Explores how thinking, doing, and being interact to shape personal growth and identity through various cognitive, experiential, and philosophical approaches.
 tags:
   - cognitive-function
@@ -12,7 +11,6 @@ tags:
   - think
 date: 2025-01-06
 lastmod: 2026-01-03
-publish: true
 ---
 
 I must think deeply, act decisively, and become intentionally.
