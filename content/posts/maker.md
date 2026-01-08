@@ -1,4 +1,5 @@
 ---
+title: Maker
 description: The Maker transforms ideas into reality using mediums like code, art, and writing, creating tangible value, solutions, and new existence. Leveraging knowledge and intuition, the Maker produces meaningful work that matters.
 tags:
   - content-creation
@@ -8,7 +9,7 @@ tags:
   - make
   - self-expression
 date: 2025-04-11
-lastmod: 2026-01-03
+lastmod: 2026-01-08
 ---
 
 The self that does the important creative work, synthesis, and implementation.
