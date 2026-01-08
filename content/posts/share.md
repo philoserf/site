@@ -1,4 +1,5 @@
 ---
+title: Share
 description: Emphasizes the role of social connections and meaningful exchanges in fulfilling psychological needs and strengthening community bonds for a happy, healthy, and productive life.
 tags:
   - communication
@@ -8,7 +9,7 @@ tags:
   - self-awareness
   - share
 date: 2025-04-03
-lastmod: 2026-01-03
+lastmod: 2026-01-08
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
