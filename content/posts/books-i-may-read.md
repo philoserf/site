@@ -1,4 +1,5 @@
 ---
+title: Books I may read
 description: A diverse book collection spanning science fiction, philosophical works, and historical novels. Covers consciousness, societal issues, and personal growth, showcasing acclaimed authors.
 category: list
 tags:
@@ -11,7 +12,7 @@ tags:
   - reading
   - think
 date: 2025-09-25
-lastmod: 2026-01-02
+lastmod: 2026-01-08
 ---
 
 ## Up Next
