@@ -1,5 +1,4 @@
 ---
-title: "Consumer"
 description: Emphasizes the consumer's role in stress relief and cognitive restoration through passive consumption and deliberate integration, highlighting the importance of mental downtime.
 tags:
   - be
@@ -10,7 +9,6 @@ tags:
   - stress-management
 date: 2025-04-11
 lastmod: 2026-01-03
-publish: true
 ---
 
 The self that does the important recovery, renewal, and integration.
