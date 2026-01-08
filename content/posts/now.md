@@ -12,7 +12,6 @@ aliases:
   - /posts/books-i-am-reading
 date: 2025-12-11
 lastmod: 2026-01-06
-publish: true
 ---
 
 ## Where am I
