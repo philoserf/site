@@ -2,11 +2,8 @@
 title: Play
 description: Play fosters creativity, reduces stress, and aids personal growth. It allows exploration, learning, and connection beyond daily roles, emphasizing its significance in holistic development.
 tags:
-  - be
-  - consume
   - creativity
   - personal-development
-  - play
   - stress-management
 date: 2025-04-03
 lastmod: 2026-01-08

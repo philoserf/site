@@ -4,9 +4,6 @@ description: Provides a step-by-step Chemex coffee brewing guide, including meas
 category: recipe
 tags:
   - coffee
-  - do
-  - eat
-  - make
   - recipe
 date: 2025-04-30
 lastmod: 2026-01-02

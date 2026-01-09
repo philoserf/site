@@ -2,9 +2,6 @@
 title: Be
 description: Emphasizes mindfulness and self-awareness by embracing kindness, generosity, patience, and courage. Encourages living fully with creativity, curiosity, and gratitude.
 tags:
-  - be
-  - consume
-  - grow
   - mindfulness
   - personal-development
   - self-awareness

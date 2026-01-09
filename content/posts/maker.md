@@ -4,9 +4,6 @@ description: The Maker transforms ideas into reality using mediums like code, ar
 tags:
   - content-creation
   - creativity
-  - do
-  - grow
-  - make
   - self-expression
 date: 2025-04-11
 lastmod: 2026-01-08

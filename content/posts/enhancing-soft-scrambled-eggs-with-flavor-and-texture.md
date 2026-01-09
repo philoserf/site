@@ -5,9 +5,6 @@ category: recipe
 tags:
   - cooking
   - creativity
-  - do
-  - eat
-  - make
   - nutrition
   - recipe
 date: 2025-03-28

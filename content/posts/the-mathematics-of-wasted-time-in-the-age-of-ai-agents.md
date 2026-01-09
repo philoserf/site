@@ -5,12 +5,9 @@ category: essay
 tags:
   - ai-agents
   - attention-economy
-  - grow
   - human-flourishing
-  - make
   - opportunity-cost
   - productivity
-  - think
 date: 2025-12-21
 lastmod: 2026-01-02
 math: true

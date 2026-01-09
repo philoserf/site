@@ -4,11 +4,8 @@ description: Explore how value alignment, skill growth, depletion, and interfere
 category: essay
 tags:
   - goal-setting
-  - grow
   - habits
-  - manage
   - persistence
-  - think
 date: 2025-12-06
 lastmod: 2026-01-02
 math: true

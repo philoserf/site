@@ -4,11 +4,8 @@ description: Ani DiFranco achieved full independence and national reach without 
 category: essay
 tags:
   - culture
-  - grow
   - independence
-  - make
   - music
-  - think
 date: 2025-11-10
 lastmod: 2026-01-07
 ---

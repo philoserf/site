@@ -5,12 +5,9 @@ category: reflection
 tags:
   - ai-behavior
   - ai-conversations
-  - consume
   - context-windows
   - emergent-behavior
-  - grow
   - llm-limitations
-  - think
 date: 2025-12-21
 lastmod: 2026-01-02
 ---

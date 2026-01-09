@@ -5,11 +5,8 @@ category:
   - essay
 tags:
   - automation
-  - consume
   - future-of-work
   - labor-history
-  - share
-  - think
   - wage-labor
   - work-culture
 date: 2026-01-02

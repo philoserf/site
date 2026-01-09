@@ -4,11 +4,8 @@ description: Explores the philosophical implications of visibility, inconsequenc
 category: essay
 tags:
   - agency
-  - grow
-  - make
   - philosophy
   - power-dynamics
-  - think
 date: 2025-11-05
 lastmod: 2026-01-02
 ---

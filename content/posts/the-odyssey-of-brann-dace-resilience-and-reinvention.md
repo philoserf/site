@@ -3,11 +3,8 @@ title: "The Odyssey of Brann Dace: Resilience and Reinvention"
 description: Brann Dace's journey from a failed university entry to a resilient interstellar courier, adapting skills and facing challenges. Navigating intelligence secrets, law enforcement, and trade, his life embodies reinvention and resilience on the cosmic frontier.
 category: narrative
 tags:
-  - be
   - existentialism
-  - make
   - personal-development
-  - play
   - traveller-rpg
 date: 2025-10-31
 lastmod: 2026-01-02

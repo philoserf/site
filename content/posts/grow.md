@@ -2,12 +2,9 @@
 title: Grow
 description: Essential activities like sleep, movement, eating, and sharing contribute to a happy, healthy, and productive life. Emphasizes reading and knowledge retention through consistent habits and note-taking.
 tags:
-  - consume
-  - grow
   - lifestyle
   - note-taking
   - productivity
-  - think
 date: 2025-04-03
 lastmod: 2026-01-08
 ---

@@ -2,14 +2,14 @@
 title: Books I may read
 description: A diverse book collection spanning science fiction, philosophical works, and historical novels. Covers consciousness, societal issues, and personal growth, showcasing acclaimed authors.
 category: list
-date: 2025-09-25
-lastmod: 2026-01-08
 tags:
-  - reading-list
   - book-collection
-  - science-fiction
   - literature
   - personal-library
+  - reading-list
+  - science-fiction
+date: 2025-09-25
+lastmod: 2026-01-08
 ---
 
 ## Up Next

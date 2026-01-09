@@ -3,11 +3,8 @@ title: Do
 description: Actions define identity more than thoughts or intentions; meaningful contributions shape how others perceive us.
 tags:
   - contribution
-  - do
   - identity
-  - make
   - self-expression
-  - share
 date: 2025-01-06
 lastmod: 2026-01-08
 ---
