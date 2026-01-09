@@ -1,17 +1,13 @@
 ---
 title: Think
-description: Explores the metaphysics of thought, emphasizing how writing enhances thinking and clarity.
+description: A brief reflection on the relationship between thinking and writing, questioning Cartesian metaphysics while noting that writing improves the quality of thinking.
 tags:
-  - consume
-  - grow
-  - metaphysics
+  - metacognition
   - philosophy
-  - self-improvement
-  - think
   - thinking
   - writing
 date: 2025-10-21
-lastmod: 2026-01-08
+lastmod: 2026-01-09
 ---
 
 I am thinking. I am thinking that I do not like the metaphysics of "I think therefore I am". I think a lot. I should write more. Writing has a improving effect on thinking.
