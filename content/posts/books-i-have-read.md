@@ -15,7 +15,7 @@ lastmod: 2026-01-08
 
 - (coming soon)
 
-### Before the twenty-first century
+### Published before the twenty-first century
 
 - _The King of Elfland's Daughter_ by Lord Dunsany, 1924
 - _The Wind in the Willows_ by Kenneth Grahame, 1908
@@ -39,7 +39,7 @@ lastmod: 2026-01-08
 - _Distress_ by Greg Egan, 1995
 - _The Spell of the Sensuous_ by David Abram, 1996
 
-### The first two decades of the twenty-first century
+### Published in the first two decades of the twenty-first century
 
 - _Altered Carbon_ by Richard K. Morgan, 2002
 - _Jennifer Government_ by Max Barry, 2003
@@ -82,7 +82,7 @@ lastmod: 2026-01-08
 - _Tiamat's Wrath_ by James S.A. Corey, 2019
 - _Widowed_ by Chris A. Jackson, 2019
 
-### The current decade
+### Published in the current decade
 
 - _The Glass Hotel_ by Emily St. John Mandel, 2020
 - _Finwell Bay_ by Nathan Lowell, 2020
