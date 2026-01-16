@@ -17,7 +17,7 @@ The Roman Republic didn't collapse because it grew old. It collapsed because it 
 
 Rome's mature republican system—consuls, Senate, assemblies, tribunes, and a thick web of custom—suited a city-state that had become a regional power. It balanced elite rivalry with popular consent, checked ambition through short terms and shared offices, and relied more on norms than on law. It worked for centuries. Conflict was frequent, but the institutions could absorb it.
 
-The trouble wasn't moral decay or the loss of republican virtue—themes favoured by ancient authors. It was scale. By the second century BCE Rome governed something its constitution had never envisaged. It ruled vast territories, drew in enormous wealth, maintained standing armies far from Italy, and presided over deep social change.
+The trouble wasn't moral decay or the loss of republican virtue—themes favored by ancient authors. It was scale. By the second century BCE Rome governed something its constitution had never envisaged. It ruled vast territories, drew in enormous wealth, maintained standing armies far from Italy, and presided over deep social change.
 
 Provincial rule was improvised and poorly supervised. Military commands lengthened and slipped from civilian control. Wealth pooled unevenly, weakening the smallholders who underpinned citizenship. Politics turned on armies and exceptional powers, not routine office. The constitution still functioned, but it no longer sufficed.
 
