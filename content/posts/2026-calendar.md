@@ -6,39 +6,38 @@ tags:
   - calendar
   - seasonal-events
 date: 2026-01-16
-lastmod: 2026-01-16
+lastmod: 2026-01-17
 ---
 
-| Date         | Time  | Event                |
-| ------------ | ----- | -------------------- |
-| January 10   | 20:08 | New Moon             |
-| January 25   | 20:54 | Full Moon            |
-| February 2   | 06:55 | Groundhog Day        |
-| February 9   | 01:33 | New Moon             |
-| February 24  | 16:32 | Full Moon            |
-| March 10     | 17:47 | New Moon             |
-| March 20     | 18:06 | Spring Equinox       |
-| March 25     | 18:27 | Full Moon            |
-| April 8      | 22:09 | New Moon             |
-| April 23     | 08:53 | Full Moon            |
-| May 1        | 12:16 | High Spring          |
-| May 8        | 12:53 | New Moon             |
-| May 23       | 23:53 | Full Moon            |
-| June 6       | 09:42 | New Moon             |
-| June 21      | 11:55 | Miðsumar             |
-| June 21      | 22:41 | Full Moon            |
-| July 6       | 01:09 | New Moon             |
-| July 21      | 10:17 | Full Moon            |
-| August 1     | 01:23 | First Harvest        |
-| August 4     | 23:52 | New Moon             |
-| August 19    | 16:03 | Full Moon            |
-| September 3  | 09:36 | New Moon             |
-| September 18 | 03:36 | Full Moon            |
-| September 22 | 01:29 | Autumn Equinox       |
-| October 3    | 18:48 | New Moon             |
-| October 17   | 17:30 | Full Moon            |
-| November 1   | 13:25 | Leaf Fall & New Moon |
-| November 16  | 04:54 | Full Moon            |
-| December 1   | 05:23 | New Moon             |
-| December 16  | 16:28 | Full Moon            |
-| December 21  | 10:03 | Yule                 |
+| Date   | Time  | Event                   |
+| ------ | ----- | ----------------------- |
+| Jan 3  | 04:01 | New Moon ​              |
+| Jan 13 | 22:27 | Full Moon ​             |
+| Feb 1  | 22:10 | New Moon ​              |
+| Feb 11 | 11:32 | Full Moon ​             |
+| Mar 3  | 18:44 | New Moon ​              |
+| Mar 13 | 01:03 | Full Moon ​             |
+| Mar 20 | 14:46 | Spring Equinox          |
+| Apr 2  | 09:12 | New Moon ​              |
+| Apr 11 | 13:22 | Full Moon ​             |
+| May 1  | 21:25 | New Moon ​              |
+| May 11 | 00:09 | Full Moon ​             |
+| May 31 | 20:01 | New Moon ​              |
+| May 31 | 08:45 | Full Moon (Blue Moon) ​ |
+| Jun 14 | 02:54 | New Moon ​              |
+| Jun 21 | 08:24 | Summer Solstice ​       |
+| Jun 29 | 23:57 | Full Moon ​             |
+| Jul 13 | 09:07 | New Moon ​              |
+| Jul 29 | 10:38 | Full Moon ​             |
+| Aug 11 | 18:15 | New Moon ​              |
+| Aug 27 | 01:56 | Full Moon ​             |
+| Sep 10 | 05:30 | New Moon ​              |
+| Sep 22 | 00:05 | Autumn Equinox ​        |
+| Sep 25 | 17:51 | Full Moon ​             |
+| Oct 9  | 18:00 | New Moon ​              |
+| Oct 25 | 06:10 | Full Moon ​             |
+| Nov 8  | 09:18 | New Moon ​              |
+| Nov 23 | 17:29 | Full Moon ​             |
+| Dec 8  | 01:26 | New Moon ​              |
+| Dec 21 | 20:50 | Winter Solstice ​       |
+| Dec 23 | 03:27 | Full Moon ​             |
