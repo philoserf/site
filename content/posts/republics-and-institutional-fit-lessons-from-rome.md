@@ -17,7 +17,7 @@ The Roman Republic didn't collapse because it grew old. It collapsed because it 
 
 Rome's mature republican system—consuls, Senate, assemblies, tribunes, and a thick web of custom—suited a city-state that had become a regional power. It balanced elite rivalry with popular consent, checked ambition through short terms and shared offices, and relied more on norms than on law. It worked for centuries. Conflict was frequent, but the institutions could absorb it.
 
-The trouble wasn't moral decay or the loss of republican virtue—themes favored by ancient authors. It was scale. By the second century BCE Rome governed something its constitution had never envisaged. It ruled vast territories, drew in enormous wealth, maintained standing armies far from Italy, and presided over deep social change.
+The trouble wasn't moral decay or the loss of republican virtue—themes favoured by ancient authors. It was scale. By the second century BCE Rome governed something its constitution had never envisaged. It ruled vast territories, drew in enormous wealth, maintained standing armies far from Italy, and presided over deep social change.
 
 Provincial rule was improvised and poorly supervised. Military commands lengthened and slipped from civilian control. Wealth pooled unevenly, weakening the smallholders who underpinned citizenship. Politics turned on armies and exceptional powers, not routine office. The constitution still functioned, but it no longer sufficed.
 
@@ -31,7 +31,7 @@ The American constitution was written for a small agrarian federation on the Atl
 
 Adaptation has come mainly through interpretation, administration, and custom, not redesign. That brings flexibility and continuity, but also risk. When informal fixes pile up without clear realignment of authority and responsibility, strain concentrates where the system is weakest: executive power, representation, civil–military boundaries, and the conversion of public will into action.
 
-Rome's experience suggests the danger isn't abrupt tyranny but lingering ambiguity. Power flows to where problems can be solved, constitution or no. If formal structures can't cope with scale, informal ones appear. Over time they harden, then are recognized in law or embodied in individuals.
+Rome's experience suggests the danger isn't abrupt tyranny but lingering ambiguity. Power flows to where problems can be solved, constitution or no. If formal structures can't cope with scale, informal ones appear. Over time they harden, then are recognised in law or embodied in individuals.
 
 The lesson is neither fatalistic nor comforting. Republics don't expire on a timetable. They last only while power, responsibility, and scale remain aligned. When they drift apart, stability erodes—not because time has passed, but because reality has moved on.
 
