@@ -69,9 +69,9 @@ The statement's structure suggests these aren't just options but perhaps stages,
 
 Each mode also implies different relationships to fear - fear of being seen, fear of being forgotten, or becoming what others fear. The comma after "inconsequential" creates pause, making "dangerous" feel like both culmination and departure from the previous two states.
 
-The real philosophical weight lies in the implied question: Is impact worth exposure? Is mattering worth the cost of becoming someone others must defend against?​​​​​​​​​​​​​​​​
+The real philosophical weight lies in the implied question: Is impact worth exposure? Is mattering worth the cost of becoming someone others must defend against?
 
-## Project Quality assurance​​​​​​​​​​​​​​​​
+## Project Quality assurance
 
 The statement assumes visibility and consequence naturally correlate with danger - that to matter is to threaten. It frames power exclusively through antagonism.
 
@@ -81,7 +81,7 @@ The framing itself suggests contexts where visibility invites targeting - survei
 
 Most interesting: dangerous to whom? The term conflates unpredictability, capability, and intent. A system might fear dangerous ideas more than dangerous weapons.
 
-The real choice isn't between these three states but whether to accept the frame at all. Rejecting it opens: visible non-threat, inconsequential but prepared, or redefining what constitutes danger in the relevant domain.​​​​​​​​​​​​​​​​
+The real choice isn't between these three states but whether to accept the frame at all. Rejecting it opens: visible non-threat, inconsequential but prepared, or redefining what constitutes danger in the relevant domain.
 
 ## Project Concise style
 
@@ -95,7 +95,7 @@ The statement frames a trap. Stay quiet and disappear. Stay harmless and get pat
 
 A fourth option exists: be necessary. Necessary people get seen. They matter. They don't need danger as a credential. They solve problems others cannot solve. They create value others cannot create. The dangerous person threatens. The necessary person delivers.
 
-The question wants you to pick between erasure and conflict. Pick neither. Build something they need.​​​​​​​​​​​​​​​​
+The question wants you to pick between erasure and conflict. Pick neither. Build something they need.
 
 ## Research
 
