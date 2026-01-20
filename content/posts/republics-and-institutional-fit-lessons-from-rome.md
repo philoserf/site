@@ -1,6 +1,7 @@
 ---
 title: "Republics and Institutional Fit: Lessons from Rome"
 description: An analysis of the Roman Republic's collapse arguing that republics fail not from age but from institutional mismatch—when governing structures can no longer manage the scale, complexity, and distribution of power they face. The essay draws parallels to modern constitutional systems that govern at scales far beyond their original design.
+category: essay
 tags:
   - constitutional-governance
   - institutional-design
