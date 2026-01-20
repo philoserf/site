@@ -1,6 +1,7 @@
 ---
 title: Do
 description: A reflection on the importance of action and contribution over mere thought and existence, emphasizing that others perceive us through our tangible results and accomplishments.
+category: reflection
 tags:
   - action
   - contribution

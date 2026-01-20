@@ -1,6 +1,7 @@
 ---
 title: Manager
 description: The Manager persona efficiently coordinates time, energy, and priorities to handle logistics and decision-making, aligning daily actions with long-term objectives to ensure order and direction.
+category: reflection
 tags:
   - decision-making
   - organization

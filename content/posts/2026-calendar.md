@@ -1,6 +1,7 @@
 ---
 title: 2026 Calendar
 description: A comprehensive 2026 calendar listing astronomical events (new moons, full moons, solstices, equinoxes) and seasonal observations with specific dates and times throughout the year.
+category: article
 tags:
   - astronomy
   - calendar
