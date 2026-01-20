@@ -60,5 +60,4 @@ menus:
       weight: 90
 
 taxonomies:
-  category: categories
   tag: tags
