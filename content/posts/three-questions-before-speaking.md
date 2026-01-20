@@ -1,7 +1,6 @@
 ---
 title: Three Questions Before Speaking
 description: "Three essential questions to consider before speaking or acting: whether something is true, kind, and necessary. A framework for thoughtful communication and ethical decision-making."
-category: guide
 tags:
   - communication
   - ethics
