@@ -1,7 +1,6 @@
 ---
 title: Now
 description: A personal status page documenting current location, reading list, focus areas, and upcoming events. Updated regularly to share what's happening now in life and work.
-category: profile
 tags:
   - current-projects
   - now-page
