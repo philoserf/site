@@ -1,7 +1,6 @@
 ---
 title: Books I may read
 description: A diverse book collection spanning science fiction, philosophical works, and historical novels. Covers consciousness, societal issues, and personal growth, showcasing acclaimed authors.
-category: list
 tags:
   - book-collection
   - literature

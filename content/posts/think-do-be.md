@@ -1,7 +1,6 @@
 ---
 title: Think, Do, Be
 description: A philosophical framework emphasizing the integration of deep thinking, decisive action, and intentional becoming. Explores how thinking shapes action, and action shapes identity through continuous evolution.
-category: reflection
 tags:
   - action
   - intentional-living

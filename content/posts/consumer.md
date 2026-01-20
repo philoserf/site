@@ -1,7 +1,6 @@
 ---
 title: Consumer
 description: Emphasizes the consumer's role in stress relief and cognitive restoration through passive consumption and deliberate integration, highlighting the importance of mental downtime.
-category: reflection
 tags:
   - mental-health
   - self-improvement

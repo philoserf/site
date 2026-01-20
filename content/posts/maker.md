@@ -1,7 +1,6 @@
 ---
 title: Maker
 description: The Maker transforms ideas into reality using mediums like code, art, and writing, creating tangible value, solutions, and new existence. Leveraging knowledge and intuition, the Maker produces meaningful work that matters.
-category: reflection
 tags:
   - content-creation
   - creativity

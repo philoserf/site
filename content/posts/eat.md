@@ -1,7 +1,6 @@
 ---
 title: Eat
 description: Emphasizes the importance of consuming nutrient-dense foods. Encourages meal tracking in a food diary and eating post-activity for optimal insulin sensitivity. Aims to enhance overall well-being through mindful eating habits.
-category: reflection
 tags:
   - healthy-eating
   - lifestyle

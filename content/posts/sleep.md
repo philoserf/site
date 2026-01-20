@@ -1,7 +1,6 @@
 ---
 title: Sleep
 description: Discusses the significance of sleep in boosting health and productivity, offering practical tips for better sleep quality, including consistent schedules, light management, and optimized sleep environments. Emphasizes the benefits of daylight, avoiding blue light, and maintaining a cool sleeping atmosphere.
-category: reflection
 tags:
   - health
   - lifestyle

@@ -1,7 +1,6 @@
 ---
 title: Share
 description: Emphasizes the role of social connections and meaningful exchanges in fulfilling psychological needs and strengthening community bonds for a happy, healthy, and productive life.
-category: reflection
 tags:
   - communication
   - psychology

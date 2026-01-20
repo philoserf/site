@@ -1,8 +1,6 @@
 ---
 title: The Origins and Future of the Rat Race
-description: An exploration of how industrialization created the modern rat race through wage dependency, and how emerging technologies like automation and AI might fundamentally reshape the relationship between work, survival, and human meaning.
-category:
-  - essay
+description: An exploration of how industrialization created the modern rat race through wage dependency, and how emerging technologies like automation and AI might fundamentally reshape the relationship between work, survival, and human meaning. - essay
 tags:
   - automation
   - future-of-work

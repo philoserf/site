@@ -1,7 +1,6 @@
 ---
 title: About
 description: Explores simplicity and strategic thinking through personal experiences, blending philosophy with self-improvement, lifelong learning, and creativity. Highlights travels, artistic pursuits, and intentional living, underscoring the importance of clarity, discipline, and effective communication.
-category: profile
 tags:
   - creativity
   - personal-development

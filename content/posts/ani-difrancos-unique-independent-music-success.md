@@ -1,7 +1,6 @@
 ---
 title: Ani DiFranco's Unique Independent Music Success
 description: Ani DiFranco achieved full independence and national reach without sacrificing control. Through Righteous Babe Records, she maintained cultural impact unlike peers such as Fugazi and Tech N9ne. Her unique combination of autonomy, visibility, and endurance sets her apart in the music industry.
-category: essay
 tags:
   - culture
   - independence

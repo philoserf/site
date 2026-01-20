@@ -1,7 +1,6 @@
 ---
 title: The Mathematics of Wasted Time in the Age of AI Agents
 description: An analysis of how AI agents fundamentally change the mathematics of productivity and wasted time by introducing parallel execution, transforming opportunity cost from linear to multiplicative and creating new paradoxes around rest, quality, and meaning in work.
-category: essay
 tags:
   - ai-agents
   - attention-economy

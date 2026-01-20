@@ -1,7 +1,6 @@
 ---
 title: Books I have read
 description: A comprehensive reading list of books organized by publication date, spanning classic and contemporary literature with a focus on science fiction, fantasy, and literary fiction across the 20th and 21st centuries.
-category: list
 tags:
   - book-catalog
   - literary-fiction

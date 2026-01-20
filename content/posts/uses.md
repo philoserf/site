@@ -1,7 +1,6 @@
 ---
 title: Uses
 description: Details the hardware and software setup involving Apple devices and coding in Go, utilizing tools like Ghostty Terminal and Obsidian for an effective workflow.
-category: profile
 tags:
   - knowledge-management
   - productivity

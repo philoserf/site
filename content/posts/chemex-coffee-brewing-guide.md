@@ -1,7 +1,6 @@
 ---
 title: Optimal Chemex Coffee Brewing Guide
 description: Provides a step-by-step Chemex coffee brewing guide, including measurements, process details, and adjustments for different coffee roasts to optimize flavor extraction. Offers precise instructions for a consistent and well-balanced cup of coffee.
-category: recipe
 tags:
   - coffee
   - recipe
