@@ -1,7 +1,6 @@
 ---
 title: "The Odyssey of Brann Dace: Resilience and Reinvention"
 description: Brann Dace's journey from a failed university entry to a resilient interstellar courier, adapting skills and facing challenges. Navigating intelligence secrets, law enforcement, and trade, his life embodies reinvention and resilience on the cosmic frontier.
-category: narrative
 tags:
   - existentialism
   - personal-development
