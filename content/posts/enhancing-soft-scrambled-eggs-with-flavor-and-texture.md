@@ -1,7 +1,6 @@
 ---
 title: Enhancing Soft-Scrambled Eggs with Flavor and Texture
 description: Enhance soft-scrambled eggs with heavy cream for added richness. Incorporate herbs, spices, cheese, and vegetables for flavor, and use crispy bacon, nuts, or caramelized onions for texture. Alternately, substitute with creme fraiche, Greek yogurt, or mascarpone.
-category: recipe
 tags:
   - cooking
   - creativity
