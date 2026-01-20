@@ -1,6 +1,7 @@
 ---
 title: Be
 description: A contemplative reflection on ways of being, encouraging presence, kindness, and awareness while embracing qualities like courage, creativity, and wisdom in daily life.
+category: reflection
 tags:
   - living-intentionally
   - mindfulness
