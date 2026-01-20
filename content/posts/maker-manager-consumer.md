@@ -1,7 +1,6 @@
 ---
 title: Maker, Manager, & Consumer
 description: Explores the roles of Maker, Manager, and Consumer within oneself. Highlights the importance of creativity, coordination, and rest to balance creation, management, and consumption, ensuring productivity and well-being.
-category: essay
 tags:
   - creativity
   - personal-development
