@@ -1,6 +1,7 @@
 ---
 title: Think
 description: A brief reflection on the relationship between thinking and writing, questioning Cartesian metaphysics while noting that writing improves the quality of thinking.
+category: reflection
 tags:
   - metacognition
   - philosophy
