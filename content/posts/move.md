@@ -1,6 +1,7 @@
 ---
 title: Move
 description: Highlights the benefits of morning movement for metabolism and circulation. Encourages setting goals, tracking progress, and incorporating diverse exercises like weightlifting and yoga to maintain interest and ensure a well-rounded workout routine.
+category: reflection
 tags:
   - fitness
   - health
