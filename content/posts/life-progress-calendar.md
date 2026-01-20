@@ -6,7 +6,7 @@ tags:
   - life-visualization
   - mortality-awareness
 date: 1962-07-04
-lastmod: 2026-01-08
+lastmod: 2026-01-20
 ---
 
 ## Key
