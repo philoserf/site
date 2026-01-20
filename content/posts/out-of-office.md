@@ -1,7 +1,6 @@
 ---
 title: Out of office
 description: Explores a corporate out-of-office email strategy, emphasizing infrequent email checks due to a busy work schedule. Provides alternative communication methods for urgent needs via text or call.
-category: article
 tags:
   - communication
   - efficiency
