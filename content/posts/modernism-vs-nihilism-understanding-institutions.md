@@ -1,7 +1,6 @@
 ---
 title: "Modernism vs. Nihilism: Understanding Institutions"
 description: "An exploration of two approaches to institutional reform: modernists who destroy what they don't understand versus nihilists who destroy because they reject meaning itself. Understanding can stop one but not the other."
-category: essay
 tags:
   - institutions
   - modernism
