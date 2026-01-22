@@ -4,9 +4,8 @@ description: Highlights the benefits of morning movement for metabolism and circ
 tags:
   - fitness
   - health
-  - metabolism
 date: 2025-04-03
-lastmod: 2026-01-08
+lastmod: 2026-01-22
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
