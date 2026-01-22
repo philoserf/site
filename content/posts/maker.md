@@ -4,9 +4,9 @@ description: The Maker transforms ideas into reality using mediums like code, ar
 tags:
   - content-creation
   - creativity
-  - self-expression
+  - self-awareness
 date: 2025-04-11
-lastmod: 2026-01-08
+lastmod: 2026-01-22
 ---
 
 The self that does the important creative work, synthesis, and implementation.
