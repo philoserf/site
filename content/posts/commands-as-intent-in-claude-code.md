@@ -3,12 +3,8 @@ title: Commands as Intent in Claude Code
 description: Explains the architectural principle behind Claude Code's command system where commands serve as declarations of intent that delegate work to skills and agents, rather than containing executable logic themselves.
 tags:
   - claude-code
-  - command-design
-  - delegation-patterns
-  - intent-driven-design
-  - system-architecture
 date: 2026-01-02
-lastmod: 2026-01-07
+lastmod: 2026-01-22
 ---
 
 ## Commands Are Not Instructions

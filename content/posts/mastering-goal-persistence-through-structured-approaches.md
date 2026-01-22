@@ -4,9 +4,8 @@ description: Explore how value alignment, skill growth, depletion, and interfere
 tags:
   - goal-setting
   - habits
-  - persistence
 date: 2025-12-06
-lastmod: 2026-01-02
+lastmod: 2026-01-22
 math: true
 ---
 
