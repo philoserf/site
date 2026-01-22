@@ -7,9 +7,8 @@ tags:
   - lifestyle
   - mixology
   - nutrition
-  - tasting
 date: 2024-06-01
-lastmod: 2026-01-02
+lastmod: 2026-01-22
 ---
 
 1. Mix 14ml of an ingredient with 1L of water
