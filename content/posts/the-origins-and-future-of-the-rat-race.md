@@ -3,12 +3,8 @@ title: The Origins and Future of the Rat Race
 description: An exploration of how industrialization created the modern rat race through wage dependency, and how emerging technologies like automation and AI might fundamentally reshape the relationship between work, survival, and human meaning. - essay
 tags:
   - automation
-  - future-of-work
-  - labor-history
-  - wage-labor
-  - work-culture
 date: 2026-01-02
-lastmod: 2026-01-02
+lastmod: 2026-01-22
 ---
 
 Before industrialization, most people worked land, crafts, or household trades. Urban laborers and apprentices earned wages, but survival didn't depend on them. Life followed seasonal cycles, guild obligations, local routines. Competition had boundaries. There was no rat race.
