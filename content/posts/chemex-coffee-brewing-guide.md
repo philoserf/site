@@ -5,7 +5,7 @@ tags:
   - coffee
   - recipe
 date: 2025-04-30
-lastmod: 2026-01-02
+lastmod: 2026-01-24
 ---
 
 ## Measurements
