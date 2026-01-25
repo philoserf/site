@@ -4,8 +4,10 @@ description: A comprehensive 2026 calendar listing astronomical events (new moon
 tags:
   - astronomy
 date: 2026-01-16
-lastmod: 2026-01-22
+lastmod: 2026-01-24
 ---
+
+<!-- Astronomical data sourced from TimeandDate.com and Sea and Sky astronomy calendars. Times may vary slightly between sources depending on timezone and calculation methods. -->
 
 | Date   | Time  | Event           |
 | ------ | ----- | --------------- |
@@ -43,3 +45,11 @@ lastmod: 2026-01-22
 | Dec 8  | 01:26 | New Moon        |
 | Dec 21 | 20:50 | Winter Solstice |
 | Dec 23 | 03:27 | Full Moon       |
+
+---
+
+**Sources:**
+
+- [Astronomy Calendar of Celestial Events 2026 - Sea and Sky](http://www.seasky.org/astronomy/astronomy-calendar-2026.html)
+- [Astronomical Events 2026 - TimeandDate.com](https://www.timeanddate.com/astronomy/sights-to-see.html)
+- [Earth's Seasons - US Naval Observatory](https://aa.usno.navy.mil/calculated/seasons?year=2026)
