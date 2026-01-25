@@ -4,7 +4,7 @@ description: Explains the architectural principle behind Claude Code's command s
 tags:
   - claude-code
 date: 2026-01-02
-lastmod: 2026-01-22
+lastmod: 2026-01-24
 ---
 
 ## Commands Are Not Instructions
@@ -71,5 +71,5 @@ That's it.
 
 ---
 
-[Example command](https://github.com/philoserf/claude-code-setup/blob/main/commands/create-command.md)  
-[Example skill](https://github.com/philoserf/claude-code-setup/blob/main/skills/command-authoring/SKILL.md)
+[Example skill](https://github.com/philoserf/claude-code-setup/blob/main/skills/command-authoring/SKILL.md) - Working example from claude-code-setup repository
+[Repository](https://github.com/philoserf/claude-code-setup) - Reference implementation with commands, skills, and agents
