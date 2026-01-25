@@ -17,6 +17,9 @@ DiFranco cut across all those boundaries. She reached listeners far beyond folk,
 ## Sources
 
 [^1]: [Righteous Babe Records - About](https://righteousbabe.com/pages/about)
+
 [^2]: [Fugazi's Ethical Approach to Music](https://www.dischord.com/band/fugazi)
+
 [^3]: [Strange Music - Tech N9ne's Independent Label](https://strangemusicinc.com/)
+
 [^4]: [Alternative Tentacles Records History](https://alternativetentacles.com/)
