@@ -7,10 +7,10 @@ tags:
   - personal-development
   - time-management
 date: 2025-12-29
-lastmod: 2026-01-22
+lastmod: 2026-01-24
 ---
 
-A decision-making heuristic popularized by Derek Sivers: tepid enthusiasm indicates misalignment, not compromise.
+A decision-making heuristic popularized by Derek Sivers:[^1] tepid enthusiasm indicates misalignment, not compromise.
 
 The framework eliminates middle ground—no "maybe" or "I should." When opportunities generate qualified responses ("sounds interesting, but…" or "I guess I could…"), the absence of immediate excitement signals deeper resistance stemming from authentic preferences your conscious mind hasn't acknowledged.
 
@@ -29,3 +29,9 @@ The phrase functions as behavioral enforcement—a memorable trigger to interrup
 ---
 
 _Related: satisficing vs. maximizing (Herbert Simon), paradox of choice (Barry Schwartz), Warren Buffett's "say no to almost everything" approach._
+
+---
+
+**Sources:**
+
+[^1]: [No yes. Either HELL YEAH! or no. - Derek Sivers](https://sive.rs/hellyeah)
