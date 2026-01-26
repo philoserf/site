@@ -3,7 +3,7 @@ title: Be
 description: A contemplative reflection on ways of being, encouraging presence, kindness, and awareness while embracing qualities like courage, creativity, and wisdom in daily life.
 tags:
   - mindfulness
-  - personal-growth
+  - personal-development
   - philosophy
 date: 2025-07-04
 lastmod: 2026-01-22
