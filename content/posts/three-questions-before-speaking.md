@@ -5,7 +5,7 @@ tags:
   - communication
   - ethics
   - mindfulness
-  - personal-growth
+  - personal-development
 date: 2026-01-16
 lastmod: 2026-01-16
 ---

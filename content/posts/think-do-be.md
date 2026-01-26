@@ -5,7 +5,6 @@ tags:
   - action
   - mindfulness
   - personal-development
-  - personal-philosophy
 date: 2025-07-04
 lastmod: 2026-01-22
 ---
