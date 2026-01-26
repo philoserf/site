@@ -3,7 +3,7 @@ title: Do
 description: A reflection on the importance of action and contribution over mere thought and existence, emphasizing that others perceive us through our tangible results and accomplishments.
 tags:
   - action
-  - personal-philosophy
+  - personal-development
   - productivity
 date: 2025-07-04
 lastmod: 2026-01-22
