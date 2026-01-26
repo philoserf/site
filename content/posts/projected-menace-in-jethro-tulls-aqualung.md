@@ -6,7 +6,7 @@ tags:
   - jethro-tull
   - music-analysis
   - projection
-  - social-commentary
+  - society
 date: 2026-01-26
 lastmod: 2026-01-26
 ---
