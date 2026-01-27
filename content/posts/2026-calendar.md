@@ -4,52 +4,45 @@ description: A comprehensive 2026 calendar listing astronomical events (new moon
 tags:
   - astronomy
 date: 2026-01-16
-lastmod: 2026-01-24
+lastmod: 2026-01-27
 ---
 
-<!-- Astronomical data sourced from TimeandDate.com and Sea and Sky astronomy calendars. Times may vary slightly between sources depending on timezone and calculation methods. -->
-
-| Date   | Time  | Event           |
-| ------ | ----- | --------------- |
-| Jan 3  | 04:01 | New Moon        |
-| Jan 13 | 22:27 | Full Moon       |
-| Feb 1  | 22:10 | New Moon 🌑     |
-| Feb 3  | 15:30 |                 |
-| Feb 11 | 11:32 | Full Moon       |
-| Mar 3  | 18:44 | New Moon        |
-| Mar 13 | 01:03 | Full Moon       |
-| Mar 20 | 14:46 | Spring Equinox  |
-| Apr 2  | 09:12 | New Moon        |
-| Apr 11 | 13:22 | Full Moon       |
-| May 1  | 21:25 | New Moon 🌑     |
-| May 5  | 07:49 |                 |
-| May 11 | 00:09 | Full Moon       |
-| May 31 | 20:01 | New Moon        |
-| May 31 | 08:45 | Full Moon       |
-| Jun 14 | 02:54 | New Moon        |
-| Jun 21 | 08:24 | Summer Solstice |
-| Jun 29 | 23:57 | Full Moon       |
-| Jul 13 | 09:07 | New Moon        |
-| Jul 29 | 10:38 | Full Moon       |
-| Aug 7  | 06:10 |                 |
-| Aug 11 | 18:15 | New Moon 🌑     |
-| Aug 27 | 01:56 | Full Moon       |
-| Sep 10 | 05:30 | New Moon        |
-| Sep 22 | 00:05 | Autumn Equinox  |
-| Sep 25 | 17:51 | Full Moon       |
-| Oct 9  | 18:00 | New Moon        |
-| Oct 25 | 06:10 | Full Moon       |
-| Nov 7  | 03:34 |                 |
-| Nov 8  | 09:18 | New Moon 🌑     |
-| Nov 23 | 17:29 | Full Moon       |
-| Dec 8  | 01:26 | New Moon        |
-| Dec 21 | 20:50 | Winter Solstice |
-| Dec 23 | 03:27 | Full Moon       |
-
----
-
-**Sources:**
-
-- [Astronomy Calendar of Celestial Events 2026 - Sea and Sky](http://www.seasky.org/astronomy/astronomy-calendar-2026.html)
-- [Astronomical Events 2026 - TimeandDate.com](https://www.timeanddate.com/astronomy/sights-to-see.html)
-- [Earth's Seasons - US Naval Observatory](https://aa.usno.navy.mil/calculated/seasons?year=2026)
+| Date   | Time      | Event                            |
+| ------ | --------- | -------------------------------- |
+| Jan 3  | 05:02 EST | Full Moon 17:03/07:01            |
+| Jan 3  | 12:15 EST | Earth Perihelion                 |
+| Jan 18 | 14:51 EST | New Moon 🌑 07:20/17:00          |
+| Feb 1  | 17:09 EST | Full Moon 17:25/07:30            |
+| Feb 4  |           |                                  |
+| Feb 17 | 07:01 EST | New Moon 🌑 07:25/17:55          |
+| Mar 3  | 06:37 EST | Full Moon 17:10/07:20            |
+| Mar 8  | 02:00 EST | DST begins (EDT)                 |
+| Mar 18 | 21:23 EDT | New Moon 🌑 06:40/18:15          |
+| Mar 20 | 10:46 EDT | Spring Equinox 06:44/19:37       |
+| Apr 1  | 22:11 EDT | Full Moon 18:40/06:45            |
+| Apr 17 | 07:51 EDT | New Moon 🌑 06:40/19:55          |
+| May 1  | 13:23 EDT | Full Moon 19:20/05:15            |
+| May 6  |           |                                  |
+| May 16 | 16:01 EDT | New Moon 🌑 05:35/20:20          |
+| May 31 | 04:45 EDT | Full Moon 20:35 (prev day)/06:00 |
+| Jun 14 | 22:54 EDT | New Moon 🌑 06:00/21:25          |
+| Jun 21 | 04:24 EDT | Summer Solstice 05:40/20:45      |
+| Jun 29 | 19:56 EDT | Full Moon 20:45/05:30            |
+| Jul 6  | 13:30 EDT | Earth Aphelion                   |
+| Jul 14 | 05:43 EDT | New Moon 🌑 05:50/20:55          |
+| Jul 29 | 10:35 EDT | Full Moon 20:15/06:05            |
+| Aug 8  |           |                                  |
+| Aug 12 | 13:36 EDT | New Moon 🌑 06:20/21:00          |
+| Aug 28 | 00:18 EDT | Full Moon 19:55/07:15            |
+| Sep 10 | 23:26 EDT | New Moon 🌑 19:40/06:55          |
+| Sep 22 | 20:05 EDT | Autumn Equinox 07:10/19:00       |
+| Sep 26 | 12:49 EDT | Full Moon 19:05/06:45            |
+| Oct 10 | 11:50 EDT | New Moon 🌑 18:55/06:10          |
+| Oct 25 | 23:12 EDT | Full Moon 18:30/06:10            |
+| Nov 1  | 02:00 EDT | DST ends (EST)                   |
+| Nov 7  |           |                                  |
+| Nov 9  | 02:02 EST | New Moon 🌑 06:20/18:40          |
+| Nov 24 | 09:53 EST | Full Moon 17:15/07:10            |
+| Dec 8  | 19:51 EST | New Moon 🌑 16:30/06:00          |
+| Dec 21 | 20:50 EST | Winter Solstice 07:40/17:05      |
+| Dec 23 | 20:28 EST | Full Moon 16:00/06:10            |
