@@ -22,5 +22,3 @@ This turns "Aqualung" from portrait to indictment. The song does not ask whether
 This reading has aged with uncomfortable relevance. Contemporary discourse around homelessness frames unhoused people as threats to manage rather than human beings to help. The psychological mechanism Anderson dramatized in 1971, the projection of menace onto poverty, still drives policies that criminalize sleeping in public and sweep encampments from sight. The respectable observer on the park bench has multiplied into city councils and neighborhood associations, still assigning bad intent, still averting their eyes.
 
 Anderson resisted reductive readings of the album's religious critique, insisting his target was institutional hypocrisy rather than belief itself. The same nuance applies here. "Aqualung" does not argue that homeless people are saints. It argues that we cannot see them clearly because our own discomfort constructs a fog of assumed threat between us and their humanity. The song holds up a mirror, and the monster we see is our own reflection.
-
-![5FF22337-0DD7-4A86-8215-FB36529B212C.png](5ff22337-0dd7-4a86-8215-fb36529b212c.png)
