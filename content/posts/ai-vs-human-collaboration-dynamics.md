@@ -19,4 +19,4 @@ AI never fatigues or misreads your intent for self-protection. You can drive it 
 
 AI submits to your constraints. Even with opaque mechanics, its surface bends to your shaping. Misaligned collaborators resist.
 
-AI errors are honest: pattern misfires, knowledge gaps, reasoning slips. Human errors from misalignment are strategic cut—redundant with earlier "self-protection" theme.
+AI errors are honest: pattern misfires, knowledge gaps, reasoning slips. Human errors from misalignment are strategic: they protect status, preserve autonomy, and subtly resist your direction.
