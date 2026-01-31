@@ -7,7 +7,6 @@ tags:
   - organizational-dynamics
   - workflow-optimization
 date: 2026-01-30
-draft: true
 lastmod: 2026-01-30
 ---
 
