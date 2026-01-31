@@ -15,7 +15,7 @@ AI tools optimize to your intent. Humans optimize to identity, status, comfort.
 
 AI behavior varies within predictable bounds. Humans introduce unbounded drift—they resist constraints, inject ego, play status games. You issue commands to AI; you negotiate with humans. AI attempts; humans deflect.
 
-AI never fatigues or misreads your intent for self-protection. You can drive it hard without bargaining over workflow. A human fights your design, adds needless abstraction, protects his ownership of the work or ownership.
+AI never fatigues or misreads your intent for self-protection. You can drive it hard without bargaining over workflow. A human fights your design, adds needless abstraction, protects their ownership of the work or ownership.
 
 AI submits to your constraints. Even with opaque mechanics, its surface bends to your shaping. Misaligned collaborators resist.
 
