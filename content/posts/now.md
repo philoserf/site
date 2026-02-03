@@ -6,8 +6,8 @@ tags:
 aliases:
   - /now
   - /posts/books-i-am-reading
-date: 2026-01-08
-lastmod: 2026-01-22
+date: 2026-02-02
+lastmod: 2026-02-02
 ---
 
 ## Where am I
@@ -22,13 +22,11 @@ At home in Greater Grand Rapids, Michigan
 
 ## What am I focused on
 
-- Really developing an understanding of [Claude Code](https://code.claude.com/docs/en/overview) as a pair programming partner
+- Developing an understanding of [Claude Code](https://code.claude.com/docs/en/overview) as a pair programming partner
 
 ## What I'm looking forward to
 
-- A little more cold-dark winter before that cross-quarter day we celebrate as Groundhog Day
 - [Ignite! Seattle](https://igniteseattle.com/) 50 at Benaroya Hall in March
-- I am so torn because I cannot do both of these. I will do the most important.
-  - [GopherCon 2026](https://gophercon.com/) in Seattle in August
-  - ~~A total solar eclipse on August 12, 2026, viewed from Spain~~
+- Springtime and long walks outside (that aren't so cold)
+- [GopherCon 2026](https://gophercon.com/) in Seattle in August
 - A trip to Ireland, in planning for 2027
