@@ -8,7 +8,7 @@ tags:
   - projection
   - society
 date: 2026-01-26
-lastmod: 2026-01-26
+lastmod: 2026-01-29
 ---
 
 Ian Anderson's "Aqualung" reads as a character study of a homeless man in unflinching detail, a portrait that refuses both sentimentality and contempt. But listen closer: the song shows not the threat from its subject but the threat projected onto him by observers.
