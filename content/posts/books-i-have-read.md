@@ -86,7 +86,7 @@ lastmod: 2026-01-08
 - _The Glass Hotel_ by Emily St. John Mandel, 2020
 - _Finwell Bay_ by Nathan Lowell, 2020
 - _Cape Grace_ by Nathan Lowell, 2020
-- _Breath: The New Science of a Lost Art_ by James Nestor, 2020
+- _Breath_ by James Nestor, 2020
 - _Ghouls_ by Richard Lee Byers, 2020
 - _Wet Work_ by Chris A. Jackson, 2020
 - _Leviathan Falls_ by James S.A. Corey, 2021
