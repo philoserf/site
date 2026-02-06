@@ -19,11 +19,10 @@ tasks:
       - git submodule update --remote --merge
 
   fix:
-    desc: Auto-fix formatting with Prettier and markdownlint
+    desc: Auto-fix formatting with Prettier
     deps: [bootstrap]
     cmds:
       - prettier --write --list-different --ignore-unknown .
-      - markdownlint --fix .
 
   build:
     desc: Build Hugo site including drafts and future posts
