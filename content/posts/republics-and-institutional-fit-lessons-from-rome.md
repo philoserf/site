@@ -3,7 +3,7 @@ title: "Republics and Institutional Fit: Lessons from Rome"
 description: An analysis of the Roman Republic's collapse arguing that republics fail not from age but from institutional mismatch—when governing structures can no longer manage the scale, complexity, and distribution of power they face. The essay draws parallels to modern constitutional systems that govern at scales far beyond their original design.
 tags: []
 date: 2026-01-15
-lastmod: 2026-01-15
+lastmod: 2026-01-29
 ---
 
 The tempting lesson from Rome is numerical: republics last about two and a half centuries. Neat, memorable, and wrong. The real lesson is structural. Republics endure only while their institutions fit the scale, complexity, and distribution of power they govern. When fit fails, age doesn't matter.
