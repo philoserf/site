@@ -4,7 +4,7 @@ description: A comprehensive 2026 calendar listing astronomical events (new moon
 tags:
   - astronomy
 date: 2026-01-16
-lastmod: 2026-01-27
+lastmod: 2026-01-29
 ---
 
 | Date   | Time      | Event                            |
