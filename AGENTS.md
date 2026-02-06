@@ -1,51 +1,65 @@
-# Agent guidance
-
-This file provides guidance to AI agents when working with code in this repository.
+# AGENTS.md
 
 ## Project Overview
 
-This is a Hugo-based personal website for Mark Ayers (philoserf.com). It uses the hugo-coder theme and focuses on personal essays, professional journey, and technical preferences. The site motto is "COGITA·DISCE·NECTE·ENUNTIA" (Think, Learn, Connect, Articulate).
+Hugo-based personal website for Mark Ayers (philoserf.com). Uses the hugo-coder theme for personal essays, professional journey, and technical preferences. Site motto: "COGITA·DISCE·NECTE·ENUNTIA" (Think, Learn, Connect, Articulate).
 
 ## Development Commands
 
 All development uses [Task](https://taskfile.dev) for command orchestration:
 
-- **Build site**: `task build` - Builds the Hugo site with drafts, future posts, and expired content
-- **Local development server**: `task serve` - Runs Hugo server with live reload
-- **Format/lint code**: `task fix` - Runs Prettier and markdownlint with auto-fix
-- **Update theme**: `task update` - Updates the hugo-coder theme submodule to latest version
-- **Bootstrap dependencies**: `task bootstrap` - Installs tools via Homebrew (macOS only)
-- **Commit workflow**: `task commit` - Interactive commit process (only works on non-main branches)
+- `task build` — Build site with drafts, future posts, and expired content
+- `task serve` — Local dev server with live reload
+- `task fix` — Auto-fix formatting (Prettier)
+- `task validate` — Run all validation checks (content frontmatter)
+- `task validate-content` — Validate frontmatter completeness and consistency
+- `task optimize-images` — Optimize PNGs and JPEGs in `static/images/`
+- `task update` — Update hugo-coder theme submodule
+- `task bootstrap` — Install tools via Homebrew (macOS only)
+- `task commit` — Interactive commit workflow (non-main branches only)
 
 ## Architecture
 
 **Static Site Generator**: Hugo (Go-based)
 
 - Configuration: `hugo.yaml` (YAML format, 2-space indentation)
-- Theme: hugo-coder (located in `themes/hugo-coder/` as submodule)
-- Content: Markdown files in `content/posts/` (frontmatter requires `title` and `date`)
+- Theme: hugo-coder (in `themes/hugo-coder/` as Git submodule)
+- Content: Markdown files in `content/posts/`
 - Static assets: `static/` directory
 - Build output: `public/` directory
 - Uses Hugo's taxonomy system with tags
-- Unsafe HTML rendering enabled in goldmark (for inline HTML in Markdown)
-- Builds include drafts, future posts, and expired content by default
+- Unsafe HTML rendering enabled in goldmark
 - Color scheme set to auto (respects system preference)
+
+## Content Frontmatter
+
+Required fields for posts in `content/posts/`:
+
+- `title` — Post title
+- `date` — Publication date (YYYY-MM-DD format)
+- `description` — At least 20 characters
+- `tags` — List of tags; use lowercase-with-hyphens (e.g., `software-engineering`)
+- `publish` — Publication flag
+
+Optional: `lastmod` (recommended).
+
+Run `task validate` to check all posts.
+
+## Deployment
+
+GitHub Pages via GitHub Actions (`deploy.yml`):
+
+- Triggers on push to `main` and daily at 15:25 UTC
+- Production builds use `hugo --gc --minify` (no drafts, future, or expired content)
+- Local `task build` and `task serve` include drafts/future/expired — production does not
 
 ## Code Style
 
-- **Markdown**: Follows markdownlint rules (`.markdownlint.json`)
-- **YAML**: 2-space indentation (see `.yamllint`)
+- **YAML**: 2-space indentation
 - **Filenames**: kebab-case for content files
 - **Formatting**: Prettier handles all file formatting
-
-## Key Files
-
-- `hugo.yaml`: Site configuration, menus, params, and social links
-- `taskfile.yml`: All build and development commands
-- `Brewfile`: macOS dependencies (Hugo, Prettier, markdownlint)
-- `.gitmodules`: Hugo theme as Git submodule
 
 ## Git Workflow
 
 - Never commit directly to `main` branch (enforced by `task commit`)
-- All changes must pass through Prettier and markdownlint before commit
+- All changes must pass through Prettier before commit
