@@ -6,7 +6,7 @@ tags:
   - strategy
   - strength-training
 date: 2023-02-01
-lastmod: 2026-01-24
+lastmod: 2026-02-06
 ---
 
 Dr. Andy Galpin's strength training protocol:
