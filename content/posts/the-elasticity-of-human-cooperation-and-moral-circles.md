@@ -6,7 +6,7 @@ tags:
   - human-cooperation
   - social-dynamics
   - tribalism
-date: 2025-08-14
+date: 2026-02-06
 lastmod: 2026-02-06
 ---
 
