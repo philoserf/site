@@ -1,0 +1,47 @@
+---
+title: Semantic Diffusion in Software Terminology
+description: Explores how technical terms like 'vibecoding', 'DevOps', and 'technical debt' lose their precise original definitions as they spread through communities, becoming diluted through careless usage until they no longer serve their intended purpose of marking meaningful boundaries.
+tags:
+  - concept-drift
+  - definition-erosion
+  - semantic-diffusion
+  - software-development
+  - terminology
+date: 2026-02-09
+lastmod: 2026-02-08
+---
+
+Martin Fowler coined Semantic Diffusion in 2006 with this definition: Semantic diffusion occurs when you have a word coined by a person or group, often with a good definition, but then spread through the wider community in a way that weakens that definition. This weakening risks losing the definition entirely—and with it any usefulness to the term.
+
+A term is coined with a clear, bounded definition. Someone names something that didn't have a name before. The definition works because it marks a meaningful boundary. But then the term spreads into wider use, and in that process, the definition dissolves. Not through malice or incomprehension, but through drift. The term starts to cover phenomena it wasn't designed to cover. Eventually it becomes so diffuse that it stops doing useful work. The precision dies.
+
+Existing frameworks describe this as semantic drift or concept creep, but they miss a critical variation: the collapse doesn't require mass adoption or viral spread. A term can lose its definition in a small intellectual circle simply through sloppiness, disagreement, or lazily applying a label to adjacent phenomena. Two researchers in the same field can end up using the same term to mean different things, and nobody corrects it because nobody enforces coherence. This is semantic diffusion. Definition-loss through slack.
+
+Andrej Karpathy coined vibecoding in February 2025 with a precise definition: building software with an LLM while fully accepting the generated code without reviewing it. "There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists." The key boundary: a vibe-coder lets the AI generate entire applications and accepts the output as-is, using only testing and iterative prompts to evaluate success. They deliberately avoid examining the code itself. This is distinct from AI-assisted coding, where a programmer reviews, tests, and understands each line before committing it.
+
+The term had clear work to do. Simon Willison: "If an LLM wrote every line of your code, but you've reviewed, tested, and understood it all, that's not vibe coding in my book—that's using an LLM as a typing assistant." The distinction separated responsible AI-assisted development from surrendering code review entirely. The problem: vibecoding has already diffused into meaning any AI-assisted coding whatever. People now use "vibe coding" for careful, reviewed, thoroughly-tested AI-generated code. They use it for AI autocomplete. They use it as a synonym for "fast development with AI." The original boundary—deliberate non-review—has collapsed into "anything involving an LLM and code."
+
+This happened not through mass adoption but through a community of developers and startups using the term loosely within months of its coining. Each person applied it to slightly different practices. No one enforced the original distinction. And now the term covers so many development styles that it can't distinguish the truly risky practice Karpathy originally named.
+
+DevOps named a specific insight: development and operations teams had irreconcilable incentives, and this misalignment was breaking how teams built and ran systems. Development wanted to ship; operations wanted stability. The solution: dissolving that boundary through shared tooling, shared responsibility, and shared goals. It was a bounded definition. You could tell whether an organization was actually practicing DevOps by checking whether developers had production visibility and responsibility, whether ops engineers had voice in architectural decisions, and whether the team shared metrics and failure consequences.
+
+The diffusion: DevOps now means anything from "we have a build pipeline" to "we hired someone to manage deployments" to "we use Kubernetes" to "developers can log into production." Companies claim to practice DevOps while maintaining the exact same development-operations boundary the term was meant to dissolve. The term became a marketing label for "modern infrastructure," completely severed from the original structural insight. Again, this didn't require mass adoption. A few hundred people in the SRE and platform engineering world started using "DevOps" to mean different things depending on their context. Different consulting groups built different meanings around it. Different companies reported practicing DevOps while doing entirely different things. The definition simply couldn't survive in a community where nobody was checking whether everyone meant the same thing.
+
+Ward Cunningham introduced technical debt in 1992 to describe something specific: code that works but costs you compound interest in future development. Like borrowing money, taking on technical debt could be rational if you intended to pay it back quickly. But like financial debt, it could spiral if you didn't manage it. The original definition had teeth. Technical debt meant code that would cost you in future maintenance because of how it was structured, even if it currently worked. It distinguished between code that was bad because it was wrong versus code that was bad because it was expensive to change. The metaphor reinforced that you were taking on a real obligation with real costs.
+
+The diffusion: Technical debt now means anything inconvenient about your codebase. Outdated dependencies? Technical debt. Monolithic architecture? Technical debt. Code you find hard to read? Technical debt. Code that works but the person who wrote it is gone? Technical debt. Bad documentation? Missing tests? Slow builds? All technical debt. The term has become so broad that it explains nothing. Everything is technical debt, so nothing is. When a team says they need to "pay down technical debt," you don't know whether they mean replace a legacy system (which might not be debt at all, just the cost of doing business), refactor for readability (which might not be urgent), fix a genuine architectural problem (which might be), or just clean up old code they don't like. The diffusion happened in small communities—engineering teams, CTOs, platform leads—who each applied the metaphor a little more loosely than the last person. No one was enforcing boundaries.
+
+Semantic diffusion operates differently from standard patterns of linguistic change. It doesn't require popularity or time. It requires only: a term with a clear definition, a community that wants to keep using it, no enforcement mechanism, and the slightest intellectual sloppiness. When a term is useful, people keep using it. But if no one is vigilant about what it means, it drifts. Each person applies it to the nearest adjacent phenomenon. A colleague uses it slightly differently. You don't correct them because the term still seems to work for both cases. Within a few years, it covers so many things that it marks no boundary.
+
+This is not the same as concept creep, which describes scope expansion in psychology. Nor is it simple semantic drift, which is gradual, community-wide linguistic change. Semantic diffusion is definition eroding through local slack. It happens in small groups because small groups are where precision matters most—where the people using the term are supposed to know exactly what they mean. The cost is real. Once a term loses its definition, you can't use it to think with anymore. You can't use it to distinguish between cases because it covers all cases. You can't use it to communicate precisely because your listener might mean something different. And you can't even resurrect the original definition easily, because the term is already committed to its diffused meaning in the community's practice.
+
+How do you protect a term from diffusion? The strongest defense is what Haslam inadvertently built into concept creep: frame the term itself as a warning. If using the term becomes a way to resist the very phenomenon you're describing—to push back against scope expansion—then the term defends itself. It becomes harder to diffuse something when using it precisely is a way of asserting intellectual rigor. Beyond that: gatekeeping. Academic fields survive on precise terminology because they enforce it. Publications check definitions. Peer review calls out usage drift. But in informal communities—engineering teams, small research groups, communities of practice—there are no such checks. The only defense is vigilance from within. Someone has to be willing to say, "No, that's not what we mean by this term."
+
+But vigilance is exhausting. It requires constant correction. And it's unpopular—people resent being told they're using a word wrong. Eventually the community decides it's easier to just let the term diffuse. And so the terms die, one loosening at a time.
+
+Sources:
+
+- <https://martinfowler.com/bliki/SemanticDiffusion.html>
+- <https://x.com/karpathy/status/1886192184808149383>
+- <http://c2.com/doc/oopsla92.html>
+- <https://simonwillison.net/2025/Mar/23/semantic-diffusion/>
