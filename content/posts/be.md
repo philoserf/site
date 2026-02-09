@@ -1,12 +1,13 @@
 ---
 title: Be
-description: A contemplative reflection on ways of being, encouraging presence, kindness, and awareness while embracing qualities like courage, creativity, and wisdom in daily life.
+description: "A reflection on the paradox of authenticity: embracing who you are while recognizing that the self is not a fixed, unchanging entity."
 tags:
-  - mindfulness
-  - personal-development
+  - identity
+  - personal-growth
   - philosophy
+  - self-awareness
 date: 2025-07-04
-lastmod: 2026-01-22
+lastmod: 2026-02-09
 ---
 
-Be here now, sure. Be present for others. Be yourself, and realize _anatta_. Be kind. Be generous. Be loving. Be patient. Be forgiving. Be grateful. Be humble. Be honest. Be strong. Be wise. Be courageous. Be curious. Be creative. Be playful. Be mindful. Be aware. Be awake. Be alive.
+Be yourself — and reckon with the fact that there is no fixed self to be.
