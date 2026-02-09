@@ -7,7 +7,7 @@ tags:
   - moral-philosophy
   - rationality
   - sanity
-date: 2025-11-20
+date: 2026-02-10
 lastmod: 2026-02-09
 ---
 
