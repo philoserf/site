@@ -84,7 +84,7 @@ lastmod: 2026-02-09
 
 - _Dumarest of Terra_ by E.C. Tubb, 1968–2008
 - _Memory, Sorrow and Thorn_ by Tad Williams, 1988–1993
-- _The Wheel of Time_ by Robert Jordan and Brandon Sanderson, 1990–2013
+- ~~_The Wheel of Time_ by Robert Jordan and Brandon Sanderson, 1990–2013~~ REJECTED
 - _Realm of the Elderlings_ by Robin Hobb, 1995–2017
 - _Malazan Book of the Fallen_ by Steven Erikson, 1999–2011
 - _Kushiel's Legacy_ by Jacqueline Carey, 2001–2008
