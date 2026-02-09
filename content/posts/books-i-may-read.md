@@ -7,17 +7,19 @@ tags:
   - personal-library
   - reading-list
   - science-fiction
-date: 2025-09-25
-lastmod: 2026-01-08
+date: 2026-02-09
+lastmod: 2026-02-09
 ---
 
 ## Up Next
 
-- _The Book of Elsewhere_ by Keanu Reeves and China Miéville (2024): Science fiction collaboration
-- _Aria: Canticle of the Monomyth_ by Christian Moore & Owen Seyler (1994): Mythological fantasy adventure
+- _The Creative Habit_ by Twala Tharp (2003)
+- _The Creative Act_ by Rick Rubin (2023)
 
 ## Recently Added
 
+- _The Book of Elsewhere_ by Keanu Reeves and China Miéville (2024): Science fiction collaboration
+- _Aria: Canticle of the Monomyth_ by Christian Moore & Owen Seyler (1994): Mythological fantasy adventure
 - _Asceticism of the Mind_ by Inbar Graiver (n.d.): Philosophical examination of mental discipline
 - _Walden_ by Henry David Thoreau (1854): Classic on simple living and nature
 - _Kingdoms of Elfin_ by Sylvia Townsend Warner (1977)
