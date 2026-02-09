@@ -7,7 +7,7 @@ tags:
   - philosophy
 aliases:
   - /about
-date: 2025-11-19
+date: 2026-02-09
 lastmod: 2026-02-09
 ---
 
@@ -25,8 +25,10 @@ I've spent time in small towns, big cities, ancient ruins, busy shops, server ro
 Years in the Army taught me how clarity and discipline can carry a team through chaos. Time in nonprofits reminded me that small groups can move mountains. Working across companies of every size showed me that good people everywhere are trying to solve hard problems with limited time.
 
 What I carry from all of it: a sense of consequence and a habit of watching the edges.  
-Thought only becomes real when you put it into words others can use.
+Thought only becomes real when you put it into words others can use.[^1]
 
 The easiest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
 
 _The views here are my own._
+
+[^1]: See [When Does Thought Become Real](when-does-thought-become-real)
