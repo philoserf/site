@@ -11,6 +11,8 @@ date: 2026-02-09
 lastmod: 2026-02-09
 ---
 
+> Thought only becomes real when you put it into words others can use.
+
 The statement carries real force. Let me work through it in three moves.
 
 Embracing it: there's a pragmatist lineage running from Peirce through Wittgenstein to Brandom. A thought locked inside a single skull has no public accountability, no way to be corrected, refined, or built upon. Putting thought into shared language submits it to the discipline of logic, evidence, and consequence. Until you articulate an idea in terms others can pick up and operate with, it remains a private impression — closer to a feeling than knowledge. Science, law, engineering, and every collaborative enterprise depend on this principle. The motto "declare" points here: the final move in any serious intellectual process is making thought available for use.
