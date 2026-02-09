@@ -1,18 +1,16 @@
 ---
 title: Think, Do, Be
-description: A philosophical framework emphasizing the integration of deep thinking, decisive action, and intentional becoming. Explores how thinking shapes action, and action shapes identity through continuous evolution.
+description: A philosophical framework explaining how thoughts influence actions, and actions shape identity through the progression of thinking, doing, and being.
 tags:
-  - action
-  - mindfulness
-  - personal-development
+  - identity
+  - mindset
+  - personal-growth
+  - philosophy
+  - self-development
 date: 2025-07-04
-lastmod: 2026-01-22
+lastmod: 2026-02-09
 ---
 
-I must think deeply, act decisively, and become intentionally.
+What I think shapes what I do, and what I do determines who I become.
 
-[Think](think): The forge where ideas crystallize and possibilities reveal themselves. Not merely planning, but understanding the why behind the what.  
-[Do](do): The crucible where thought transforms into tangible reality. Not just activity, but purposeful action that bridges vision and outcome.  
-[Be](be): The manifestation of aligned thought and action. Not a static endpoint, but a continuous evolution of self through the cycle of thinking and doing.
-
-The power lies in the integration: what I think shapes what I do, and what I do determines who I become.
+[Think](think) · [Do](do) · [Be](be)
