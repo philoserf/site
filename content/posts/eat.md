@@ -5,15 +5,13 @@ tags:
   - healthy-eating
   - lifestyle
   - nutrition
-date: 2025-04-03
+date: 2024-07-04
 lastmod: 2026-01-08
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
 
 Eat: Refuel after movement when insulin sensitivity is highest
-
-## Notes
 
 - Track your daily meals and snacks in a food diary to stay on track with your nutrition goals and identify areas for improvement.
 - Focus on nutrient-dense foods, including fresh fruits and vegetables, lean proteins, nuts, and whole grains.
