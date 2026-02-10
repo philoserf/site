@@ -5,7 +5,7 @@ tags:
   - health
   - lifestyle
   - productivity
-date: 2025-04-03
+date: 2024-07-04
 lastmod: 2026-01-08
 ---
 
@@ -14,16 +14,6 @@ My critical foci for a happy, healthy, productive life are these: sleep, move, e
 Sleep: Sleep is the foundation for all other activities, regulates hormones, enables recovery, and enhances cognitive function
 
 To help improve sleep consistency, try to go to bed and wake up on schedule each day. Also, limit exposure to screens close to bedtime to help your body prepare for rest.
-
-## 10-3-2-1-0
-
-- Ten hours before sleep, I will not drink caffeine.
-- I will not eat or drink anything other than water three hours before sleep.
-- Two hours before sleep, I will not work.
-- One hour before sleep, I will not use screens.
-- 0 is the number of times I will hit the snooze button.
-
-## Notes
 
 Indulge in daylight
 
