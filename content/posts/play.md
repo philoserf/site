@@ -5,14 +5,12 @@ tags:
   - creativity
   - personal-development
   - stress-management
-date: 2025-04-03
+date: 2024-07-04
 lastmod: 2026-01-08
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
 
 Play: Recreational activities that stimulate creativity, reduce stress, and provide mental variety
-
-## Notes
 
 Play is a fundamental aspect of personal development, regardless of age. It's not just about having fun, but about learning, growing, and connecting with others. It's a way to explore the world and discover new things about ourselves. Play allows us to be ourselves, free from the constraints of our daily roles.
