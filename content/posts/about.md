@@ -2,13 +2,14 @@
 title: About
 description: Explores simplicity and strategic thinking through personal experiences, blending philosophy with self-improvement, lifelong learning, and creativity. Highlights travels, artistic pursuits, and intentional living, underscoring the importance of clarity, discipline, and effective communication.
 tags:
-  - creativity
-  - personal-development
-  - philosophy
+  - intentional-living
+  - lifelong-learning
+  - personal-philosophy
+  - strategic-thinking
 aliases:
   - /about
 date: 2026-02-09
-lastmod: 2026-02-09
+lastmod: 2026-02-11
 ---
 
 This is where I think in public—sharing the things I had to learn the hard way, and saying what I believe needs saying—clearly, publicly, and without hedging.
