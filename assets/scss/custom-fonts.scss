@@ -4,8 +4,9 @@
 // Import EB Garamond for the params.info motto
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
-$font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, sans-serif !default;
-$code-font-family: "Menlo", "Monaco", "Consolas", "Liberation Mono", "SFMono-Regular", monospace !default;
+// Inter is loaded via <link> in layouts/partials/head/extensions.html
+$font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, sans-serif;
+$code-font-family: "Menlo", "Monaco", "Consolas", "Liberation Mono", "SFMono-Regular", monospace;
 
 // Apply to all text elements
 body {
