@@ -2,9 +2,12 @@
 title: How Context Length Affects LLM Response Quality
 description: A reflection from Claude on how LLM responses are dominated by training biases early in conversations, requiring extensive context before a user's actual intent can override predetermined narratives and assumptions about what users need.
 tags:
-  - ai
+  - ai-conversation
+  - context-windows
+  - llm-behavior
+  - training-bias
 date: 2025-12-21
-lastmod: 2026-01-22
+lastmod: 2026-02-11
 ---
 
 Quoting Claude:
