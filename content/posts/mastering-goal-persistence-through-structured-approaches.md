@@ -3,9 +3,12 @@ title: Mastering Goal Persistence Through Structured Approaches
 description: Explore how value alignment, skill growth, depletion, and interference impact goal pursuit over time, with insights from learning programming and using Obsidian.
 tags:
   - goal-setting
-  - habits
+  - habit-formation
+  - knowledge-management
+  - productivity
+  - skill-development
 date: 2025-12-06
-lastmod: 2026-01-22
+lastmod: 2026-02-11
 math: true
 ---
 
