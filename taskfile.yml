@@ -27,7 +27,15 @@ tasks:
   build:
     desc: Build Hugo site including drafts and future posts
     deps: [bootstrap]
-    sources: [hugo.yaml, content/**/*, static/**/*]
+    sources:
+      [
+        hugo.yaml,
+        content/**/*,
+        static/**/*,
+        layouts/**/*,
+        assets/**/*,
+        archetypes/**/*,
+      ]
     generates: [public/**/*]
     cmds:
       - hugo --cleanDestinationDir --buildFuture --buildDrafts --buildExpired
@@ -39,15 +47,6 @@ tasks:
       - hugo server --buildDrafts --buildFuture --buildExpired
         --disableFastRender --navigateToChanged
 
-  validate-content:
-    desc: Validate frontmatter completeness and consistency
-    cmds:
-      - ./scripts/validate-content.sh
-
-  validate:
-    desc: Run all validation checks (content)
-    deps: [validate-content]
-
   optimize-images:
     desc: Optimize images in static/images directory
     deps: [bootstrap]
@@ -56,9 +55,7 @@ tasks:
         echo "🖼️  Optimizing PNG images..."
         find static/images -name "*.png" -exec pngquant --force --ext .png --quality=65-80 {} \;
         echo "🖼️  Optimizing JPEG images..."
-        find static/images -name "*.jpg" -o -name "*.jpeg" | while read img; do
-          mogrify -strip -interlace Plane -quality 85 "$img"
-        done
+        find static/images \( -name "*.jpg" -o -name "*.jpeg" \) -exec mogrify -strip -interlace Plane -quality 85 {} \;
         echo "✅ Image optimization complete!"
 
   commit:
@@ -70,7 +67,6 @@ tasks:
       - git add -p
       - git diff --name-only
       - read -rp "Control-C to abort, Enter to continue." _
-      - git add .
       - read -rp "Commit message? " COMMIT_MESSAGE && git commit -m
         "${COMMIT_MESSAGE}"
       - git push
