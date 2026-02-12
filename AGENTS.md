@@ -11,8 +11,6 @@ All development uses [Task](https://taskfile.dev) for command orchestration:
 - `task build` — Build site with drafts, future posts, and expired content
 - `task serve` — Local dev server with live reload
 - `task fix` — Auto-fix formatting (Prettier)
-- `task validate` — Run all validation checks (content frontmatter)
-- `task validate-content` — Validate frontmatter completeness and consistency
 - `task optimize-images` — Optimize PNGs and JPEGs in `static/images/`
 - `task update` — Update hugo-coder theme submodule
 - `task bootstrap` — Install tools via Homebrew (macOS only)
@@ -30,20 +28,6 @@ All development uses [Task](https://taskfile.dev) for command orchestration:
 - Uses Hugo's taxonomy system with tags
 - Unsafe HTML rendering enabled in goldmark
 - Color scheme set to auto (respects system preference)
-
-## Content Frontmatter
-
-Required fields for posts in `content/posts/`:
-
-- `title` — Post title
-- `date` — Publication date (YYYY-MM-DD format)
-- `description` — At least 20 characters
-- `tags` — List of tags; use lowercase-with-hyphens (e.g., `software-engineering`)
-- `publish` — Publication flag
-
-Optional: `lastmod` (recommended).
-
-Run `task validate` to check all posts.
 
 ## Deployment
 
