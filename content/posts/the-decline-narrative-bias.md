@@ -22,3 +22,10 @@ The military taught me to separate real deterioration from expected friction. Ne
 Knowing the bias doesn't kill it. When something feels like decline, I ask: compared to when, measured how, filtered through whose memory? The answer shows I'm tracking a story that fits my assumptions, not what's happening.
 
 The most dangerous version: believing decline narratives about my own capabilities as I age, turning a bias into a self-fulfilling prophecy.
+
+Sources:
+
+- Hans Rosling, _Factfulness: Ten Reasons We're Wrong About the World—and Why Things Are Better Than You Think_ (2018)
+- Steven Pinker, _Enlightenment Now: The Case for Reason, Science, Humanism, and Progress_ (2018)
+- Steven Pinker, _The Better Angels of Our Nature: Why Violence Has Declined_ (2011)
+- Rick Hanson, _Hardwiring Happiness: The New Brain Science of Contentment, Calm, and Confidence_ (2013)
