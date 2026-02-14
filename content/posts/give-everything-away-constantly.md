@@ -30,3 +30,11 @@ We're conditioned against this. Schools grade on curves. Businesses measure mark
 Give not because it builds your reputation or creates obligation. Give because withholding exhausts you. Give because knowledge grows when free. Give because we're all figuring this out together and pretending otherwise slows us all.
 
 What you create next shows mastery, not what you hoard from yesterday.
+
+Sources:
+
+- Lewis Hyde, _The Gift: Creativity and the Artist in the Modern World_ (1983)
+- Marcel Mauss, _The Gift: The Form and Reason for Exchange in Archaic Societies_ (1925)
+- Eric S. Raymond, _The Cathedral and the Bazaar_ (1999)
+- Michael Polanyi, _The Tacit Dimension_ (1966)
+- Lawrence Lessig, _Remix: Making Art and Commerce Thrive in the Hybrid Economy_ (2008)
