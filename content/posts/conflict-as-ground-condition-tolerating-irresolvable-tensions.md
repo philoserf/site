@@ -31,4 +31,7 @@ Marion Milner first explored this in _On Not Being Able to Paint_. The principle
 
 Sources:
 
+- John Keats, letter to George and Thomas Keats, 21 December 1817, in _The Letters of John Keats, 1814–1821_, ed. Hyder E. Rollins (Harvard University Press, 1958)
+- Ilya Prigogine and Isabelle Stengers, _Order Out of Chaos: Man's New Dialogue with Nature_ (1984)
+- Melanie Klein, _Envy and Gratitude and Other Works, 1946–1963_ (Hogarth Press, 1975)
 - Marion Milner, _On Not Being Able to Paint_ (1950)
