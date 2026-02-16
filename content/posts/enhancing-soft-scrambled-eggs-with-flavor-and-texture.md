@@ -10,7 +10,7 @@ date: 2025-03-28
 lastmod: 2026-01-02
 ---
 
-My method of scrambling eggs involved preheating the pan, adding some butter, then cracking whole eggs directly into the pan. I then start slowly and consistently turning and moving the eggs until finished. Generally this and some salt and fresh ground pepper are enough. Occasionally the embellishments below vary the result.
+My method of scrambling eggs involved preheating the pan, adding some butter, then cracking whole eggs directly into the pan. I then start slowly and consistently turning and moving the eggs until finished. This and some salt and fresh ground pepper are enough. Occasionally the embellishments below vary the result.
 
 Adding heavy cream to your soft-scrambled eggs enhances their richness, creaminess, and tenderness.
 
