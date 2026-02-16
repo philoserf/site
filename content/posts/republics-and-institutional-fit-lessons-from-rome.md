@@ -35,4 +35,4 @@ Rome's experience suggests the danger isn't abrupt tyranny but lingering ambigui
 
 The lesson is neither fatalistic nor comforting. Republics don't expire on a timetable. They last only while power, responsibility, and scale remain aligned. When they drift apart, stability erodes—not because time has passed, but because reality has moved on.
 
-Rome didn't run out of years. It ran out of institutional fit. And so might America.
+Rome didn't run out of years. It ran out of institutional fit. And so will America.
