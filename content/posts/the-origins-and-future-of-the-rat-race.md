@@ -19,6 +19,6 @@ Wage labor is nearly universal in industrialized societies. The rat race now inc
 
 The rat race defines the modern condition. The next phase will redefine work, value, survival. Automation, AI, and decentralized economies are shifting the link between effort and reward. Tasks that demanded constant attention are vanishing. The challenge will be psychological as much as economic: how do we find meaning, identity, and satisfaction when survival no longer depends on effort?
 
-Social hierarchies could shift from labor to networks of creativity and contribution. Freed from repetitive toil, we might control our time again. We could reconnect with natural rhythms, pursue skill and curiosity instead of income. Yet new competitions could emerge—for attention, reputation, influence.
+Social hierarchies shift from labor to networks of creativity and contribution. Freed from repetitive toil, we control our time again. We reconnect with natural rhythms, pursue skill and curiosity instead of income. Yet new competitions emerge—for attention, reputation, influence.
 
-The next phase is not inevitable. It will depend on how societies structure reward, obligation, and freedom. If we learn from wage dependency, we could build a system where work, rest, and creativity coexist. The rat race could become historical artifact, not psychological trap. The future could transform survival from selling time to shaping life itself.
+The next phase is not inevitable. It will depend on how societies structure reward, obligation, and freedom. If we learn from wage dependency, we build a system where work, rest, and creativity coexist. The rat race becomes historical artifact, not psychological trap. The future transforms survival from selling time to shaping life itself.
