@@ -43,7 +43,7 @@ From the command's perspective, it simply names the delegate. Claude handles the
 
 ## When Commands Get Larger
 
-Some commands require more surface area. Validation commands, for example. They might specify what is being evaluated, relevant dimensions, and expected output.
+Some commands require more surface area. Validation commands, for example. They specify what is being evaluated, relevant dimensions, and expected output.
 
 Even then: description, not logic. The delegated capability enforces the rules.
 
