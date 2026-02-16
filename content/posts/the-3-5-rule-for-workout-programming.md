@@ -21,6 +21,6 @@ The protocol uses heavy loads (typically 85%+ of one-rep max) to engage the cent
 
 Sources:
 
-- [Building Strength and Power: Andy Galpin's 3-5 Protocol Explained](https://makeawavecincy.com/building-strength-and-power-andy-galpins-3-5-protocol-explained/)
-- [Guest Series: Dr. Andy Galpin – Optimal Protocols To Build Strength (Huberman Lab)](https://podcastnotes.org/huberman-lab/guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-part-2-huberman-lab/)
-- [What is the 3-5 protocol? - Ask Dr. Andy Galpin](https://ask.andygalpin.com/s/Zipl39ZF)
+[^1]: [Building Strength and Power: Andy Galpin's 3-5 Protocol Explained](https://makeawavecincy.com/building-strength-and-power-andy-galpins-3-5-protocol-explained/)
+[^2]: [Guest Series: Dr. Andy Galpin – Optimal Protocols To Build Strength (Huberman Lab)](https://podcastnotes.org/huberman-lab/guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-part-2-huberman-lab/)
+[^3]: [What is the 3-5 protocol? - Ask Dr. Andy Galpin](https://ask.andygalpin.com/s/Zipl39ZF)

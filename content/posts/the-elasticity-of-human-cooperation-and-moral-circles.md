@@ -18,4 +18,4 @@ The 1990s brought peak globalization and "global citizen" identity. Then 2008's 
 
 Civilization—broad cooperation, universal human rights, international law—is more fragile than we assume. It depends on people feeling secure enough to care about distant others.
 
-This cycle isn't a failure of human nature. It's inevitable. Understanding the pattern might help us build cooperative structures that survive the churn.
+This cycle isn't a failure of human nature. It's inevitable. Understanding the pattern helps us build cooperative structures that survive the churn.
