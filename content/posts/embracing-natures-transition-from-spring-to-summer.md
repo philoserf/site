@@ -7,7 +7,7 @@ tags:
   - nature
   - self-awareness
 date: 2025-05-01
-lastmod: 2026-01-02
+lastmod: 2026-03-02
 ---
 
 A frost touched yesterday, rain followed this morning. Birds are already at it—calling, working, filling the air. The gardens and the wider world are waking.
