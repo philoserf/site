@@ -1,7 +1,12 @@
 ---
 title: AI vs Human Collaboration Dynamics
 description: A comparison of AI and human collaborators, examining how AI optimizes for intent and constraints while humans introduce complexity through ego, status concerns, and resistance to direction.
-tags: []
+tags:
+  - ai
+  - collaboration
+  - human-behavior
+  - incentives
+  - productivity
 date: 2026-01-30
 lastmod: 2026-03-02
 ---
