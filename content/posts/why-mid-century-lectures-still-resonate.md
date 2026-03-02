@@ -1,7 +1,12 @@
 ---
 title: Why Mid-Century Lectures Still Resonate
 description: An analysis of why mid-20th century lectures by thinkers like Feynman and Watts still resonate more powerfully than contemporary talks, examining how optimization, reputational risk, and institutional constraints have eroded the conditions for uncompressed public thinking.
-tags: []
+tags:
+  - intellectual-history
+  - knowledge-management
+  - media-criticism
+  - public-thinking
+  - rhetoric
 date: 2026-02-19
 lastmod: 2026-03-02
 ---
