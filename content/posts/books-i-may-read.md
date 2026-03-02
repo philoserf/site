@@ -7,7 +7,7 @@ tags:
   - reading-list
   - science-fiction
 date: 2026-02-09
-lastmod: 2026-02-09
+lastmod: 2026-03-02
 ---
 
 ## Up Next
@@ -99,40 +99,40 @@ lastmod: 2026-02-09
 
 ### Military Science Fiction and Space Warfare
 
-- _The Face of Battle_ by John Keegan, 1976 — foundation: real warfare psychology and tactics
-- _Supplying War_ by Martin van Creveld, 1977 — logistics reality: critical military infrastructure understanding
-- _Dorsai!_ by Gordon R. Dickson, 1959 — genre origins: foundational military sci-fi warrior culture
-- _Hospital Station_ (Sector General) by James White, 1962 — palate cleanser: optimistic space medicine between conflicts
-- _Necromancer_ (Childe Cycle) by Gordon R. Dickson, 1962 — philosophical expansion: Dickson's deeper military mysticism
-- _Retief: Envoy to New Worlds_ by Keith Laumer, 1963 — diplomatic satire: military bureaucracy humor break
-- _The Forever War_ by Joe Haldeman, 1974 — Vietnam allegory: anti-war military sci-fi masterpiece
-- _The Mercenary_ by Jerry Pournelle, 1977 — professional soldiers: realistic military economics
-- _Hammer's Slammers_ by David Drake, 1979 — tank warfare: gritty combined-arms tactics
-- _Sky Raiders_ by William H. Keith Jr., 1982 — space marines: atmospheric assault specialists
-- _Revelation Space_ by Alastair Reynolds, 2000 — hard sci-fi warfare: physics-based space combat
-- _Decider_ by L.E. Modesitt Jr., 2001 — modern synthesis: contemporary military sci-fi evolution
-- _The Praxis_ by Walter Jon Williams, 2002 — fleet operations: complex space naval strategy
+- _The Face of Battle_ by John Keegan, 1976—foundation: real warfare psychology and tactics
+- _Supplying War_ by Martin van Creveld, 1977—logistics reality: critical military infrastructure understanding
+- _Dorsai!_ by Gordon R. Dickson, 1959—genre origins: foundational military sci-fi warrior culture
+- _Hospital Station_ (Sector General) by James White, 1962—palate cleanser: optimistic space medicine between conflicts
+- _Necromancer_ (Childe Cycle) by Gordon R. Dickson, 1962—philosophical expansion: Dickson's deeper military mysticism
+- _Retief: Envoy to New Worlds_ by Keith Laumer, 1963—diplomatic satire: military bureaucracy humor break
+- _The Forever War_ by Joe Haldeman, 1974—Vietnam allegory: anti-war military sci-fi masterpiece
+- _The Mercenary_ by Jerry Pournelle, 1977—professional soldiers: realistic military economics
+- _Hammer's Slammers_ by David Drake, 1979—tank warfare: gritty combined-arms tactics
+- _Sky Raiders_ by William H. Keith Jr., 1982—space marines: atmospheric assault specialists
+- _Revelation Space_ by Alastair Reynolds, 2000—hard sci-fi warfare: physics-based space combat
+- _Decider_ by L.E. Modesitt Jr., 2001—modern synthesis: contemporary military sci-fi evolution
+- _The Praxis_ by Walter Jon Williams, 2002—fleet operations: complex space naval strategy
 
 ### Medieval Social History
 
-- _The Time Traveler's Guide to Medieval England_ by Ian Mortimer, 2008 — engaging foundation: immersive introduction to daily medieval life
-- _Life in a Medieval Village_ by Frances and Joseph Gies, 1990 — structural framework: systematic overview of village social organization
-- _The Return of Martin Guerre_ by Natalie Zemon Davis, 1983 — microhistory method: compelling case study in historical detective work
-- _Montaillou_ by Emmanuel Le Roy Ladurie, 1975 — masterwork: dense reconstruction of medieval mentalities via Inquisition records
-- _The Good Men_ by Chaz Brenchley, 2002 — fictional synthesis: novel drawing on Cathar historical knowledge
+- _The Time Traveler's Guide to Medieval England_ by Ian Mortimer, 2008—engaging foundation: immersive introduction to daily medieval life
+- _Life in a Medieval Village_ by Frances and Joseph Gies, 1990—structural framework: systematic overview of village social organization
+- _The Return of Martin Guerre_ by Natalie Zemon Davis, 1983—microhistory method: compelling case study in historical detective work
+- _Montaillou_ by Emmanuel Le Roy Ladurie, 1975—masterwork: dense reconstruction of medieval mentalities via Inquisition records
+- _The Good Men_ by Chaz Brenchley, 2002—fictional synthesis: novel drawing on Cathar historical knowledge
 
 ### Celtic Britain and Arthurian Legend
 
-- _The Mabinogion_ translated by Sioned Davies, 2007 — foundation: pure Celtic mythology and storytelling traditions
-- _Asterix in Britain_ by René Goscinny and Albert Uderzo, 1966 — palate cleanser: light introduction to Romano-Celtic cultural clash
-- _The Eagle of the Ninth_ by Rosemary Sutcliff, 1954 — Roman occupation: classic entry point, excellent prose
-- _The Lantern Bearers_ by Rosemary Sutcliff, 1959 — Roman withdrawal: direct thematic continuation
-- _The Crystal Cave_ by Mary Stewart, 1970 — Merlin's origins: bridge to Arthurian material
-- _The Winter King_ by Bernard Cornwell, 1995 — Arthur demythologized: gritty historical approach
-- _Dreaming the Eagle_ by Manda Scott, 2003 — Boudica's rebellion: complex perspective on Celtic resistance
-- _Isolde_ by Joan Allen, 1989 — Tristan & Isolde: romantic Arthurian tradition
-- _The High Kings_ by Joy Chant, 1983–1988 — epic fantasy synthesis
-- _Lark Rising Trilogy_ by Gillian Bradshaw, 1980s — advanced: sophisticated historical fiction finale
+- _The Mabinogion_ translated by Sioned Davies, 2007—foundation: pure Celtic mythology and storytelling traditions
+- _Asterix in Britain_ by René Goscinny and Albert Uderzo, 1966—palate cleanser: light introduction to Romano-Celtic cultural clash
+- _The Eagle of the Ninth_ by Rosemary Sutcliff, 1954—Roman occupation: classic entry point, excellent prose
+- _The Lantern Bearers_ by Rosemary Sutcliff, 1959—Roman withdrawal: direct thematic continuation
+- _The Crystal Cave_ by Mary Stewart, 1970—Merlin's origins: bridge to Arthurian material
+- _The Winter King_ by Bernard Cornwell, 1995—Arthur demythologized: gritty historical approach
+- _Dreaming the Eagle_ by Manda Scott, 2003—Boudica's rebellion: complex perspective on Celtic resistance
+- _Isolde_ by Joan Allen, 1989—Tristan & Isolde: romantic Arthurian tradition
+- _The High Kings_ by Joy Chant, 1983–1988—epic fantasy synthesis
+- _Lark Rising Trilogy_ by Gillian Bradshaw, 1980s—advanced: sophisticated historical fiction finale
 
 ### Frank Lloyd Wright
 
