@@ -1,7 +1,11 @@
 ---
 title: The Decline Narrative Bias
 description: Why we believe things were better before, how evolution wired this bias, and how to catch it.
-tags: []
+tags:
+  - cognitive-bias
+  - critical-thinking
+  - psychology
+  - self-improvement
 date: 2026-02-15
 lastmod: 2026-03-02
 ---
