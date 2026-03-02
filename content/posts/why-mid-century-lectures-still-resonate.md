@@ -1,14 +1,9 @@
 ---
 title: Why Mid-Century Lectures Still Resonate
 description: An analysis of why mid-20th century lectures by thinkers like Feynman and Watts still resonate more powerfully than contemporary talks, examining how optimization, reputational risk, and institutional constraints have eroded the conditions for uncompressed public thinking.
-tags:
-  - communication
-  - institutional-decay
-  - intellectual-culture
-  - knowledge-transmission
-  - public-discourse
+tags: []
 date: 2026-02-19
-lastmod: 2026-02-09
+lastmod: 2026-03-02
 ---
 
 > I have recently listened to lectures by Feynman and Watts. They seem 'of an era' that still resonates better than any talk I'll hear next year. Why?
