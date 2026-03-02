@@ -1,14 +1,9 @@
 ---
 title: Forced Ranking as Control System
 description: An analysis of forced ranking systems through the lens of a Ranger School peer evaluation rebellion, examining how such mechanisms function more as control systems that enforce compliance than as tools for identifying merit or truth.
-tags:
-  - corporate-culture
-  - forced-ranking
-  - leadership
-  - organizational-systems
-  - peer-evaluation
+tags: []
 date: 2026-02-16
-lastmod: 2026-02-09
+lastmod: 2026-03-02
 ---
 
 At Ranger School, we force-ranked one another at the end of each phase. The intent was blunt: peers, stripped by exhaustion and hunger, were the most accurate judges of who did the work, who broke, and who could be trusted when nothing was left. The ranking had nothing to do with morale or development. It was selection under stress.
