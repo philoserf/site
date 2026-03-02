@@ -3,7 +3,12 @@ title: About
 aliases:
   - /about
 description: Explores simplicity and strategic thinking through personal experiences, blending philosophy with self-improvement, lifelong learning, and creativity. Highlights travels, artistic pursuits, and intentional living, underscoring the importance of clarity, discipline, and effective communication.
-tags: []
+tags:
+  - communication
+  - intentional-living
+  - lifelong-learning
+  - personal-philosophy
+  - self-improvement
 date: 2026-02-09
 lastmod: 2026-03-02
 ---
