@@ -1,16 +1,16 @@
 ---
 title: Now
+aliases:
+  - /now
+  - /posts/books-i-am-reading
 description: A personal status page documenting current location, reading list, focus areas, and upcoming events. Updated regularly to share what's happening now in life and work.
 tags:
   - current-status
   - now-page
   - personal-update
   - reading-list
-aliases:
-  - /now
-  - /posts/books-i-am-reading
 date: 2026-02-02
-lastmod: 2026-02-02
+lastmod: 2026-03-02
 ---
 
 ## Where am I
