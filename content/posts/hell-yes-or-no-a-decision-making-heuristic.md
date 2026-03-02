@@ -7,7 +7,7 @@ tags:
   - personal-development
   - time-management
 date: 2025-12-29
-lastmod: 2026-01-24
+lastmod: 2026-03-02
 ---
 
 A decision-making heuristic popularized by Derek Sivers:[^1] tepid enthusiasm indicates misalignment, not compromise.
