@@ -1,13 +1,9 @@
 ---
 title: Ani DiFranco's Unique Independent Music Success
 description: Ani DiFranco achieved full independence and national reach without sacrificing control. Through Righteous Babe Records, she maintained cultural impact unlike peers such as Fugazi and Tech N9ne. Her unique combination of autonomy, visibility, and endurance sets her apart in the music industry.
-tags:
-  - artist-autonomy
-  - independent-music
-  - music-industry
-  - righteous-babe-records
+tags: []
 date: 2025-11-10
-lastmod: 2026-02-11
+lastmod: 2026-03-02
 ---
 
 Ani DiFranco pulled off something almost nobody else has: full independence with real national reach. Most artists either stay fiercely autonomous and small, or they get famous by giving up pieces of that independence. She didn't. She founded Righteous Babe Records in 1990 at age 19, kept her masters, set her own pace, toured constantly, and still landed in college radio, mainstream press, and multiple cultural circles without bending toward any of them.
