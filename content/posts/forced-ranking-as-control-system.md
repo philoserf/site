@@ -1,7 +1,12 @@
 ---
 title: Forced Ranking as Control System
 description: An analysis of forced ranking systems through the lens of a Ranger School peer evaluation rebellion, examining how such mechanisms function more as control systems that enforce compliance than as tools for identifying merit or truth.
-tags: []
+tags:
+  - control-systems
+  - leadership
+  - organizational-systems
+  - performance-management
+  - workplace-culture
 date: 2026-02-16
 lastmod: 2026-03-02
 ---
