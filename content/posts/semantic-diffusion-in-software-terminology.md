@@ -1,7 +1,11 @@
 ---
 title: Semantic Diffusion in Software Terminology
 description: Explores how technical terms like 'vibecoding', 'DevOps', and 'technical debt' lose their precise original definitions as they spread through communities, becoming diluted through careless usage until they no longer serve their intended purpose of marking meaningful boundaries.
-tags: []
+tags:
+  - programming-concepts
+  - semantics
+  - software-development
+  - terminology
 date: 2026-02-09
 lastmod: 2026-03-02
 ---
