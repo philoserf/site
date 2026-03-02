@@ -6,7 +6,7 @@ tags:
   - lifestyle
   - productivity
 date: 2024-07-04
-lastmod: 2026-01-08
+lastmod: 2026-03-02
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
@@ -79,7 +79,7 @@ It may seem obvious, but we must also cover this: caffeine affects sleep. "We al
 
 If you're waking up to wee…
 
-"Alcohol is a diuretic, so it can cause you to get up frequently during the night," Lee says. "Caffeine is a mild diuretic, so eliminating both near beds can help. Also, have less water before bed. Your body is perfectly equipped to go without water overnight – get those two liters in the day."
+"Alcohol is a diuretic, so it can cause you to get up frequently during the night," Lee says. "Caffeine is a mild diuretic, so eliminating both near beds can help. Also, have less water before bed. Your body is perfectly equipped to go without water overnight–get those two liters in the day."
 
 No more nightcaps
 
@@ -131,7 +131,7 @@ We know this feels good. But clinically, "93 percent of respondents to a survey 
 
 Invest in new bedding (and maybe even a new bed)
 
-Have you never replaced your pillow? It may be time to do that. "If it's stained or discolored, you wake up with aches – particularly in your neck and shoulders, you've started to get tension headaches, it's lumpy, or doesn't spring back, you might want to look into replacing it," Arshad says. Robins adds that, "if you find that your bed causes you pain or causes you to wake up in a sweat, it may be time for a new bed."
+Have you never replaced your pillow? It may be time to do that. "If it's stained or discolored, you wake up with aches–particularly in your neck and shoulders, you've started to get tension headaches, it's lumpy, or doesn't spring back, you might want to look into replacing it," Arshad says. Robins adds that, "if you find that your bed causes you pain or causes you to wake up in a sweat, it may be time for a new bed."
 
 Neutral decor is ideal for sleep.
 
