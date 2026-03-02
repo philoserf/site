@@ -8,7 +8,7 @@ tags:
   - phenomenology
   - wisdom
 date: 2026-02-18
-lastmod: 2026-02-18
+lastmod: 2026-03-02
 ---
 
 > Wisdom is the recovery of innocence at the far end of experience; it is the ability to see again what most of us have forgotten how to see, but now fortified by the ability to translate some of that vision into words, however inadequate.―David Bentley Hart
