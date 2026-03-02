@@ -8,7 +8,7 @@ tags:
   - wage-labor
   - work-culture
 date: 2026-01-02
-lastmod: 2026-02-11
+lastmod: 2026-03-02
 ---
 
 Before industrialization, most people worked land, crafts, or household trades. Urban laborers and apprentices earned wages, but survival didn't depend on them. Life followed seasonal cycles, guild obligations, local routines. Competition had boundaries. There was no rat race.
