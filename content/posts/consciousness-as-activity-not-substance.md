@@ -26,7 +26,7 @@ The proposition is right to reject reifying consciousness, but incomplete. Consc
 
 Links:
 
-- [Consciousness and Intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/) — Stanford Encyclopedia of Philosophy
-- [Facing Up to the Problem of Consciousness](https://consc.net/papers/facing.pdf) — David Chalmers (1995)
-- [Higher-Order Theories of Consciousness](https://plato.stanford.edu/entries/consciousness-higher/) — Stanford Encyclopedia of Philosophy
-- [The Buddhist Theory of No-Self](https://1000wordphilosophy.com/2023/02/25/no-self/) — 1000-Word Philosophy
+- [Consciousness and Intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/)—Stanford Encyclopedia of Philosophy
+- [Facing Up to the Problem of Consciousness](https://consc.net/papers/facing.pdf)—David Chalmers (1995)
+- [Higher-Order Theories of Consciousness](https://plato.stanford.edu/entries/consciousness-higher/)—Stanford Encyclopedia of Philosophy
+- [The Buddhist Theory of No-Self](https://1000wordphilosophy.com/2023/02/25/no-self/)—1000-Word Philosophy
