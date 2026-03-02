@@ -6,7 +6,7 @@ tags:
   - philosophy
   - power-dynamics
 date: 2025-11-05
-lastmod: 2026-01-02
+lastmod: 2026-03-02
 ---
 
 I asked Anthropic's Claude (Haiku, Sonnet, Opus; Sonnet with two different projects instructions, and Sonnet deep research) to
