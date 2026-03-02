@@ -6,7 +6,7 @@ tags:
   - personal-development
   - traveller-rpg
 date: 2025-10-31
-lastmod: 2026-01-02
+lastmod: 2026-03-02
 ---
 
 Brann Dace grew up on a quiet Imperial frontier world where success meant university placement and corporate service. He wanted that path—steady work, predictable life, civilized gravity wells—but he failed the entrance examinations. It wasn't dramatic; a simple letter, polite phrasing, and the sudden collapse of a future he'd rehearsed.
@@ -53,10 +53,10 @@ Strength 5 (reduced by aging)
 
 ### Careers
 
-Scout (Courier) — Rank 1  
- Agent (Intelligence) — Rank 0  
- Agent (Law Enforcement) — Rank 0  
- Merchant (Free Trader) — Rank 0
+Scout (Courier)—Rank 1  
+ Agent (Intelligence)—Rank 0  
+ Agent (Law Enforcement)—Rank 0  
+ Merchant (Free Trader)—Rank 0
 
 ### Notable Events
 
