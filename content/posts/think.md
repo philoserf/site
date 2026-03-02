@@ -6,7 +6,7 @@ tags:
   - thinking
   - writing
 date: 2025-07-04
-lastmod: 2026-02-09
+lastmod: 2026-03-02
 ---
 
 Writing is how thinking becomes real.
