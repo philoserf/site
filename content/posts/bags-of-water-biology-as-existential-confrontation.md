@@ -8,7 +8,7 @@ tags:
   - materialism
   - philosophy
 date: 2026-02-22
-lastmod: 2026-02-16
+lastmod: 2026-03-02
 ---
 
 "We are complex homeostatic systems, bags within bags within bags of mostly water" collapses the distance between biological fact and existential confrontation in a single breath. It is precise and deflationary at once, a statement that honors complexity while refusing to let us forget what we are made of.
