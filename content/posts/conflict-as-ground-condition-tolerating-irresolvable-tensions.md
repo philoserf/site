@@ -1,7 +1,12 @@
 ---
 title: "Conflict as Ground Condition: Tolerating Irresolvable Tensions"
 description: Conflict and tension are fundamental conditions of existence rather than problems to solve. The goal is not eliminating conflict but developing the capacity to tolerate ambiguity, hold contradictions, and sustain productive tension across psychological, social, and systemic domains.
-tags: []
+tags:
+  - ambiguity
+  - complexity
+  - conflict
+  - psychological-resilience
+  - systems-thinking
 date: 2026-02-21
 lastmod: 2026-03-02
 ---
