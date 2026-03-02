@@ -7,7 +7,7 @@ tags:
   - meaning-making
   - narrative-expectations
 date: 2026-02-08
-lastmod: 2026-02-06
+lastmod: 2026-03-02
 ---
 
 > The huge moments in life seemed like they should have more ceremony and effects. The important words—the life-changing ones—should echo a little. But they didn't.—James S.A. Corey
