@@ -8,7 +8,7 @@ tags:
   - pour-over
   - recipe
 date: 2025-04-30
-lastmod: 2026-02-11
+lastmod: 2026-03-02
 ---
 
 ## Measurements
