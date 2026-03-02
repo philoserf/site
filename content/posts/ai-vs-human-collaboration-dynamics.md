@@ -1,13 +1,9 @@
 ---
 title: AI vs Human Collaboration Dynamics
 description: A comparison of AI and human collaborators, examining how AI optimizes for intent and constraints while humans introduce complexity through ego, status concerns, and resistance to direction.
-tags:
-  - ai-collaboration
-  - human-behavior
-  - organizational-dynamics
-  - workflow-optimization
+tags: []
 date: 2026-01-30
-lastmod: 2026-01-30
+lastmod: 2026-03-02
 ---
 
 AI tools optimize to your intent. Humans optimize to identity, status, and comfort. That distinction matters more than most arguments about capability.
