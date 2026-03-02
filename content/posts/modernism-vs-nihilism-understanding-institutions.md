@@ -8,7 +8,7 @@ tags:
   - nihilism
   - philosophy
 date: 2025-07-03
-lastmod: 2026-02-11
+lastmod: 2026-03-02
 ---
 
 We've been here before.
