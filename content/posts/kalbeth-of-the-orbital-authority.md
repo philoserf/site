@@ -7,7 +7,7 @@ tags:
   - short-story
   - space-opera
 date: 2026-02-24
-lastmod: 2026-02-23
+lastmod: 2026-03-02
 ---
 
 Kalbeth was a war-captain for the Orbital Authority, a veteran of skirmishes against the Outer Colonies. He had fought for the Central Directorate, and in their endless wars of consolidation, he had gained both reputation and unease. For he knew—though he rarely admitted it aloud—that the Directorate was as unstable as the stars it sought to rule.
