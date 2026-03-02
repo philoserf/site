@@ -1,7 +1,12 @@
 ---
 title: Casual Acceptance of Democratic Collapse Among Elites
 description: An analysis of how wealthy individuals casually treating democratic collapse as inevitable rather than preventable creates epistemic closure, normalizes authoritarian consolidation, and accelerates institutional failure through elite abandonment.
-tags: []
+tags:
+  - authoritarianism
+  - democracy
+  - elite-behavior
+  - epistemic-closure
+  - institutional-failure
 date: 2026-02-25
 lastmod: 2026-03-02
 ---
