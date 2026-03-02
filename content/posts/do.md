@@ -7,7 +7,7 @@ tags:
   - personal-effectiveness
   - productivity
 date: 2025-07-04
-lastmod: 2026-02-09
+lastmod: 2026-03-02
 ---
 
 Others only know what you produce.
