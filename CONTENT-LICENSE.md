@@ -1,12 +1,17 @@
 # Content License
 
-This section applies only to written content and media assets; it does not apply to source code, templates, or configuration files.
+This section applies only to written content and media assets; it does not
+apply to source code, templates, or configuration files.
 
-Copyright © 2023–2025 by Mark Ayers. All rights reserved.
+© 2023–2026 Mark Ayers.
 
-Unless otherwise noted:
+Licensed under
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-- You may not reproduce, redistribute, or create derivative works of the written content and media assets without prior written permission from the copyright holder.
-- Forks of this repository for contribution purposes may host unmodified copies on GitHub; any other republication or distribution is prohibited without permission.
+You are free to share and adapt the content under the following terms:
+
+- **Attribution** — Give appropriate credit and link to the license.
+- **NonCommercial** — Do not use the material for commercial purposes.
+- **ShareAlike** — Distribute adaptations under the same license.
 
 For questions about permissions, please contact the author.
