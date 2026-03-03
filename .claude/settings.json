@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "command": "echo \"$CLAUDE_FILE_PATH\" | grep -q 'themes/' && echo 'BLOCK: Do not edit theme submodule files' && exit 1 || exit 0"
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "command": "prettier --write \"$CLAUDE_FILE_PATH\" 2>/dev/null || true"
+      }
+    ]
+  }
+}
