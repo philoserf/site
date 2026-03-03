@@ -22,12 +22,7 @@
   },
   "files.associations": {
     "*.md": "markdown",
-    "CLAUDE.md": "markdown",
-    "CONTRIBUTING.md": "markdown",
-    "DEVELOPMENT.md": "markdown"
-  },
-  "markdownlint.config": {
-    "extends": ".markdownlint.json"
+    "CLAUDE.md": "markdown"
   },
   "search.exclude": {
     "**/public": true,

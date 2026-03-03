@@ -31,7 +31,7 @@ jobs:
           submodules: true
       - uses: actions/configure-pages@v5
         id: pages
-      - uses: peaceiris/actions-hugo@v3
+      - uses: peaceiris/actions-hugo@v3 # unpinned: tracks latest like Homebrew
         with:
           extended: true
       - run: hugo --gc --minify
