@@ -34,15 +34,7 @@ tasks:
   build:
     desc: Build Hugo site including drafts and future posts
     deps: [bootstrap, submodules]
-    sources:
-      [
-        hugo.yaml,
-        content/**/*,
-        static/**/*,
-        layouts/**/*,
-        assets/**/*,
-        archetypes/**/*,
-      ]
+    sources: [hugo.yaml, content/**/*, static/**/*, layouts/**/*, assets/**/*]
     generates: [public/**/*]
     cmds:
       - hugo --cleanDestinationDir --buildFuture --buildDrafts --buildExpired
@@ -64,16 +56,3 @@ tasks:
         echo "🖼️  Optimizing JPEG images..."
         find static/images \( -name "*.jpg" -o -name "*.jpeg" \) -exec mogrify -strip -interlace Plane -quality 85 {} \;
         echo "✅ Image optimization complete!"
-
-  commit:
-    desc: Interactive commit workflow (requires non-main branch)
-    deps: [bootstrap, build]
-    interactive: true
-    cmds:
-      - test "$(git rev-parse --abbrev-ref HEAD)" != "main"
-      - git add -p
-      - git diff --name-only
-      - read -rp "Control-C to abort, Enter to continue." _
-      - read -rp "Commit message? " COMMIT_MESSAGE && git commit -m
-        "${COMMIT_MESSAGE}"
-      - git push
