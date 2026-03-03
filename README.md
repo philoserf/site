@@ -22,7 +22,7 @@ Visit <http://localhost:1313> for local development.
 
 ## Technology Stack
 
-- **Static Site Generator**: [Hugo](https://gohugo.io/) v0.152.2
+- **Static Site Generator**: [Hugo](https://gohugo.io/) (Extended)
 - **Theme**: [hugo-coder](https://github.com/luizdepra/hugo-coder)
 - **Build Tool**: [Task](https://taskfile.dev)
 - **Hosting**: GitHub Pages
@@ -34,11 +34,10 @@ All development uses Task for command orchestration:
 
 - `task build` - Build the Hugo site
 - `task serve` - Start local development server with live reload
-- `task fix` - Auto-fix formatting with Prettier and markdownlint
+- `task fix` - Auto-fix formatting with Prettier
 - `task optimize-images` - Optimize images in static/images
 - `task update` - Update hugo-coder theme to latest version
 - `task bootstrap` - Install tools via Homebrew
-- `task commit` - Interactive commit workflow (non-main branches only)
 
 Run `task --list` to see all available tasks with descriptions.
 
@@ -64,7 +63,7 @@ Run `task --list` to see all available tasks with descriptions.
 1. Create a feature branch (never commit to `main`)
 2. Make your changes
 3. Run `task fix` to format code
-4. Use `task commit` for interactive commit workflow
+4. Commit your changes with a descriptive message
 5. Create a pull request
 
 ## Content Guidelines
@@ -78,7 +77,6 @@ Run `task --list` to see all available tasks with descriptions.
 ## Code Quality
 
 - **Formatting**: Prettier (prose wrap at 80 chars)
-- **Linting**: markdownlint
 - **CI**: GitHub Actions builds and deploys on push to main
 
 ## Deployment
