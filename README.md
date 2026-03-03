@@ -35,8 +35,6 @@ All development uses Task for command orchestration:
 - `task build` - Build the Hugo site
 - `task serve` - Start local development server with live reload
 - `task fix` - Auto-fix formatting with Prettier and markdownlint
-- `task validate-content` - Validate frontmatter completeness
-- `task validate` - Run all validation checks
 - `task optimize-images` - Optimize images in static/images
 - `task update` - Update hugo-coder theme to latest version
 - `task bootstrap` - Install tools via Homebrew
@@ -58,10 +56,6 @@ Run `task --list` to see all available tasks with descriptions.
 
 ## Documentation
 
-- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contributor guidelines and setup
-  instructions
-- **[DEVELOPMENT.md](DEVELOPMENT.md)** - Architecture details and technical
-  documentation
 - **[CLAUDE.md](CLAUDE.md)** - Claude Code integration instructions
 - **[CONTENT-LICENSE.md](CONTENT-LICENSE.md)** - Content licensing
 
@@ -70,9 +64,8 @@ Run `task --list` to see all available tasks with descriptions.
 1. Create a feature branch (never commit to `main`)
 2. Make your changes
 3. Run `task fix` to format code
-4. Run `task validate` to check content
-5. Use `task commit` for interactive commit workflow
-6. Create a pull request
+4. Use `task commit` for interactive commit workflow
+5. Create a pull request
 
 ## Content Guidelines
 
@@ -86,7 +79,6 @@ Run `task --list` to see all available tasks with descriptions.
 
 - **Formatting**: Prettier (prose wrap at 80 chars)
 - **Linting**: markdownlint
-- **Pre-commit**: Auto-runs `task fix` before each commit
 - **CI**: GitHub Actions builds and deploys on push to main
 
 ## Deployment
@@ -100,8 +92,8 @@ Automatic deployment via GitHub Actions:
 ## License
 
 - **Code/Config**: [Unlicense](LICENSE) (public domain)
-- **Content**: Copyright © 2023–2025 Mark Ayers. All rights reserved. See
-  [CONTENT-LICENSE.md](CONTENT-LICENSE.md)
+- **Content**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  © 2023–2026 Mark Ayers. See [CONTENT-LICENSE.md](CONTENT-LICENSE.md)
 
 ## Resources
 
