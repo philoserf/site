@@ -13,6 +13,13 @@ tasks:
     cmds:
       - brew bundle
 
+  submodules:
+    desc: Initialize and update git submodules
+    cmds:
+      - git submodule update --init --recursive
+    status:
+      - test -f themes/hugo-coder/theme.toml
+
   update:
     desc: Update hugo-coder theme to latest version
     cmds:
@@ -26,7 +33,7 @@ tasks:
 
   build:
     desc: Build Hugo site including drafts and future posts
-    deps: [bootstrap]
+    deps: [bootstrap, submodules]
     sources:
       [
         hugo.yaml,
@@ -42,7 +49,7 @@ tasks:
 
   serve:
     desc: Start local development server with live reload
-    deps: [bootstrap]
+    deps: [bootstrap, submodules]
     cmds:
       - hugo server --buildDrafts --buildFuture --buildExpired
         --disableFastRender --navigateToChanged
