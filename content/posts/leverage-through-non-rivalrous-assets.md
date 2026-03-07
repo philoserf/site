@@ -8,7 +8,7 @@ tags:
   - mental-models
   - non-rivalrous-goods
 date: 2026-03-07
-lastmod: 2026-03-03
+lastmod: 2026-03-07
 ---
 
 "A person who sells what they never owned and never loses what they repeatedly give away has mastered a form of leverage that most people never perceive as possible." The sentence operates on at least three levels, and each one reframes what counts as an asset.
@@ -24,8 +24,3 @@ Most people never perceive this because nearly all economic and social intuition
 There's a harder edge here too, worth naming. The sentence doesn't say this leverage is benign. Influence peddlers, propagandists, and cult leaders also sell what they never owned and give away what costs them nothing. The form of leverage is morally neutral; its value depends entirely on whether the practitioner is compounding trust or manufacturing dependency. The distinction between the two is whether the recipient becomes more capable or less autonomous after the exchange.
 
 What makes the observation useful is its reframing of generosity as strategic rather than sacrificial, and of expertise as inexhaustible rather than scarce. Anyone operating under the assumption that they must hoard what they know to profit from it is playing a finite game with infinite resources—the precise inversion of good strategy.
-
-Related:
-
-- [Selling Without Surrendering Equity, Control, and Ownership](selling-without-surrendering-equity-control-and-ownership)
-- [Bernie Ecclestone and the Art of Owning What You Never Had](bernie-ecclestone-and-the-art-of-owning-what-you-never-had)
