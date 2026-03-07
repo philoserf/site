@@ -8,7 +8,7 @@ tags:
   - leverage
   - power-dynamics
 date: 2026-03-05
-lastmod: 2026-03-03
+lastmod: 2026-03-07
 ---
 
 Eddie Jordan, the Irish Formula 1 team owner known for his irreverence and sharp eye for talent, once offered what might be the most concise summary of Bernie Ecclestone's genius ever spoken: "Anyone who has had a business, sold it four times, has never bought it back, has never lost its control, and still owns it is pretty special. And do you know the most important thing? He never fucking owned it in the first place."
@@ -22,8 +22,3 @@ Jordan's words carry the particular weight of someone who watched it happen from
 The broader resonance reaches well beyond motorsport. Most people think of ownership as a binary state: you have the deed, the title, the shares, or you don't. Ecclestone's career shows that control, not title, is the operative form of ownership—and that the most durable control comes not from buying something but from making yourself the node through which all value must pass. He understood that in a complex ecosystem of competing interests—teams, regulators, broadcasters, sponsors, governments—the person who coordinates is the person who commands, and that this kind of structural centrality can be monetized over and over without ever being depleted, because what you're selling is access to your own indispensability.
 
 There is something unsettling in that insight alongside the admiration. A person who sells what they never owned and never loses what they repeatedly give away has mastered a form of leverage that most people never perceive as possible. Jordan's line lands as a tribute, but it's also a warning—or perhaps an invitation—about the nature of power itself: that those who hold it most securely are often those who were never formally granted it.
-
-Related:
-
-- [Leverage Through Non-Rivalrous Assets](leverage-through-non-rivalrous-assets)
-- [Selling Without Surrendering Equity, Control, and Ownership](selling-without-surrendering-equity-control-and-ownership)
