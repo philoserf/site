@@ -9,19 +9,20 @@ tags:
   - now-page
   - personal-update
   - reading-list
-date: 2026-02-02
-lastmod: 2026-03-02
+date: 2026-03-08
+lastmod: 2026-03-08
 ---
 
 ## Where am I
 
-At home in Greater Grand Rapids, Michigan
+<!--At home in Greater Grand Rapids, Michigan-->
+Visiting Settle, Washington and the Pacific Northwest
 
 ## What am I reading
 
+- _There is No Antimemetics Division_ by Qntm (2026)
 - _4:00 A.M. A Productivity Argument_ by Augusto Pinaud (2013)
 - _Meru_ by S.B. Divya (2023)
-- _Naked Lunch_ by William S. Burroughs (1959)
 
 ## What am I focused on
 
