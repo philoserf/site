@@ -6,7 +6,7 @@ tags:
   - literature
   - reading-list
   - science-fiction
-date: 2026-01-08
+date: 2026-03-08
 lastmod: 2026-03-02
 ---
 
@@ -14,7 +14,7 @@ This list, started in late 2022, is far from complete. I'm sure I've missed some
 
 ## Finished in 2026
 
-- coming soon
+- _Naked Lunch_ by William S. Burroughs (1959)
 
 ## Fiction
 
