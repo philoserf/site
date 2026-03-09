@@ -7,13 +7,13 @@ tags:
   - poetry
   - self-reflection
 date: 2026-03-09
-lastmod: 2026-03-05
+lastmod: 2026-03-09
 ---
 
 by Mark Ayers, 2024
 
-We seek labels to wear—
-to place upon our brow—
+We seek labels to wear—  
+to place upon our brow—  
 to say to ourselves and to others,  
 "Yes. This is me."
 
