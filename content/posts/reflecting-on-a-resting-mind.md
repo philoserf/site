@@ -14,7 +14,5 @@ lastmod: 2026-03-05
 
 by Mark Ayers, 2002
 
-Good night, dear conscious mind—
-It's time to rest, my friend.  
-At dawn, we'll meet again,  
-And seek what lies ahead.
+Good night, dear conscious mind—It's time to rest, my friend.  
+At dawn, we'll meet again, And seek what lies ahead.
