@@ -1,13 +1,15 @@
 ---
-date: 2026-02-28
-lastmod: 2026-02-28
-tags:
-  - politics
-  - ethics
-  - democracy
-  - civic-responsibility
-description: A reflection on the normalization of indecency in public life and its corrosive effects on individuals and institutions. Argues that deliberate exhaustion tactics suppress resistance, and calls for documentation, institution-building, and local action before capitulation becomes permanent.
 title: When Indecency Wins
+aliases:
+  - when-indecency-wins
+description: A reflection on the normalization of indecency in public life and its corrosive effects on individuals and institutions. Argues that deliberate exhaustion tactics suppress resistance, and calls for documentation, institution-building, and local action before capitulation becomes permanent.
+tags:
+  - civic-responsibility
+  - democracy
+  - ethics
+  - politics
+date: 2026-02-28
+lastmod: 2026-03-11
 ---
 
 Indecency in public life is not new. What stings is watching it win.
@@ -20,4 +22,4 @@ Watching corrodes you. Watching without acting breeds complicity, yet acting too
 
 Republics have fallen when citizens chose strong leaders over decent ones, when spectacle replaced competence, when the look of strength mattered more than actual strength. Normalize transgression, attack accountability, redefine virtue as weakness, celebrate dominance over service.
 
-The question is not whether indecency sometimes wins — it always has — but whether it wins permanently through silence or exhaustion. Document what happens. Build alternative institutions. Guard decency where you live. This is the moment before we choose capitulation or resistance. That triumph is temporary — unless we decide otherwise.
+The question is not whether indecency sometimes wins—it always has—but whether it wins permanently through silence or exhaustion. Document what happens. Build alternative institutions. Guard decency where you live. This is the moment before we choose capitulation or resistance. That triumph is temporary—unless we decide otherwise.
