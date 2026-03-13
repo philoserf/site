@@ -11,4 +11,4 @@ lastmod: 2026-03-04
 math: true
 ---
 
-For ages $n \geq n_{\min}$ (cultural), acceptable partner ages fall in $\left[\max\!\left(\frac{n}{2} + 7,\; n_{\min}\right),\; 2n - 14\right]$.
+For ages $n \geq n_{\min}$ (cultural), acceptable partner ages fall in $\left[\max\!\left(\frac{n}{2} + 7, n_{\min}\right), 2n - 14\right]$.
