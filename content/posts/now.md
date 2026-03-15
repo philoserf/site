@@ -16,11 +16,12 @@ lastmod: 2026-03-08
 ## Where am I
 
 <!--At home in Greater Grand Rapids, Michigan-->
+
 Visiting Settle, Washington and the Pacific Northwest
 
 ## What am I reading
 
-- _There is No Antimemetics Division_ by Qntm (2026)
+- _There is No Antimemetics Division_ by Qntm (2025)
 - _4:00 A.M. A Productivity Argument_ by Augusto Pinaud (2013)
 - _Meru_ by S.B. Divya (2023)
 
