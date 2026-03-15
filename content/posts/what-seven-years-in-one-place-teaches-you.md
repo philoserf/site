@@ -11,7 +11,8 @@ date: 2026-03-15
 lastmod: 2026-03-13
 ---
 
-I learned the year not by calendars but by the willow. When its branches flushed yellow-green at the tips, I could set seeds in the cold frames. When its leaves darkened and thickened and the catkins dropped, I stopped watering the rosemary and let it harden for what was coming. The willow was a clock with one hand, and it had never been wrong.  
+I learned the year not by calendars but by the willow. When its branches flushed yellow-green at the tips, I could set seeds in the cold frames. When its leaves darkened and thickened and the catkins dropped, I stopped watering the rosemary and let it harden for what was coming. The willow was a clock with one hand, and it had never been wrong.
+
 There were other clocks. The angle of light on the kitchen wall at midmorning told me whether I'd crossed the equinox yet or only imagined it. The pitch of the creek behind the shed—high and conversational in March, sulky and low by August, silent in the deepest weeks of January when ice sealed it shut like an envelope—told me what the rain had done and would do. I knew the wind by which door rattled. Southeast meant the one to the mudroom. Northwest, the one nobody used, the one that faced the hill.
 
 None of this was mystical. It was just what happened when I stopped moving.
