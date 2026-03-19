@@ -70,7 +70,7 @@ Run `task --list` to see all available tasks with descriptions.
 
 - All posts in `content/posts/` directory
 - Markdown with YAML frontmatter
-- Required fields: `title`, `date`, `description`, `tags`, `publish`
+- Required fields: `title`, `date`, `description`, `tags`
 - Tags use kebab-case (e.g., `personal-development`)
 - Internal links use Hugo ref syntax: `{{< ref "filename" >}}`
 
@@ -89,7 +89,7 @@ Automatic deployment via GitHub Actions:
 
 ## License
 
-- **Code/Config**: [Unlicense](LICENSE) (public domain)
+- **Code/Config**: [MIT License](LICENSE)
 - **Content**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
   © 2023–2026 Mark Ayers. See [CONTENT-LICENSE.md](CONTENT-LICENSE.md)
 
