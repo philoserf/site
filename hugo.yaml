@@ -26,6 +26,7 @@ params:
     intellectual essays
   avatarURL: /images/avatar.jpeg
   colorScheme: auto
+  fediverseCreator: "@philoserf@pkm.social"
   social:
     - name: GitHub
       icon: "fa-brands fa-github"
