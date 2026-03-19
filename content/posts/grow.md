@@ -1,5 +1,6 @@
 ---
 title: Grow
+series: smegps
 description: Essential activities like sleep, movement, eating, and sharing contribute to a happy, healthy, and productive life. Emphasizes reading and knowledge retention through consistent habits and note-taking.
 tags:
   - lifestyle
@@ -7,7 +8,6 @@ tags:
   - productivity
 date: 2024-07-04
 lastmod: 2026-03-19
-series: smegps
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.

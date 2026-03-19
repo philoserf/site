@@ -1,12 +1,12 @@
 ---
 title: Move
+series: smegps
 description: Highlights the benefits of morning movement for metabolism and circulation. Encourages setting goals, tracking progress, and incorporating diverse exercises like weightlifting and yoga to maintain interest and ensure a well-rounded workout routine.
 tags:
   - fitness
   - health
 date: 2024-07-04
 lastmod: 2026-03-19
-series: smegps
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
