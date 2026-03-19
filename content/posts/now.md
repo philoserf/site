@@ -1,7 +1,6 @@
 ---
 title: Now
 aliases:
-  - /now
   - /posts/books-i-am-reading
 series: books
 description: A personal status page documenting current location, reading list, focus areas, and upcoming events. Updated regularly to share what's happening now in life and work.
@@ -10,15 +9,13 @@ tags:
   - now-page
   - personal-update
   - reading-list
-date: 2026-03-08
+date: 2026-03-19
 lastmod: 2026-03-19
 ---
 
 ## Where am I
 
-<!--At home in Greater Grand Rapids, Michigan-->
-
-Visiting Settle, Washington and the Pacific Northwest
+At home in Greater Grand Rapids, Michigan
 
 ## What am I reading
 
@@ -32,7 +29,8 @@ Visiting Settle, Washington and the Pacific Northwest
 
 ## What I'm looking forward to
 
-- [Ignite! Seattle](https://igniteseattle.com/) 50 at Benaroya Hall in March
 - Springtime and long walks outside (that aren't so cold)
+- A spring getaway long weekend
 - [GopherCon 2026](https://gophercon.com/) in Seattle in August
+- An autumn weeklong getaway
 - A trip to Ireland, in planning for 2027
