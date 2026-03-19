@@ -7,7 +7,7 @@ tags:
   - social-dynamics
   - tribalism
 date: 2026-02-06
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 Broad human cooperation isn't our natural state—it's a luxury of abundance and security. Our moral circle is elastic, expanding when we feel safe and contracting when we feel threatened.

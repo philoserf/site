@@ -1,12 +1,13 @@
 ---
 title: Sleep
+series: smegps
 description: Discusses the significance of sleep in boosting health and productivity, offering practical tips for better sleep quality, including consistent schedules, light management, and optimized sleep environments. Emphasizes the benefits of daylight, avoiding blue light, and maintaining a cool sleeping atmosphere.
 tags:
   - health
   - lifestyle
   - productivity
 date: 2024-07-04
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.

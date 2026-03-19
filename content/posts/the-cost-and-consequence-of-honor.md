@@ -7,7 +7,7 @@ tags:
   - moral-philosophy
   - stoicism
 date: 2026-02-23
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 Honor in a dishonorable world costs more than it pays—by any conventional measure. You pass on corrupt opportunities, refuse shortcuts, speak when silence would protect you. In systems where others defect from shared standards, you bear costs they avoid while they capture benefits you forgo. Predictability becomes exploitable.

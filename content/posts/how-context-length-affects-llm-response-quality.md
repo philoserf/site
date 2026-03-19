@@ -7,7 +7,7 @@ tags:
   - llm-behavior
   - training-bias
 date: 2025-12-21
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 Quoting Claude:

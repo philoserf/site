@@ -8,7 +8,7 @@ tags:
   - montaigne
   - philosophy
 date: 2026-02-12
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 A faithful paraphrase of Montaigne's "Of the Art of Conference" (Book III, Chapter VIII), tightened and modernized for a mid-21st-century reader.

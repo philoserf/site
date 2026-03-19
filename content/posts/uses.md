@@ -8,7 +8,7 @@ tags:
   - productivity
   - technology
 date: 2025-11-19
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 ## Hardware

@@ -1,5 +1,6 @@
 ---
 title: Books I have read
+series: books
 description: A personal reading log, started in late 2022 and far from complete.
 tags:
   - book-list
@@ -7,7 +8,7 @@ tags:
   - reading-list
   - science-fiction
 date: 2026-03-08
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 This list, started in late 2022, is far from complete. I'm sure I've missed some and will again.

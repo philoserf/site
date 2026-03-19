@@ -9,7 +9,7 @@ tags:
   - ethics
   - politics
 date: 2026-02-28
-lastmod: 2026-03-11
+lastmod: 2026-03-19
 ---
 
 Indecency in public life is not new. What stings is watching it win.

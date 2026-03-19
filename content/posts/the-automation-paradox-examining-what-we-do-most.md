@@ -7,7 +7,7 @@ tags:
   - mindfulness
   - self-awareness
 date: 2026-02-27
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 > We know the least about that which we do the most.

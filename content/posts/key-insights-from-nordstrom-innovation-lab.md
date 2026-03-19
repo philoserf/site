@@ -8,7 +8,7 @@ tags:
   - lean-startup
   - product-management
 date: 2025-10-18
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 ## Nordstrom's Innovation Lab
