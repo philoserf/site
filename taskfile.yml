@@ -51,8 +51,8 @@ tasks:
     deps: [bootstrap]
     cmds:
       - |
-        echo "🖼️  Optimizing PNG images..."
+        echo "Optimizing PNG images..."
         find static/images -name "*.png" -exec pngquant --force --ext .png --quality=65-80 {} \;
-        echo "🖼️  Optimizing JPEG images..."
+        echo "Optimizing JPEG images..."
         find static/images \( -name "*.jpg" -o -name "*.jpeg" \) -exec mogrify -strip -interlace Plane -quality 85 {} \;
-        echo "✅ Image optimization complete!"
+        echo "Image optimization complete."
