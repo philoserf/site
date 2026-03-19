@@ -1,6 +1,7 @@
+tap "oven-sh/bun"
+brew "bun"
 brew "gh"
 brew "go-task"
 brew "hugo"
 brew "imagemagick"
 brew "pngquant"
-brew "prettier"
