@@ -1,5 +1,6 @@
 ---
 title: Play
+series: smegps
 description: Play fosters creativity, reduces stress, and aids personal growth. It allows exploration, learning, and connection beyond daily roles, emphasizing its significance in holistic development.
 tags:
   - creativity
@@ -7,7 +8,6 @@ tags:
   - stress-management
 date: 2024-07-04
 lastmod: 2026-03-19
-series: smegps
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.
