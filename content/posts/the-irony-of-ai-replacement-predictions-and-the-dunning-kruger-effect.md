@@ -7,7 +7,7 @@ tags:
   - dunning-kruger
   - future-of-work
 date: 2026-02-13
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 Mediocre thinkers who overestimate their abilities now predict AI will eliminate work for people like themselves. The irony is sharp.

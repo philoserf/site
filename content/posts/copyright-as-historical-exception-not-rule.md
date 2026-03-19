@@ -10,7 +10,7 @@ tags:
   - intellectual-property
   - knowledge-commons
 date: 2026-03-18
-lastmod: 2026-03-16
+lastmod: 2026-03-19
 ---
 
 For roughly 200,000 years, *Homo sapiens* has been generating, sharing, and building upon knowledge without any concept of intellectual property. Copyright has existed for 315 years. That is 0.16% of the span of human existence.

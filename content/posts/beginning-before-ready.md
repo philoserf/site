@@ -7,7 +7,7 @@ tags:
   - storytelling
   - writing
 date: 2026-03-19
-lastmod: 2026-03-16
+lastmod: 2026-03-19
 ---
 
 This story will end. I don't know when or how—whether it builds to something worth the effort or just stops, mid-sentence, with no one watching. That much it shares with everything else.

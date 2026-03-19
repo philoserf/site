@@ -10,7 +10,7 @@ tags:
   - philosophy
   - truth
 date: 2026-03-17
-lastmod: 2026-03-15
+lastmod: 2026-03-19
 ---
 
 "All stories are true. All stories are false. There are only stories." These read as contradictions. They aren't. Each sentence does real work, and the sequence matters.

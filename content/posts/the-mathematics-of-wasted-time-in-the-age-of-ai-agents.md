@@ -6,7 +6,7 @@ tags:
   - attention-economy
   - productivity
 date: 2025-12-21
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 math: true
 ---
 

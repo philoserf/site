@@ -8,7 +8,7 @@ tags:
   - performance-management
   - workplace-culture
 date: 2026-02-16
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 At Ranger School, we force-ranked one another at the end of each phase. The intent was blunt: peers, stripped by exhaustion and hunger, were the most accurate judges of who did the work, who broke, and who could be trusted when nothing was left. The ranking had nothing to do with morale or development. It was selection under stress.

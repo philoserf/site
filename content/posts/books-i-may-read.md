@@ -7,7 +7,8 @@ tags:
   - reading-list
   - science-fiction
 date: 2026-02-09
-lastmod: 2026-03-02
+lastmod: 2026-03-19
+series: books
 ---
 
 ## Up Next

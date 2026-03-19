@@ -8,7 +8,7 @@ tags:
   - epistemic-closure
   - institutional-failure
 date: 2026-02-25
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 A wealthy American said recently, in an interview, "if the Dems ever have a president again or if we ever have a free election again." The remark was casual, incidental to the larger conversation.

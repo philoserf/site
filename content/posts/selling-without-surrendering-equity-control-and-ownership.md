@@ -8,7 +8,7 @@ tags:
   - equity
   - ownership
 date: 2026-03-06
-lastmod: 2026-03-07
+lastmod: 2026-03-19
 ---
 
 The claim that anyone who has had a business, sold it four times, has never bought it back, has never lost its control, and still owns it is "pretty special" operates first as understatement and second as a riddle. The surface reading is paradoxical—selling something four times while never relinquishing control or ownership should be impossible if we treat "selling" in its ordinary sense. That tension is where the real substance lives.

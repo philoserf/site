@@ -10,7 +10,7 @@ tags:
   - personal-philosophy
   - self-improvement
 date: 2026-02-09
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 This is where I think in public—sharing the things I had to learn the hard way, and saying what I believe needs saying—clearly, publicly, and without hedging.

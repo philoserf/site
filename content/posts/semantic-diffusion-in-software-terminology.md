@@ -7,7 +7,7 @@ tags:
   - software-development
   - terminology
 date: 2026-02-09
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 Martin Fowler coined Semantic Diffusion in 2006 with this definition: Semantic diffusion occurs when you have a word coined by a person or group, often with a good definition, but then spread through the wider community in a way that weakens that definition. This weakening risks losing the definition entirely—and with it any usefulness to the term.

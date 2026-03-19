@@ -7,7 +7,7 @@ tags:
   - medieval-history
   - warrior-culture
 date: 2026-02-11
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 The medieval Japanese rōnin is a structural anomaly. In a system built on vertical loyalty, land stipends, and hereditary service, a samurai without a lord is a problem. He remains trained, armed, and visibly marked as a warrior, but he lacks the bond that makes his violence legitimate. Some rōnin drifted after a lord's death or dispossession; others lost their place; a few chose independence. Culturally they occupy an uneasy space—feared, pitied, or romanticized as figures of personal honor detached from institutional loyalty. The rōnin exists because the system is rigid enough that leaving it creates a sharp break.

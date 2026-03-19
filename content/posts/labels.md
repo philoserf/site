@@ -7,7 +7,7 @@ tags:
   - philosophy
   - self-reflection
 date: 2026-03-09
-lastmod: 2026-03-09
+lastmod: 2026-03-19
 ---
 
 by Mark Ayers, 2024
