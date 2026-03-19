@@ -7,7 +7,7 @@ tags:
   - psychology
   - self-improvement
 date: 2026-02-15
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 I catch myself saying "things used to be better" and forgetting how bad things were. Everyone does. Every generation mourns declining standards, weakening morals, lost golden ages. "Restoration" rhetoric works because it promises a return to a state that never existed as we remember it.

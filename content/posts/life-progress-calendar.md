@@ -7,7 +7,7 @@ tags:
   - mortality-awareness
   - time-management
 date: 1962-07-04
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 ## Key

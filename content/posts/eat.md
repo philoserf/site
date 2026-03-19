@@ -6,7 +6,8 @@ tags:
   - lifestyle
   - nutrition
 date: 2024-07-04
-lastmod: 2026-03-02
+lastmod: 2026-03-19
+series: smegps
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.

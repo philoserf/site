@@ -8,7 +8,7 @@ tags:
   - pragmatism
   - tacit-knowledge
 date: 2026-02-09
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 > Thought only becomes real when you put it into words others can use.

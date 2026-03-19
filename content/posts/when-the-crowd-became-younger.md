@@ -9,7 +9,7 @@ tags:
   - pandemic
   - reflection
 date: 2026-03-12
-lastmod: 2026-03-05
+lastmod: 2026-03-19
 ---
 
 For most of my life, the crowd was older than I was. Then came a pandemic. We went into seclusion, and when we came out, the crowd was younger.

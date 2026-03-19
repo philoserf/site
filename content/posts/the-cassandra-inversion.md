@@ -9,7 +9,7 @@ tags:
   - information-overload
   - media-criticism
 date: 2026-03-22
-lastmod: 2026-03-16
+lastmod: 2026-03-19
 ---
 
 When every voice is Cassandra, no one hears the warning. Not because the warnings are wrong—some of them are desperate and true—but because prophecy depends on scarcity. A single voice crying out against complacency can change the course of a city. A thousand voices crying out at once is just weather.

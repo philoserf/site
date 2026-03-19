@@ -6,7 +6,8 @@ tags:
   - lifestyle
   - well-being
 date: 2024-07-04
-lastmod: 2026-03-02
+lastmod: 2026-03-19
+series: smegps
 ---
 
 The critical human health and happiness ingredients are sleep, move, eat, grow, & share. These are the essential elements of human life. They are the foundation upon which everything else is built. Without them, we cannot thrive.

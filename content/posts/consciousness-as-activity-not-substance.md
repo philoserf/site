@@ -10,7 +10,7 @@ tags:
   - phenomenology
   - philosophy-of-mind
 date: 2026-03-04
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 > There is no consciousness; there is only being conscious of something.

@@ -10,7 +10,7 @@ tags:
   - software-development
   - technical-debt
 date: 2026-03-20
-lastmod: 2026-03-16
+lastmod: 2026-03-19
 ---
 
 There's a shift happening that most of us are describing wrong.

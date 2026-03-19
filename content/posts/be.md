@@ -7,7 +7,8 @@ tags:
   - philosophy
   - self-awareness
 date: 2025-07-04
-lastmod: 2026-03-02
+lastmod: 2026-03-19
+series: tdb
 ---
 
 Be yourself—and reckon with the fact that there is no fixed self to be.

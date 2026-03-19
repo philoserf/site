@@ -8,7 +8,7 @@ tags:
   - mixology
   - nutrition
 date: 2024-06-01
-lastmod: 2026-03-02
+lastmod: 2026-03-19
 ---
 
 1. Mix 14ml of an ingredient with 1L of water
