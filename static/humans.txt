@@ -1,14 +1,14 @@
-Last update: 2025-12-10
-
 /* TEAM */
-writer: Mark Ayers
-editor: Mark Ayers
-publisher: Mark Ayers
-email: mark@philoserf.com
-site: https://philoserf.com/
-location: Greater Grand Rapids, Michigan, USA
+Writer, Editor, Publisher: Mark Ayers
+Site: https://philoserf.com/
+Location: Grand Rapids, Michigan, USA
+
+/* THANKS */
+Theme: hugo-coder by Luiz de Prá (https://github.com/luizdepra/hugo-coder)
+AI assistant: Claude by Anthropic
 
 /* SITE */
-hosting: GitHub Pages
-construction: Hugo
-theme: Coder
+Last update: 2026/03/19
+Standards: HTML5, CSS3
+Software: Hugo
+Hosting: GitHub Pages
