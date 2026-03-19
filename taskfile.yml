@@ -29,7 +29,7 @@ tasks:
     desc: Auto-fix formatting with Prettier
     deps: [bootstrap]
     cmds:
-      - prettier --write --list-different --ignore-unknown .
+      - bunx prettier --write --list-different --ignore-unknown .
 
   build:
     desc: Build Hugo site including drafts and future posts
