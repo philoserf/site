@@ -13,5 +13,3 @@ lastmod: 2026-03-19
 The critical human health and happiness ingredients are sleep, move, eat, grow, & share. These are the essential elements of human life. They are the foundation upon which everything else is built. Without them, we cannot thrive.
 
 This six-step sequence maintains physiological progression while recognizing the distinct value of both play (personal rejuvenation) and share (social engagement) as separate components of a well-rounded day.
-
-[Sleep](sleep), [Move](move), [Eat](eat), [Grow](grow), [Play](play) & [Share](share)
