@@ -1,7 +1,7 @@
 name: deploy
 
 on:
-  workflow_dispatch: null
+  workflow_dispatch:
   push:
     branches: [main]
   schedule:
@@ -14,11 +14,6 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
-
-defaults:
-  run:
-    shell: bash
 
 jobs:
   build:
