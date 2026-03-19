@@ -60,3 +60,4 @@ menus:
 
 taxonomies: # override default to exclude categories
   tag: tags
+  series: series
