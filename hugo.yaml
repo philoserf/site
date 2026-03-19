@@ -33,9 +33,7 @@ params:
     - name: Mastodon
       icon: "fa-brands fa-mastodon"
       url: https://pkm.social/@philoserf
-    - name: Bluesky
-      icon: "fa-brands fa-bluesky"
-      url: https://philoserf.bsky.social
+      rel: me
   customSCSS:
     - scss/custom-fonts.scss
 
