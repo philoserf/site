@@ -8,7 +8,7 @@ tags:
   - knowledge-sharing
   - open-source
 date: 2026-02-20
-lastmod: 2026-03-19
+lastmod: 2026-03-23
 ---
 
 Give everything away constantly.
