@@ -8,7 +8,7 @@ tags:
   - psychological-resilience
   - systems-thinking
 date: 2026-02-21
-lastmod: 2026-03-19
+lastmod: 2026-03-23
 ---
 
 Conflict is not failure. Tension—between competing desires, between self and world, between individuals, between groups—is the ground condition of existence, not a fall from some harmonious baseline.

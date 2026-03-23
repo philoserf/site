@@ -13,5 +13,3 @@ lastmod: 2026-03-19
 ---
 
 What I think shapes what I do, and what I do determines who I become.
-
-[Think](think) · [Do](do) · [Be](be)
