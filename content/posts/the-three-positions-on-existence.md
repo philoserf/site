@@ -7,8 +7,7 @@ tags:
   - pessimism
   - philosophy
 date: 2026-04-09
-lastmod: 2026-03-21
-dat: 2025-11-05
+lastmod: 2026-03-24
 ---
 
 You face three choices about existence. Taking any one costs you the other two.
@@ -21,4 +20,4 @@ You can refuse to judge. Bracket the question. Pyrrho held this position—neith
 
 Each choice binds you. Say yes and you must justify horrors. Say no and you must explain why you persist. Suspend judgment and you avoid both traps but forfeit both comforts.
 
-The three exhaust the options. Unlike a choice between two bad paths, taking any one closes off what the others know.
+The three exhaust the options. Taking any one closes off what the others know.

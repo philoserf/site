@@ -7,13 +7,13 @@ tags:
   - poetry
   - writing
 date: 2026-03-26
-lastmod: 2026-03-19
+lastmod: 2026-03-24
 ---
 
 by Mark Ayers, 1984
 
 More poetry is written  
-Than every will be read.
+Than ever will be read.
 
 Still, we apply pen to paper.
 
