@@ -9,7 +9,7 @@ tags:
   - now-page
   - personal-update
   - reading-list
-date: 2026-03-22
+date: 2026-03-24
 lastmod: 2026-03-23
 ---
 
@@ -19,6 +19,7 @@ At home in Greater Grand Rapids, Michigan
 
 ## What am I reading
 
+- _Apple: The First 50 Years_ by David Pogue (2026)
 - _There is No Antimemetics Division_ by Qntm (2025)
 - _Meru_ by S.B. Divya (2023)
 
