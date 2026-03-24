@@ -11,7 +11,7 @@ date: 2026-03-06
 lastmod: 2026-03-19
 ---
 
-The claim that anyone who has had a business, sold it four times, has never bought it back, has never lost its control, and still owns it is "pretty special" operates first as understatement and second as a riddle. The surface reading is paradoxical—selling something four times while never relinquishing control or ownership should be impossible if we treat "selling" in its ordinary sense. That tension is where the real substance lives.
+Selling a business four times without buying it back, losing control, or giving up ownership—and calling that "pretty special"—operates first as understatement and second as a riddle. The surface reading is paradoxical—selling something four times while never relinquishing control or ownership should be impossible if we treat "selling" in its ordinary sense. That tension is where the real substance lives.
 
 In practice, the most likely reading: someone sold partial equity stakes across multiple rounds—to investors, partners, or public markets—while retaining voting control through mechanisms like dual-class share structures, supermajority rights, or never dipping below a controlling threshold. Each sale monetizes a portion of the business's value without surrendering the authority to direct it. The person extracts liquidity four separate times while the enterprise continues under their hand. That is rare. Most founders who sell even once either lose operational control, get diluted past relevance, or end up buying back what they sold at a premium to restore their position. To do it four times without any of those outcomes suggests either extraordinary negotiating leverage, an unusually valuable and defensible business, or both.
 

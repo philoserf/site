@@ -16,7 +16,7 @@ The Dunning-Kruger effect. People with limited competence in a domain lack the a
 
 The deeper irony is structural. The same limitation that makes someone overestimate their thinking keeps them from seeing why their prediction is wrong. They're forecasting the obsolescence of mediocre cognition while demonstrating it. The prophecy and the prophet are made of the same material, and neither can notice the seam.
 
-We tend to project our own level of understanding onto the systems we're evaluating. If you genuinely produce shallow work—pattern-matched outputs dressed up with confident delivery—then AI does look like it's about to replace you, because current systems can already do what you do. But those who don't recognize their work as shallow will be the most surprised when the replacement arrives, because they never built an accurate model of what they were actually contributing.
+We tend to project our own level of understanding onto the systems we're evaluating. If you produce shallow work—pattern-matched outputs dressed up with confident delivery—then AI does look like it's about to replace you, because current systems can already do what you do. But those who don't recognize their work as shallow will be the most surprised when the replacement arrives, because they never built an accurate model of what they were actually contributing.
 
 Predicting the end of work is intellectual performance—it signals you're thinking big, looking forward, seeing the future. It's not analysis; it's positioning.
 
