@@ -1,0 +1,23 @@
+---
+title: How Elite Engineers Create Conditions for Growth
+description: Explores the specific conditions that enable engineers to reach and maintain elite status, including the balance of depth and breadth, success and failure, mentorship and self-direction, and how compounding small investments in learning builds long-term judgment.
+tags:
+  - career-growth
+  - learning
+  - mentorship
+  - software-engineering
+date: 2026-04-14
+lastmod: 2026-03-24
+---
+
+Elite engineers don't get there through talent alone—they engineer specific conditions for growth.
+
+They commit to projects past the launch party, staying through maintenance cycles where consequences surface. One codebase maintained for years teaches more than five launched then abandoned. But they also work across enough projects to test which lessons transfer and which don't.
+
+They need wins—enough to maintain confidence and initiative. They also need failures—enough to question assumptions at the right moments.
+
+Most had a mentor who redirected their trajectory at a critical moment. But they're also self-directed learners, trusting curiosity toward what they need next.
+
+They work hard. Lots of people work hard. Elite engineers have the habit of investing the margin in personal growth. When that odd hour or two won't yield a great feature, it can still yield useful learning. Over years, those hours compound.
+
+The pattern holds: depth plus breadth, success plus failure, guidance plus self-direction, urgency plus slack. Not balanced perfectly, but present consistently. Senior level isn't reached once—it's maintained through deliberate exposure to the conditions that build judgment.

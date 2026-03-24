@@ -10,7 +10,7 @@ tags:
   - personal-update
   - reading-list
 date: 2026-03-24
-lastmod: 2026-03-23
+lastmod: 2026-03-24
 ---
 
 ## Where am I
