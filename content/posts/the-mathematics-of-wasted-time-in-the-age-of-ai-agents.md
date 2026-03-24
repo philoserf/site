@@ -40,4 +40,4 @@ The equation $(opportunity cost × 1) + (opportunity cost × N)$ mathematically 
 
 The deeper question is not whether the math is accurate—it clearly is—but whether maximizing this equation optimizes for human flourishing. Productivity is instrumental, not terminal. It serves purposes beyond itself: learning, creation, connection, security, autonomy. When pursuit of maximized productivity through agent multiplication undermines these underlying purposes, the equation optimizes for the wrong variable entirely.
 
-What appears as "wasted time" in the immediate calculation represents necessary cognitive recuperation, exploratory thinking, or simply being human in ways that resist quantification. The challenge lies in distinguishing genuine waste from necessary existence outside productivity metrics.
+What appears as "wasted time" in the immediate calculation represents necessary cognitive recuperation, exploratory thinking, or simply being human in ways that resist quantification. Distinguishing genuine waste from necessary human existence is the only question the equation cannot answer.

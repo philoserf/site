@@ -20,7 +20,7 @@ The statement embeds a false collapse—three options that shouldn't be mutually
 The hidden premises:
 
 1. Visibility requires danger. You assume to be seen/consequential, you must threaten. But influence operates through expertise, clarity, consistency without malice. A teacher is visible and consequential without being dangerous.
-2. Invisibility equals safety. It's actually fragile—you're consequential to no one, thus vulnerable to everyone. Invisibility often precedes erasure, not protection.
+2. Invisibility equals safety. It's fragile—you're consequential to no one, thus vulnerable to everyone. Invisibility often precedes erasure, not protection.
 3. Inconsequential is neutral. It's not. It's a choice to accept irrelevance. The cost is that others decide your fate.
 
 The real tension underneath:
