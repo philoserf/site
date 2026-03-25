@@ -10,12 +10,12 @@ tags:
   - intellectual-property
   - knowledge-commons
 date: 2026-03-18
-lastmod: 2026-03-19
+lastmod: 2026-03-25
 ---
 
-For roughly 200,000 years, *Homo sapiens* has been generating, sharing, and building upon knowledge without any concept of intellectual property. Copyright has existed for 315 years. That is 0.16% of the span of human existence.
+For roughly 200,000 years, *Homo sapiens* has been generating, sharing, and building upon knowledge without any concept of intellectual property. Copyright has existed for 315 years. That is 0.16% of the span of human existence.
 
-The baseline is a species that transmits knowledge as freely as it transmits language—because for most of history, knowledge *was* language, carried in the voice and in memory. Oral traditions have no concept of ownership over information. The Homeric epics circulated across the Greek-speaking world for centuries before anyone wrote them down, evolving in every retelling. Aboriginal Australian songlines encode precise navigational and ecological knowledge across tens of thousands of years—maintained not through property rights but through communal obligation. The idea that a particular arrangement of words could be owned by an individual would have been unintelligible to the vast majority of humans who have ever lived.
+The baseline is a species that transmits knowledge as freely as it transmits language—because for most of history, knowledge was language, carried in the voice and in memory. Oral traditions have no concept of ownership over information. The Homeric epics circulated across the Greek-speaking world for centuries before anyone wrote them down, evolving in every retelling. Aboriginal Australian songlines encode precise navigational and ecological knowledge across tens of thousands of years—maintained not through property rights but through communal obligation. The idea that a particular arrangement of words could be owned by an individual would have been unintelligible to the vast majority of humans who have ever lived.
 
 Writing changed the medium but not the ethic. Roman law explicitly categorized knowledge as common property. There was no Roman copyright. The Library of Alexandria required ships entering the harbor to surrender their scrolls for transcription. The copies went to the ships; the originals stayed in the library. This was not piracy. This was civilization operating as designed.
 
