@@ -8,7 +8,7 @@ tags:
   - public-thinking
   - rhetoric
 date: 2026-02-19
-lastmod: 2026-03-23
+lastmod: 2026-03-25
 ---
 
 > I have recently listened to lectures by Feynman and Watts. They seem 'of an era' that still resonates better than any talk I'll hear next year. Why?

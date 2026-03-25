@@ -8,7 +8,7 @@ tags:
   - poetic-voice
   - poetry-analysis
 date: 2026-02-26
-lastmod: 2026-03-23
+lastmod: 2026-03-25
 ---
 
 Larkin's voice is post-war British, library-dwelling, no-bullshit about the genteel lies. The profanity isn't decoration—it's class, period, and philosophical stance all at once. He can say "they fuck you up" because his cultural location authorizes that rupture of decorum.
