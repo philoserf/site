@@ -9,8 +9,8 @@ tags:
   - now-page
   - personal-update
   - reading-list
-date: 2026-03-24
-lastmod: 2026-03-25
+date: 2026-03-30
+lastmod: 2026-03-30
 ---
 
 ## Where am I
@@ -25,12 +25,18 @@ At home in Greater Grand Rapids, Michigan
 
 ## What am I focused on
 
-- Developing an understanding of [Claude Code](https://code.claude.com/docs/en/overview) as a pair programming partner
+- Writing and publishing essays on philosophy, identity, and how I see the world
+- Using [Claude Code](https://code.claude.com/docs/en/overview) as a writing partner, editor, and vault manager—not just for code
+- Curating and connecting notes across a 2,400-note Obsidian vault
 
 ## What I'm looking forward to
 
-- Springtime and long walks outside (that aren't so cold)
+- Long walks outside now that spring is here
 - A spring getaway long weekend
 - [GopherCon 2026](https://gophercon.com/) in Seattle in August
 - An autumn weeklong getaway
 - A trip to Ireland, in planning for 2027
+
+---
+
+This is a [now page](https://nownownow.com/about). The idea comes from [Derek Sivers](https://sive.rs/now).
