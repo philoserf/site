@@ -14,14 +14,14 @@ lastmod: 2026-03-19
 
 by Mark Ayers, 2017
 
-Bare feet on snow—
+Bare feet on snow—  
 White dust yields to warmth.  
 Flesh and earth meeting without words.
 
 Sitting alone while thunder splits heaven,  
 Body still as stone.
 
-Morning comes—
+Morning comes—  
 Dew gleams on ten thousand blades  
 Undisturbed in first light.
 
