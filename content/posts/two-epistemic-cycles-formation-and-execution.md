@@ -12,7 +12,7 @@ lastmod: 2026-03-24
 ---
 
 > COGITA·DISCE·NECTE·ENUNTIA  
-> PERCIPE·CONNECTE·EFFICE
+> PERCIPE·STRUE·EFFICE
 
 The two sequences describe a complete epistemic life, divided across an inner and an outer arc.
 
