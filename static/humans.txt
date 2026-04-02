@@ -8,7 +8,7 @@ Theme: hugo-coder by Luiz de Prá (https://github.com/luizdepra/hugo-coder)
 AI assistant: Claude by Anthropic
 
 /* SITE */
-Last update: 2026/03/19
+Last update: 2026/04/02
 Standards: HTML5, CSS3
 Software: Hugo
 Hosting: GitHub Pages
