@@ -7,7 +7,7 @@ tags:
   - literature
   - reading-list
   - science-fiction
-date: 2026-02-09
+date: 2026-04-03
 lastmod: 2026-03-25
 ---
 
@@ -16,6 +16,10 @@ lastmod: 2026-03-25
 - _The Creative Habit_ by Twyla Tharp, 2003
 - _The Creative Act_ by Rick Rubin, 2023
 
+## Added
+
+- Tales from the Vulgar Unicorn · edited by Robert Lynn Asprin · 1980
+- Shadows of Sanctuary · edited by Robert Lynn Asprin · 1981
 ## Fiction
 
 - _Gormenghast_ by Mervyn Peake, 1950
