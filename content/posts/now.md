@@ -9,8 +9,9 @@ tags:
   - now-page
   - personal-update
   - reading-list
-date: 2026-03-30
-lastmod: 2026-03-30
+date: 2026-04-03
+lastmod: 2026-04-03
+created: 2026-03-30
 ---
 
 ## Where am I
@@ -22,6 +23,8 @@ At home in Greater Grand Rapids, Michigan
 - _Apple: The First 50 Years_ by David Pogue (2026)
 - _There is No Antimemetics Division_ by Qntm (2025)
 - _Meru_ by S.B. Divya (2023)
+- _Thieves' World_ edited by Robert Lynn Asprin I1979)
+- _Confessions of an English Opium-Eater_ by Thomas De Quincey (1821)
 
 ## What am I focused on
 
