@@ -18,7 +18,7 @@ We are all human beings, being human.
 
 <p class="latin-motto">HOMO·HOMINIS·ESSE<br>
 COGITA·DISCE·NECTE·ENUNTIA<br>
-PERCIPE·STRUE·EFFICE​​​​​​​​​​​​​​​​</p>
+PERCIPE·STRUE·EFFICE</p>
 
 I keep my rules simple: say yes and build; name things once; assume good intentions; ask for permission only when it matters; keep tools and structure small; follow defaults until they fail; keep the signal sharp.
 
