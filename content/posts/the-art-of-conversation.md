@@ -2,13 +2,14 @@
 title: The Art of Conversation
 description: A modernized paraphrase of Montaigne's essay exploring conversation as a tool for testing and refining judgment through productive disagreement, emphasizing the importance of intellectual humility, clean argumentation, and the willingness to change one's mind over winning debates.
 tags:
-  - conversation
+  - communication
   - critical-thinking
   - intellectual-humility
   - montaigne
   - philosophy
+created: 2026-02-03
 date: 2026-02-12
-lastmod: 2026-03-19
+lastmod: 2026-04-06
 ---
 
 A faithful paraphrase of Montaigne's "Of the Art of Conference" (Book III, Chapter VIII), tightened and modernized for a mid-21st-century reader.

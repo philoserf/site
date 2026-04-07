@@ -4,12 +4,12 @@ aliases:
   - /about
 description: A personal about page outlining the author's background, guiding principles, and philosophy on thinking, communication, and building. Draws on experiences spanning military service, nonprofits, and technology to frame a commitment to clarity and public thought.
 tags:
-  - about
   - personal
   - philosophy
   - writing
+created: 2026-03-30
 date: 2026-02-09
-lastmod: 2026-03-30
+lastmod: 2026-04-06
 ---
 
 This is where I think in public—sharing what I had to learn the hard way and saying what I believe needs saying.

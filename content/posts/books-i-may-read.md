@@ -7,8 +7,9 @@ tags:
   - literature
   - reading-list
   - science-fiction
+created: 2026-01-25
 date: 2026-04-03
-lastmod: 2026-03-25
+lastmod: 2026-04-02
 ---
 
 ## Up Next
@@ -20,6 +21,7 @@ lastmod: 2026-03-25
 
 - Tales from the Vulgar Unicorn · edited by Robert Lynn Asprin · 1980
 - Shadows of Sanctuary · edited by Robert Lynn Asprin · 1981
+
 ## Fiction
 
 - _Gormenghast_ by Mervyn Peake, 1950

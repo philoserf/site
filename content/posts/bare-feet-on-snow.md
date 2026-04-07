@@ -7,21 +7,21 @@ tags:
   - mindfulness
   - nature
   - poetry
-  - zen
+created: 2025-03-06
 date: 2026-03-31
-lastmod: 2026-03-19
+lastmod: 2026-04-06
 ---
 
 by Mark Ayers, 2017
 
-Bare feet on snow—  
+Bare feet on snow—
 White dust yields to warmth.  
 Flesh and earth meeting without words.
 
 Sitting alone while thunder splits heaven,  
 Body still as stone.
 
-Morning comes—  
+Morning comes—
 Dew gleams on ten thousand blades  
 Undisturbed in first light.
 

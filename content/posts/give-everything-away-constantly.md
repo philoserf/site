@@ -5,10 +5,10 @@ tags:
   - abundance-mindset
   - creativity
   - knowledge-management
-  - knowledge-sharing
   - open-source
+created: 2026-02-13
 date: 2026-02-20
-lastmod: 2026-03-25
+lastmod: 2026-04-06
 ---
 
 Give everything away constantly.

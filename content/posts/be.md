@@ -7,8 +7,9 @@ tags:
   - personal-growth
   - philosophy
   - self-awareness
+created: 2026-03-19
 date: 2025-07-04
-lastmod: 2026-03-19
+lastmod: 2026-04-02
 ---
 
 Be yourself—and reckon with the fact that there is no fixed self to be.

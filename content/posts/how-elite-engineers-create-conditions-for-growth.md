@@ -3,11 +3,12 @@ title: How Elite Engineers Create Conditions for Growth
 description: Explores the specific conditions that enable engineers to reach and maintain elite status, including the balance of depth and breadth, success and failure, mentorship and self-direction, and how compounding small investments in learning builds long-term judgment.
 tags:
   - career-growth
+  - leadership
   - learning
-  - mentorship
   - software-engineering
+created: 2026-03-24
 date: 2026-04-14
-lastmod: 2026-03-24
+lastmod: 2026-04-06
 ---
 
 Elite engineers don't get there through talent alone—they engineer specific conditions for growth.

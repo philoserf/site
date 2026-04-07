@@ -7,10 +7,12 @@ tags:
   - epistemology
   - knowledge-management
   - learning
+created: 2026-03-24
 date: 2026-04-07
-lastmod: 2026-03-24
+lastmod: 2026-04-02
 ---
 
+> HOMO·HOMINIS·ESSE
 > COGITA·DISCE·NECTE·ENUNTIA  
 > PERCIPE·STRUE·EFFICE
 

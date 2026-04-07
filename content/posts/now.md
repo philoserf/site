@@ -5,13 +5,12 @@ aliases:
 series: books
 description: A personal status page documenting current location, reading list, focus areas, and upcoming events. Updated regularly to share what's happening now in life and work.
 tags:
-  - current-status
   - now-page
   - personal-update
   - reading-list
-date: 2026-04-03
-lastmod: 2026-04-03
 created: 2026-03-30
+date: 2026-04-03
+lastmod: 2026-04-06
 ---
 
 ## Where am I

@@ -3,12 +3,12 @@ title: Birth, Death, and the Construction of Purpose
 description: An exploration of how questions about birth and death frame the search for meaning, examining how purpose shifts from passive origin to active commitment, and how willingness to die reveals authentic values and constructed purpose.
 tags:
   - existentialism
-  - life-philosophy
   - meaning
   - purpose
   - self-knowledge
+created: 2026-02-04
 date: 2026-02-14
-lastmod: 2026-03-19
+lastmod: 2026-04-06
 ---
 
 A person asking why they were born and what they are willing to die for poses two questions that mirror each other across existence—one looking backward to origin, the other forward to ultimate commitment.

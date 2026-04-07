@@ -7,8 +7,9 @@ tags:
   - knowledge-management
   - productivity
   - technology
+created: 2025-03-31
 date: 2025-11-19
-lastmod: 2026-03-19
+lastmod: 2026-04-02
 ---
 
 ## Hardware

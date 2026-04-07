@@ -6,8 +6,9 @@ tags:
   - personal-development
   - self-knowledge
   - stoicism
+created: 2026-03-12
 date: 2026-03-16
-lastmod: 2026-03-19
+lastmod: 2026-04-02
 ---
 
 "Know your nature, and lean against it" carries a quiet paradox: it asks you to understand yourself deeply and then resist what you find. It is not advice about self-improvement in the conventional sense—not a call to build new habits or acquire new strengths—but something stranger. It treats self-knowledge not as a destination but as the prerequisite for a lifelong counterforce.

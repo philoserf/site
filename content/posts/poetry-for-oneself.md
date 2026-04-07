@@ -4,10 +4,11 @@ description: A short humorous poem by Mark Ayers (1986) reflecting on the intrin
 tags:
   - creative-writing
   - humor
+  - personal-development
   - poetry
-  - self-expression
+created: 2025-01-06
 date: 2026-03-10
-lastmod: 2026-03-19
+lastmod: 2026-04-06
 ---
 
 by Mark Ayers, 1986

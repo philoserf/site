@@ -7,8 +7,9 @@ tags:
   - literature
   - reading-list
   - science-fiction
+created: 2026-01-19
 date: 2026-03-08
-lastmod: 2026-03-25
+lastmod: 2026-04-02
 ---
 
 This list, started in late 2022, is far from complete. I'm sure I've missed some and will again.

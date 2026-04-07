@@ -6,8 +6,9 @@ tags:
   - perception
   - poetry
   - travel
+created: 2025-03-28
 date: 2026-04-02
-lastmod: 2026-03-19
+lastmod: 2026-04-02
 ---
 
 by Mark Ayers, 2018

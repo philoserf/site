@@ -3,12 +3,12 @@ title: "Beyond Bicycles and Highways: New Metaphors for AI and Cognition"
 description: AI transforms cognition from amplification to co-regulation. New metaphors—exoskeletons, cognitive compilers—better capture AI's participatory role in thought.
 tags:
   - artificial-intelligence
-  - augmentation
   - cognitive-science
   - human-computer-interaction
   - metaphor
+created: 2026-02-13
 date: 2026-02-17
-lastmod: 2026-03-25
+lastmod: 2026-04-06
 ---
 
 A bicycle for the mind once felt sufficient. You pedaled; the machine multiplied effort. Then we paved an information superhighway and rode faster, farther, with less friction. Both metaphors still describe something real. Neither describes what comes next.

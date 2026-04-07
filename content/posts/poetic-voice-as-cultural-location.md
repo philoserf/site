@@ -2,13 +2,14 @@
 title: Poetic Voice as Cultural Location
 description: An analysis of how poetic voice emerges from cultural location, historical context, and lived experience, comparing Philip Larkin's post-war British directness with Robert Frost's New England regionalism to show that authentic voice cannot be manufactured through formatting alone.
 tags:
-  - frost
   - larkin
   - literary-authority
   - poetic-voice
+  - poetry
   - poetry-analysis
+created: 2026-02-16
 date: 2026-02-26
-lastmod: 2026-03-25
+lastmod: 2026-04-06
 ---
 
 Larkin's voice is post-war British, library-dwelling, no-bullshit about the genteel lies. The profanity isn't decoration—it's class, period, and philosophical stance all at once. He can say "they fuck you up" because his cultural location authorizes that rupture of decorum.
