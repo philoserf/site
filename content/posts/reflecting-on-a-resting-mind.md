@@ -8,8 +8,9 @@ tags:
   - poetry
   - reflection
   - sleep
+created: 2024-01-09
 date: 2026-03-11
-lastmod: 2026-03-19
+lastmod: 2026-04-02
 ---
 
 by Mark Ayers, 2002

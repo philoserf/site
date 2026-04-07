@@ -3,12 +3,12 @@ title: "Bags of Water: Biology as Existential Confrontation"
 description: An exploration of the phrase 'bags within bags within bags of mostly water' as both biological description and philosophical insight, examining how this materially accurate characterization of human beings reconciles our physical substrate with our complexity and challenges transcendent self-conceptions.
 tags:
   - biology
-  - homeostasis
   - human-nature
   - materialism
   - philosophy
+created: 2026-02-16
 date: 2026-02-22
-lastmod: 2026-03-25
+lastmod: 2026-04-06
 ---
 
 "We are complex homeostatic systems, bags within bags within bags of mostly water" collapses the distance between biological fact and existential confrontation in a single breath. It is precise and deflationary at once, a statement that honors complexity while refusing to let us forget what we are made of.

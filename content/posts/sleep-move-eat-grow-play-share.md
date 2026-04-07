@@ -3,13 +3,13 @@ title: Sleep, Move, Eat, Grow, Play & Share
 series: smegps
 description: A framework for human health and happiness built around six daily elements—sleep, move, eat, grow, play, and share—arranged in a deliberate sequence where each element supports the next. Explains why the order matters and how this daily cycle pairs with a longer-term identity framework.
 tags:
-  - daily-habits
   - framework
   - health
   - productivity
   - wellness
+created: 2026-03-30
 date: 2024-07-04
-lastmod: 2026-03-30
+lastmod: 2026-04-06
 ---
 
 The elements of human health and happiness are sleep, move, eat, grow, play, and share. Without them, we cannot thrive.

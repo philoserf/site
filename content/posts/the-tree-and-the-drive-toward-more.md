@@ -4,13 +4,13 @@ aliases:
   - The Creator, Free Will, and the Tree of Knowing
 description: A philosophical retelling of creation that explores why human freedom and choice are essential to meaning, and how the forbidden tree awakened not just knowledge but an insatiable drive toward more. Examines the tension between sufficiency and restlessness at the core of human nature.
 tags:
-  - creation
   - free-will
   - human-nature
   - meaning
   - philosophy
+created: 2026-01-20
 date: 2026-03-24
-lastmod: 2026-03-25
+lastmod: 2026-04-06
 ---
 
 The Creator shaped an elegant system—its elements interlocked, its complexity grown from within rather than layered on top. It was not infinite. It was not perfect. It was sufficient: balanced, self-sustaining, the way a forest is beautiful before anyone arrives to call it that.

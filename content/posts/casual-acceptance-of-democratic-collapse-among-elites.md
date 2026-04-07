@@ -5,10 +5,11 @@ tags:
   - authoritarianism
   - democracy
   - elite-behavior
-  - epistemic-closure
+  - epistemology
   - institutional-failure
+created: 2026-02-16
 date: 2026-02-25
-lastmod: 2026-03-19
+lastmod: 2026-04-06
 ---
 
 A wealthy American said recently, in an interview, "if the Dems ever have a president again or if we ever have a free election again." The remark was casual, incidental to the larger conversation.

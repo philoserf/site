@@ -8,8 +8,9 @@ tags:
   - etymology
   - language
   - vocabulary
+created: 2025-01-06
 date: 2026-03-30
-lastmod: 2026-03-30
+lastmod: 2026-04-02
 ---
 
 Mumpsimus: a person who obstinately adheres to old ways, customs, or ideas despite clear evidence they're wrong or outdated. Also refers to the error or practice itself.

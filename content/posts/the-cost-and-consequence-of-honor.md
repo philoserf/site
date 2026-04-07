@@ -2,12 +2,13 @@
 title: The Cost and Consequence of Honor
 description: An exploration of how maintaining honor in corrupt systems creates both external costs and internal transformation, examining how moral friction builds character strength rather than merely ensuring survival.
 tags:
-  - character-development
   - ethics
   - moral-philosophy
   - stoicism
+  - storytelling
+created: 2026-02-16
 date: 2026-02-23
-lastmod: 2026-03-19
+lastmod: 2026-04-06
 ---
 
 Honor in a dishonorable world costs more than it pays—by any conventional measure. You pass on corrupt opportunities, refuse shortcuts, speak when silence would protect you. In systems where others defect from shared standards, you bear costs they avoid while they capture benefits you forgo. Predictability becomes exploitable.

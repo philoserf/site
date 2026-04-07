@@ -5,9 +5,10 @@ tags:
   - age-ranges
   - dating-formula
   - relationship-rules
-  - social-norms
+  - society
+created: 2026-02-11
 date: 2026-03-13
-lastmod: 2026-03-19
+lastmod: 2026-04-06
 math: true
 ---
 

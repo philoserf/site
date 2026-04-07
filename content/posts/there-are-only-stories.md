@@ -8,9 +8,9 @@ tags:
   - meaning-making
   - narrative
   - philosophy
-  - truth
+created: 2026-03-08
 date: 2026-03-17
-lastmod: 2026-03-19
+lastmod: 2026-04-06
 ---
 
 "All stories are true. All stories are false. There are only stories." These read as contradictions. They aren't. Each sentence does real work, and the sequence matters.

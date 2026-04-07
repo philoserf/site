@@ -6,8 +6,9 @@ tags:
   - lifestyle
   - note-taking
   - productivity
+created: 2026-03-19
 date: 2024-07-04
-lastmod: 2026-03-19
+lastmod: 2026-04-02
 ---
 
 My critical foci for a happy, healthy, productive life are these: sleep, move, eat, grow, play, and share.

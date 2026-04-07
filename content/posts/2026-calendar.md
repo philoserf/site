@@ -4,10 +4,10 @@ description: A comprehensive 2026 calendar listing astronomical events (new moon
 tags:
   - astronomy
   - calendar
-  - moon-phases
   - seasonal-events
+created: 2026-01-16
 date: 2026-01-16
-lastmod: 2026-03-19
+lastmod: 2026-04-06
 ---
 
 | Date   | Time      | Event                            |

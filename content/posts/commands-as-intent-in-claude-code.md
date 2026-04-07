@@ -4,11 +4,11 @@ description: Explains the architectural principle behind Claude Code's command s
 tags:
   - ai-agents
   - claude-code
-  - command-design
   - delegation-pattern
   - software-architecture
+created: 2026-01-02
 date: 2026-01-02
-lastmod: 2026-03-19
+lastmod: 2026-04-06
 ---
 
 ## Commands Are Not Instructions

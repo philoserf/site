@@ -8,8 +8,9 @@ tags:
   - personal-development
   - philosophy
   - thinking
+created: 2026-03-30
 date: 2025-07-04
-lastmod: 2026-03-30
+lastmod: 2026-04-02
 ---
 
 What I think shapes what I do, and what I do determines who I become.
