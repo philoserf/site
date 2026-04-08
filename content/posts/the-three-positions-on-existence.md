@@ -19,5 +19,3 @@ You can say no. Existence costs too much. Schopenhauer and Buddha saw suffering 
 You can refuse to judge. Bracket the question. Pyrrho held this position—neither affirm nor deny.
 
 Each choice binds you. Say yes and you must justify horrors. Say no and you must explain why you persist. Suspend judgment and you avoid both traps but forfeit both comforts.
-
-The three exhaust the options. Taking any one closes off what the others know.

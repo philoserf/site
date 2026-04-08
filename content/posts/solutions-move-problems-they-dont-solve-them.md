@@ -1,0 +1,26 @@
+---
+title: Solutions Move Problems, They Don't Solve Them
+description: An exploration of how solutions displace rather than eliminate problems, drawing on systems theory and real-world examples to argue that progress is measured by the quality of problems we trade into, not their absence.
+tags:
+  - complexity
+  - philosophy
+  - problem-solving
+  - systems-thinking
+created: 2026-04-06
+date: 2026-04-18
+lastmod: 2026-04-07
+---
+
+"All of our solutions move the problem. They never solve the problem." At first pass, this reads as cynicism—a dismissal of human effort as futile. But its real force lies in a more unsettling and precise observation: that intervention is displacement, not elimination. Every act of problem-solving reshapes the landscape of difficulty rather than clearing it.
+
+The claim draws much of its credibility from how consistently it plays out across scales. Antibiotics conquered bacterial infection and created antibiotic resistance. The Green Revolution averted famine and produced ecological degradation, monoculture dependency, and groundwater depletion. Social media solved the problem of disconnection and generated new architectures of loneliness, surveillance, and tribal fragmentation. In each case the original problem was genuinely addressed—people did not starve, infections were cured, strangers did connect—but the solution metabolized into a new problem whose contours were shaped precisely by the character of the intervention. The problem was not solved; it migrated.
+
+A systems-theoretic backbone gives the statement analytic weight beyond aphorism. Complex adaptive systems resist elimination of tension because tension is structural, not incidental. A system in true equilibrium—with all problems resolved—is a system that has ceased to operate. Problems are gradients, and gradients are what drive activity. To "solve" a problem in the absolute sense would require stepping outside the system that generated it, but every tool available to us is itself a product of that system. We are always working from inside the house we are trying to renovate.
+
+The statement also carries an implicit critique of a particular habit of mind: the engineering fantasy that problems are discrete, bounded, and terminal—that they have solutions the way equations have answers. This framing dominates policy, technology, and self-help culture alike. It encourages a posture of triumphalism after each intervention, followed by bewilderment when the new problem surfaces. The deeper wisdom is that maturity means anticipating the migration rather than being surprised by it. If every solution relocates difficulty, then the relevant question is not "have we solved it?" but "where have we moved it, and is the new location more tolerable than the old one?"
+
+This reframing rescues the statement from nihilism. If solutions only move problems, it matters enormously where they move them. Vaccine development moved the problem of mass death from infectious disease toward problems of distribution, equity, and public trust—a vastly preferable terrain of difficulty. The claim does not say all displacements are equal. It says none of them are final. That distinction is the difference between despair and a more honest form of hope: one that measures progress not by the absence of problems but by the quality of the problems we have traded up to.
+
+The idea has a personal, existential register too. Individual lives exhibit the same pattern. Leaving a stifling job solves the problem of misery and creates the problem of financial uncertainty. Committing to a relationship solves loneliness and introduces the friction of sustained intimacy. Each choice reorganizes the field of difficulty rather than transcending it. The person who understands this is not paralyzed—they are liberated from the false expectation that some final arrangement of life will eliminate struggle. They can act decisively while holding the knowledge that decisive action is always a negotiation with consequence, never an escape from it.
+
+What makes the observation genuinely productive rather than merely clever is its demand for intellectual humility at the point of action. It insists that the measure of a good solution is not the fantasy of completion but the honesty of its accounting—where does the problem go, who inherits it, and what new capacities or vulnerabilities does the displacement create? Taken seriously, it does not counsel inaction. It counsels disciplined foresight: solve the problem, but follow the problem as it moves, and be ready to meet it in its new form.
