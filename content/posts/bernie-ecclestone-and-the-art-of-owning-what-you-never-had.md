@@ -1,6 +1,9 @@
 ---
 title: Bernie Ecclestone and the Art of Owning What You Never Had
 description: An analysis of Bernie Ecclestone's Formula 1 commercial empire through Eddie Jordan's famous quip, exploring how Ecclestone built and sold control he never formally owned by making himself an indispensable intermediary in a complex ecosystem.
+related:
+  - "[[Leverage Through Non-Rivalrous Assets]]"
+  - "[[Selling Without Surrendering Equity, Control, and Ownership]]"
 tags:
   - control
   - formula-1
