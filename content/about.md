@@ -5,8 +5,6 @@ lastmod: 2026-04-06
 
 This is where I think in public—sharing what I had to learn the hard way and saying what I believe needs saying.
 
-We are all human beings, being human.
-
 {{< latin-motto >}}
 
 I keep my rules simple: say yes and build; name things once; assume good intentions; ask for permission only when it matters; keep tools and structure small; follow defaults until they fail; keep the signal sharp.
