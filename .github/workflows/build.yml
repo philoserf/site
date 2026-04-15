@@ -1,0 +1,42 @@
+name: Build
+
+on:
+  push:
+    branches-ignore: ["main"]
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0 # full history so enableGitInfo populates accurate Lastmod
+
+      - name: Install Hugo # intentional: track latest Hugo release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download --repo gohugoio/hugo \
+            --pattern 'hugo_extended_[0-9]*_linux-amd64.tar.gz' \
+            --output hugo.tar.gz
+          tar -xzf hugo.tar.gz hugo
+          sudo mv hugo /usr/local/bin/
+          hugo version
+
+      - name: Build with Hugo
+        run: hugo --minify

@@ -1,0 +1,2 @@
+{{- $d := or .Description (.Summary | plainify | htmlUnescape | chomp) .Site.Params.description -}}
+{{- return ($d | replaceRE "\\s+" " ") -}}

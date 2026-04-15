@@ -1,0 +1,35 @@
+{{ define "head" }}
+{{ $type := cond (eq .Section "posts") "BlogPosting" "WebPage" }}
+{{ $desc := partial "description.html" . }}
+{{ $author := dict "@type" "Person" "name" .Site.Params.author "email" .Site.Params.email }}
+{{ $publisher := dict "@type" "Person" "name" .Site.Params.author }}
+{{ $jsonld := dict
+  "@context" "https://schema.org"
+  "@type" $type
+  "headline" .Title
+  "name" .Title
+  "url" .Permalink
+  "mainEntityOfPage" .Permalink
+  "description" $desc
+  "author" $author
+  "publisher" $publisher
+  "inLanguage" (.Site.LanguageCode | default "en")
+}}
+{{ if not .Date.IsZero }}{{ $jsonld = merge $jsonld (dict "datePublished" (.Date.Format "2006-01-02")) }}{{ end }}
+{{ if not .Lastmod.IsZero }}{{ $jsonld = merge $jsonld (dict "dateModified" (.Lastmod.Format "2006-01-02")) }}{{ end }}
+<script type="application/ld+json">{{ $jsonld | jsonify (dict "indent" "  ") | safeJS }}</script>
+{{ end }}
+
+{{ define "main" }}
+<main id="main">
+  <article>
+    <header>
+      <h1>{{ .Title }}</h1>
+      {{ if not .Date.IsZero }}
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      {{ end }}
+    </header>
+    <div class="content">{{ .Content }}</div>
+  </article>
+</main>
+{{ end }}

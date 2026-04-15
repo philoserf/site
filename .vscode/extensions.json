@@ -1,9 +1,0 @@
-{
-  "recommendations": [
-    "esbenp.prettier-vscode",
-    "davidanson.vscode-markdownlint",
-    "budparr.language-hugo-vscode",
-    "redhat.vscode-yaml",
-    "editorconfig.editorconfig"
-  ]
-}

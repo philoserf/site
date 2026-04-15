@@ -1,6 +1,15 @@
-public/
-resources/
-archetypes/
-layouts/
-assets/scss/
-themes/
+# This will make Prettier ignore everything that Git ignores
+**/.git/**
+/public/
+/resources/
+
+# Ignore generated files
+hugo_stats.json
+
+# Ignore Hugo templates
+# Since Prettier doesn't handle Hugo template syntax well
+/layouts/
+/layouts_partials/
+/themes/**/layouts/
+/archetypes/
+*.html

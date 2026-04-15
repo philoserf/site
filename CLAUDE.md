@@ -1,52 +1,43 @@
-# philoserf/site
+# CLAUDE.md
 
-## Project Overview
+Guidance for Claude Code when working with this repository.
 
-Hugo-based personal website for Mark Ayers (philoserf.com). Uses the hugo-coder theme for personal essays, professional journey, and technical preferences. Site motto: "COGITA·DISCE·NECTE·ENUNTIA" (Think, Learn, Connect, Articulate).
+## Commands
 
-## Development Commands
+All commands use Task (Taskfile.yml). Run `task` or `task help` to see available tasks.
 
-All development uses [Task](https://taskfile.dev) for command orchestration:
-
-- `task build` — Build site with drafts, future posts, and expired content
-- `task serve` — Local dev server with live reload
-- `task fix` — Auto-fix formatting (Prettier)
-- `task optimize-images` — Optimize PNGs and JPEGs in `static/images/`
-- `task update` — Update hugo-coder theme submodule
-- `task bootstrap` — Install tools via Homebrew (macOS only)
-- `task submodules` — Init/update git submodules (runs automatically as build dep)
-
-**Build verification**: A healthy build produces ~481 pages with zero warnings. "Found no layout file" warnings mean the theme submodule is missing — run `task submodules`.
+```bash
+task setup   # Install dependencies
+task dev     # Start development server with drafts and future content
+task build   # Build production site with minification
+task clean   # Remove generated files
+task check   # Verify site builds correctly
+task format  # Format code
+task new -- path/file.md     # Create new content file
+task new:post -- post-title  # Create new blog post
+```
 
 ## Architecture
 
-**Static Site Generator**: Hugo Extended (Go-based, extended needed for custom SCSS)
-
-- Configuration: `hugo.yaml` (YAML format, 2-space indentation)
-- Theme: hugo-coder (in `themes/hugo-coder/` as Git submodule)
-- Content: Markdown files in `content/posts/`
-- Static assets: `static/` directory
-- Build output: `public/` directory
-- Uses Hugo's taxonomy system with tags
-- Unsafe HTML rendering enabled in goldmark
-- Color scheme set to auto (respects system preference)
+- **Config**: hugo.yaml
+- **Layouts**: layouts/\_default/baseof.html, index.html, single.html, list.html
+- **Content**: content/ directory with posts/ subdirectory
+- **Archetypes**: archetypes/default.md (pages — `lastmod` only) and archetypes/posts.md (posts — `date` + `lastmod`); the asymmetry is load-bearing
+- **Styling**: static/style.css (CSS variables for theming)
+- **Generated text files**: `robots.txt`, `site.webmanifest`, `vcard.vcf`, `llms.txt` render from `layouts/` templates via custom output formats on the home page — do not re-create them under `static/`
+- **Build output**: public/ (gitignored), resources/ (gitignored)
 
 ## Deployment
 
-GitHub Pages via GitHub Actions (`deploy.yml`):
+Automated to GitHub Pages via GitHub Actions (.github/workflows/deploy.yml):
 
-- Triggers on push to `main` and daily at 15:25 UTC
-- Production builds use `hugo --gc --minify` (no drafts, future, or expired content)
-- Local `task build` and `task serve` include drafts/future/expired — production does not
+- Triggers on pushes to `main` and daily at 15:25 UTC
+- Builds with `hugo --gc --minify` and `HUGO_ENV=production`
+- Deploys via `actions/upload-pages-artifact` + `actions/deploy-pages` (artifact-based; no `gh-pages` branch)
 
-## Code Style
+## Notes
 
-- **YAML**: 2-space indentation
-- **Filenames**: kebab-case for content files
-- **Formatting**: Prettier handles all file formatting
-
-## Git Workflow
-
-- Never commit directly to `main` branch
-- All changes must pass through Prettier before commit
-- Content is authored in Obsidian; this repo handles build and deployment only
+- Draft content enabled in dev server (`-D` flag)
+- New content starts as drafts
+- Production builds use minification
+- Formatting: MD013 (line length) disabled
