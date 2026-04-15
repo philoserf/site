@@ -1,4 +1,5 @@
 ---
+description: "Personal site of Mark Ayers — semi-weekly essays and structured notes on technology, strategy, and personal development, guided by the motto cogita·disce·necte·enuntia."
 ---
 
 Personal digital presence of Mark Ayers. Exploring intersections of technology, strategy, and personal development through semi-weekly essays and structured content.

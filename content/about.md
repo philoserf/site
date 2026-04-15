@@ -1,5 +1,6 @@
 ---
 title: About
+description: "A personal about page outlining the author's background, guiding principles, and philosophy on thinking, communication, and building. Draws on experiences spanning military service, nonprofits, and technology to frame a commitment to clarity and public thought."
 lastmod: 2026-04-06
 ---
 
