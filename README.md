@@ -1,105 +1,75 @@
 # philoserf.com
 
-Personal website for Mark Ayers – exploring intersections of technology,
-strategy, and personal development.
+Personal website for Mark Ayers — semi-weekly essays on technology, strategy, and personal development.
 
 **Site motto:** COGITA·DISCE·NECTE·ENUNTIA (Think, Learn, Connect, Articulate)
 
 ## Quick Start
 
 ```bash
-# Install dependencies
-task bootstrap
-
-# Start development server
-task serve
-
-# Build site
-task build
+task setup    # Install dependencies via Homebrew
+task dev      # Start local dev server (drafts + future content)
+task build    # Build production site
 ```
 
 Visit <http://localhost:1313> for local development.
 
-## Technology Stack
+## Stack
 
-- **Static Site Generator**: [Hugo](https://gohugo.io/) (Extended)
-- **Theme**: [hugo-coder](https://github.com/luizdepra/hugo-coder)
-- **Build Tool**: [Task](https://taskfile.dev)
+- **Static site generator**: [Hugo](https://gohugo.io/) (Extended)
+- **Layouts**: hand-rolled (no theme)
+- **Build runner**: [Task](https://taskfile.dev)
+- **Formatter**: Prettier via Bun
 - **Hosting**: GitHub Pages
 - **CI/CD**: GitHub Actions
 
-## Available Commands
+## Tasks
 
-All development uses Task for command orchestration:
+Run `task` or `task help` to list all tasks.
 
-- `task build` - Build the Hugo site
-- `task serve` - Start local development server with live reload
-- `task fix` - Auto-fix formatting with Prettier
-- `task optimize-images` - Optimize images in static/images
-- `task update` - Update hugo-coder theme to latest version
-- `task bootstrap` - Install tools via Homebrew
-
-Run `task --list` to see all available tasks with descriptions.
+- `task setup` — install dependencies
+- `task dev` — dev server with drafts and future content
+- `task build` — production build with minification
+- `task check` — verify the site builds
+- `task clean` — remove generated files
+- `task format` — Prettier auto-format
+- `task new -- path/file.md` — scaffold new content
+- `task new:post -- post-title` — scaffold new blog post
 
 ## Project Structure
 
 ```text
 .
-├── content/posts/       # All content (markdown files)
-├── static/              # Static assets (images, fonts, etc.)
-├── themes/hugo-coder/   # Theme (git submodule)
+├── archetypes/          # New-content templates
+├── content/             # Markdown content
+│   ├── _index.md        # Homepage
+│   ├── about.md, now.md, uses.md
+│   └── posts/           # Essays
+├── layouts/             # Custom Hugo templates
+├── static/              # Static assets
 ├── hugo.yaml            # Hugo configuration
-├── taskfile.yml         # Task definitions
-└── public/              # Build output (generated)
+├── Taskfile.yml         # Task definitions
+└── public/              # Build output (gitignored)
 ```
 
-## Documentation
-
-- **[CLAUDE.md](CLAUDE.md)** - Claude Code integration instructions
-- **[CONTENT-LICENSE.md](CONTENT-LICENSE.md)** - Content licensing
-
-## Development Workflow
+## Workflow
 
 1. Create a feature branch (never commit to `main`)
 2. Make your changes
-3. Run `task fix` to format code
-4. Commit your changes with a descriptive message
-5. Create a pull request
-
-## Content Guidelines
-
-- All posts in `content/posts/` directory
-- Markdown with YAML frontmatter
-- Required fields: `title`, `date`, `description`, `tags`
-- Tags use kebab-case (e.g., `personal-development`)
-- Internal links use Hugo ref syntax: `{{< ref "filename" >}}`
-
-## Code Quality
-
-- **Formatting**: Prettier (prose wrap at 80 chars)
-- **CI**: GitHub Actions builds and deploys on push to main
+3. Run `task format` to format
+4. Commit with a descriptive message
+5. Open a pull request
 
 ## Deployment
 
-Automatic deployment via GitHub Actions:
-
-- **Trigger**: Push to main branch, manual dispatch, or daily at 3:25 PM UTC
-- **Process**: Build with Hugo, deploy to GitHub Pages
-- **URL**: <https://philoserf.com>
+Automatic via GitHub Actions on push to `main`. Built with `hugo --minify`, deployed to GitHub Pages.
 
 ## License
 
-- **Code/Config**: [MIT License](LICENSE)
-- **Content**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-  © 2023–2026 Mark Ayers. See [CONTENT-LICENSE.md](CONTENT-LICENSE.md)
+- **Code / Config**: [MIT License](LICENSE)
+- **Content**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) © 2023–2026 Mark Ayers. See [CONTENT-LICENSE.md](CONTENT-LICENSE.md).
 
 ## Resources
 
-- Hugo Documentation: <https://gohugo.io/documentation/>
-- Hugo Coder Theme: <https://github.com/luizdepra/hugo-coder>
-- Task Documentation: <https://taskfile.dev>
-
----
-
-**Built with** [Hugo](https://gohugo.io/) • **Hosted on**
-[GitHub Pages](https://pages.github.com/)
+- Hugo documentation: <https://gohugo.io/documentation/>
+- Task documentation: <https://taskfile.dev>

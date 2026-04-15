@@ -1,58 +1,85 @@
-# https://taskfile.dev
 version: "3"
+
+vars:
+  HUGO_ENV: development
 
 tasks:
   default:
-    desc: Build the Hugo site (default task)
-    deps: [build]
+    cmds:
+      - task: help
 
-  bootstrap:
-    desc: Install all required dependencies via Homebrew
+  help:
+    desc: Show available tasks
+    cmds:
+      - task --list
+
+  setup:
+    desc: Install required tools with Homebrew
     sources: [Brewfile]
     generates: [Brewfile.lock.json]
     cmds:
       - brew bundle
+    platforms: [darwin]
 
-  submodules:
-    desc: Initialize and update git submodules
+  dev:
+    desc: Start development server with draft and future content
+    deps: [setup]
     cmds:
-      - git submodule update --init --recursive
-    status:
-      - test -f themes/hugo-coder/theme.toml
-
-  update:
-    desc: Update hugo-coder theme to latest version
-    cmds:
-      - git submodule update --remote --merge
-
-  fix:
-    desc: Auto-fix formatting with Prettier
-    deps: [bootstrap]
-    cmds:
-      - bunx prettier --write --list-different --ignore-unknown .
+      - hugo server -D -F --disableFastRender --baseURL http://localhost:1313/
 
   build:
-    desc: Build Hugo site including drafts and future posts
-    deps: [bootstrap, submodules]
-    sources: [hugo.yaml, content/**/*, static/**/*, layouts/**/*, assets/**/*]
-    generates: [public/**/*]
+    desc: Build site for production
+    deps: [setup]
+    sources:
+      - hugo.yaml
+      - content/**/*
+      - static/**/*
+      - layouts/**/*
+      - archetypes/**/*
+    generates:
+      - public/**/*
     cmds:
-      - hugo --cleanDestinationDir --buildFuture --buildDrafts --buildExpired
+      - hugo --minify
+    env:
+      HUGO_ENV: production
 
-  serve:
-    desc: Start local development server with live reload
-    deps: [bootstrap, submodules]
+  clean:
+    desc: Clean up generated files
     cmds:
-      - hugo server --buildDrafts --buildFuture --buildExpired
-        --disableFastRender --navigateToChanged
+      - rm -rf public resources
+
+  check:
+    desc: Check content and links
+    deps: [setup]
+    cmds:
+      - hugo --renderToMemory
+
+  new:
+    desc: Create a new content file
+    deps: [setup]
+    cmds:
+      - hugo new {{.CLI_ARGS}}
+    silent: true
+
+  new:post:
+    desc: Create a new blog post
+    deps: [setup]
+    cmds:
+      - hugo new posts/{{.CLI_ARGS}}.md
+    silent: true
+
+  format:
+    desc: Format code using Prettier (excluding Hugo templates)
+    cmds:
+      - bunx prettier --write .
 
   optimize-images:
-    desc: Optimize images in static/images directory
-    deps: [bootstrap]
+    desc: Optimize PNG and JPEG images in static/
+    deps: [setup]
     cmds:
       - |
         echo "Optimizing PNG images..."
-        find static/images -name "*.png" -exec pngquant --force --ext .png --quality=65-80 {} \;
+        find static -name "*.png" -exec pngquant --force --ext .png --quality=65-80 {} \;
         echo "Optimizing JPEG images..."
-        find static/images \( -name "*.jpg" -o -name "*.jpeg" \) -exec mogrify -strip -interlace Plane -quality 85 {} \;
+        find static \( -name "*.jpg" -o -name "*.jpeg" \) -exec mogrify -strip -interlace Plane -quality 85 {} \;
         echo "Image optimization complete."

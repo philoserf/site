@@ -1,0 +1,16 @@
+{{- $manifest := dict
+  "name" .Site.Title
+  "short_name" .Site.Title
+  "description" .Site.Params.description
+  "icons" (slice
+    (dict "src" "/android-chrome-144x144.png" "sizes" "144x144" "type" "image/png" "purpose" "any maskable")
+    (dict "src" "/android-chrome-192x192.png" "sizes" "192x192" "type" "image/png")
+    (dict "src" "/android-chrome-512x512.png" "sizes" "512x512" "type" "image/png")
+  )
+  "background_color" "#ffffff"
+  "theme_color" "#ffffff"
+  "display" "standalone"
+  "start_url" "/"
+  "scope" "/"
+-}}
+{{- $manifest | jsonify (dict "indent" "  ") -}}

@@ -1,0 +1,30 @@
+# {{ .Site.Title }}
+
+> {{ .Site.Params.description }}
+
+Author: {{ .Site.Params.author }} ({{ .Site.Params.email }})
+Base URL: {{ .Site.BaseURL }}
+
+## Pages
+
+{{- range .Site.Menus.main }}
+{{- if ne .Params.llmsSection "writing" }}
+- [{{ .Name }}]({{ .URL | absURL }}): {{ .Params.description }}
+{{- end }}
+{{- end }}
+
+## Writing
+
+{{- range .Site.Menus.main }}
+{{- if eq .Params.llmsSection "writing" }}
+- [{{ .Name }}]({{ .URL | absURL }}): {{ .Params.description }}
+{{- end }}
+{{- end }}
+{{- range first 20 (where .Site.RegularPages "Section" "posts") }}
+- [{{ .Title }}]({{ .Permalink }}){{ with .Date }} — {{ .Format "2006-01-02" }}{{ end }}
+{{- end }}
+
+## Feeds
+
+- [RSS]({{ "index.xml" | absURL }}): Main feed
+- [Sitemap]({{ "sitemap.xml" | absURL }}): All URLs

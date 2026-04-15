@@ -22,14 +22,15 @@ jobs:
     steps:
       - uses: actions/checkout@v6
         with:
-          fetch-depth: 0
-          submodules: true
+          fetch-depth: 0 # full history so enableGitInfo populates accurate Lastmod
       - uses: actions/configure-pages@v6
         id: pages
       - uses: peaceiris/actions-hugo@v3 # unpinned: tracks latest like Homebrew
         with:
           extended: true
       - run: hugo --gc --minify
+        env:
+          HUGO_ENV: production
       - uses: actions/upload-pages-artifact@v4
         with:
           path: ./public

@@ -1,63 +1,91 @@
-title: Mark Ayers
 baseURL: https://philoserf.com/
-copyright: Mark Ayers
-theme: hugo-coder
-
+languageCode: en-us
+title: Mark Ayers
+enableGitInfo: true
+enableRobotsTXT: true
+taxonomies: {} # intentionally empty to disable tags and categories
 params:
-  author: Mark Ayers
+  author: "Mark Ayers"
   since: 2005
-  info: |
-    HOMO·HOMINIS·ESSE<br>COGITA·DISCE·NECTE·ENUNTIA<br>PERCIPE·STRUE·EFFICE
-  description: >-
-    Personal digital presence of Mark Ayers – former US Army Ranger,
-    technologist, and interdisciplinary thinker. Exploring intersections of
-    technology, strategy, and personal development through semi-weekly essays
-    and structured content. Guided by the philosophy of deep thinking,
-    continuous learning, connection-making, and clear articulation. A minimalist
-    digital space featuring professional journey, current projects, and
-    technical preferences shaped by military discipline and cross-domain
-    expertise.
-  license:
-    '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA
-    4.0</a>'
-  keywords: >-
-    cogita, disce, necte, enuntia, interdisciplinary thinking, technology
-    strategy, personal development, military background, minimalism,
-    intellectual essays
-  avatarURL: /images/avatar.jpeg
-  colorScheme: auto
-  fediverseCreator: "@philoserf@pkm.social"
+  description: "Personal digital presence of Mark Ayers — semi-weekly essays on technology, strategy, and personal development."
+  email: "mark@philoserf.com"
+  motto: "COGITA·DISCE·NECTE·ENUNTIA"
+  nickname: "philoserf"
+  contact:
+    givenName: "Mark"
+    familyName: "Ayers"
+    birthday: "19620704"
+    phone: "+12062804061"
+    timezone: "America/Detroit"
+    address:
+      street: "160 Rollingwood Dr"
+      city: "Rockford"
+      region: "MI"
+      postalCode: "49341"
+      country: "United States"
   social:
-    - name: GitHub
-      icon: "fa-brands fa-github"
-      url: https://github.com/philoserf/
-    - name: Mastodon
-      icon: "fa-brands fa-mastodon"
-      url: https://pkm.social/@philoserf
-      rel: me
-  customSCSS:
-    - scss/custom-fonts.scss
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true # Allow inline HTML
+    github: "https://github.com/philoserf"
+    mastodon: "https://pkm.social/@philoserf"
+    bluesky: "https://philoserf.bsky.social/"
 
 menus:
   main:
-    - name: "About"
-      url: "posts/about/"
-      weight: 1
-    - name: "Now"
-      url: "posts/now/"
-      weight: 2
-    - name: "Uses"
-      url: "posts/uses/"
-      weight: 3
-    - name: "Posts"
-      url: "posts/"
-      weight: 90
+    - identifier: about
+      name: About
+      pageRef: /about
+      weight: 10
+      params:
+        description: Who the author is
+    - identifier: now
+      name: Now
+      pageRef: /now
+      weight: 20
+      params:
+        description: Current focus
+    - identifier: uses
+      name: Uses
+      pageRef: /uses
+      weight: 30
+      params:
+        description: Tools and setup
+    - identifier: posts
+      name: Posts
+      pageRef: /posts
+      weight: 40
+      params:
+        description: Index of all essays
+        llmsSection: writing
 
-taxonomies: # override default to exclude categories
-  tag: tags
-  series: series
+mediaTypes:
+  application/manifest+json:
+    suffixes: [webmanifest]
+  text/vcard:
+    suffixes: [vcf]
+
+outputFormats:
+  llms:
+    name: llms
+    mediaType: text/plain
+    baseName: llms
+    isPlainText: true
+    notAlternative: true
+  manifest:
+    name: manifest
+    mediaType: application/manifest+json
+    baseName: site
+    isPlainText: true
+    notAlternative: true
+  vcard:
+    name: vcard
+    mediaType: text/vcard
+    baseName: vcard
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home:
+    - html
+    - rss
+    - llms
+    - manifest
+    - vcard
