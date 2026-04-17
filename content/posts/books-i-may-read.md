@@ -1,6 +1,5 @@
 ---
 title: Books I may read
-series: books
 description: A diverse reading list spanning science fiction, fantasy, literary fiction, philosophy, consciousness studies, and history, with curated reading paths for focused exploration.
 tags:
   - book-list
