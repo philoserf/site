@@ -1,6 +1,5 @@
 ---
 title: Books I have read
-series: books
 description: A personal reading log, started in late 2022 and far from complete.
 tags:
   - book-list
