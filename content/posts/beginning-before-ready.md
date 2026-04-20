@@ -5,9 +5,7 @@ tags:
   - reflection
   - storytelling
   - writing
-created: 2026-01-20
 date: 2026-03-19
-lastmod: 2026-04-06
 ---
 
 This story will end. I don't know when or how—whether it builds to something worth the effort or just stops, mid-sentence, with no one watching. That much it shares with everything else.

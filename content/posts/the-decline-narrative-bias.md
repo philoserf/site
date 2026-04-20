@@ -6,9 +6,7 @@ tags:
   - critical-thinking
   - personal-development
   - psychology
-created: 2026-02-13
 date: 2026-02-15
-lastmod: 2026-04-06
 ---
 
 I catch myself saying "things used to be better" and forgetting how bad things were. Everyone does. Every generation mourns declining standards, weakening morals, lost golden ages. "Restoration" rhetoric works because it promises a return to a state that never existed as we remember it.

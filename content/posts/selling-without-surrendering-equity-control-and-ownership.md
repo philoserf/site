@@ -7,9 +7,7 @@ tags:
   - equity
   - innovation
   - ownership
-created: 2026-03-24
 date: 2026-03-06
-lastmod: 2026-04-06
 ---
 
 Selling a business four times without buying it back, losing control, or giving up ownership—and calling that "pretty special"—operates first as understatement and second as a riddle. The surface reading is paradoxical—selling something four times while never relinquishing control or ownership should be impossible if we treat "selling" in its ordinary sense. That tension is where the real substance lives.

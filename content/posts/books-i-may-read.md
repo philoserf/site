@@ -6,9 +6,7 @@ tags:
   - literature
   - reading-list
   - science-fiction
-created: 2026-01-25
 date: 2026-04-03
-lastmod: 2026-04-02
 ---
 
 ## Up Next

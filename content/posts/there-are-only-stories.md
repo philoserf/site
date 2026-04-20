@@ -1,16 +1,12 @@
 ---
 title: There Are Only Stories
-aliases:
-  - All Stories Are True. All Stories Are False. There Are Only Stories.
 description: An exploration of the claim that all human knowledge is narrative, arguing that stories are neither purely true nor purely false but the fundamental medium through which meaning is made. The piece shifts the central question from 'what is real?' to 'does this story serve life well?'
 tags:
   - epistemology
   - meaning-making
   - narrative
   - philosophy
-created: 2026-03-08
 date: 2026-03-17
-lastmod: 2026-04-06
 ---
 
 "All stories are true. All stories are false. There are only stories." These read as contradictions. They aren't. Each sentence does real work, and the sequence matters.

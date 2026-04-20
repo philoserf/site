@@ -7,9 +7,7 @@ tags:
   - learning
   - reading
   - writing
-created: 2026-02-20
 date: 2026-03-23
-lastmod: 2026-04-02
 ---
 
 "What you create is a function of the library in your head"—the phrase sounds almost too obvious to be worth saying. Of course a jazz musician who has absorbed Coltrane and Monk will improvise differently than one raised on pop standards alone. The library sets the vocabulary, and the vocabulary constrains what can be said.

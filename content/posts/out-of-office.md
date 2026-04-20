@@ -5,9 +5,7 @@ tags:
   - communication
   - efficiency
   - workflow
-created: 2026-01-25
 date: 2024-04-03
-lastmod: 2026-04-02
 ---
 
 Once upon a time in a corporate environment, this was my always-on out-of-office message:

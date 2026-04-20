@@ -7,9 +7,7 @@ tags:
   - leadership
   - organizational-behavior
   - software-development
-created: 2026-02-27
 date: 2026-04-24
-lastmod: 2026-04-17
 ---
 
 As described in Spotify's 2014 engineering culture papers, the model centered on autonomy balanced by alignment: squads owned a product area end-to-end and chose their own tools and practices, while tribes, chapters, and guilds provided the horizontal ties that kept technical direction and craftsmanship coherent across the organization. The guiding principles were servant leadership over command-and-control, minimal viable bureaucracy, and a tolerance for failure as a prerequisite for fast learning. Popularized by Henrik Kniberg and Anders Ivarsson across the March and September 2014 papers, the model was widely imitated, though Spotify itself later acknowledged the published version was aspirational and that the company no longer ran it as described.

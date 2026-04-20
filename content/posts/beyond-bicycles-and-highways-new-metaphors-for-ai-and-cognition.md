@@ -6,9 +6,7 @@ tags:
   - cognitive-science
   - human-computer-interaction
   - metaphor
-created: 2026-02-13
 date: 2026-02-17
-lastmod: 2026-04-06
 ---
 
 A bicycle for the mind once felt sufficient. You pedaled; the machine multiplied effort. Then we paved an information superhighway and rode faster, farther, with less friction. Both metaphors still describe something real. Neither describes what comes next.

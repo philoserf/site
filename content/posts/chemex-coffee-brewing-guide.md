@@ -7,9 +7,7 @@ tags:
   - coffee-brewing
   - pour-over
   - recipe
-created: 2025-04-30
 date: 2025-04-30
-lastmod: 2026-04-06
 ---
 
 ## Measurements

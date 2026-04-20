@@ -6,9 +6,7 @@ tags:
   - philosophy
   - problem-solving
   - systems-thinking
-created: 2026-04-06
 date: 2026-04-18
-lastmod: 2026-04-07
 ---
 
 "All of our solutions move the problem. They never solve the problem." At first pass, this reads as cynicism—a dismissal of human effort as futile. But its real force lies in a more unsettling and precise observation: that intervention is displacement, not elimination. Every act of problem-solving reshapes the landscape of difficulty rather than clearing it.

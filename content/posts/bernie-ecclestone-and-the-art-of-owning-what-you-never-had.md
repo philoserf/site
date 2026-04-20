@@ -1,18 +1,13 @@
 ---
 title: Bernie Ecclestone and the Art of Owning What You Never Had
 description: An analysis of Bernie Ecclestone's Formula 1 commercial empire through Eddie Jordan's famous quip, exploring how Ecclestone built and sold control he never formally owned by making himself an indispensable intermediary in a complex ecosystem.
-related:
-  - "[[Leverage Through Non-Rivalrous Assets]]"
-  - "[[Selling Without Surrendering Equity, Control, and Ownership]]"
 tags:
   - control
   - formula-1
   - leverage
   - power-dynamics
   - strategy
-created: 2026-03-03
 date: 2026-03-05
-lastmod: 2026-04-06
 ---
 
 Eddie Jordan, the Irish Formula 1 team owner known for his irreverence and sharp eye for talent, once offered what might be the most concise summary of Bernie Ecclestone's genius ever spoken: "Anyone who has had a business, sold it four times, has never bought it back, has never lost its control, and still owns it is pretty special. And do you know the most important thing? He never fucking owned it in the first place."

@@ -6,9 +6,7 @@ tags:
   - leadership
   - learning
   - software-engineering
-created: 2026-03-24
 date: 2026-04-14
-lastmod: 2026-04-06
 ---
 
 Elite engineers don't get there through talent alone—they engineer specific conditions for growth.

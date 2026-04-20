@@ -6,9 +6,7 @@ tags:
   - mindfulness
   - self-awareness
   - workflow
-created: 2026-02-16
 date: 2026-02-27
-lastmod: 2026-04-06
 ---
 
 > We know the least about that which we do the most.

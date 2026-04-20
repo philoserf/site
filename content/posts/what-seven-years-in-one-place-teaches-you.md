@@ -6,9 +6,7 @@ tags:
   - nature
   - place-attachment
   - sense-of-place
-created: 2026-03-12
 date: 2026-03-15
-lastmod: 2026-04-06
 ---
 
 I learned the year not by calendars but by the willow. When its branches flushed yellow-green at the tips, I could set seeds in the cold frames. When its leaves darkened and thickened and the catkins dropped, I stopped watering the rosemary and let it harden for what was coming. The willow was a clock with one hand, and it had never been wrong.

@@ -6,9 +6,7 @@ tags:
   - knowledge-management
   - learning
   - productivity
-created: 2025-04-21
 date: 2025-12-06
-lastmod: 2026-04-06
 math: true
 ---
 

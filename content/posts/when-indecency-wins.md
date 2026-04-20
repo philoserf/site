@@ -1,16 +1,12 @@
 ---
 title: When Indecency Wins
-aliases:
-  - when-indecency-wins
 description: A reflection on the normalization of indecency in public life and its corrosive effects on individuals and institutions. Argues that deliberate exhaustion tactics suppress resistance, and calls for documentation, institution-building, and local action before capitulation becomes permanent.
 tags:
   - democracy
   - ethics
   - politics
   - society
-created: 2026-03-12
 date: 2026-02-28
-lastmod: 2026-04-06
 ---
 
 Indecency in public life is not new. What stings is watching it win.

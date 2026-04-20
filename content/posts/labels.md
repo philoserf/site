@@ -5,9 +5,7 @@ tags:
   - identity
   - philosophy
   - self-reflection
-created: 2025-05-18
 date: 2026-03-09
-lastmod: 2026-04-06
 ---
 
 by Mark Ayers, 2024

@@ -1,15 +1,11 @@
 ---
 title: The Cassandra Inversion
-aliases:
-  - Decoding the Outrage Machine
 description: An essay exploring how the saturation of urgent voices in modern media undermines our ability to distinguish genuine warnings from manufactured outrage, inverting the ancient problem of Cassandra. Examines how alarm fatigue erodes discernment and silences measured reasoning.
 tags:
   - attention
   - epistemology
   - media-criticism
-created: 2026-01-20
 date: 2026-03-22
-lastmod: 2026-04-06
 ---
 
 When every voice is Cassandra, no one hears the warning. Not because the warnings are wrong—some of them are desperate and true—but because prophecy depends on scarcity. A single voice crying out against complacency can change the course of a city. A thousand voices crying out at once is just weather.

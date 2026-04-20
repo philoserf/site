@@ -6,9 +6,7 @@ tags:
   - modernism
   - nihilism
   - philosophy
-created: 2025-10-21
 date: 2025-07-03
-lastmod: 2026-04-06
 ---
 
 We've been here before.

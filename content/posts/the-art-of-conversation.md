@@ -7,9 +7,7 @@ tags:
   - intellectual-humility
   - montaigne
   - philosophy
-created: 2026-02-03
 date: 2026-02-12
-lastmod: 2026-04-06
 ---
 
 A faithful paraphrase of Montaigne's "Of the Art of Conference" (Book III, Chapter VIII), tightened and modernized for a mid-21st-century reader.

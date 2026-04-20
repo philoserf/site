@@ -6,9 +6,7 @@ tags:
   - humor
   - personal-development
   - poetry
-created: 2025-01-06
 date: 2026-03-10
-lastmod: 2026-04-06
 ---
 
 by Mark Ayers, 1986

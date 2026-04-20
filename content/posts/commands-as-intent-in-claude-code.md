@@ -6,9 +6,7 @@ tags:
   - claude-code
   - delegation-pattern
   - software-architecture
-created: 2026-01-02
 date: 2026-01-02
-lastmod: 2026-04-06
 ---
 
 ## Commands Are Not Instructions

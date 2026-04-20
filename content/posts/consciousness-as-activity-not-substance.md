@@ -1,7 +1,5 @@
 ---
 title: Consciousness as Activity, Not Substance
-aliases:
-  - Consciousness as Intentional Activity Rather Than Independent Entity
 description: An examination of the claim that consciousness is not a thing but an activity always directed toward an object, drawing on phenomenology, cognitive science, and Buddhist philosophy, while addressing counterarguments around pure awareness and the hard problem of consciousness.
 tags:
   - cognitive-science
@@ -9,9 +7,7 @@ tags:
   - phenomenology
   - philosophy-of-mind
   - religion
-created: 2026-03-02
 date: 2026-03-04
-lastmod: 2026-04-06
 ---
 
 > There is no consciousness; there is only being conscious of something.

@@ -6,9 +6,7 @@ tags:
   - knowledge-management
   - media-criticism
   - rhetoric
-created: 2026-02-13
 date: 2026-02-19
-lastmod: 2026-04-06
 ---
 
 > I have recently listened to lectures by Feynman and Watts. They seem 'of an era' that still resonates better than any talk I'll hear next year. Why?

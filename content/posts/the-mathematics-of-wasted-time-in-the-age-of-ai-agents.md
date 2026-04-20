@@ -5,9 +5,7 @@ tags:
   - ai
   - attention-economy
   - productivity
-created: 2025-12-21
 date: 2025-12-21
-lastmod: 2026-04-02
 math: true
 ---
 

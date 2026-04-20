@@ -7,9 +7,7 @@ tags:
   - leverage
   - mental-models
   - non-rivalrous-goods
-created: 2026-03-03
 date: 2026-03-07
-lastmod: 2026-04-06
 ---
 
 "A person who sells what they never owned and never loses what they repeatedly give away has mastered a form of leverage that most people never perceive as possible." The sentence operates on at least three levels, and each one reframes what counts as an asset.

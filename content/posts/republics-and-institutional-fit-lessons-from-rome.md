@@ -6,9 +6,7 @@ tags:
   - history
   - institutional-design
   - political-theory
-created: 2026-01-15
 date: 2026-01-15
-lastmod: 2026-04-06
 ---
 
 The tempting lesson from Rome is numerical: republics last about two and a half centuries. Neat, memorable, and wrong. The real lesson is structural. Republics endure only while their institutions fit the scale, complexity, and distribution of power they govern. When fit fails, age doesn't matter.

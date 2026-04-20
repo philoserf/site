@@ -5,9 +5,7 @@ tags:
   - existentialism
   - personal-development
   - traveller-rpg
-created: 2026-02-27
 date: 2025-10-31
-lastmod: 2026-04-02
 ---
 
 Brann Dace grew up on a quiet Imperial frontier world where success meant university placement and corporate service. He wanted that path—steady work, predictable life, civilized gravity wells—but he failed the entrance examinations. It wasn't dramatic; a simple letter, polite phrasing, and the sudden collapse of a future he'd rehearsed.

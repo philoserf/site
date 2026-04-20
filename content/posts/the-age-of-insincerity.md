@@ -7,9 +7,7 @@ tags:
   - culture
   - philosophy
   - social-media
-created: 2026-02-12
 date: 2026-04-22
-lastmod: 2026-04-07
 ---
 
 "We live in the age of insincerity" functions as observation, diagnosis, and lament—and that most people would nod along without examining what they're agreeing to is itself a small proof of the claim.

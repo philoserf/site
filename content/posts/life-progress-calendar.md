@@ -5,9 +5,7 @@ tags:
   - goal-setting
   - mortality-awareness
   - time-management
-created: 2025-08-20
 date: 1962-07-04
-lastmod: 2026-04-06
 ---
 
 ## Key

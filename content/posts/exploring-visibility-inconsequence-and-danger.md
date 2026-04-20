@@ -5,9 +5,7 @@ tags:
   - agency
   - philosophy
   - power-dynamics
-created: 2025-11-05
 date: 2025-11-05
-lastmod: 2026-04-02
 ---
 
 I asked Anthropic's Claude (Haiku, Sonnet, Opus; Sonnet with two different projects instructions, and Sonnet deep research) to

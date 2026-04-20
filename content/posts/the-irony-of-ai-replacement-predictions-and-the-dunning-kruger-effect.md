@@ -6,9 +6,7 @@ tags:
   - cognitive-bias
   - dunning-kruger
   - future-of-work
-created: 2026-03-24
 date: 2026-02-13
-lastmod: 2026-04-02
 ---
 
 Mediocre thinkers who overestimate their abilities now predict AI will eliminate work for people like themselves. The irony is sharp.
