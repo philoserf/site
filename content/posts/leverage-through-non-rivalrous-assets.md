@@ -1,15 +1,7 @@
 ---
 title: Leverage Through Non-Rivalrous Assets
 description: An analysis of how knowledge, trust, and expertise operate outside normal scarcity rules, enabling a form of leverage where selling what you never owned and giving away what you have both lead to accumulation rather than loss. Explores the cognitive blind spot that prevents most people from recognizing or exploiting non-rivalrous assets.
-tags:
-  - generosity
-  - knowledge-management
-  - leverage
-  - mental-models
-  - non-rivalrous-goods
-created: 2026-03-03
 date: 2026-03-07
-lastmod: 2026-04-06
 ---
 
 "A person who sells what they never owned and never loses what they repeatedly give away has mastered a form of leverage that most people never perceive as possible." The sentence operates on at least three levels, and each one reframes what counts as an asset.

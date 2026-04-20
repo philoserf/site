@@ -1,15 +1,7 @@
 ---
 title: Two Epistemic Cycles Formation and Execution
 description: "An analysis of two Latin mottos representing inner and outer epistemic cycles: the first tracing the path from thinking to declaration, the second from perception to effect. Together they argue that depth without action is erudition, and speed without depth is mere reaction."
-tags:
-  - action
-  - cognition
-  - epistemology
-  - knowledge-management
-  - learning
-created: 2026-03-24
 date: 2026-04-07
-lastmod: 2026-04-02
 ---
 
 > COGITA·DISCE·NECTE·ENUNTIA  

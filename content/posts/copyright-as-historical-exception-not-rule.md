@@ -1,17 +1,7 @@
 ---
 title: Copyright as Historical Exception, Not Rule
-aliases:
-  - Copyright as Historical Anomaly in Human Knowledge Sharing
 description: A historical argument that free knowledge sharing is the human default, tracing how copyright emerged not from principle but from printing press economics, and examining how modern IP law increasingly conflicts with both historical norms and the internet's near-zero reproduction costs.
-tags:
-  - copyright
-  - history-of-ideas
-  - information-freedom
-  - intellectual-property
-  - knowledge-management
-created: 2026-02-24
 date: 2026-03-18
-lastmod: 2026-04-06
 ---
 
 For roughly 200,000 years, _Homo sapiens_ has been generating, sharing, and building upon knowledge without any concept of intellectual property. Copyright has existed for 315 years. That is 0.16% of the span of human existence.

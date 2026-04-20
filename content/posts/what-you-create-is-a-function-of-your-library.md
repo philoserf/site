@@ -1,15 +1,7 @@
 ---
 title: What You Create Is a Function of Your Library
 description: An essay examining the claim that creativity is a function of one's accumulated knowledge, exploring both its practical truth as a warning against intellectual narrowness and its limits in accounting for embodied experience, accident, and collaboration.
-tags:
-  - creativity
-  - knowledge
-  - learning
-  - reading
-  - writing
-created: 2026-02-20
 date: 2026-03-23
-lastmod: 2026-04-02
 ---
 
 "What you create is a function of the library in your head"—the phrase sounds almost too obvious to be worth saying. Of course a jazz musician who has absorbed Coltrane and Monk will improvise differently than one raised on pop standards alone. The library sets the vocabulary, and the vocabulary constrains what can be said.

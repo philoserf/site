@@ -1,13 +1,7 @@
 ---
 title: Labels
 description: A short prose poem exploring how the labels we choose to define ourselves often fail to capture who we truly are. It reflects on the gap between self-imposed identity and authentic selfhood.
-tags:
-  - identity
-  - philosophy
-  - self-reflection
-created: 2025-05-18
 date: 2026-03-09
-lastmod: 2026-04-06
 ---
 
 by Mark Ayers, 2024

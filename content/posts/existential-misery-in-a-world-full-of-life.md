@@ -1,17 +1,7 @@
 ---
 title: Existential Misery in a World Full of Life
-aliases:
-  - Existential Reflection Amidst a Vibrant World
-  - On Baseless Misery and Being Out of Phase with the World
 description: An exploration of baseless existential misery — suffering without a clear cause — and the dissonance of experiencing inner emptiness while the external world overflows with vitality. The piece examines how retrospective clarity allows one to name and survive such states.
-tags:
-  - existentialism
-  - human-experience
-  - mental-health
-  - reflection
-created: 2025-04-08
 date: 2025-04-08
-lastmod: 2026-04-02
 ---
 
 Walking around in baseless existential misery while the world bursts with life is one of the most precisely human conditions there is—and the word "baseless" is where the real pressure lives. To call one's misery baseless is not to dismiss it. It is to acknowledge a particular species of suffering: grief without a grievance, dread without an object, unhappiness that cannot be negotiated with because it offers no terms. This is distinct from sorrow that has cause and therefore, in theory, remedy. Baseless misery floats. And floating makes it worse, because the sufferer cannot point at the wound.

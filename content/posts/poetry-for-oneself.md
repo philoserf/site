@@ -1,14 +1,7 @@
 ---
 title: Poetry for Oneself
 description: A short humorous poem by Mark Ayers (1986) reflecting on the intrinsic value of writing poetry purely for one's own enjoyment and entertainment.
-tags:
-  - creative-writing
-  - humor
-  - personal-development
-  - poetry
-created: 2025-01-06
 date: 2026-03-10
-lastmod: 2026-04-06
 ---
 
 by Mark Ayers, 1986

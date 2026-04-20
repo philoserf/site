@@ -1,14 +1,7 @@
 ---
 title: On The Real Terrain
 description: A poem by Mark Ayers exploring the disorienting experience of viewing earth from an airplane at 35,000 feet, where clouds and snow blur the boundary between sky and ground, leaving the mind to navigate between reality and imagination.
-tags:
-  - ambiguity
-  - perception
-  - poetry
-  - travel
-created: 2025-03-28
 date: 2026-04-02
-lastmod: 2026-04-02
 ---
 
 by Mark Ayers, 2018

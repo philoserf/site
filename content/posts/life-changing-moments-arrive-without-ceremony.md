@@ -1,14 +1,7 @@
 ---
 title: Life-Changing Moments Arrive Without Ceremony
 description: An exploration of how life-changing moments occur without fanfare or ceremony, and how we construct their significance retrospectively through hindsight rather than recognizing them in real-time.
-tags:
-  - decision-making
-  - lived-experience
-  - meaning-making
-  - narrative-expectations
-created: 2025-08-30
 date: 2026-02-08
-lastmod: 2026-04-06
 ---
 
 > The huge moments in life seemed like they should have more ceremony and effects. The important words—the life-changing ones—should echo a little. But they didn't.—James S.A. Corey

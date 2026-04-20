@@ -1,16 +1,7 @@
 ---
 title: Identity as Self-Narrative
-aliases:
-  - We are a story we tell ourselves
 description: Explores how personal identity is an ongoing self-narrative that we unconsciously edit and revise, and how recognizing this authorship can be either limiting or liberating.
-tags:
-  - identity
-  - narrative
-  - personal-growth
-  - self-perception
-created: 2026-01-20
 date: 2026-04-11
-lastmod: 2026-04-02
 ---
 
 Your identity is a story you're constantly writing.

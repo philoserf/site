@@ -1,14 +1,7 @@
 ---
 title: Give Everything Away Constantly
 description: An argument for freely sharing knowledge and expertise rather than hoarding it, explaining how generosity creates more opportunities, reduces mental burden, and advances collective progress while your real value comes from continuous creation rather than withholding information.
-tags:
-  - abundance-mindset
-  - creativity
-  - knowledge-management
-  - open-source
-created: 2026-02-13
 date: 2026-02-20
-lastmod: 2026-04-06
 ---
 
 Give everything away constantly.

@@ -1,14 +1,7 @@
 ---
 title: AI vs Human Collaboration Dynamics
 description: A comparison of AI and human collaboration dynamics, arguing that the key difference lies not in capability but in how each responds to constraints and goals. Explores how human resistance, ego, and status-protection create a fundamentally different working relationship than directing an AI.
-tags:
-  - ai
-  - collaboration
-  - human-behavior
-  - productivity
-created: 2026-03-24
 date: 2026-01-30
-lastmod: 2026-04-06
 ---
 
 AI serves your intent. Humans protect their own. That distinction matters more than most arguments about capability.  

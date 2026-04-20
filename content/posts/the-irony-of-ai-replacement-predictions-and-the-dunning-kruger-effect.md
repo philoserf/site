@@ -1,14 +1,7 @@
 ---
 title: The Irony of AI Replacement Predictions and the Dunning-Kruger Effect
 description: An analysis of the irony in mediocre thinkers predicting AI will replace cognitive work like their own, exploring how the Dunning-Kruger effect prevents accurate self-assessment and why those making the loudest predictions may be most vulnerable to displacement.
-tags:
-  - artificial-intelligence
-  - cognitive-bias
-  - dunning-kruger
-  - future-of-work
-created: 2026-03-24
 date: 2026-02-13
-lastmod: 2026-04-02
 ---
 
 Mediocre thinkers who overestimate their abilities now predict AI will eliminate work for people like themselves. The irony is sharp.

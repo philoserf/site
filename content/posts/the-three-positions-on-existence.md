@@ -1,13 +1,7 @@
 ---
 title: The Three Positions on Existence
 description: A concise breakdown of the three fundamental stances one can take toward existence—affirmation, negation, and suspension of judgment—and the tradeoffs each position demands.
-tags:
-  - ethics
-  - existentialism
-  - philosophy
-created: 2026-03-24
 date: 2026-04-09
-lastmod: 2026-04-06
 ---
 
 You face three choices about existence. Taking any one costs you the other two.

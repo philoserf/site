@@ -1,16 +1,7 @@
 ---
 title: Intent-First Development with AI Coding Agents
-aliases:
-  - Intent as Code How AI Agents Are Moving the Abstraction Layer
 description: Argues that AI coding agents are shifting the primary software artifact from code to intent documents, inverting the conventional development hierarchy where PRDs are treated as scaffolding rather than the durable source of truth worth versioning and preserving.
-tags:
-  - ai-agents
-  - programming
-  - software-development
-  - technical-debt
-created: 2026-02-18
 date: 2026-03-20
-lastmod: 2026-04-06
 ---
 
 There's a shift happening that most of us are describing wrong.

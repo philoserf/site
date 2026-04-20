@@ -1,14 +1,7 @@
 ---
 title: "The Automation Paradox: Examining What We Do Most"
 description: The automation paradox explains how mastery of routine activities leads to unconscious execution, creating blind spots in our most frequent behaviors. The solution is to deliberately examine automatic actions with fresh eyes.
-tags:
-  - deliberate-practice
-  - mindfulness
-  - self-awareness
-  - workflow
-created: 2026-02-16
 date: 2026-02-27
-lastmod: 2026-04-06
 ---
 
 > We know the least about that which we do the most.
