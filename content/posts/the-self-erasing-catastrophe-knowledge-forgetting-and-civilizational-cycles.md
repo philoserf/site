@@ -1,15 +1,7 @@
 ---
 title: The Self-Erasing Catastrophe Knowledge, Forgetting, and Civilizational Cycles
 description: An analysis of a parable about self-erasing catastrophe, exploring how knowledge destroyed by its own consequences traps civilizations in recursive cycles of forgetting and repetition. Examines the epistemological implications of amnesia at both individual and collective scales.
-tags:
-  - civilizational-cycles
-  - collective-memory
-  - epistemology
-  - knowledge-loss
-  - psychology
-created: 2026-03-31
 date: 2026-04-16
-lastmod: 2026-04-07
 ---
 
 There is a particular kind of catastrophe that leaves no scar, no crater, no memorial—the catastrophe that erases the evidence of its own occurrence. The image of a bomb that "destroyed itself, and erased its own successful detonation, and flattened all the knowledge which had gone together to build it" captures something more unsettling than mere destruction. Ordinary bombs leave rubble. This one leaves a clean slate, which is far worse, because a clean slate looks identical to innocence.

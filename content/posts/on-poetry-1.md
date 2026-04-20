@@ -1,13 +1,7 @@
 ---
 title: On Poetry 1
 description: A short reflective poem by Mark Ayers about the act of writing despite an overwhelming surplus of unread poetry. It contemplates the compulsion to create and the organic unfolding of words and voice.
-tags:
-  - creativity
-  - poetry
-  - writing
-created: 2026-03-24
 date: 2026-03-26
-lastmod: 2026-04-06
 ---
 
 by Mark Ayers, 1984

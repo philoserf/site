@@ -1,15 +1,7 @@
 ---
 title: The Age of Insincerity
 description: An examination of how insincerity has evolved from individual dishonesty into a structural condition of modern life, exploring the erosion of authentic expression through performative communication, algorithmic incentives, and the philosophical question of whether a stable, sincere self even exists.
-tags:
-  - authenticity
-  - communication
-  - culture
-  - philosophy
-  - social-media
-created: 2026-02-12
 date: 2026-04-22
-lastmod: 2026-04-07
 ---
 
 "We live in the age of insincerity" functions as observation, diagnosis, and lament—and that most people would nod along without examining what they're agreeing to is itself a small proof of the claim.

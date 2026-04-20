@@ -1,14 +1,7 @@
 ---
 title: Solutions Move Problems, They Don't Solve Them
 description: An exploration of how solutions displace rather than eliminate problems, drawing on systems theory and real-world examples to argue that progress is measured by the quality of problems we trade into, not their absence.
-tags:
-  - complexity
-  - philosophy
-  - problem-solving
-  - systems-thinking
-created: 2026-04-06
 date: 2026-04-18
-lastmod: 2026-04-07
 ---
 
 "All of our solutions move the problem. They never solve the problem." At first pass, this reads as cynicism—a dismissal of human effort as futile. But its real force lies in a more unsettling and precise observation: that intervention is displacement, not elimination. Every act of problem-solving reshapes the landscape of difficulty rather than clearing it.

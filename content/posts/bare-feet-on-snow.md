@@ -1,15 +1,7 @@
 ---
 title: Bare Feet on Snow
-aliases:
-  - Silent Communion with Nature's Cycles
 description: A contemplative poem by Mark Ayers exploring presence and stillness through seasonal natural imagery. Four vignettes depict wordless communion between body and earth, culminating in the sufficiency of silence.
-tags:
-  - mindfulness
-  - nature
-  - poetry
-created: 2025-03-06
 date: 2026-03-31
-lastmod: 2026-04-06
 ---
 
 by Mark Ayers, 2017

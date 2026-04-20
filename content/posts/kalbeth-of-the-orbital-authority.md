@@ -1,13 +1,7 @@
 ---
 title: Kalbeth of the Orbital Authority
 description: A sci-fi retelling of Macbeth set in a future interplanetary empire, following war-captain Kalbeth whose ambition is ignited by predictive AIs and leads him to seize power—only to be undone by the very prophecies that emboldened him.
-tags:
-  - science-fiction
-  - short-story
-  - space-opera
-created: 2026-01-20
 date: 2026-02-24
-lastmod: 2026-04-06
 ---
 
 Kalbeth was a war-captain for the Orbital Authority, a veteran of skirmishes against the Outer Colonies. He had fought for the Central Directorate, and in their endless wars of consolidation, he had gained both reputation and unease. For he knew—though he rarely admitted it aloud—that the Directorate was as unstable as the stars it sought to rule.

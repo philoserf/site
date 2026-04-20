@@ -1,15 +1,7 @@
 ---
 title: Adulthood as Latent Capacity
 description: An analysis of how adulthood and maturity emerge not gradually but rapidly under necessity, exploring the psychological mechanisms behind crisis-driven growth and whether such transformation constitutes genuine maturation or functional adaptation.
-tags:
-  - human-behavior
-  - maturity
-  - personal-development
-  - psychology
-  - resilience
-created: 2026-03-08
 date: 2026-04-20
-lastmod: 2026-04-17
 ---
 
 "We don't become adults until we need to, and when we need to, we do, very quickly" carries a deceptively simple observation that cuts against one of our most cherished cultural narratives—that growing up is gradual, a developmental accumulation of wisdom and responsibility. The claim here is almost the opposite: maturity is latent, catalyzed only by necessity. The implication is that adulthood is not a stage we drift into but a capacity we've always possessed and simply hadn't been forced to deploy.

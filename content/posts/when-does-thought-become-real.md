@@ -1,15 +1,7 @@
 ---
 title: When Does Thought Become Real
 description: An analysis of the claim that thought becomes real only when expressed in shareable language, examining its strengths through pragmatist philosophy and its limitations regarding tacit knowledge and non-linguistic understanding.
-tags:
-  - epistemology
-  - language
-  - philosophy
-  - pragmatism
-  - tacit-knowledge
-created: 2026-02-09
 date: 2026-02-09
-lastmod: 2026-04-02
 ---
 
 > Thought only becomes real when you put it into words others can use.

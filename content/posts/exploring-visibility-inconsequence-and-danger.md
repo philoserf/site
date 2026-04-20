@@ -1,13 +1,7 @@
 ---
 title: Exploring Visibility, Inconsequence, and Danger
 description: Explores the philosophical implications of visibility, inconsequence, and danger, challenging assumptions about power dynamics and agency. Considers how these states impact personal influence and the ethical considerations of being visible, impactful, or threatening within social systems.
-tags:
-  - agency
-  - philosophy
-  - power-dynamics
-created: 2025-11-05
 date: 2025-11-05
-lastmod: 2026-04-02
 ---
 
 I asked Anthropic's Claude (Haiku, Sonnet, Opus; Sonnet with two different projects instructions, and Sonnet deep research) to

@@ -1,15 +1,7 @@
 ---
 title: Exploring Cocktail Flavors Through Dilution
 description: Experiment with diluting cocktail ingredients in water to understand their unique qualities by mixing 14ml of an ingredient with 1L of water. Use this method for bases, bitters, liquors, juices, and syrups to enhance your knowledge of cocktails.
-tags:
-  - cocktail
-  - learning
-  - lifestyle
-  - mixology
-  - nutrition
-created: 2025-03-28
 date: 2024-06-01
-lastmod: 2026-04-02
 ---
 
 1. Mix 14ml of an ingredient with 1L of water

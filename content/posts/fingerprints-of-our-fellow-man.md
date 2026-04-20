@@ -1,15 +1,7 @@
 ---
 title: Fingerprints of Our Fellow Man
-aliases:
-  - What We Are About
 description: A short poem by Mark Ayers (2019) reflecting on the pervasive presence of human influence, from high-altitude flight paths to remote mountain valleys. It contrasts the natural world with the ordered marks humanity leaves behind.
-tags:
-  - civilization
-  - nature
-  - poetry
-created: 2026-01-20
 date: 2026-03-08
-lastmod: 2026-04-06
 ---
 
 by Mark Ayers, 2019

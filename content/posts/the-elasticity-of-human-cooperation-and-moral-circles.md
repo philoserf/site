@@ -1,14 +1,7 @@
 ---
 title: The Elasticity of Human Cooperation and Moral Circles
 description: Explores how human cooperation and moral concern expand during times of security and abundance but contract to immediate communities during disruption and scarcity. Examines this cyclical pattern through recent historical examples from the 1990s to present.
-tags:
-  - globalization
-  - social-dynamics
-  - society
-  - tribalism
-created: 2025-08-14
 date: 2026-02-06
-lastmod: 2026-04-06
 ---
 
 Broad human cooperation isn't our natural state—it's a luxury of abundance and security. Our moral circle is elastic, expanding when we feel safe and contracting when we feel threatened.

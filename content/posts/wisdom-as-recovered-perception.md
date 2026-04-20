@@ -1,15 +1,7 @@
 ---
 title: Wisdom as Recovered Perception
 description: Wisdom is not naive innocence but the recovery of direct perception after gaining experience—the ability to see freshly while retaining discriminative knowledge. This progression from immediate awareness through conceptual frameworks and back to conscious perception appears across philosophical traditions and expertise development.
-tags:
-  - beginner-mind
-  - expertise
-  - perception
-  - phenomenology
-  - wisdom
-created: 2026-02-13
 date: 2026-02-18
-lastmod: 2026-04-02
 ---
 
 > Wisdom is the recovery of innocence at the far end of experience; it is the ability to see again what most of us have forgotten how to see, but now fortified by the ability to translate some of that vision into words, however inadequate.―David Bentley Hart

@@ -1,14 +1,7 @@
 ---
 title: Sanity as Moral Culpability
 description: Explores how sanity can be more morally culpable than madness when paired with devious intent, examining how rational cognition enables calculated harm through the lens of Arendt's banality of evil and psychopathy research.
-tags:
-  - ethics
-  - moral-philosophy
-  - rationality
-  - sanity
-created: 2025-11-20
 date: 2026-02-10
-lastmod: 2026-04-06
 ---
 
 "I don't think he's mad, just devious in his sanity" inverts the usual moral logic. We excuse madness—the insane lack agency, can't help themselves, deserve treatment not condemnation. But someone sane and devious chooses deliberately. Their clarity enables deception, exploitation, calculated harm. Sanity becomes the indictment.
