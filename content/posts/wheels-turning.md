@@ -1,7 +1,7 @@
 ---
 title: Wheel's Turning
 description: Norse mythology frames a meditation on presence, as Óðinn and Bragi debate fate's wheel and the value of the present moment.
-date: 2026-05-13
+date: 2026-05-15
 ---
 
 by Mark Ayers, 2025

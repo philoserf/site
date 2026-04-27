@@ -1,7 +1,7 @@
 ---
 title: Lessing's Sufi Science Fiction
 description: How Doris Lessing used the Canopus in Argos series to embed Idries Shah's Sufi cosmology in science fiction.
-date: 2026-05-03
+date: 2026-05-04
 ---
 
 Lessing took Sufi teaching and translated it into the one Western genre that could smuggle mysticism past scientific materialism: science fiction.

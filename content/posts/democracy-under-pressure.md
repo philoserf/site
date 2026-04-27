@@ -1,10 +1,10 @@
 ---
 title: Democracy Under Pressure
 description: How political stress tests reveal institutional decay and whether the resulting reckoning leads to renewal or mere survival.
-date: 2026-05-15
+date: 2026-05-18
 ---
 
-Trump's presidency was a stress test. Guardrails everyone assumed were solid turned out to be conventions. The press, the courts, federalism—forced into open defense by a single administration's pressure.
+Trump's presidency is a stress test. Guardrails everyone assumed were solid turn out to be conventions. The press, the courts, federalism—forced into open defense by a single administration's pressure.
 
 People understand their values when threatened. So do societies. Stability hides decay; disruption exposes it.
 

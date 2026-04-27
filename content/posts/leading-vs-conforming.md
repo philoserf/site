@@ -1,7 +1,7 @@
 ---
 title: Leading vs. Conforming
 description: Leading and conforming are situational modes of action, not fixed personality types; context determines which to choose.
-date: 2026-05-11
+date: 2026-05-13
 ---
 
 Lead or conform. The two look like types of people but work as modes of action, and most of us move between them without noticing.
