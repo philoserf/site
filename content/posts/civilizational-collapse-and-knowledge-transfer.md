@@ -1,7 +1,7 @@
 ---
 title: Civilizational Collapse and Knowledge Transfer
 description: Civilizations matter less for surviving than for what knowledge they transmit across their collapse.
-date: 2026-05-05
+date: 2026-05-06
 ---
 
 We are between orders. History offers neither a straight climb nor a steady fall, and the civilizations that produced the most depended less on their own survival than on what they handed off.
