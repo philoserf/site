@@ -7,7 +7,7 @@ FN:{{ .Site.Params.author }}
 N:{{ $c.familyName }};{{ $c.givenName }};;;
 NICKNAME:{{ .Site.Params.nickname }}
 BDAY:{{ $c.birthday }}
-LANG:{{ .Site.LanguageCode | default "en" }}
+LANG:{{ .Site.Language.Locale | default "en" }}
 
 EMAIL;TYPE=INTERNET:{{ .Site.Params.email }}
 TEL;TYPE=CELL:{{ $c.phone }}
