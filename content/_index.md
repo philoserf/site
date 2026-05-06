@@ -1,9 +1,11 @@
 ---
-description: "Personal site of Mark Ayers — semi-weekly essays and structured notes on technology, strategy, and personal development, guided by the motto cogita·disce·necte·enuntia."
+description: "Essays by Mark Ayers on thinking, AI and cognition, civilization, identity, and craft — short, plain, unhedged."
 ---
 
-Personal digital presence of Mark Ayers. Exploring intersections of technology, strategy, and personal development through semi-weekly essays and structured content.
+Essays in public.
+
+On thinking and writing, AI and cognition, civilizational drift, identity, and the small crafts of attention — coffee, calendars, kitchens, and code.
 
 {{< latin-motto >}}
 
-Guided by the philosophy of deep thinking, continuous learning, connection-making, and clear articulation. Start with [About](about/), see what I'm focused on [Now](now/), or browse the [posts](posts/).
+Start with [About](about/), see what I'm focused on [Now](now/), or browse the [posts](posts/).
