@@ -1,30 +1,28 @@
 ---
 title: Uses
-description: "Details the hardware and software setup involving Apple devices and coding in Go, utilizing tools like Ghostty Terminal and Obsidian for an effective workflow."
-lastmod: 2026-04-02
+description: "What I use day to day for writing, coding, and publishing. Updated when reality changes."
+lastmod: 2026-05-06
 ---
+
+What I use day to day. Updated when reality changes — not aspirations, not everything I've tried.
 
 ## Hardware
 
-- iPhone Air
-- iPad Pro (M4) with Pencil Pro
-- MacBook Air (M4)
-- Mac Mini (M4 Pro)
-- LG HDR Ultra-Wide QHD monitor
-- Apple Watch Series 10
-- AirPods Pro 3
+- Desk: Mac Mini (M4 Pro), LG 34" Ultra-Wide QHD monitor
+- Portable: MacBook Air (M4), iPad Pro (M4) with Pencil Pro
+- Pocket: iPhone Air
+- Wearable: Apple Watch Series 10, AirPods Pro 3
 
 ## Software
 
 - Terminal: Ghostty + Fish
 - Editor: Visual Studio Code
 - Languages: Go (primary), occasional TypeScript
-- Notes & knowledge: Obsidian
-- Experiments: Claude Code
-
-## Purpose
-
-This page lists the tools I rely on daily for writing, coding, and maintaining a simple, durable workflow. It reflects what I actually use—not aspirations, and not everything I've ever tried.
+- Notes: Obsidian (2,400+ note vault)
+- Writing partners: Claude Code, Amp
+- Documents: Pandoc, Typst
+- Site: Hugo, published from Obsidian via obsidian-publisher
+- Build: Task, gh, ImageMagick, pngquant, potrace
 
 ---
 
