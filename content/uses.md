@@ -26,4 +26,4 @@ What I use day to day. Updated when reality changes — not aspirations, not eve
 
 ---
 
-Part of the [uses.tech](https://uses.tech/) list.
+This is a [uses page](https://uses.tech/). The idea comes from [Wes Bos](https://wesbos.com/uses).
