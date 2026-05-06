@@ -15,7 +15,6 @@ What I use day to day. Updated when reality changes — not aspirations, not eve
 
 ## Software
 
-- Terminal: Ghostty + Fish
 - Editor: Visual Studio Code
 - Languages: Go (primary), occasional TypeScript
 - Notes: Obsidian (2,400+ note vault)
