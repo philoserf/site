@@ -1,8 +1,5 @@
 ---
 title: Baseless Misery and World Out of Phase
-aliases:
-  - Existential Reflection Amidst a Vibrant World
-  - On Baseless Misery and Being Out of Phase with the World
 description: Examines baseless existential misery—suffering without cause—and the dissonance of inner emptiness amid a world bursting with life.
 date: 2025-04-08
 ---
