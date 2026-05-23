@@ -487,7 +487,6 @@ article > header time {
 
 .latin-motto {
   font-family: var(--font-serif);
-  font-style: italic;
   text-align: center;
   color: var(--text-muted);
   margin: 2rem 0;
@@ -495,7 +494,6 @@ article > header time {
 
 .latin-motto p {
   letter-spacing: 0.05em;
-  text-indent: 0.05em;
   margin-bottom: 0;
 }
 
