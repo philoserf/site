@@ -1,0 +1,5 @@
+{{/*
+  Mermaid shortcode. Renders inner content as a <pre class="mermaid">
+  block. Pair with mermaid.js which initializes Mermaid on page load.
+*/}}
+<pre class="mermaid">{{ .Inner | htmlEscape }}</pre>
