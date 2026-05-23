@@ -52,7 +52,7 @@ tasks:
     desc: Check content and links
     deps: [setup]
     cmds:
-      - hugo --renderToMemory
+      - hugo --renderToMemory --panicOnWarning
 
   new:
     desc: Create a new content file
