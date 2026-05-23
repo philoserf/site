@@ -19,10 +19,11 @@ task new:post -- post-title  # Create new blog post
 
 ## Architecture
 
-- **Config**: hugo.yaml
-- **Layouts**: layouts/\_default/baseof.html, index.html, single.html, list.html
+- **Config**: hugo.yaml. `enableGitInfo: true` — posts can omit `lastmod` and Hugo falls back to the git commit date; do not disable without auditing every post.
+- **Layouts**: hand-rolled, no theme/submodule. `layouts/_default/{baseof,single,list}.html`, `layouts/index.html`, `layouts/404.html`, `layouts/partials/{description,math,pagination}.html`.
 - **Content**: content/ directory with posts/ subdirectory
 - **Archetypes**: archetypes/default.md (pages — `lastmod` only) and archetypes/posts.md (posts — `date` + `lastmod`); the asymmetry is load-bearing
+- **Front matter schema**: implicit. Archetypes scaffold `title` + dates + `draft`, but real posts also carry `description`, `tags`, sometimes `aliases`/`series`/`created`. The schema is enforced by the upstream publisher, not Hugo — a post missing `description` builds but renders a degraded `<meta>`.
 - **Styling**: static/style.css for the site, static/callout.css for publisher callouts (CSS variables for theming)
 - **Shortcodes**: `latin-motto`, `callout`, `mermaid` under `layouts/shortcodes/`. `callout` and `mermaid` are reference templates from `../obsidian-publisher/hugo-shortcodes/` — keep in sync if the publisher's output format changes. `mermaid.js` loads conditionally via `.HasShortcode "mermaid"` in `baseof.html`.
 - **Generated text files**: `robots.txt`, `site.webmanifest`, `vcard.vcf`, `llms.txt` render from `layouts/` templates via custom output formats on the home page — do not re-create them under `static/`
@@ -41,7 +42,7 @@ There is no end-to-end test of the publish → render pipeline. The strict Hugo 
 Automated to GitHub Pages via GitHub Actions (.github/workflows/deploy.yml):
 
 - Triggers on pushes to `main` and daily at 15:25 UTC
-- Builds with `hugo --gc --minify` and `HUGO_ENV=production`
+- Builds with `hugo --gc --minify` and `HUGO_ENV=production` (note: `task build` locally runs `hugo --minify` without `--gc` — minor drift, harmless but worth knowing)
 - Deploys via `actions/upload-pages-artifact` + `actions/deploy-pages` (artifact-based; no `gh-pages` branch)
 
 ## Notes
