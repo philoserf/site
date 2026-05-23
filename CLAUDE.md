@@ -23,7 +23,7 @@ task new:post -- post-title  # Create new blog post
 - **Layouts**: hand-rolled, no theme/submodule. `layouts/_default/{baseof,single,list}.html`, `layouts/index.html`, `layouts/404.html`, `layouts/partials/{description,math,pagination}.html`.
 - **Content**: content/ directory with posts/ subdirectory
 - **Archetypes**: archetypes/default.md (pages — `lastmod` only) and archetypes/posts.md (posts — `date` + `lastmod`); the asymmetry is load-bearing
-- **Front matter schema**: implicit. Archetypes scaffold `title` + dates + `draft`, but real posts also carry `description`, `tags`, sometimes `aliases`/`series`/`created`. The schema is enforced by the upstream publisher, not Hugo — a post missing `description` builds but renders a degraded `<meta>`.
+- **Front matter schema**: implicit. Archetypes scaffold `title` + dates + `draft`, but real posts also carry `description`, `tags`, sometimes `aliases`/`series`/`created`. The schema is enforced by the upstream publisher, not Hugo. `layouts/partials/description.html` falls back `.Description → .Summary → Site.Params.description`, so a missing `description` degrades gracefully rather than failing.
 - **Styling**: static/style.css for the site, static/callout.css for publisher callouts (CSS variables for theming)
 - **Shortcodes**: `latin-motto`, `callout`, `mermaid` under `layouts/shortcodes/`. `callout` and `mermaid` are reference templates from `../obsidian-publisher/hugo-shortcodes/` — keep in sync if the publisher's output format changes. `mermaid.js` loads conditionally via `.HasShortcode "mermaid"` in `baseof.html`.
 - **Generated text files**: `robots.txt`, `site.webmanifest`, `vcard.vcf`, `llms.txt` render from `layouts/` templates via custom output formats on the home page — do not re-create them under `static/`
@@ -47,7 +47,4 @@ Automated to GitHub Pages via GitHub Actions (.github/workflows/deploy.yml):
 
 ## Notes
 
-- Draft content enabled in dev server (`-D` flag)
-- New content starts as drafts
-- Production builds use minification
-- Formatting: MD013 (line length) disabled
+- New content starts as `draft: true` (see archetypes); the dev server includes drafts via `-D`, production does not.
