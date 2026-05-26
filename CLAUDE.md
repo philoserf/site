@@ -2,6 +2,8 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+The current next step for this repo is tracked in the workspace backlog at `../NEXT.md` (the `site` row). Read it when starting work; update it when that step ships.
+
 ## Commands
 
 All commands use Task (Taskfile.yml). Run `task` or `task help` to see available tasks.
