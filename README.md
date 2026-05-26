@@ -71,5 +71,6 @@ Automatic via GitHub Actions on push to `main`. Built with `hugo --minify`, depl
 
 ## Resources
 
+- [walkthrough.md](walkthrough.md) — linear code tour of the layouts, partials, and build pipeline
 - Hugo documentation: <https://gohugo.io/documentation/>
 - Task documentation: <https://taskfile.dev>
