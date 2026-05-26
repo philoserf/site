@@ -48,9 +48,7 @@ The daily cron on the deploy workflow has no commit message explaining its purpo
 
 The `notAlternative: true` flag on the three custom output formats is consistent with "do not advertise these in the HTML head as alternate representations," but I haven't seen a written rationale. I think it's deliberate.
 
-The `vcard.vcf` privacy issue (`.issues/vcard-exposes-home-address-and-phone.md`) cites a file at `static/vcard.vcf` that does not exist — the vCard is templated from `layouts/index.vcard.vcf`. The PII it flags (home address, mobile, DOB) is still real, but the file path is stale. Whether the author has chosen to keep publishing those fields or has not noticed is something I cannot tell from the code alone. The fix described in the issue would be straightforward, and the issue's own "document the decision in CLAUDE.md" suggestion is the most useful thread to pull.
-
-The `.issues/` directory is itself in tension with any clean theory. Three of four files reference paths from the pre-cutover themed layout (`layouts/_partials/posts/series.html`, `layouts/partials/head/extensions.html`, plus the stale vCard path). The cutover happened months ago. Either the issues were deferred and forgotten, or the directory is being treated as a parking lot rather than an active tracker. The only currently-applicable issue is the unpinned `peaceiris/actions-hugo@v3` in the deploy workflow.
+The vCard at `layouts/index.vcard.vcf` publishes a home address, personal mobile, and date of birth. The author has confirmed this is intentional — the vCard is a deliberate, full-fidelity contact card, not an oversight. A code audit that flags it has already been dismissed twice; the decision stands.
 
 CLAUDE.md mentions a divergence between local `task build` (`hugo --minify`) and the deploy workflow (`hugo --gc --minify`) and calls it "harmless." That's plausible, but it does mean strictness is not symmetric across environments. The local `task check` is what catches build warnings; `task build` will not.
 
