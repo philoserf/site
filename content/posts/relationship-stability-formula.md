@@ -13,6 +13,7 @@ Where:
 
 - $C_1, C_2$ = communication investment by each party
 - $D$ = depth of mutual understanding ($0-1$)
+- assume $C_1 + C_2 > 0$ (otherwise define $P(\text{stability}) = 0$)
 
 ## Key Insights Explained
 
