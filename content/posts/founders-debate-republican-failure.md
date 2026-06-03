@@ -54,17 +54,6 @@ He stands near the door, as if preserving his option to leave. He says what none
 
 You cannot have self-government at this scale. You can have administration, management, the appearance of consent. Self-government requires that the governed know one another. Deliberation requires a room small enough for argument. What you have now is a continental polity held together by ritual, and rituals are not how free people live.
 
-He proposes dissolution—not of the union, but of the pretense that a single government can represent three hundred million people in any meaningful sense. Push taxation, legislation, and administration back to states and localities.  
-Madison, who has been listening, says quietly that collapse more often teaches submission than founding. The Florentines who survived their second republic's fall did not found a third. They adapted to the Medici, and they adapted quickly.
-
-Jefferson acknowledges the point without conceding it. He says the choice is between a difficult founding that might fail and a long decline that will certainly fail, and that he prefers the risk to the certainty. This is the strongest form of his argument, and the room treats it as such.
-
-Then Patrick Henry walks in, and does not sit.
-
-He stands near the door, as if preserving his option to leave. He says what none of the architects will say. The scale is the problem, has always been the problem, was the problem in 1787, and nothing proposed in this room addresses it. Madison's extended republic was a theory. It held that a nation too large for any single faction to dominate would protect liberty through its own diversity. What it produced instead was a nation too large for any citizen to influence, governed by institutions too remote to understand, financed by interests too powerful to challenge.
-
-You cannot have self-government at this scale. You can have administration, management, the appearance of consent. Self-government requires that the governed know one another, that the room be small enough for argument. What you have now is a continental polity held together by ritual, and rituals are not how free people live.
-
 He proposes dissolution—not of the union, but of the pretense that a single government can represent three hundred million people in any meaningful sense. Push taxation, legislation, and administration back to states and localities. Let the federal government handle defense, foreign treaties, and disputes between states. Nothing else.
 
 Hamilton replies that Henry's localism is sentimental geography—that scale is not the enemy of liberty but its condition, that only a continental power can resist the other continental powers now organized against it. Henry replies that a republic preserved by empire is not a republic at all. The two of them have had this argument before, and will have it again, and neither has ever moved the other.
