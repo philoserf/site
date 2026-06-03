@@ -30,4 +30,4 @@ Implications:
 - Deep enough understanding can sustain even large communication imbalance.
 - Without it, even minor imbalances threaten stability.
 - The most resilient relationships have both balanced communication and deep understanding.
-- Communication quantity without understanding is not enough..
+- Communication quantity without understanding is not enough.
