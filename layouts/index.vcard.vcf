@@ -8,17 +8,14 @@ N:{{ $c.familyName }};{{ $c.givenName }};;;
 NICKNAME:{{ .Site.Params.nickname }}
 BDAY:{{ $c.birthday }}
 LANG:{{ .Site.Language.Locale | default "en" }}
-
 EMAIL;TYPE=INTERNET:{{ .Site.Params.email }}
 TEL;TYPE=CELL:{{ $c.phone }}
 ADR;TYPE=HOME:;;{{ $a.street }};{{ $a.city }};{{ $a.region }};{{ $a.postalCode }};{{ $a.country }}
 TZ:{{ $c.timezone }}
-
 URL:{{ .Site.BaseURL }}
 X-SOCIALPROFILE;type=github:{{ $s.github }}
 X-SOCIALPROFILE;type=mastodon:{{ $s.mastodon }}
 X-SOCIALPROFILE;type=bluesky:{{ $s.bluesky }}
-
 PHOTO;VALUE=URI:{{ "apple-touch-icon.png" | absURL }}
 SOURCE:{{ "vcard.vcf" | absURL }}
 NOTE:{{ .Site.Params.motto }}
