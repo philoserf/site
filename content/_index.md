@@ -8,4 +8,4 @@ On thinking and writing, poetry and story, AI and cognition, civilizational drif
 
 {{< latin-motto >}}
 
-New here? [Start here](start-here/). Or read [About](about/), see what I'm focused on [Now](now/), or browse the [posts](posts/).
+New here? [Start here]({{< ref "/start-here" >}}). Or read [About]({{< ref "/about" >}}), see what I'm focused on [Now]({{< ref "/now" >}}), or browse the [posts]({{< ref "/posts" >}}).
