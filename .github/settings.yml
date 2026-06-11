@@ -1,8 +1,0 @@
-_extends: .github
-
-repository:
-  name: site
-  description: "My personal website"
-  homepage: https://philoserf.com/
-  topics:
-    - personal-website
