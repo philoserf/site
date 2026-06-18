@@ -30,12 +30,6 @@ params:
 
 menus:
   main:
-    - identifier: start-here
-      name: Start Here
-      pageRef: /start-here
-      weight: 5
-      params:
-        description: A curated way into the archive
     - identifier: about
       name: About
       pageRef: /about
