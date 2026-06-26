@@ -4,7 +4,7 @@ aliases:
   - /start-here/
 ---
 
-Essays in public.
+Writing in public.
 
 On thinking and writing, poetry and story, AI and cognition, civilizational drift, identity and ethics, and the small crafts of attention — coffee, calendars, kitchens, and code.
 
