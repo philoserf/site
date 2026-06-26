@@ -12,7 +12,7 @@ We lived on the fourth floor. Below us was the third floor, and below that the s
 
 We were not dead. We loved things. We loved the sound of the 7 train pulling into the station like a mechanical exhalation, the way the whole platform vibrated with it, the rush of warm stale wind that preceded the cars like an announcement. We loved the geometry of the skyline at dusk, the way it turned into a circuit board of lit windows, each one a separate life burning its separate electricity. We loved the all-night diner and the guy who knew our order and the particular shade of amber the streetlight threw on the wet sidewalk outside it. We were not without devotion. But our devotion was to a place that had been designed to make you forget it was a place at all—to make you think it was simply the world, the default, the way things obviously were. And we believed it.
 
-The company sent us to Vermont for three months. A pilot program, a satellite office in a town whose name we mispronounced for the first two weeks. We rented a farmhouse at the end of a dirt road because it was the only listing that had internet, and we moved in on a Tuesday in March, which in Vermont is not spring. In Vermont, March is the fifth month of winter. We did not know this.
+The company sent us to Vermont for six months. A pilot program, a satellite office in a town whose name we mispronounced for the first two weeks. We rented a farmhouse at the end of a dirt road because it was the only listing that had internet, and we moved in on a Tuesday in March, which in Vermont is not spring. In Vermont, March is the fifth month of winter. We did not know this.
 
 We did not know anything.
 
@@ -32,13 +32,13 @@ Here meant: this hillside faces south and catches the first real warmth in April
 
 We had lived in the city for twelve years and we did not know what the bedrock was doing beneath our building. We did not know if there was bedrock, or what kind, or how deep. We did not know what the land had been before it was a parking garage and before that a tenement and before that a tannery and before that whatever it was—a marsh, a forest, a hunting ground, a place where someone whose name was never written down once stood and noticed the angle of the light in October and understood something about the year that we, twelve floors of concrete and ambition above, had never been asked to understand.
 
-The three months passed and something had gotten into us.
+The six months passed and something had gotten into us.
 
 We began to use the word notice more than we ever had. We noticed that the light in June was not the light in April, that it had a weight and a texture, that at midsummer it arrived so early and stayed so late that the day felt like a series of rooms you kept walking through and never found the end of. We noticed the smell of the air after a storm, the way it was not one smell but a sequence—ozone first, then wet stone, then the green exhalation of every leaf that had just been washed, then the dirt, then the particular sweetness of whatever was blooming that week. In the city, rain smelled like rain. Here, rain smelled like Tuesday-in-June-after-the-hay-was-cut.
 
 We learned to read the sky, which is something that sounds romantic and is actually just pattern recognition performed slowly enough to remember. We learned that a mackerel sky in September meant rain in twelve hours, and that the thin, high cirrus clouds that looked like someone had drawn on the atmosphere with a white pencil meant a front was coming from the west, and that when the clouds piled up over the ridge in a dark, flat-bottomed armada it was time to close the windows and sit on the porch and watch. We watched. That was the thing. We watched, and the watching changed us, because the world, when you hold still in it long enough, becomes impossible to ignore. It insists. It has been insisting for four and a half billion years. We had just never been quiet enough to hear it.
 
-We drove home in September. Nine hours south and east, and we watched the land flatten and fill and harden, and by hour six we were back in the sprawl, the exit ramps, the strip malls repeated like a stutter, and by hour eight we were in traffic and the traffic was a kind of weather, a system with its own pressure gradients and convection currents, and we were inside it the way we had been inside the mud in March—except this time we knew we were inside something. That was the difference. That was the whole difference.
+We drove home in September. Nine hours south and west, and we watched the land flatten and fill and harden, and by hour six we were back in the sprawl, the exit ramps, the strip malls repeated like a stutter, and by hour eight we were in traffic and the traffic was a kind of weather, a system with its own pressure gradients and convection currents, and we were inside it the way we had been inside the mud in March—except this time we knew we were inside something. That was the difference. That was the whole difference.
 
 We parked in the garage. We took the elevator to the fourth floor. We opened the door and stood in our apartment and looked at it.
 
@@ -60,7 +60,7 @@ We were not the same people. Or we were exactly the same people, standing in exa
 
 Deb had said something once, late in the summer, sitting on her porch with a glass of water from her well. She said: People think you have to go somewhere to find it. You don't have to go anywhere. You just have to stop.
 
-We had gone somewhere. We'd gone to Vermont and stood in the mud and learned the name of a bird and watched the light move across a hillside for three months and come back changed. But the stopping was the thing, not the place. The place was wherever you stopped.
+We had gone somewhere. We'd gone to Vermont and stood in the mud and learned the name of a bird and watched the light move across a hillside for six months and come back changed. But the stopping was the thing, not the place. The place was wherever you stopped.
 
 We live on the fourth floor. Below us is the third floor, and below that the second, and below that the first, and below that the parking garage, and below that the schist.
 
