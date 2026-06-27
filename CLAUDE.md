@@ -43,7 +43,7 @@ There is no end-to-end test of the publish → render pipeline. The strict Hugo 
 
 Automated to GitHub Pages via GitHub Actions (.github/workflows/deploy.yml):
 
-- Triggers on pushes to `main` and daily at 15:25 UTC
+- Triggers on pushes to `main` and daily at 08:25 UTC
 - Builds with `hugo --gc --minify` and `HUGO_ENV=production` (note: `task build` locally runs `hugo --minify` without `--gc` — minor drift, harmless but worth knowing)
 - Deploys via `actions/upload-pages-artifact` + `actions/deploy-pages` (artifact-based; no `gh-pages` branch)
 
