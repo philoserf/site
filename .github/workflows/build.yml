@@ -39,4 +39,6 @@ jobs:
           hugo version
 
       - name: Build with Hugo
-        run: hugo --minify
+        run: hugo --gc --minify --panicOnWarning
+        env:
+          HUGO_ENV: production
