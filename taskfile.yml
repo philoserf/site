@@ -44,7 +44,7 @@ tasks:
     generates:
       - public/**/*
     cmds:
-      - hugo --minify
+      - hugo --gc --minify --panicOnWarning
     env:
       HUGO_ENV: production
 
