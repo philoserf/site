@@ -8,7 +8,7 @@ lastmod: 2026-04-06
 
 This is where I think in public—sharing what I had to learn the hard way and saying what needs saying.
 
-I keep my rules simple: say yes and build, name things once, assume good intentions. Ask for permission only when it matters, and keep tools, structure, and signal sharp.
+I keep my rules simple: say yes and build, name things once, assume good intentions. Ask for permission only when it matters; keep tools and structure small; follow defaults until they fail; keep the signal sharp.
 
 I live in Rockford, Michigan, with my wife Kerry, in the Grand Rapids orbit. I run an independent development practice under the philoserf umbrella—mostly Go and TypeScript, with a deep AI-tooling habit—alongside regular shifts at Apple R132 Woodland. Family and friends shape the week as much as the work does, and that suits me.
 
