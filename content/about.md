@@ -16,7 +16,7 @@ I am more synthesizer than specialist. My reading ranges freely—hickory-era go
 
 I've spent time in small towns, big cities, ancient ruins, busy shops, and server rooms, and shoveled snow, served burgers, worn a uniform, led teams, and worked alongside people building things that mattered to them.
 
-Two stints in the Army (1980–1983, 1988–1992) taught me that clarity and discipline carry a team through chaos. Time in nonprofits showed me what a small group with a shared purpose can do. Companies of every size, large and small, left me with the same lesson from different angles: the problems are hard, and the people doing the work deserve better tools.
+Two stints in the Army (1980–1983, 1988–1992) taught me that clarity and discipline carry a team through chaos. Time in nonprofits showed me what a small group with a shared purpose can do. Companies of every size, large and small, left me with the same lesson from different angles: the problems are hard, the time is short, and the people doing the work deserve better tools.
 
 What I carry from all of it: a sense of consequence and a habit of watching the edges.
 
