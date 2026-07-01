@@ -2,6 +2,8 @@
 title: Now
 description: "What I'm reading, focused on, and looking toward right now. Updated when reality changes."
 lastmod: 2026-05-06
+aliases:
+  - /posts/now
 ---
 
 ## Where am I
