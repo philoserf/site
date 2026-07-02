@@ -3,6 +3,7 @@ title: Cultivating Animist Perception
 description: Four practical entry paths for developing animism as a perceptual habit, from sustained attention to reciprocal relationships with place.
 date: 2026-06-14
 ---
+
 The most honest starting point is that animism isn’t a belief you install but a perceptual habit you cultivate. It is not about adopting propositions like “rocks are alive”; it is about relaxing the habit that treats everything non-human as inert backdrop. There are several entry paths, none of them mutually exclusive, and the work is a kind of training.
 
 The first is simple attention. Sit with a single non-human entity—a tree, a stretch of river, a particular stone—regularly, across weeks. Do not meditate on it; attend the way you would attend to a person you are getting to know, noticing what it does, how it changes, what it seems to respond to. This is where Graham Harvey’s relational animism points: he frames animism as learning to be a good neighbor to other-than-human persons. The practice is simple and hard, because it asks you to sustain attention without immediately extracting meaning from what you attend to.

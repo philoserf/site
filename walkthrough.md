@@ -1,6 +1,6 @@
 # philoserf.com Walkthrough
 
-*2026-05-26T15:24:18Z by Showboat 0.6.1*
+_2026-05-26T15:24:18Z by Showboat 0.6.1_
 <!-- showboat-id: 2898901e-8ca2-42a3-9921-bfd6d7e0bd85 -->
 
 ## Overview
@@ -10,7 +10,7 @@
 - **Hugo Extended** generates the site (no theme, hand-rolled `layouts/`).
 - **Task** drives every build, dev, and check command.
 - **GitHub Actions** publishes to GitHub Pages on push to `main` and once a day.
-- Most posts under `content/posts/` are *output* — written in an Obsidian vault and emitted by the `obsidian-publisher` plugin. Only `content/_index.md`, `about.md`, `now.md`, and `uses.md` are safely edited here.
+- Most posts under `content/posts/` are _output_ — written in an Obsidian vault and emitted by the `obsidian-publisher` plugin. Only `content/_index.md`, `about.md`, `now.md`, and `uses.md` are safely edited here.
 
 This walkthrough follows the build outward: config → task runner → layouts → partials → custom output formats → shortcodes → archetypes → deploy.
 
@@ -696,4 +696,3 @@ For the home page, the path is `layouts/index.html` (HTML output) plus four sibl
 - `CLAUDE.md` — author-facing notes on the project, including the Obsidian publisher relationship and the implicit front-matter schema.
 - `.issues/` — local issue tracker (gitignored). Currently flags inconsistent layouts/partials dir naming, off-by-one in series partial maxitems, vCard PII exposure, and an unpinned deploy action.
 - `../NEXT.md` — workspace backlog. No row for `site` at the moment.
-
