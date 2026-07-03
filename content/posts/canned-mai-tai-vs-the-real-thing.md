@@ -16,7 +16,7 @@ What lets the approximation wear a cocktail's name is the law. Federal labeling 
 
 So the promise on the front and the truth on the back never have to meet. "Real rum" is true. "Mai Tai" is permitted. The can is engineered to be legal and shelf-stable, not to be good, and it is allowed to borrow the name of the drink it declines to be.
 
-The real thing answers to none of this. By Trader Vic’s account, it began with two rums, lime, curaçao, and orgeat, shaken and poured over crushed ice—honest spirits and fresh ingredients meeting in the glass.
+The real thing answers to none of this. By Trader Vic's account, it began with two rums, lime, curaçao, and orgeat, shaken and poured over crushed ice—honest spirits and fresh ingredients meeting in the glass.
 
 **Classic Mai Tai (for one)**
 

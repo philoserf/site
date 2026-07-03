@@ -8,6 +8,7 @@ This list, started in late 2022, is far from complete. I'm sure I've missed some
 
 ## Finished in 2026
 
+- _Confessions of an English Opium-Eater_ by Thomas De Quincey (1821)
 - _Naked Lunch_ by William S. Burroughs (1959)
 
 ## Fiction
