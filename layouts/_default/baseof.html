@@ -30,8 +30,8 @@
   <meta name="twitter:description" content="{{ $description }}">
   <meta name="twitter:image" content="{{ "og-image.png" | absURL }}">
 
-  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#faf7f1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#201d18" media="(prefers-color-scheme: dark)">
 
   <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
   <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
@@ -53,7 +53,7 @@
   <header>
     <nav class="primary-nav">
       <div class="nav-brand">
-        <a href="{{ "/" | relURL }}" class="logo" aria-label="{{ .Site.Title }} — home"><img src="{{ "favicon.svg" | relURL }}" alt="" width="40" height="40"></a>
+        <a href="{{ "/" | relURL }}" class="wordmark" aria-label="{{ .Site.Title }} — home">{{ .Site.Title }}</a>
       </div>
       <div class="nav-links">
         {{ range .Site.Menus.main }}
