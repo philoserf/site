@@ -1,7 +1,7 @@
 ---
 title: Now
 description: "What I'm reading, focused on, and looking toward right now. Updated when reality changes."
-lastmod: 2026-05-06
+lastmod: 2026-07-03
 aliases:
   - /posts/now
 ---
@@ -16,18 +16,15 @@ At home in Greater Grand Rapids, Michigan
 - _There is No Antimemetics Division_ by Qntm (2025)
 - _Meru_ by S.B. Divya (2023)
 - _The Rise of the Dragon_ by George R. R. Martin (2022)
-- _Confessions of an English Opium-Eater_ by Thomas De Quincey (1821)
 
 ## What am I focused on
 
 - Returning to golf
 - Establishing fresh, healthy routines
-- Curating, connecting, and creating notes across a 2,400-note Obsidian vault, with AI partners doing the heavy lifting
 
 ## What I'm looking forward to
 
-- Walks outside as the weather opens up
-- [GopherCon 2026](https://gophercon.com/) in Seattle in August
+- Roadtripping to [GopherCon 2026](https://gophercon.com/) in Seattle
 - An autumn weeklong getaway
 
 ---
