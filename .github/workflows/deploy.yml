@@ -31,6 +31,12 @@ jobs:
       - run: hugo --gc --minify --panicOnWarning
         env:
           HUGO_ENV: production
+      - uses: lycheeverse/lychee-action@v2 # non-blocking while gauging noise (#719)
+        continue-on-error: true
+        with:
+          args: --root-dir "${{ github.workspace }}/public" --include-fragments --no-progress 'public/**/*.html'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       - uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
