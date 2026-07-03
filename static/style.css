@@ -1,7 +1,7 @@
 /* ============================================================
    philoserf — Warm Paper theme
-   Drop-in replacement for style.css. Same selectors and token
-   names as before; retinted + retyped for comfortable reading.
+   Retinted + retyped for comfortable reading; selectors match the
+   pre-redesign stylesheet.
    The header wordmark is rendered by baseof.html from .Site.Title.
    ============================================================ */
 
@@ -10,7 +10,9 @@
 :root {
   /* Color — warm paper */
   --primary-color: #0a66a8;
-  --primary-dark: #084e82;
+  /* Hover shifts away from the resting link color: darker on the light
+     scheme, brighter on the dark one — named by role, not lightness */
+  --link-hover: #084e82;
   --primary-light: #e9f1f8;
   --text-color: #241f18;
   --text-muted: #6d6353;
@@ -45,7 +47,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --primary-color: #6aabdd;
-    --primary-dark: #93c4e8;
+    --link-hover: #93c4e8;
     --primary-light: #1e3346;
     --text-color: #e9e4da;
     --text-muted: #a89d8c;
@@ -169,7 +171,7 @@ a {
 }
 
 a:hover {
-  color: var(--primary-dark);
+  color: var(--link-hover);
 }
 
 /* --- Header & nav (centered wordmark over small-caps nav) --- */
@@ -503,7 +505,7 @@ article > header time {
 .pagination a:hover,
 .pagination a:focus {
   border-color: var(--primary-color);
-  color: var(--primary-dark);
+  color: var(--link-hover);
 }
 
 /* --- Homepage --- */
