@@ -24,9 +24,8 @@ What I use day to day. Updated when reality changes — not aspirations, not eve
 
 ## Golf
 
-- Clubs: Tad Moore hickory 8-club set
-- Balls: MacIntyre
-- Bag: Tuberon canvas
+- Modern: Ping G2 5-wood, Ping S59 irons, Takomo wedges, Ping Craz-E putter, Callaway balls, Ping Hoofer Lite bag
+- Hickory: Tad Moore 8-club set, MacIntyre balls, Tuberon canvas bag
 
 ---
 
