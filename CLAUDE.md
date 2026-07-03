@@ -22,12 +22,12 @@ task new:post -- post-title  # Create new blog post
 ## Architecture
 
 - **Config**: hugo.yaml. `enableGitInfo: true` — posts can omit `lastmod` and Hugo falls back to the git commit date; do not disable without auditing every post.
-- **Layouts**: hand-rolled, no theme/submodule. `layouts/_default/{baseof,single,list}.html`, `layouts/index.html`, `layouts/404.html`, `layouts/partials/{description,math,pagination}.html`.
+- **Layouts**: hand-rolled, no theme/submodule. `layouts/_default/{baseof,single,list}.html`, `layouts/index.html`, `layouts/404.html`, `layouts/partials/{description,math,mermaid,pagination}.html`.
 - **Content**: content/ directory with posts/ subdirectory
 - **Archetypes**: archetypes/default.md (pages — `lastmod` only) and archetypes/posts.md (posts — `date` + `lastmod`); the asymmetry is load-bearing
 - **Front matter schema**: implicit. Archetypes scaffold `title` + dates + `draft`, but real posts also carry `description`, `tags`, sometimes `aliases`/`series`/`created`. The schema is enforced by the upstream publisher, not Hugo. `layouts/partials/description.html` falls back `.Description → .Summary → Site.Params.description`, so a missing `description` degrades gracefully rather than failing.
 - **Styling**: static/style.css for the site, static/callout.css for publisher callouts (CSS variables for theming)
-- **Shortcodes**: `latin-motto`, `callout`, `mermaid` under `layouts/shortcodes/`. `callout` and `mermaid` are reference templates from `../obsidian-publisher/hugo-shortcodes/` — keep in sync if the publisher's output format changes. `mermaid.js` loads conditionally via `.HasShortcode "mermaid"` in `baseof.html`.
+- **Shortcodes**: `latin-motto`, `callout`, `mermaid` under `layouts/shortcodes/`. `callout` and `mermaid` are reference templates from `../obsidian-publisher/hugo-shortcodes/` — keep in sync if the publisher's output format changes. Mermaid loads from jsDelivr with an SRI hash via `layouts/partials/mermaid.html`, conditionally on `.HasShortcode "mermaid"` — bumping the pinned version requires recomputing the `integrity` hash.
 - **Generated text files**: `robots.txt`, `site.webmanifest`, `vcard.vcf`, `llms.txt` render from `layouts/` templates via custom output formats on the home page — do not re-create them under `static/`
 - **Build output**: public/ (gitignored), resources/ (gitignored)
 
