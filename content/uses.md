@@ -22,6 +22,12 @@ What I use day to day. Updated when reality changes — not aspirations, not eve
 - Documents: Pandoc, Typst
 - Site: Hugo, published from Obsidian via obsidian-publisher
 
+## Golf
+
+- Clubs: Tad Moore hickory 8-club set
+- Balls: MacIntyre
+- Bag: Tuberon canvas
+
 ---
 
 This is a [uses page](https://uses.tech/). The idea comes from [Wes Bos](https://wesbos.com/uses).
