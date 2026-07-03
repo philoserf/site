@@ -85,3 +85,73 @@
   --callout-bg: #f5f5f5;
   --callout-accent: #757575;
 }
+
+@media (prefers-color-scheme: dark) {
+  .callout {
+    --callout-bg: var(--callout-note-bg, #1e2a3a);
+    --callout-accent: var(--callout-note-accent, #7ab3ec);
+  }
+  .callout-note {
+    --callout-bg: #1e2a3a;
+    --callout-accent: #7ab3ec;
+  }
+  .callout-abstract,
+  .callout-summary,
+  .callout-tldr {
+    --callout-bg: #1b2f2e;
+    --callout-accent: #4dc4b8;
+  }
+  .callout-info,
+  .callout-todo {
+    --callout-bg: #1c2b3a;
+    --callout-accent: #64b5f6;
+  }
+  .callout-tip,
+  .callout-hint,
+  .callout-important {
+    --callout-bg: #33291a;
+    --callout-accent: #ffb74d;
+  }
+  .callout-success,
+  .callout-check,
+  .callout-done {
+    --callout-bg: #1e2f20;
+    --callout-accent: #66bb6a;
+  }
+  .callout-question,
+  .callout-help,
+  .callout-faq {
+    --callout-bg: #2d2233;
+    --callout-accent: #ba68c8;
+  }
+  .callout-warning,
+  .callout-caution,
+  .callout-attention {
+    --callout-bg: #332718;
+    --callout-accent: #ffa040;
+  }
+  .callout-failure,
+  .callout-fail,
+  .callout-missing {
+    --callout-bg: #331f1f;
+    --callout-accent: #ef6e6b;
+  }
+  .callout-danger,
+  .callout-error {
+    --callout-bg: #331d1d;
+    --callout-accent: #e57373;
+  }
+  .callout-bug {
+    --callout-bg: #321f27;
+    --callout-accent: #ec5f8f;
+  }
+  .callout-example {
+    --callout-bg: #2b2133;
+    --callout-accent: #b077d6;
+  }
+  .callout-quote,
+  .callout-cite {
+    --callout-bg: #2a2620;
+    --callout-accent: #a89d8c;
+  }
+}
