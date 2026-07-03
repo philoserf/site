@@ -338,7 +338,6 @@ blockquote {
   padding: 0.1rem 0 0.1rem 1.25rem;
   margin: 0 0 1.15rem;
   color: var(--text-muted);
-  font-style: italic;
   font-size: 0.95em;
 }
 
@@ -419,7 +418,7 @@ article > header time {
   display: block;
   font-family: var(--font-sans);
   color: var(--text-muted);
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
   margin: 0 0 0.75rem;
@@ -524,7 +523,6 @@ article > header time {
   font-family: var(--font-serif);
   text-align: center;
   color: var(--text-muted);
-  font-style: italic;
   font-size: 0.95rem;
   margin: 2.4rem 0;
 }
@@ -544,7 +542,7 @@ footer {
   text-align: center;
   font-family: var(--font-sans);
   color: var(--text-muted);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
 }
 
 footer p {
