@@ -2,11 +2,7 @@
    philoserf — Warm Paper theme
    Drop-in replacement for style.css. Same selectors and token
    names as before; retinted + retyped for comfortable reading.
-   Works with existing Hugo markup unchanged.
-
-   Optional HTML tweak (recommended): replace the logo <img>
-   in .nav-brand with a text wordmark:
-     <a class="wordmark" href="/">Philoserf</a>
+   The header wordmark is rendered by baseof.html from .Site.Title.
    ============================================================ */
 
 /* --- Tokens --- */
@@ -195,7 +191,7 @@ header {
   flex-shrink: 0;
 }
 
-/* Text wordmark (optional markup: <a class="wordmark" href="/">Philoserf</a>) */
+/* Text wordmark (rendered in baseof.html) */
 .wordmark {
   font-family: var(--font-serif);
   font-size: 1rem;
