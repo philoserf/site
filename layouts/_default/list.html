@@ -5,8 +5,8 @@
   <ul class="posts">
     {{ range .Paginator.Pages }}
     <li>
-      <time class="date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
       <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <time class="date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
     </li>
     {{ end }}
   </ul>

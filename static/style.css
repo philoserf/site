@@ -1,16 +1,27 @@
+/* ============================================================
+   philoserf — Warm Paper theme
+   Drop-in replacement for style.css. Same selectors and token
+   names as before; retinted + retyped for comfortable reading.
+   Works with existing Hugo markup unchanged.
+
+   Optional HTML tweak (recommended): replace the logo <img>
+   in .nav-brand with a text wordmark:
+     <a class="wordmark" href="/">Philoserf</a>
+   ============================================================ */
+
 /* --- Tokens --- */
 
 :root {
-  /* Color */
-  --primary-color: #0077cc;
-  --primary-dark: #0055a0;
-  --primary-light: #e6f2ff;
-  --text-color: #1a1a1a;
-  --text-muted: #666;
-  --background-color: #fff;
-  --surface-color: #fafafa;
-  --border-color: #e0e0e0;
-  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.12);
+  /* Color — warm paper */
+  --primary-color: #0a66a8;
+  --primary-dark: #084e82;
+  --primary-light: #e9f1f8;
+  --text-color: #241f18;
+  --text-muted: #6d6353;
+  --background-color: #faf7f1;
+  --surface-color: #f3eee3;
+  --border-color: #e5ddce;
+  --shadow-md: 0 4px 12px rgba(60, 48, 30, 0.12);
 
   /* Font stacks — platform-native */
   --font-sans:
@@ -24,27 +35,27 @@
 
   /* Fluid type — small viewport → large viewport */
   --fs-base: clamp(1.0625rem, 1rem + 0.25vw, 1.1875rem); /* 17 → 19 */
-  --fs-h1: clamp(2rem, 1.55rem + 2vw, 2.75rem); /* 32 → 44 */
-  --fs-h2: clamp(1.5rem, 1.3rem + 1vw, 2rem); /* 24 → 32 */
-  --fs-h3: clamp(1.25rem, 1.15rem + 0.5vw, 1.5rem); /* 20 → 24 */
-  --fs-h4: clamp(1.125rem, 1.075rem + 0.25vw, 1.25rem); /* 18 → 20 */
-  --fs-small: 0.9rem;
+  --fs-h1: clamp(1.75rem, 1.4rem + 1.5vw, 2.25rem); /* 28 → 36 */
+  --fs-h2: clamp(1.4rem, 1.25rem + 0.75vw, 1.75rem); /* 22 → 28 */
+  --fs-h3: clamp(1.2rem, 1.1rem + 0.5vw, 1.4rem); /* 19 → 22 */
+  --fs-h4: clamp(1.1rem, 1.05rem + 0.25vw, 1.2rem); /* 18 → 19 */
+  --fs-small: 0.85rem;
 
   /* Measure — comfortable line length for prose */
-  --measure-prose: 38rem; /* ~65–70ch in system fonts */
-  --measure-shell: 38rem; /* unified column: nav, content, footer */
+  --measure-prose: 38rem;
+  --measure-shell: 38rem;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --primary-color: #4ea8e6;
-    --primary-dark: #82c2ec;
-    --primary-light: #1a3a5c;
-    --text-color: #e8e8e8;
-    --text-muted: #a8a8a8;
-    --background-color: #1a1a1a;
-    --surface-color: #2d2d2d;
-    --border-color: #444;
+    --primary-color: #6aabdd;
+    --primary-dark: #93c4e8;
+    --primary-light: #1e3346;
+    --text-color: #e9e4da;
+    --text-muted: #a89d8c;
+    --background-color: #201d18;
+    --surface-color: #2a2620;
+    --border-color: #3a352c;
   }
 }
 
@@ -65,12 +76,12 @@ html {
 body {
   font-family: var(--font-serif);
   font-size: var(--fs-base);
-  line-height: 1.55;
+  line-height: 1.68;
   color: var(--text-color);
   background: var(--background-color);
   max-width: var(--measure-shell);
   margin: 0 auto;
-  padding: 1.5rem;
+  padding: 2.5rem 1.5rem 1.5rem;
   transition:
     background-color 0.2s,
     color 0.2s;
@@ -80,7 +91,7 @@ body {
 
 @media (max-width: 640px) {
   body {
-    padding: 1rem;
+    padding: 1.5rem 1rem 1rem;
   }
 }
 
@@ -113,7 +124,7 @@ h4,
 h5,
 h6 {
   font-family: var(--font-serif);
-  line-height: 1.2;
+  line-height: 1.22;
   font-weight: 600;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
@@ -124,20 +135,20 @@ h6 {
 h1 {
   font-size: var(--fs-h1);
   margin-top: 0;
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
   font-weight: 700;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
 }
 
 h2 {
   font-size: var(--fs-h2);
-  margin-top: 2rem;
+  margin-top: 2.2rem;
   margin-bottom: 1rem;
 }
 
 h3 {
   font-size: var(--fs-h3);
-  margin-top: 1.5rem;
+  margin-top: 1.6rem;
   margin-bottom: 0.75rem;
 }
 
@@ -148,7 +159,7 @@ h4 {
 }
 
 p {
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.15rem;
   text-wrap: pretty;
 }
 
@@ -157,7 +168,7 @@ p {
 a {
   color: var(--primary-color);
   text-decoration-thickness: 1px;
-  text-underline-offset: 0.15em;
+  text-underline-offset: 0.18em;
   transition: color 0.2s;
 }
 
@@ -165,25 +176,46 @@ a:hover {
   color: var(--primary-dark);
 }
 
-/* --- Header & nav --- */
+/* --- Header & nav (centered wordmark over small-caps nav) --- */
 
 header {
-  margin-bottom: 2.5rem;
-  padding: 1rem 0;
+  margin-bottom: 2.2rem;
+  padding: 0 0 1.4rem;
   border-bottom: 1px solid var(--border-color);
 }
 
 .primary-nav {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   align-items: center;
-  gap: 1.5rem;
+  gap: 0.9rem;
 }
 
 .nav-brand {
   flex-shrink: 0;
 }
 
+/* Text wordmark (optional markup: <a class="wordmark" href="/">Philoserf</a>) */
+.wordmark {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--text-color);
+  text-decoration: none;
+  /* ~51px tap target; negative margin cancels the padding so the
+     centered header layout is unchanged */
+  display: inline-block;
+  padding: 0.75rem 0.5rem;
+  margin: -0.75rem -0.5rem;
+}
+
+.wordmark:hover {
+  color: var(--primary-color);
+}
+
+/* Existing image logo still supported */
 .logo {
   display: inline-flex;
   align-items: center;
@@ -209,18 +241,22 @@ header {
 
 .nav-links {
   display: flex;
-  gap: 1.25rem;
+  gap: 1.6rem;
   align-items: center;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .nav-link {
-  color: var(--text-color);
+  font-family: var(--font-sans);
+  color: var(--text-muted);
   text-decoration: none;
-  font-weight: 600;
-  font-size: var(--fs-small);
+  font-weight: 500;
+  font-size: 0.75rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
   position: relative;
-  padding: 0.75rem 0.5rem;
+  padding: 0.75rem 0.25rem;
   min-height: 44px;
   display: inline-flex;
   align-items: center;
@@ -230,10 +266,10 @@ header {
 .nav-link::after {
   content: "";
   position: absolute;
-  bottom: -2px;
+  bottom: 8px;
   left: 0;
   width: 0;
-  height: 2px;
+  height: 1.5px;
   background: var(--primary-color);
   transition: width 0.3s ease;
 }
@@ -250,12 +286,11 @@ header {
 
 @media (max-width: 480px) {
   .primary-nav {
-    gap: 0.75rem;
-    flex-wrap: wrap;
+    gap: 0.6rem;
   }
 
   .nav-links {
-    gap: 0.75rem;
+    gap: 1rem;
   }
 
   .logo {
@@ -280,17 +315,17 @@ code {
   padding: 0.15em 0.4em;
   border-radius: 3px;
   font-family: var(--font-mono);
-  font-size: 0.9em;
+  font-size: 0.85em;
 }
 
 pre {
   background: var(--surface-color);
   padding: 1.25rem;
-  border-radius: 8px;
+  border-radius: 6px;
   overflow-x: auto;
   margin-bottom: 1.5rem;
-  border-left: 4px solid var(--primary-color);
-  font-size: 0.9rem;
+  border-left: 3px solid var(--primary-color);
+  font-size: 0.85rem;
 }
 
 pre code {
@@ -301,19 +336,20 @@ pre code {
 }
 
 blockquote {
-  border-left: 4px solid var(--primary-color);
-  padding-left: 1.25rem;
-  margin: 0 0 1.5rem;
+  border-left: 3px solid var(--primary-color);
+  padding: 0.1rem 0 0.1rem 1.25rem;
+  margin: 0 0 1.15rem;
   color: var(--text-muted);
   font-style: italic;
+  font-size: 0.95em;
 }
 
 /* --- Lists & images --- */
 
 ul,
 ol {
-  margin-left: 1.5rem;
-  margin-bottom: 1.25rem;
+  margin-left: 1.4rem;
+  margin-bottom: 1.15rem;
 }
 
 li {
@@ -325,7 +361,7 @@ img {
   height: auto;
   display: block;
   margin: 1.5rem 0;
-  border-radius: 8px;
+  border-radius: 6px;
 }
 
 hr {
@@ -369,7 +405,7 @@ hr {
   }
 }
 
-/* --- Articles (single post — plain, no card) --- */
+/* --- Articles (single post) --- */
 
 article {
   margin-bottom: 2rem;
@@ -377,43 +413,51 @@ article {
 
 article > header {
   border: none;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.6rem;
   padding-bottom: 0;
 }
 
 article > header time {
   display: block;
+  font-family: var(--font-sans);
   color: var(--text-muted);
-  font-size: var(--fs-small);
-  margin-top: 0.5rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin: 0 0 0.75rem;
 }
 
-/* --- Posts list (cards) --- */
+/* --- Posts list (title over date) --- */
 
 .posts {
   list-style: none;
   padding: 0;
   margin: 0;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .posts li {
   display: flex;
-  align-items: baseline;
-  gap: 1rem;
-  padding: 0.6rem 0;
-  border-bottom: 1px solid var(--border-color);
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.8rem 0;
+  border-top: 1px solid var(--border-color);
+  border-bottom: none;
 }
 
 .posts .date {
-  flex: 0 0 9rem;
+  flex: 0 0 auto;
+  font-family: var(--font-sans);
   color: var(--text-muted);
-  font-size: var(--fs-small);
+  font-size: 0.75rem;
   font-variant-numeric: tabular-nums;
 }
 
 .posts .title {
   flex: 1;
   min-width: 0;
+  font-size: 1.125rem;
+  line-height: 1.4;
   color: var(--text-color);
   text-decoration: none;
   overflow-wrap: anywhere;
@@ -424,32 +468,24 @@ article > header time {
   color: var(--primary-color);
 }
 
-@media (max-width: 480px) {
-  .posts li {
-    flex-direction: column;
-    gap: 0.25rem;
-  }
-
-  .posts .date {
-    flex: 0 0 auto;
-  }
-}
-
 .pagination {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 0.4rem;
-  margin: 2.5rem 0 0;
+  gap: 0.5rem;
+  margin: 2.2rem 0 0;
   padding: 0;
-  font-size: var(--fs-small);
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
 }
 
 .pagination li.current {
   padding: 0.5rem 0.75rem;
   font-weight: 700;
   color: var(--text-color);
+  display: inline-flex;
+  align-items: center;
 }
 
 .pagination a {
@@ -457,26 +493,27 @@ article > header time {
   align-items: center;
   min-height: 44px;
   padding: 0.5rem 0.75rem;
-  background: var(--primary-light);
+  background: none;
   color: var(--primary-color);
-  border-radius: 6px;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
   font-weight: 600;
   text-decoration: none;
   transition:
-    background 0.2s,
+    border-color 0.2s,
     color 0.2s;
 }
 
 .pagination a:hover,
 .pagination a:focus {
-  background: var(--primary-color);
-  color: white;
+  border-color: var(--primary-color);
+  color: var(--primary-dark);
 }
 
 /* --- Homepage --- */
 
 .homepage-content {
-  margin-bottom: 2.5rem;
+  margin-bottom: 2.4rem;
 }
 
 .homepage-content p:last-child {
@@ -489,7 +526,9 @@ article > header time {
   font-family: var(--font-serif);
   text-align: center;
   color: var(--text-muted);
-  margin: 2rem 0;
+  font-style: italic;
+  font-size: 0.95rem;
+  margin: 2.4rem 0;
 }
 
 .latin-motto p {
@@ -501,16 +540,25 @@ article > header time {
 
 footer {
   margin-top: 3rem;
-  padding-top: 1.5rem;
+  padding-top: 1.3rem;
   padding-bottom: 1rem;
   border-top: 1px solid var(--border-color);
   text-align: center;
+  font-family: var(--font-sans);
   color: var(--text-muted);
-  font-size: var(--fs-small);
+  font-size: 0.72rem;
 }
 
 footer p {
   margin-bottom: 0.5rem;
+}
+
+footer a {
+  color: var(--text-muted);
+}
+
+footer a:hover {
+  color: var(--primary-color);
 }
 
 /* --- Focus styles (keyboard) --- */
@@ -541,6 +589,8 @@ footer p {
     max-width: 100%;
     padding: 0;
     font-size: 11pt;
+    background: #fff;
+    color: #000;
   }
 
   header,
