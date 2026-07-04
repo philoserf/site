@@ -65,8 +65,3 @@ The system behaves more like an API contract than a shell alias.
 A command tells Claude who should handle this. A skill or agent decides how it is handled.
 
 That's it.
-
----
-
-[Example skill](https://github.com/philoserf/claude-code-setup/blob/main/skills/command-authoring/SKILL.md) - Working example from claude-code-setup repository  
-[Repository](https://github.com/philoserf/claude-code-setup) - Reference implementation with commands, skills, and agents
