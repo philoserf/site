@@ -1,13 +1,14 @@
 ---
 title: Books I have read
 description: Personal reading log spanning fiction and nonfiction, organized by genre with works from 1908 to 2026.
-date: 2026-03-08
+date: 2026-07-04
 ---
 
 This list, started in late 2022, is far from complete. I'm sure I've missed some and will again.
 
 ## Finished in 2026
 
+- _A Monestary Within_ by Gil Fronsdal, (2010)
 - _Confessions of an English Opium-Eater_ by Thomas De Quincey (1821)
 - _Naked Lunch_ by William S. Burroughs (1959)
 
