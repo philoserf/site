@@ -12,10 +12,10 @@ At home in Greater Grand Rapids, Michigan
 
 ## What am I reading
 
-- _Apple: The First 50 Years_ by David Pogue (2026)
 - _There is No Antimemetics Division_ by Qntm (2025)
-- _Meru_ by S.B. Divya (2023)
 - _The Rise of the Dragon_ by George R. R. Martin (2022)
+- _Derai_ by E. C. Tubb (1968)
+- _Story Grid_ by Shawn Coyne (2015)
 
 ## What am I focused on
 
