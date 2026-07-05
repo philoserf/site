@@ -1,7 +1,7 @@
 ---
 title: Now
 description: "What I'm reading, focused on, and looking toward right now. Updated when reality changes."
-lastmod: 2026-07-03
+lastmod: 2026-07-04
 aliases:
   - /posts/now
 ---
