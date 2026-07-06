@@ -24,9 +24,9 @@ Their most insightful individuals occasionally sense the Wheel's presence. One s
 
 Martha is classified as "unstable" by her society's crude assessment metrics. Their medical establishments medicate such perceptions away. Canopus recognizes these individuals as potential breakthrough specimens—those whose neurological structures resist the Wheel's mnemonic erasure protocols.
 
-The subjects' obsession with measurement is particularly revealing. They quantify everything: economic output, geological time, psychological states, social interactions. They construct elaborate statistical models, calculating means, medians, standard deviations—seeking patterns in data while blind to the pattern of their own existence.
+The species measures. Economic output, geological time, grief, acquaintance—all of it rendered in number. In the numbers they hunt patterns, blind to the pattern they themselves compose.
 
-I attended a conference where their scientists presented findings on memory deterioration. They spoke of neurological decay, information processing, cognitive bias—all without recognizing these as intentional features of the Wheel's design. They reach for understanding through numbers, believing quantification equals comprehension.
+At a conference on memory I heard their scientists name the decay precisely—neurological, informational, biased—and mistake the naming for the cause. Not one suspected design.
 
 This species spends remarkably little consciousness in their present moment. Their temporal awareness is divided thus:
 
@@ -35,27 +35,16 @@ This species spends remarkably little consciousness in their present moment. The
 - 12.3% processing immediate sensory data without full awareness
 - Only 5.9% in true present-moment consciousness
 
-These figures have remained consistent across all measurement periods since the Third Adjustment. The Wheel's functioning depends upon this distribution—a species fully present would detect its subtle mechanics.
+The Wheel's functioning depends upon this distribution—a species fully present would detect its subtle mechanics.
 
-What they cannot see is that their memories are not merely fading through natural entropy but are systematically removed to maintain the experiment's parameters. Each generation believes itself unique, unaware they repeat the essential patterns of their predecessors with only cosmetic variations.
+From my window I watch them cross the city, each certain the route is chosen.
 
-From my apartment window, I observe them moving through their city, each believing their journey original, their destination chosen. None perceive the invisible tracks along which they travel, prescribed by forces beyond their comprehension.
+A child stopped beneath my window yesterday and looked up. "The wheel is turning," she said, and walked on. The anomaly was logged.
 
-There are exceptions. A child stopped beneath my window yesterday, looking up with unusual directness. "The wheel is turning," she said clearly, then continued on her way. Such anomalies are logged but rarely indicate systemic failure. The Wheel compensates, adjusting neurochemical balances to restore standard perception patterns.
+Their teachers have pointed at the present moment, the narrow band where the Wheel might be seen. The pointing became religions. The religions became the Wheel's.
 
-The species' most enlightened teachers have attempted to direct attention to the present moment—to that narrow band of consciousness where the Wheel's influence might be perceived. These efforts are invariably absorbed into religious or philosophical systems that ultimately reinforce the very patterns they sought to transcend.
-
-It bears noting that similar experiments on other worlds have progressed differently. On Rohanda, the species developed awareness of the Wheel within three cycles. On Shammat, the experiment was terminated after their resistance to cyclical consciousness proved insurmountable.
+It bears noting that similar experiments on other worlds have progressed differently. On Veldan-2, the species developed awareness of the Wheel within three cycles. On Cires, the experiment was terminated after their resistance to cyclical consciousness proved insurmountable.
 
 The question before Canopus now is whether to initiate the Terminal Phase—allowing Sol-3's inhabitants to perceive the Wheel—or to maintain the experiment through another cycle. The Committee of Assessment remains divided.
 
-My recommendation, based on three centuries of observation, is to introduce a controlled dissolution of the Wheel. The resultant chaos would be considerable but necessary for evolutionary advancement. A species trapped in cycles of forgetting cannot contribute meaningfully to the cosmic harmony that is Canopus's ultimate concern.
-
-I close this report with an observation made by Subject Martha during our final interview, shortly before her pharmaceutical regimen was adjusted to eliminate her perceptions:
-
-"We live reaching backward and stretching forward, but never fully inhabiting now. Perhaps that's the tragedy—that the only moment we could truly live in slips away unnoticed, over and over again."
-
-She came closer to understanding than any subject in my observation period. The Wheel turned, and she has since forgotten this insight. But I have recorded it here, in the Archives of Canopus, where nothing is ever truly forgotten.
-
-_End Report_  
-_Awaiting Instructions_
+My recommendation, based on three centuries of observation, is to introduce a controlled dissolution of the Wheel. The resultant chaos would be considerable but necessary for evolutionary advancement. A species trapped in cycles of forgetting is of no further use to Canopus.
