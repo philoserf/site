@@ -3,8 +3,8 @@ title: Canopus Survey Great Wheel
 description: A Canopus agent documents Earth's inhabitants cycling through prescribed patterns, unaware of the Great Wheel erasing their collective memory.
 date: 2026-07-08
 ---
-_From the Archives of Canopus: Survey Document 31572-B_
-_Agent Johor, Colonial Service_
+_From the Archives of Canopus: Survey Document 31572-B_  
+_Agent Johor, Colonial Service_  
 _Third Assessment: Terminal Phase of Experiment_
 
 It is with necessary detachment that I record these observations on the species of Sol-3 (local designation: Earth). As representatives of Canopus, we are charged with monitoring the evolutionary developments of various planetary experiments. This one appears to be approaching a critical juncture.
