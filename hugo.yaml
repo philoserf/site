@@ -15,6 +15,7 @@ params:
 
   home:
     headline: "Uncompressed public thinking"
+    startHereIntro: "Essays that say what the rest is trying to do."
     featured:
       pageRef: /posts/agency-without-a-self
     startHere:

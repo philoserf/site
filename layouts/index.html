@@ -50,8 +50,8 @@
 
   <section class="start-here">
     <div class="start-intro">
-      <p class="eyebrow">New here?</p><h2>Start here</h2>
-      <p>More than a hundred posts, and newest-first is a hard place to begin. These four pieces describe the range and purpose of the project.</p>
+      <h2>Start here</h2>
+      <p>{{ .Site.Params.home.startHereIntro }}</p>
     </div>
     <div class="start-grid">
       {{ range $index, $item := .Site.Params.home.startHere }}
