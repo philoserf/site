@@ -1,7 +1,7 @@
 {{ define "head" }}
 {{ $desc := partial "description.html" . }}
 {{ $person := dict "@context" "https://schema.org" "@type" "Person" "name" .Site.Params.author "email" .Site.Params.email "url" .Site.Home.Permalink }}
-{{ $website := dict "@context" "https://schema.org" "@type" "WebSite" "name" .Site.Title "url" .Site.Home.Permalink "description" $desc "inLanguage" (.Site.Language.Locale | default "en") "author" (dict "@type" "Person" "name" .Site.Params.author) }}
+{{ $website := dict "@context" "https://schema.org" "@type" "WebSite" "name" .Site.Title "url" .Site.Home.Permalink "description" $desc "inLanguage" .Site.Language.Locale "author" (dict "@type" "Person" "name" .Site.Params.author) }}
 <script type="application/ld+json">{{ $website | jsonify (dict "indent" "  ") | safeJS }}</script>
 <script type="application/ld+json">{{ $person | jsonify (dict "indent" "  ") | safeJS }}</script>
 {{ end }}
@@ -11,11 +11,7 @@
 {{ $posts = $posts.ByDate.Reverse }}
 {{ $featured := slice }}
 {{ with .Site.Params.home.featured }}
-  {{ range . }}
-    {{ $page := $.Site.GetPage .pageRef }}
-    {{ if not $page }}{{ errorf "homepage featured page not found: %s" .pageRef }}{{ end }}
-    {{ $featured = $featured | append (dict "page" $page "note" (.note | default $page.Description)) }}
-  {{ end }}
+  {{ $featured = partial "resolve-pagerefs.html" . }}
 {{ else }}
   {{ range first 1 $posts }}
     {{ $featured = $featured | append (dict "page" . "note" .Description) }}
@@ -64,18 +60,14 @@
       <p>{{ .Site.Params.home.startHereIntro }}</p>
     </div>
     <div class="start-grid">
-      {{ range $index, $item := .Site.Params.home.startHere }}
-        {{ $page := $.Site.GetPage $item.pageRef }}
-        {{ if not $page }}{{ errorf "homepage startHere page not found: %s" $item.pageRef }}{{ end }}
-        <article><span>{{ printf "%02d" (add $index 1) }}</span><div><h3><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3><p>{{ $item.note | default $page.Description }}</p></div></article>
+      {{ range $index, $item := partial "resolve-pagerefs.html" .Site.Params.home.startHere }}
+        <article><span>{{ printf "%02d" (add $index 1) }}</span><div><h3><a href="{{ $item.page.RelPermalink }}">{{ $item.page.Title }}</a></h3><p>{{ $item.note }}</p></div></article>
       {{ end }}
     </div>
   </section>
 
   <section class="motto" aria-label="Guiding mottos">
-    <p>HOMO·HOMINIS·ESSE<br>
-    COGITA·DISCE·NECTE·ENUNTIA<br>
-    PERCIPE·STRUE·EFFICE</p>
+    {{ partial "motto.html" . }}
     <img class="motto-logo" src="{{ "/favicon.svg" | relURL }}" alt="" width="120" height="120" aria-hidden="true">
   </section>
 </main>

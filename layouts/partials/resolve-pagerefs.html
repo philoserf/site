@@ -1,0 +1,10 @@
+{{- /* Resolve a list of {pageRef, note?} params entries into
+     {page, note} dicts, failing the build on a broken ref.
+     The note falls back to the page's own description. */ -}}
+{{- $resolved := slice -}}
+{{- range . -}}
+  {{- $page := site.GetPage .pageRef -}}
+  {{- if not $page }}{{ errorf "homepage pageRef not found: %s" .pageRef }}{{ end -}}
+  {{- $resolved = $resolved | append (dict "page" $page "note" (.note | default $page.Description)) -}}
+{{- end -}}
+{{- return $resolved -}}

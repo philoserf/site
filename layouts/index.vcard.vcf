@@ -7,7 +7,7 @@ FN:{{ .Site.Params.author }}
 N:{{ $c.familyName }};{{ $c.givenName }};;;
 NICKNAME:{{ .Site.Params.nickname }}
 BDAY:{{ $c.birthday }}
-LANG:{{ .Site.Language.Locale | default "en" }}
+LANG:{{ .Site.Language.Locale }}
 EMAIL;TYPE=INTERNET:{{ .Site.Params.email }}
 TEL;TYPE=CELL:{{ $c.phone }}
 ADR;TYPE=HOME:;;{{ $a.street }};{{ $a.city }};{{ $a.region }};{{ $a.postalCode }};{{ $a.country }}
@@ -17,6 +17,6 @@ X-SOCIALPROFILE;type=github:{{ $s.github }}
 X-SOCIALPROFILE;type=mastodon:{{ $s.mastodon }}
 PHOTO;VALUE=URI:{{ "apple-touch-icon.png" | absURL }}
 SOURCE:{{ "vcard.vcf" | absURL }}
-NOTE:{{ .Site.Params.motto }}
-REV:{{ now.Format "20060102T150405Z" }}
+NOTE:{{ index .Site.Params.motto 1 }}
+REV:{{ .Site.Lastmod.UTC.Format "20060102T150405Z" }}
 END:VCARD

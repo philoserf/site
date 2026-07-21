@@ -47,7 +47,7 @@ The deploy workflow also runs `lychee` over `public/` (external links and anchor
 Automated to GitHub Pages via GitHub Actions (.github/workflows/deploy.yml):
 
 - Triggers on pushes to `main` and daily at 08:25 UTC
-- Builds with `hugo --gc --minify --panicOnWarning` and `HUGO_ENV=production`; local `task build` and PR builds use the same strict flags.
+- Builds with `hugo --gc --minify --panicOnWarning` (production is Hugo's default environment for `hugo` builds); local `task build` and PR builds use the same strict flags.
 - Deploys via `actions/upload-pages-artifact` + `actions/deploy-pages` (artifact-based; no `gh-pages` branch)
 
 ## Notes

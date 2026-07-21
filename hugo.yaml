@@ -10,8 +10,16 @@ params:
   since: 2005
   description: "Short, plain, unhedged essays on thinking and cognition, civilization, and identity — with poetry, story, and the small crafts of attention: coffee, calendars, kitchens, and code."
   email: "mark@philoserf.com"
-  motto: "COGITA·DISCE·NECTE·ENUNTIA"
+  # Three-line Latin motto; the second line is the primary motto (vCard NOTE)
+  motto:
+    - "HOMO·HOMINIS·ESSE"
+    - "COGITA·DISCE·NECTE·ENUNTIA"
+    - "PERCIPE·STRUE·EFFICE"
   nickname: "philoserf"
+  # Warm-paper background hexes; must match --background-color in static/style.css
+  themeColor:
+    light: "#faf7f1"
+    dark: "#201d18"
 
   home:
     headline: "Uncompressed public thinking"
@@ -44,31 +52,26 @@ params:
 
 menus:
   main:
-    - identifier: about
-      name: About
+    - name: About
       pageRef: /about
       weight: 10
       params:
         description: Who the author is
-    - identifier: now
-      name: Now
+    - name: Now
       pageRef: /now
       weight: 20
       params:
         description: Current focus
-    - identifier: uses
-      name: Uses
+    - name: Uses
       pageRef: /uses
       weight: 30
       params:
         description: Tools and setup
-    - identifier: posts
-      name: Posts
+    - name: Posts
       pageRef: /posts
       weight: 40
       params:
         description: Index of all posts
-        llmsSection: writing
 
 mediaTypes:
   application/manifest+json:

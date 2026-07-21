@@ -1,15 +1,10 @@
-# This will make Prettier ignore everything that Git ignores
-**/.git/**
+# Build output
 /public/
 /resources/
 
-# Ignore generated files
-hugo_stats.json
+# Publisher-generated posts — read-only output, overwritten on next publish
+/content/posts/
 
-# Ignore Hugo templates
-# Since Prettier doesn't handle Hugo template syntax well
+# Hugo templates — Prettier doesn't handle Hugo template syntax
 /layouts/
-/layouts_partials/
-/themes/**/layouts/
 /archetypes/
-*.html

@@ -10,16 +10,14 @@
     {{ range $pages.GroupByDate "2006" }}
       <strong>{{ .Key }}</strong>
       {{ range .Pages.GroupByDate "2006-01" }}
-        {{ $first := index .Pages 0 }}
-        <a href="#month-{{ $first.Date.Format "2006-01" }}">{{ $first.Date.Format "Jan" }}</a>
+        <a href="#month-{{ .Key }}">{{ (index .Pages 0).Date.Format "Jan" }}</a>
       {{ end }}
     {{ end }}
   </nav>
 
   {{ range $months }}
-    {{ $first := index .Pages 0 }}
-    <section class="month" id="month-{{ $first.Date.Format "2006-01" }}">
-      <h2>{{ $first.Date.Format "January 2006" }}</h2>
+    <section class="month" id="month-{{ .Key }}">
+      <h2>{{ (index .Pages 0).Date.Format "January 2006" }}</h2>
       <div>
         {{ range .Pages }}
         <article class="archive-row">
