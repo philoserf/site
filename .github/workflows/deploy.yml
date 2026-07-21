@@ -29,7 +29,7 @@ jobs:
         with:
           extended: true
       - run: hugo --gc --minify --panicOnWarning
-      - uses: actions/cache@v4 # carry lychee's link-check cache between runs
+      - uses: actions/cache@v6 # carry lychee's link-check cache between runs
         with:
           path: .lycheecache
           key: lychee-${{ github.run_id }}
