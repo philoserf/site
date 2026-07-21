@@ -1,7 +1,7 @@
 ---
 title: Life Progress Calendar
 description: Color-coded emoji grid tracking life progress by decades, years, and months from birth to expected death.
-date: 1962-07-04
+date: 2026-04-21
 ---
 
 ## Key
