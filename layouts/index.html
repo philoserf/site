@@ -9,18 +9,21 @@
 {{ define "main" }}
 {{ $posts := where .Site.RegularPages "Section" "posts" }}
 {{ $posts = $posts.ByDate.Reverse }}
-{{ $featuredConfig := .Site.Params.home.featured }}
-{{ $featured := false }}
-{{ $note := "" }}
-{{ with $featuredConfig }}
-  {{ $featured = $.Site.GetPage .pageRef }}
-  {{ if not $featured }}{{ errorf "homepage featured page not found: %s" .pageRef }}{{ end }}
-  {{ $note = .note }}
+{{ $featured := slice }}
+{{ with .Site.Params.home.featured }}
+  {{ range . }}
+    {{ $page := $.Site.GetPage .pageRef }}
+    {{ if not $page }}{{ errorf "homepage featured page not found: %s" .pageRef }}{{ end }}
+    {{ $featured = $featured | append (dict "page" $page "note" (.note | default $page.Description)) }}
+  {{ end }}
 {{ else }}
-  {{ $featured = index $posts 0 }}
+  {{ range first 1 $posts }}
+    {{ $featured = $featured | append (dict "page" . "note" .Description) }}
+  {{ end }}
 {{ end }}
-{{ $note = $note | default $featured.Description }}
-{{ $recent := where $posts "RelPermalink" "ne" $featured.RelPermalink | first 4 }}
+{{ $featuredLinks := slice }}
+{{ range $featured }}{{ $featuredLinks = $featuredLinks | append .page.RelPermalink }}{{ end }}
+{{ $recent := where $posts "RelPermalink" "not in" $featuredLinks | first 4 }}
 
 <main id="main" class="home-main">
   <section class="hero">
@@ -33,12 +36,16 @@
   </section>
 
   <section class="front-grid" aria-label="Featured and recent posts">
-    <article class="featured">
-      <p class="eyebrow">Featured post</p>
-      <h2><a href="{{ $featured.RelPermalink }}">{{ $featured.Title }}</a></h2>
-      <p>{{ $note }}</p>
-      <div class="meta"><time datetime="{{ $featured.Date.Format "2006-01-02" }}">{{ $featured.Date.Format "January 2, 2006" }}</time><span>Post</span></div>
-    </article>
+    <div class="featured-stack">
+      {{ range $featured }}
+      <article class="featured">
+        <p class="eyebrow">Featured post</p>
+        <h2><a href="{{ .page.RelPermalink }}">{{ .page.Title }}</a></h2>
+        <p>{{ .note }}</p>
+        <div class="meta"><time datetime="{{ .page.Date.Format "2006-01-02" }}">{{ .page.Date.Format "January 2, 2006" }}</time><span>Post</span></div>
+      </article>
+      {{ end }}
+    </div>
     <div class="recent">
       <div class="section-heading"><h2>Recent</h2><a href="{{ "/posts/" | relURL }}">All posts</a></div>
       {{ range $recent }}

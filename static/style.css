@@ -595,11 +595,29 @@ body > header {
   border-top: 1px solid var(--border-color);
 }
 
-.featured {
+.featured-stack {
+  display: grid;
+  gap: 2rem;
   align-self: start;
+}
+
+.featured-stack .featured {
+  margin-bottom: 0; /* cancel the single-post article margin, which doubles the stack gap */
+}
+
+.featured {
   padding: 2.6rem;
   background: var(--surface-color);
   border-top: 4px solid var(--text-color);
+}
+
+.featured-stack .featured:nth-child(n + 2) {
+  border-top-width: 1px;
+  border-top-color: var(--border-color);
+}
+
+.featured-stack .featured:nth-child(n + 2) h2 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
 }
 
 .featured h2 {
