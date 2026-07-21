@@ -7,10 +7,19 @@ taxonomies: {} # intentionally empty to disable tags and categories
 params:
   author: "Mark Ayers"
   since: 2005
-  description: "Personal digital presence of Mark Ayers — semi-weekly essays on technology, strategy, and personal development."
+  description: "Short, plain, unhedged essays on thinking and cognition, civilization, identity, and AI — with poetry, story, and the small crafts of attention: coffee, calendars, kitchens, and code."
   email: "mark@philoserf.com"
   motto: "COGITA·DISCE·NECTE·ENUNTIA"
   nickname: "philoserf"
+  home:
+    headline: "Uncompressed public thinking"
+    featured:
+      pageRef: /posts/agency-without-a-self
+    startHere:
+      - pageRef: /posts/two-epistemic-cycles
+      - pageRef: /posts/uncompressed-public-thinking
+      - pageRef: /posts/old-man-by-the-river
+      - pageRef: /posts/republic-continuity-as-achievement
   contact:
     givenName: "Mark"
     familyName: "Ayers"
@@ -26,7 +35,6 @@ params:
   social:
     github: "https://github.com/philoserf"
     mastodon: "https://pkm.social/@philoserf"
-    bluesky: "https://philoserf.bsky.social/"
 
 menus:
   main:
@@ -53,7 +61,7 @@ menus:
       pageRef: /posts
       weight: 40
       params:
-        description: Index of all essays
+        description: Index of all posts
         llmsSection: writing
 
 mediaTypes:

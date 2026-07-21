@@ -23,13 +23,14 @@
 {{ define "main" }}
 <main id="main">
   <article>
-    <header>
-      {{ if not .Date.IsZero }}
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-      {{ end }}
+    <header class="article-head">
+      {{ if eq .Section "posts" }}<p class="eyebrow">Post</p>{{ else }}{{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}{{ end }}
       <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="deck">{{ . }}</p>{{ end }}
+      {{ if not .Date.IsZero }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
     </header>
     <div class="content">{{ .Content }}</div>
+    {{ if eq .Section "posts" }}<aside class="continue"><p class="eyebrow">Continue reading</p><a href="{{ "/posts/" | relURL }}">Browse all posts &rarr;</a></aside>{{ end }}
   </article>
 </main>
 {{ end }}
