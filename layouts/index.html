@@ -24,9 +24,12 @@
 
 <main id="main" class="home-main">
   <section class="hero">
-    <p class="eyebrow">Writing in public</p>
-    <h1>{{ .Site.Params.home.headline }}</h1>
-    <p class="hero-copy">{{ .Site.Params.description }}</p>
+    <div class="hero-text">
+      <p class="eyebrow">Writing in public</p>
+      <h1>{{ .Site.Params.home.headline }}</h1>
+      <p class="hero-copy">{{ .Site.Params.description }}</p>
+    </div>
+    <img class="hero-logo" src="{{ "/favicon.svg" | relURL }}" alt="" width="200" height="200" aria-hidden="true">
   </section>
 
   <section class="front-grid" aria-label="Featured and recent posts">
@@ -66,6 +69,7 @@
     <p>HOMO·HOMINIS·ESSE<br>
     COGITA·DISCE·NECTE·ENUNTIA<br>
     PERCIPE·STRUE·EFFICE</p>
+    <img class="motto-logo" src="{{ "/favicon.svg" | relURL }}" alt="" width="120" height="120" aria-hidden="true">
   </section>
 </main>
 {{ end }}

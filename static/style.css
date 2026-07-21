@@ -548,8 +548,26 @@ body > header {
 }
 
 .hero {
-  max-width: 53rem;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  max-width: 68rem;
   padding: 6rem 0 5.25rem;
+}
+
+.hero-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.hero-logo {
+  flex: 0 0 auto;
+  width: clamp(9rem, 15vw, 12.5rem);
+  height: auto;
+}
+
+.motto-logo {
+  display: none;
 }
 
 .hero h1 {
@@ -858,6 +876,15 @@ article > .article-head {
   }
   .hero h1 {
     font-size: 3rem;
+  }
+  .hero-logo {
+    display: none;
+  }
+  .motto-logo {
+    display: block;
+    width: clamp(6rem, 22vw, 8rem);
+    height: auto;
+    margin: 2rem auto 0;
   }
   .front-grid {
     grid-template-columns: 1fr;
