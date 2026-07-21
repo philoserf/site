@@ -25,13 +25,3 @@ This is not nostalgia. It is capacity.
 Feynman and Watts belong to the last generation of public thinkers formed before optimization reshaped rhetoric. They did not speak under continuous surveillance. They did not optimize for reuse. They could be wrong in public.
 
 What resonates is not the past. It is the sound of thinking aloud without penalty—a condition now structurally scarce.
-
-Sources:
-
-- Richard Feynman, _The Meaning of It All_ (1998)
-- Alan Watts, _The Book_ (1966)
-- Walter Ong, _Orality and Literacy_ (1982)
-- Andrew Abbott, _The System of Professions_ (1988)
-- Hartmut Rosa, _Social Acceleration_ (2013; German original _Beschleunigung_, 2005)
-- Neil Postman, _Amusing Ourselves to Death_ (1985)
-- Marshall McLuhan, _Understanding Media_ (1964)
