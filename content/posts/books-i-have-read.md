@@ -1,14 +1,16 @@
 ---
 title: Books I have read
 description: Personal reading log spanning fiction and nonfiction, organized by genre with works from 1908 to 2026.
-date: 2026-07-04
+date: 2026-07-21
 ---
 
 This list, started in late 2022, is far from complete. I'm sure I've missed some and will again.
 
 ## Finished in 2026
 
-- _A Monastery Within_ by Gil Fronsdal (2010)
+- _The Rise of the Dragon_ by George R. R. Martin (2022)
+- _Story Grid_ by Shawn Coyne (2015)
+- _A Monestary Within_ by Gil Fronsdal (2010)
 - _Confessions of an English Opium-Eater_ by Thomas De Quincey (1821)
 - _Naked Lunch_ by William S. Burroughs (1959)
 
