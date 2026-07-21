@@ -1,15 +1,34 @@
 {{ define "main" }}
-<main id="main">
-  <h1>{{ .Title }}</h1>
-  {{ if .Content }}<div class="list-intro">{{ .Content }}</div>{{ end }}
-  <ul class="posts">
-    {{ range .Paginator.Pages }}
-    <li>
-      <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
-      <time class="date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-    </li>
+{{ $pages := .Pages.ByDate.Reverse }}
+{{ $months := $pages.GroupByDate "2006-01" }}
+<main id="main" class="archive">
+  <p class="eyebrow">Published Monday, Wednesday, and Friday</p>
+  <h1>Posts</h1>
+  <p class="archive-intro">Writing on philosophy, technology, civilization, identity, and the small crafts of attention. Newest first, with the archive organized by month.</p>
+
+  <nav class="archive-nav" aria-label="Archive by month">
+    {{ range $pages.GroupByDate "2006" }}
+      <strong>{{ .Key }}</strong>
+      {{ range .Pages.GroupByDate "2006-01" }}
+        {{ $first := index .Pages 0 }}
+        <a href="#month-{{ $first.Date.Format "2006-01" }}">{{ $first.Date.Format "Jan" }}</a>
+      {{ end }}
     {{ end }}
-  </ul>
-  {{ partial "pagination.html" . }}
+  </nav>
+
+  {{ range $months }}
+    {{ $first := index .Pages 0 }}
+    <section class="month" id="month-{{ $first.Date.Format "2006-01" }}">
+      <h2>{{ $first.Date.Format "January 2006" }}</h2>
+      <div>
+        {{ range .Pages }}
+        <article class="archive-row">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02" }}</time>
+          <div><h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3><p>{{ partial "description.html" . }}</p></div>
+        </article>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
 </main>
 {{ end }}

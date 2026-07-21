@@ -1,5 +1,6 @@
 ---
 title: Now
+eyebrow: "Currently"
 description: "What I'm reading, focused on, and looking toward right now. Updated when reality changes."
 lastmod: 2026-07-04
 aliases:

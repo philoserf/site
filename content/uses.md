@@ -1,5 +1,6 @@
 ---
 title: Uses
+eyebrow: "What I use"
 description: "What I use day to day for writing, coding, and publishing. Updated when reality changes."
 lastmod: 2026-07-03
 ---

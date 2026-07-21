@@ -1,27 +1,71 @@
 {{ define "head" }}
 {{ $desc := partial "description.html" . }}
-{{ $person := dict
-  "@context" "https://schema.org"
-  "@type" "Person"
-  "name" .Site.Params.author
-  "email" .Site.Params.email
-  "url" .Site.Home.Permalink
-}}
-{{ $website := dict
-  "@context" "https://schema.org"
-  "@type" "WebSite"
-  "name" .Site.Title
-  "url" .Site.Home.Permalink
-  "description" $desc
-  "inLanguage" (.Site.Language.Locale | default "en")
-  "author" (dict "@type" "Person" "name" .Site.Params.author)
-}}
+{{ $person := dict "@context" "https://schema.org" "@type" "Person" "name" .Site.Params.author "email" .Site.Params.email "url" .Site.Home.Permalink }}
+{{ $website := dict "@context" "https://schema.org" "@type" "WebSite" "name" .Site.Title "url" .Site.Home.Permalink "description" $desc "inLanguage" (.Site.Language.Locale | default "en") "author" (dict "@type" "Person" "name" .Site.Params.author) }}
 <script type="application/ld+json">{{ $website | jsonify (dict "indent" "  ") | safeJS }}</script>
 <script type="application/ld+json">{{ $person | jsonify (dict "indent" "  ") | safeJS }}</script>
 {{ end }}
 
 {{ define "main" }}
-<main id="main">
-  <div class="homepage-content">{{ .Content }}</div>
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $posts = $posts.ByDate.Reverse }}
+{{ $featuredConfig := .Site.Params.home.featured }}
+{{ $featured := false }}
+{{ $note := "" }}
+{{ with $featuredConfig }}
+  {{ $featured = $.Site.GetPage .pageRef }}
+  {{ if not $featured }}{{ errorf "homepage featured page not found: %s" .pageRef }}{{ end }}
+  {{ $note = .note }}
+{{ else }}
+  {{ $featured = index $posts 0 }}
+{{ end }}
+{{ $note = $note | default $featured.Description }}
+{{ $recent := where $posts "RelPermalink" "ne" $featured.RelPermalink | first 4 }}
+
+<main id="main" class="home-main">
+  <section class="hero">
+    <p class="eyebrow">Writing in public</p>
+    <h1>{{ .Site.Params.home.headline }}</h1>
+    <p class="hero-copy">{{ .Site.Params.description }}</p>
+  </section>
+
+  <section class="front-grid" aria-label="Featured and recent posts">
+    <article class="featured">
+      <p class="eyebrow">Featured post</p>
+      <h2><a href="{{ $featured.RelPermalink }}">{{ $featured.Title }}</a></h2>
+      <p>{{ $note }}</p>
+      <div class="meta"><time datetime="{{ $featured.Date.Format "2006-01-02" }}">{{ $featured.Date.Format "January 2, 2006" }}</time><span>Post</span></div>
+    </article>
+    <div class="recent">
+      <div class="section-heading"><h2>Recent</h2><a href="{{ "/posts/" | relURL }}">All posts</a></div>
+      {{ range $recent }}
+      <article class="post-row">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time>
+        <p>{{ partial "description.html" . }}</p>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="start-here">
+    <div class="start-intro">
+      <p class="eyebrow">New here?</p><h2>Start here</h2>
+      <p>More than a hundred posts, and newest-first is a hard place to begin. These four pieces describe the range and purpose of the project.</p>
+    </div>
+    <div class="start-grid">
+      {{ range $index, $item := .Site.Params.home.startHere }}
+        {{ $page := $.Site.GetPage $item.pageRef }}
+        {{ if not $page }}{{ errorf "homepage startHere page not found: %s" $item.pageRef }}{{ end }}
+        <article><span>{{ printf "%02d" (add $index 1) }}</span><div><h3><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3><p>{{ $item.note | default $page.Description }}</p></div></article>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="motto" aria-label="Guiding mottos">
+    <p>HOMO·HOMINIS·ESSE<br>
+    COGITA·DISCE·NECTE·ENUNTIA<br>
+    PERCIPE·STRUE·EFFICE</p>
+  </section>
 </main>
 {{ end }}

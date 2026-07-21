@@ -1,6 +1,7 @@
 ---
 title: About
-description: "A personal about page outlining the author's background, guiding principles, and philosophy on thinking, communication, and building. Draws on experiences spanning military service, nonprofits, and technology to frame a commitment to clarity and public thought."
+eyebrow: "Who I am"
+description: "Background, guiding principles, and a philosophy of clear thinking and public work — shaped by military service, nonprofits, and technology."
 lastmod: 2026-07-02
 ---
 
