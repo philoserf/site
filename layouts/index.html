@@ -6,12 +6,14 @@
 <script type="application/ld+json">{{ $person | jsonify (dict "indent" "  ") | safeJS }}</script>
 {{ end }}
 
+{{ define "main-class" }}home-main{{ end }}
+
 {{ define "main" }}
 {{ $posts := where .Site.RegularPages "Section" "posts" }}
 {{ $posts = $posts.ByDate.Reverse }}
 {{ $featured := slice }}
 {{ with .Site.Params.home.featured }}
-  {{ $featured = partial "resolve-pagerefs.html" . }}
+  {{ $featured = partial "resolve-pagerefs.html" (dict "refs" . "what" "featured") }}
 {{ else }}
   {{ range first 1 $posts }}
     {{ $featured = $featured | append (dict "page" . "note" .Description) }}
@@ -21,7 +23,6 @@
 {{ range $featured }}{{ $featuredLinks = $featuredLinks | append .page.RelPermalink }}{{ end }}
 {{ $recent := where $posts "RelPermalink" "not in" $featuredLinks | first 4 }}
 
-<main id="main" class="home-main">
   <section class="hero">
     <div class="hero-text">
       <p class="eyebrow">Writing in public</p>
@@ -60,7 +61,7 @@
       <p>{{ .Site.Params.home.startHereIntro }}</p>
     </div>
     <div class="start-grid">
-      {{ range $index, $item := partial "resolve-pagerefs.html" .Site.Params.home.startHere }}
+      {{ range $index, $item := partial "resolve-pagerefs.html" (dict "refs" .Site.Params.home.startHere "what" "startHere") }}
         <article><span>{{ printf "%02d" (add $index 1) }}</span><div><h3><a href="{{ $item.page.RelPermalink }}">{{ $item.page.Title }}</a></h3><p>{{ $item.note }}</p></div></article>
       {{ end }}
     </div>
@@ -70,5 +71,4 @@
     {{ partial "motto.html" . }}
     <img class="motto-logo" src="{{ "/favicon.svg" | relURL }}" alt="" width="120" height="120" aria-hidden="true">
   </section>
-</main>
 {{ end }}

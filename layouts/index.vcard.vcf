@@ -1,3 +1,5 @@
+{{- /* REV uses build time: vcard fields come from site config, which
+     .Site.Lastmod (content-derived) does not track. */ -}}
 {{- $c := .Site.Params.contact -}}
 {{- $s := .Site.Params.social -}}
 {{- $a := $c.address -}}
@@ -17,6 +19,6 @@ X-SOCIALPROFILE;type=github:{{ $s.github }}
 X-SOCIALPROFILE;type=mastodon:{{ $s.mastodon }}
 PHOTO;VALUE=URI:{{ "apple-touch-icon.png" | absURL }}
 SOURCE:{{ "vcard.vcf" | absURL }}
-NOTE:{{ index .Site.Params.motto 1 }}
-REV:{{ .Site.Lastmod.UTC.Format "20060102T150405Z" }}
+NOTE:{{ .Site.Params.motto.primary }}
+REV:{{ now.UTC.Format "20060102T150405Z" }}
 END:VCARD

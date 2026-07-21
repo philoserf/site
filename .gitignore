@@ -8,5 +8,8 @@
 # Task incremental-build cache
 /.task/
 
+# lychee link-checker cache (written when running lychee locally)
+/.lycheecache
+
 # Local issue tracking
 /.issues/

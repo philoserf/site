@@ -21,7 +21,6 @@
 {{ end }}
 
 {{ define "main" }}
-<main id="main" class="prose">
   <article>
     <header class="article-head">
       {{ if eq .Section "posts" }}<p class="eyebrow">Post</p>{{ else }}{{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}{{ end }}
@@ -32,5 +31,4 @@
     <div class="content">{{ .Content }}</div>
     {{ if eq .Section "posts" }}<aside class="continue"><p class="eyebrow">Continue reading</p><a href="{{ "/posts/" | relURL }}">Browse all posts &rarr;</a></aside>{{ end }}
   </article>
-</main>
 {{ end }}

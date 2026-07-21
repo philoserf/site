@@ -23,7 +23,7 @@ task optimize-images         # Optimize images under static/
 ## Architecture
 
 - **Config**: hugo.yaml. `enableGitInfo: true` — posts can omit `lastmod` and Hugo falls back to the git commit date; do not disable without auditing every post.
-- **Layouts**: hand-rolled, no theme/submodule. `layouts/_default/{baseof,single,list}.html`, `layouts/index.html`, `layouts/404.html`, `layouts/partials/{description,math,mermaid}.html`.
+- **Layouts**: hand-rolled, no theme/submodule. `layouts/_default/{baseof,single,list}.html`, `layouts/index.html`, `layouts/404.html`, `layouts/partials/{description,math,mermaid,motto,resolve-pagerefs}.html`. `baseof.html` owns the `<main id="main">` element; templates override the `main-class` block (default `prose`).
 - **Content**: content/ directory with posts/ subdirectory
 - **Archetypes**: archetypes/default.md (pages — `lastmod` only) and archetypes/posts.md (posts — `date` only, no `lastmod`); the asymmetry is load-bearing — posts deliberately omit `lastmod` so `enableGitInfo` backfills it from the git commit date
 - **Front matter schema**: implicit. Archetypes scaffold `title` + dates + `draft`, but real posts also carry `description`, `tags`, sometimes `aliases`/`series`/`created`. The schema is enforced by the upstream publisher, not Hugo. `layouts/partials/description.html` falls back `.Description → .Summary → Site.Params.description`, so a missing `description` degrades gracefully rather than failing.

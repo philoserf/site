@@ -258,16 +258,6 @@ header {
   color: var(--primary-color);
 }
 
-@media (max-width: 480px) {
-  .primary-nav {
-    gap: 0.6rem;
-  }
-
-  .nav-links {
-    gap: 1rem;
-  }
-}
-
 /* --- Main (prose-width container) --- */
 
 main {
@@ -885,6 +875,10 @@ article > .article-head {
 @media (max-width: 480px) {
   .primary-nav {
     flex-direction: column;
+    gap: 0.6rem;
+  }
+  .nav-links {
+    gap: 1rem;
   }
   .hero h1 {
     font-size: 2.6rem;

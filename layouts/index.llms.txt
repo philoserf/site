@@ -8,7 +8,7 @@ Base URL: {{ .Site.BaseURL }}
 ## Pages
 
 {{- range .Site.Menus.main }}
-{{- if not .Page.IsSection }}
+{{- if ne .Params.llmsSection "writing" }}
 - [{{ .Name }}]({{ .URL | absURL }}): {{ .Params.description }}
 {{- end }}
 {{- end }}
@@ -16,7 +16,7 @@ Base URL: {{ .Site.BaseURL }}
 ## Writing
 
 {{- range .Site.Menus.main }}
-{{- if .Page.IsSection }}
+{{- if eq .Params.llmsSection "writing" }}
 - [{{ .Name }}]({{ .URL | absURL }}): {{ .Params.description }}
 {{- end }}
 {{- end }}

@@ -1,7 +1,8 @@
 name: Build
 
 # pull_request only: a push trigger would build every PR branch twice
-# (once as refs/heads/*, once as refs/pull/*/merge) with nothing cancelling
+# (once as refs/heads/*, once as refs/pull/*/merge) with nothing cancelling.
+# Tradeoff: branches without an open PR get no CI until workflow_dispatch.
 on:
   pull_request:
     branches: ["main"]

@@ -1,7 +1,8 @@
+{{ define "main-class" }}archive{{ end }}
+
 {{ define "main" }}
 {{ $pages := .Pages.ByDate.Reverse }}
 {{ $months := $pages.GroupByDate "2006-01" }}
-<main id="main" class="archive">
   <p class="eyebrow">Published Monday, Wednesday, and Friday</p>
   <h1>Posts</h1>
   <p class="archive-intro">Writing on philosophy, technology, civilization, identity, and the small crafts of attention. Newest first, with the archive organized by month.</p>
@@ -28,5 +29,4 @@
       </div>
     </section>
   {{ end }}
-</main>
 {{ end }}
