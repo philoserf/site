@@ -8,6 +8,7 @@ date: 2026-04-03
 
 - _The Creative Habit_ by Twyla Tharp, 2003
 - _The Creative Act_ by Rick Rubin, 2023
+- _Apple: The First 50 Years_ by David Pogue (2026)
 
 ## Added
 
