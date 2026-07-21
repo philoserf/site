@@ -2,7 +2,7 @@
 title: Now
 eyebrow: "Currently"
 description: "What I'm reading, focused on, and looking toward right now. Updated when reality changes."
-lastmod: 2026-07-04
+lastmod: 2026-07-21
 aliases:
   - /posts/now
 ---
@@ -14,19 +14,21 @@ At home in Greater Grand Rapids, Michigan
 ## What am I reading
 
 - _There is No Antimemetics Division_ by Qntm (2025)
-- _The Rise of the Dragon_ by George R. R. Martin (2022)
 - _Derai_ by E. C. Tubb (1968)
-- _Story Grid_ by Shawn Coyne (2015)
+- _Practical Mysticism_ by Evelyn Underhill (1914)
+- _Primal Intelligence_ by Agnus Fletcher (2025)
 
 ## What am I focused on
 
-- Returning to golf
 - Establishing fresh, healthy routines
+- Reestablishing a running routine
+- Returning to golf
 
 ## What I'm looking forward to
 
 - Roadtripping to [GopherCon 2026](https://gophercon.com/) in Seattle
 - An autumn weeklong getaway
+- A trip to Ireland
 
 ---
 

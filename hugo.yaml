@@ -4,13 +4,15 @@ title: Mark Ayers
 enableGitInfo: true
 enableRobotsTXT: true
 taxonomies: {} # intentionally empty to disable tags and categories
+
 params:
   author: "Mark Ayers"
   since: 2005
-  description: "Short, plain, unhedged essays on thinking and cognition, civilization, identity, and AI — with poetry, story, and the small crafts of attention: coffee, calendars, kitchens, and code."
+  description: "Short, plain, unhedged essays on thinking and cognition, civilization, and identity — with poetry, story, and the small crafts of attention: coffee, calendars, kitchens, and code."
   email: "mark@philoserf.com"
   motto: "COGITA·DISCE·NECTE·ENUNTIA"
   nickname: "philoserf"
+
   home:
     headline: "Uncompressed public thinking"
     featured:
@@ -20,6 +22,7 @@ params:
       - pageRef: /posts/uncompressed-public-thinking
       - pageRef: /posts/old-man-by-the-river
       - pageRef: /posts/republic-continuity-as-achievement
+
   contact:
     givenName: "Mark"
     familyName: "Ayers"
@@ -32,6 +35,7 @@ params:
       region: "MI"
       postalCode: "49341"
       country: "United States"
+
   social:
     github: "https://github.com/philoserf"
     mastodon: "https://pkm.social/@philoserf"
