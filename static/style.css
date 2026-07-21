@@ -8,18 +8,18 @@
 /* --- Tokens --- */
 
 :root {
-  /* Color — warm paper */
+  /* Color — warm paper. The background hexes are mirrored outside CSS via
+     params.themeColor in hugo.yaml (theme-color metas, webmanifest) — keep
+     them in sync when retinting. */
   --primary-color: #0a66a8;
   /* Hover shifts away from the resting link color: darker on the light
      scheme, brighter on the dark one — named by role, not lightness */
   --link-hover: #084e82;
-  --primary-light: #e9f1f8;
   --text-color: #241f18;
   --text-muted: #6d6353;
   --background-color: #faf7f1;
   --surface-color: #f3eee3;
   --border-color: #e5ddce;
-  --shadow-md: 0 4px 12px rgba(60, 48, 30, 0.12);
 
   /* Font stacks — platform-native */
   --font-sans:
@@ -48,7 +48,6 @@
   :root {
     --primary-color: #6aabdd;
     --link-hover: #93c4e8;
-    --primary-light: #1e3346;
     --text-color: #e9e4da;
     --text-muted: #a89d8c;
     --background-color: #201d18;
@@ -184,7 +183,8 @@ header {
 
 .primary-nav {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  justify-content: space-between;
   align-items: center;
   gap: 0.9rem;
 }
@@ -196,7 +196,7 @@ header {
 /* Text wordmark (rendered in baseof.html) */
 .wordmark {
   font-family: var(--font-serif);
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 600;
   letter-spacing: 0.22em;
   text-transform: uppercase;
@@ -211,30 +211,6 @@ header {
 
 .wordmark:hover {
   color: var(--primary-color);
-}
-
-/* Existing image logo still supported */
-.logo {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px;
-  height: 40px;
-  border-radius: 8px;
-  text-decoration: none;
-  transition: transform 0.2s;
-}
-
-.logo img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  border-radius: inherit;
-  margin: 0;
-}
-
-.logo:hover {
-  transform: scale(1.05);
 }
 
 .nav-links {
@@ -280,21 +256,6 @@ header {
 .nav-link:hover,
 .nav-link.active {
   color: var(--primary-color);
-}
-
-@media (max-width: 480px) {
-  .primary-nav {
-    gap: 0.6rem;
-  }
-
-  .nav-links {
-    gap: 1rem;
-  }
-
-  .logo {
-    width: 36px;
-    height: 36px;
-  }
 }
 
 /* --- Main (prose-width container) --- */
@@ -518,19 +479,6 @@ footer a:hover {
 }
 
 /* --- Editorial redesign --- */
-body > header {
-  padding: 0 0 1.4rem;
-}
-
-.primary-nav {
-  flex-direction: row;
-  justify-content: space-between;
-}
-
-.wordmark {
-  font-size: 0.95rem;
-}
-
 .home-main,
 .archive {
   max-width: none;
@@ -662,17 +610,24 @@ body > header {
   font-weight: 520;
 }
 
-.section-heading > a {
+.section-heading > a,
+.continue > a {
   color: var(--primary-color);
   font: 0.75rem var(--font-sans);
 }
 
-.post-row {
+/* Shared list-row rhythm (homepage recent, start-here, archive) */
+.post-row,
+.start-grid article,
+.archive-row {
   display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 0.2rem 1rem;
   padding: 1.2rem 0;
   border-top: 1px solid var(--border-color);
+}
+
+.post-row {
+  grid-template-columns: 1fr auto;
+  gap: 0.2rem 1rem;
 }
 
 .post-row h3 {
@@ -717,11 +672,8 @@ body > header {
 }
 
 .start-grid article {
-  display: grid;
   grid-template-columns: 2.6rem 1fr;
   gap: 1rem;
-  padding: 1.2rem 0;
-  border-top: 1px solid var(--border-color);
 }
 
 .start-grid article > span {
@@ -814,11 +766,8 @@ body > header {
 }
 
 .archive-row {
-  display: grid;
   grid-template-columns: 2rem 1fr;
   gap: 0.25rem 1.1rem;
-  padding: 1.2rem 0;
-  border-top: 1px solid var(--border-color);
 }
 
 .archive-row h3 {
@@ -839,7 +788,7 @@ body > header {
   font-size: 0.85rem;
 }
 
-main:not(.home-main):not(.archive) {
+main.prose {
   max-width: 42rem;
   padding: 5.5rem 0;
 }
@@ -880,11 +829,6 @@ article > .article-head {
   border-top: 1px solid var(--border-color);
 }
 
-.continue > a {
-  color: var(--primary-color);
-  font: 0.75rem var(--font-sans);
-}
-
 @media (max-width: 760px) {
   .primary-nav {
     align-items: flex-start;
@@ -923,7 +867,7 @@ article > .article-head {
     grid-template-columns: 1fr;
     gap: 0.6rem;
   }
-  main:not(.home-main):not(.archive) {
+  main.prose {
     padding: 3.8rem 0;
   }
 }
@@ -931,6 +875,10 @@ article > .article-head {
 @media (max-width: 480px) {
   .primary-nav {
     flex-direction: column;
+    gap: 0.6rem;
+  }
+  .nav-links {
+    gap: 1rem;
   }
   .hero h1 {
     font-size: 2.6rem;

@@ -13,7 +13,7 @@
   "description" $desc
   "author" $author
   "publisher" $publisher
-  "inLanguage" (.Site.Language.Locale | default "en")
+  "inLanguage" .Site.Language.Locale
 }}
 {{ if not .Date.IsZero }}{{ $jsonld = merge $jsonld (dict "datePublished" (.Date.Format "2006-01-02")) }}{{ end }}
 {{ if not .Lastmod.IsZero }}{{ $jsonld = merge $jsonld (dict "dateModified" (.Lastmod.Format "2006-01-02")) }}{{ end }}
@@ -21,7 +21,6 @@
 {{ end }}
 
 {{ define "main" }}
-<main id="main">
   <article>
     <header class="article-head">
       {{ if eq .Section "posts" }}<p class="eyebrow">Post</p>{{ else }}{{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}{{ end }}
@@ -32,5 +31,4 @@
     <div class="content">{{ .Content }}</div>
     {{ if eq .Section "posts" }}<aside class="continue"><p class="eyebrow">Continue reading</p><a href="{{ "/posts/" | relURL }}">Browse all posts &rarr;</a></aside>{{ end }}
   </article>
-</main>
 {{ end }}

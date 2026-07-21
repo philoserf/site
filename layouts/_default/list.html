@@ -1,7 +1,8 @@
+{{ define "main-class" }}archive{{ end }}
+
 {{ define "main" }}
 {{ $pages := .Pages.ByDate.Reverse }}
 {{ $months := $pages.GroupByDate "2006-01" }}
-<main id="main" class="archive">
   <p class="eyebrow">Published Monday, Wednesday, and Friday</p>
   <h1>Posts</h1>
   <p class="archive-intro">Writing on philosophy, technology, civilization, identity, and the small crafts of attention. Newest first, with the archive organized by month.</p>
@@ -10,16 +11,14 @@
     {{ range $pages.GroupByDate "2006" }}
       <strong>{{ .Key }}</strong>
       {{ range .Pages.GroupByDate "2006-01" }}
-        {{ $first := index .Pages 0 }}
-        <a href="#month-{{ $first.Date.Format "2006-01" }}">{{ $first.Date.Format "Jan" }}</a>
+        <a href="#month-{{ .Key }}">{{ (index .Pages 0).Date.Format "Jan" }}</a>
       {{ end }}
     {{ end }}
   </nav>
 
   {{ range $months }}
-    {{ $first := index .Pages 0 }}
-    <section class="month" id="month-{{ $first.Date.Format "2006-01" }}">
-      <h2>{{ $first.Date.Format "January 2006" }}</h2>
+    <section class="month" id="month-{{ .Key }}">
+      <h2>{{ (index .Pages 0).Date.Format "January 2006" }}</h2>
       <div>
         {{ range .Pages }}
         <article class="archive-row">
@@ -30,5 +29,4 @@
       </div>
     </section>
   {{ end }}
-</main>
 {{ end }}

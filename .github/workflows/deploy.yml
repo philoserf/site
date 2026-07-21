@@ -29,12 +29,17 @@ jobs:
         with:
           extended: true
       - run: hugo --gc --minify --panicOnWarning
-        env:
-          HUGO_ENV: production
+      - uses: actions/cache@v4 # carry lychee's link-check cache between runs
+        with:
+          path: .lycheecache
+          key: lychee-${{ github.run_id }}
+          restore-keys: lychee-
       - uses: lycheeverse/lychee-action@v2 # non-blocking while gauging noise (#719)
         continue-on-error: true
         with:
-          args: --root-dir "${{ github.workspace }}/public" --include-fragments --no-progress 'public/**/*.html'
+          # 2d max-age: entries from the daily 08:25 cron are ~24h old at the
+          # next run, so a 1d cutoff would expire the whole cache on arrival
+          args: --cache --max-cache-age 2d --root-dir "${{ github.workspace }}/public" --include-fragments --no-progress 'public/**/*.html'
         env:
           GITHUB_TOKEN: ${{ github.token }}
       - uses: actions/upload-pages-artifact@v5

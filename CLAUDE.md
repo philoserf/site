@@ -23,7 +23,7 @@ task optimize-images         # Optimize images under static/
 ## Architecture
 
 - **Config**: hugo.yaml. `enableGitInfo: true` — posts can omit `lastmod` and Hugo falls back to the git commit date; do not disable without auditing every post.
-- **Layouts**: hand-rolled, no theme/submodule. `layouts/_default/{baseof,single,list}.html`, `layouts/index.html`, `layouts/404.html`, `layouts/partials/{description,math,mermaid}.html`.
+- **Layouts**: hand-rolled, no theme/submodule. `layouts/_default/{baseof,single,list}.html`, `layouts/index.html`, `layouts/404.html`, `layouts/partials/{description,math,mermaid,motto,resolve-pagerefs}.html`. `baseof.html` owns the `<main id="main">` element; templates override the `main-class` block (default `prose`).
 - **Content**: content/ directory with posts/ subdirectory
 - **Archetypes**: archetypes/default.md (pages — `lastmod` only) and archetypes/posts.md (posts — `date` only, no `lastmod`); the asymmetry is load-bearing — posts deliberately omit `lastmod` so `enableGitInfo` backfills it from the git commit date
 - **Front matter schema**: implicit. Archetypes scaffold `title` + dates + `draft`, but real posts also carry `description`, `tags`, sometimes `aliases`/`series`/`created`. The schema is enforced by the upstream publisher, not Hugo. `layouts/partials/description.html` falls back `.Description → .Summary → Site.Params.description`, so a missing `description` degrades gracefully rather than failing.
@@ -47,7 +47,7 @@ The deploy workflow also runs `lychee` over `public/` (external links and anchor
 Automated to GitHub Pages via GitHub Actions (.github/workflows/deploy.yml):
 
 - Triggers on pushes to `main` and daily at 08:25 UTC
-- Builds with `hugo --gc --minify --panicOnWarning` and `HUGO_ENV=production`; local `task build` and PR builds use the same strict flags.
+- Builds with `hugo --gc --minify --panicOnWarning` (production is Hugo's default environment for `hugo` builds); local `task build` and PR builds use the same strict flags.
 - Deploys via `actions/upload-pages-artifact` + `actions/deploy-pages` (artifact-based; no `gh-pages` branch)
 
 ## Notes

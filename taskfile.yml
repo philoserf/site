@@ -1,8 +1,5 @@
 version: "3"
 
-vars:
-  HUGO_ENV: development
-
 tasks:
   default:
     cmds:
@@ -45,8 +42,6 @@ tasks:
       - public/**/*
     cmds:
       - hugo --gc --minify --panicOnWarning
-    env:
-      HUGO_ENV: production
 
   clean:
     desc: Clean up generated files
