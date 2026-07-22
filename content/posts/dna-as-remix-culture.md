@@ -5,7 +5,7 @@ date: 2026-07-27
 ---
 
 > SPECULATIVE MACHINES, [Bios O.S.](https://soundcloud.com/speculative-machines/bios-os)  
-> Our biochemical instructions are there for the taking. Like a choice James Brown sample, our DNA will be re-sampled, recycled, glitched, chopped and screwed.
+> Our biochemical instructions are there for the taking. Like a choice James Brown sample, our DNA will be re-sampled, recycled, glitched, chopped and screwed.  
 
 The claim that our biochemical instructions are there for the taking—that like a choice James Brown sample our DNA will be re-sampled, recycled, glitched, chopped and screwed—swaps one rhetorical register for another. Genetic engineering usually arrives wrapped in the language of Prometheus or the lab coat: hubris and white-room precision, designer babies and optimization curves. Here it arrives through the vocabulary of the MPC and the turntable, a creative tradition built on taking what was already made and finding what else it could do.
 
