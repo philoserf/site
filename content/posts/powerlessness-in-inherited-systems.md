@@ -4,12 +4,14 @@ description: Explores the double alienation of living under inherited systems wi
 date: 2026-07-24
 ---
 
-Being stuck in an inherited world with no clear path to influence is doubly alienating: you are trapped by circumstances you didn't choose and unable to see how your actions could matter. You feel powerless and disoriented at once, unable even to see how change happens.
+Being trapped in an inherited world is alienating. Being unable to see how anyone changes it is worse. The first condition limits your power; the second hides where power might begin.
 
-The frustration starts with inherited systems—economic structures, political institutions, social norms—that were running before you arrived, the rules written, the power already handed out. These systems are built to resist any one person. They are too large and too tangled for one person to move.
+Economic structures, political institutions and social norms were already running when you arrived. Their rules were written, their offices occupied and their advantages distributed. No single person designed the whole arrangement, and no single person can readily move it. Its size makes resistance difficult. Its complexity makes the source of resistance hard to find.
 
-The worse part is not knowing how change works. You have no map. Even with the will to act, you wouldn't know where to push, or where your energy should go.
+Powerlessness therefore becomes a problem of knowledge as well as force. You may want to act but have no map of cause and effect. You cannot tell which pressure point matters, which alliance might hold or which effort will disappear into the machinery. Energy without direction soon begins to feel like waste.
 
-The same feeling surfaces elsewhere. In a complex democracy, one vote feels microscopic against the weight of institutions. At work, people labor under rules they can neither control nor follow. And after enough tries that change nothing, the mind shuts down: repeated effort, no result, eventual surrender.
+The feeling appears throughout ordinary life. In a large democracy, one vote seems too small to register against parties, courts, agencies and money. At work, people operate under rules they did not make and may not understand, enforced by managers who often did not make them either. Each failed attempt at change teaches the same lesson: effort produces no visible result. Eventually withdrawal begins to look less like apathy than experience.
 
-There is a time dimension too: you inherit the consequences of decisions made before you existed, yet you bear responsibility for outcomes you didn't cause. You answer for a world you never had a hand in making.
+Time deepens the estrangement. People inherit debts, institutions, damaged landscapes and settled inequalities created before they could consent to any of them. They are then told that maintaining or repairing the world is their responsibility. The demand is not wholly unjust; consequences still have to be faced. But responsibility without any visible route to influence feels less like citizenship than conscription into someone else's unfinished history.
+
+Alienation eases only when the path between action and consequence becomes visible. People need not control the whole system. They need to know where it can be touched.
