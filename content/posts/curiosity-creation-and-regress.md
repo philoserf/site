@@ -4,12 +4,14 @@ description: A myth-like allegory where human curiosity endlessly generates comp
 date: 2026-07-31
 ---
 
-A creator made an elegant, simple system, well suited to its purpose. Into it he set us and gave us free will. He also set there a tree whose fruit, once eaten, would wake in us a hunger to understand.
+The creator made a world simple enough to serve its purpose. Into it he placed us, free to live as we chose. He also planted a tree whose fruit would awaken the need to understand.
 
-When we ate the fruit, we changed: from innocence—simple, accepting and incurious—to a restless knowing. Now we questioned, and could not stop.
+We ate, and innocence ended. What had been enough no longer was. We began to ask why, then what lay beneath the answer, then what lay beneath that.
 
-The creator answered each question by making the world more complex. Each discovery opened a deeper one—not because the depth was already there, but because the asking made it. It held at every scale, from the quantum to the cosmic.
+The creator answered by enlarging the world. Each question made new depths for the answer to occupy. The more closely we looked, the more there was to see. Matter opened into particles, particles into fields and uncertainties. The heavens opened into stars, galaxies and reaches without end. These depths had not waited there for us. Our asking called them into being.
 
-So the regress had no floor: to seek was to make more to seek. Our curiosity could not be satisfied.
+Curiosity therefore carried its own punishment. Every answer increased the number of questions. Knowledge did not approach completion; it moved completion farther away. To seek was to make more to seek.
 
-Yet there may be a way back—to set down the need to know and simply be again. The way cannot be described, because to analyze it is to re-enter the state it escapes.
+Perhaps the way out is not another answer. Perhaps it is to stop requiring the world to explain itself, and to become once more capable of being in it.
+
+Nothing more can be said about that return. The moment we try to understand it, the tree bears fruit again.
