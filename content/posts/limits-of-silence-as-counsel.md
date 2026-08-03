@@ -1,6 +1,6 @@
 ---
-description: Critiques the aphorism "say nothing if you don't know what to say" as failing to distinguish thinking-aloud from empty speech.
 title: Limits of Silence as Counsel
+description: Critiques the aphorism "say nothing if you don't know what to say" as failing to distinguish thinking-aloud from empty speech.
 date: 2026-09-02
 ---
 
