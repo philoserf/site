@@ -2,8 +2,6 @@
 title: Mumpsimus Stubborn Adherence to Error
 description: Defines 'mumpsimus' as stubborn adherence to known error, traced to a 16th-century priest's refusal to correct a Latin mispronunciation.
 date: 2026-03-30
-aliases:
-  - Understanding the Term Mumpsimus
 ---
 
 Mumpsimus: a person who obstinately adheres to old ways, customs, or ideas despite clear evidence they're wrong or outdated. Also refers to the error or practice itself.

@@ -2,8 +2,6 @@
 title: Fingerprints of Our Fellow Man
 description: A 2019 poem by Mark Ayers on humanity's indelible mark across even the most remote natural landscapes.
 date: 2026-03-08
-aliases:
-  - What We Are About
 ---
 
 by Mark Ayers, 2019
