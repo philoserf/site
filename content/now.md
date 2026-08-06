@@ -4,7 +4,7 @@ eyebrow: "Currently"
 description: "What I'm reading, focused on, and looking toward right now. Updated when reality changes."
 lastmod: 2026-07-21
 aliases:
-  - /posts/now
+  - /posts/now/
 ---
 
 ## Where am I
