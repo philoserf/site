@@ -2,8 +2,6 @@
 title: Bare Feet on Snow
 description: A contemplative poem by Mark Ayers tracing four seasons of wordless communion between body and earth.
 date: 2026-03-31
-aliases:
-  - Silent Communion with Nature's Cycles
 ---
 
 by Mark Ayers, 2017

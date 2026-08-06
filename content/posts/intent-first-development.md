@@ -2,8 +2,6 @@
 title: Intent-First Development
 description: AI coding agents are shifting the primary software artifact from code to intent documents, making PRDs the durable source of truth.
 date: 2026-03-20
-aliases:
-  - Intent as Code How AI Agents Are Moving the Abstraction Layer
 ---
 
 There's a shift happening that most of us are describing wrong.
