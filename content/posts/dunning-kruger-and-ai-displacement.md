@@ -12,6 +12,6 @@ The deeper irony is structural. The same limitation that makes someone overestim
 
 We tend to project our own level of understanding onto the systems we're evaluating. If you produce shallow work—pattern-matched outputs dressed up with confident delivery—then AI does look like it's about to replace you, because current systems can already do what you do. But those who don't recognize their work as shallow will be the most surprised when the replacement arrives, because they never built an accurate model of what they were actually contributing.
 
-Predicting the end of work is intellectual performance—it signals you're thinking big, looking forward, seeing the future. It's not analysis; it's positioning.
+Predicting the end of work is intellectual performance—it signals you're thinking big, looking forward, seeing the future. Positioning, not analysis.
 
 The real question is what survives AI augmentation. The answer isn't "exceptional minds" in some abstract sense. It's specific capabilities: formulating problems others haven't noticed, synthesizing across domains with unclear boundaries, deciding under genuine ambiguity where no training data yet exists. These are harder to spot and harder to fake than the confident delivery that now passes for expertise. The people best positioned for what's coming are, almost by definition, the least likely to prophesy loudly—because they already know how much they don't know.

@@ -1,9 +1,9 @@
 ---
 title: Vacation Length Thresholds
-aliases:
-  - Vacation length
 description: Defines minimum days at destination by travel type and an optimal trip length of 23 days based on transit overhead.
 date: 2026-07-17
+aliases:
+  - Vacation length
 ---
 
 How long a vacation should last isn't a matter of preference so much as arithmetic against transit. The more of your trip that goes to getting there and recovering, the more days on the ground you need before the trip justifies its cost in leave and fatigue. Two floors and a target:

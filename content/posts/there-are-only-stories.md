@@ -1,9 +1,9 @@
 ---
 title: There Are Only Stories
-aliases:
-  - All Stories Are True. All Stories Are False. There Are Only Stories.
 description: Explores why all human knowledge is narrative, shifting the question from 'what is real?' to 'does this story serve life well?'
 date: 2026-03-17
+aliases:
+  - All Stories Are True. All Stories Are False. There Are Only Stories.
 ---
 
 "All stories are true. All stories are false. There are only stories." These read as contradictions. They aren't. Each sentence does real work, and the sequence matters.
