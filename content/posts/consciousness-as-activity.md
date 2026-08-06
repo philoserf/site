@@ -2,8 +2,6 @@
 title: Consciousness as Activity
 description: Examines whether consciousness is an activity always directed at objects or a capacity that exceeds its contents.
 date: 2026-03-04
-aliases:
-  - Consciousness as Intentional Activity Rather Than Independent Entity
 ---
 
 > There is no consciousness; there is only being conscious of something.

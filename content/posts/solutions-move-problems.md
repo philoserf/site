@@ -2,8 +2,6 @@
 title: Solutions Move Problems
 description: Every solution displaces rather than eliminates problems; progress is measured by the quality of problems we trade into.
 date: 2026-04-18
-aliases:
-  - Solutions Move Problems, They Don't Solve Them
 ---
 
 "All of our solutions move the problem. They never solve the problem." At first pass, this reads as cynicism—a dismissal of human effort as futile. But its real force lies in a more unsettling and precise observation: that intervention is displacement, not elimination. Every act of problem-solving reshapes the landscape of difficulty rather than clearing it.
