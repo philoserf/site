@@ -8,7 +8,7 @@ The story goes like this: in the garden, there was one tree we weren't supposed 
 
 Maybe the punishment wasn't exile or mortality. Maybe it was something quieter and far more persistent: the sense that whatever we learn only widens the perimeter of what we don't. A hunger that knowledge doesn't satisfy so much as refine.
 
-A scientist once said, "The more we look, the more we find," equal parts wonder and warning. We tend to hear progress in that line. We rarely hear the cost. The deeper we go, the more every answer feels like a placeholder. The more we name, the more the seams show. It's not that the world offers more; it's that our need for coherence grows faster than our ability to supply it.
+A scientist once said, "The more we look, the more we find," equal parts wonder and warning. We tend to hear progress in that line. We rarely hear the cost. The deeper we go, the more every answer feels like a placeholder. The more we name, the more the seams show. The world doesn't offer more; our need for coherence just outgrows our ability to supply it.
 
 Before the fruit, maybe things simply were. After, things had edges. Questions. Fractures we couldn't unsee. Awareness didn't just illuminate ignorance—it multiplied it.
 

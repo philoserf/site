@@ -1,9 +1,9 @@
 ---
 title: Cassandra Inversion
-aliases:
-  - Decoding the Outrage Machine
 description: Saturation of urgent voices inverts the Cassandra myth, making genuine warnings indistinguishable from manufactured outrage.
 date: 2026-03-22
+aliases:
+  - Decoding the Outrage Machine
 ---
 
 When every voice is Cassandra, no one hears the warning. Not because the warnings are wrong—some of them are desperate and true—but because prophecy depends on scarcity. A single voice crying out against complacency can change the course of a city. A thousand voices crying out at once is just weather.

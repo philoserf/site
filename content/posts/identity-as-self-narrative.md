@@ -1,9 +1,9 @@
 ---
 title: Identity as Self-Narrative
-aliases:
-  - We are a story we tell ourselves
 description: Personal identity is a self-edited story linking past to future, and recognizing your authorship can liberate or constrain you.
 date: 2026-04-11
+aliases:
+  - We are a story we tell ourselves
 ---
 
 Your identity is a story you're constantly writing.
