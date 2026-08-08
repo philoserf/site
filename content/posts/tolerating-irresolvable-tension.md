@@ -8,7 +8,7 @@ Conflict is not failure. Tension—between competing desires, between self and w
 
 If tension is the ground condition, the goal shifts from eliminating conflict to tolerating it. Suppress one side and you get false peace through domination. Health comes from staying with irresolvable tensions: inhabiting doubt, enduring unfulfilled needs, resisting premature closure. Keats called it "negative capability"—remaining in uncertainties without irritable reaching after fact and reason.
 
-The pursuit of "finer and finer solutions" never ends. Integration keeps refining, pulling in more variables, reconciling more claims. Each synthesis reveals new antitheses—immune systems distinguishing self from non-self, ecosystems balancing competing species, scientific paradigms absorbing contradictory findings, democracies negotiating plural values.
+The pursuit of "finer and finer solutions" never ends. Integration never finishes: it pulls in more variables, reconciles more claims. Each synthesis reveals new antitheses.
 
 Accepting permanent conflict demands skills most people never build. People who can't bear ambiguity simplify—splitting experience into good/bad, us/them, true/false. The psychologist's work becomes building tolerance for complexity: helping people hold multiple perspectives, sit with contradictions, delay resolution.
 
@@ -16,11 +16,9 @@ Adaptive systems live far from equilibrium, sustained by dynamic tension between
 
 Healthy relationships sustain difference rather than demand conformity. Productive organizations balance competing priorities rather than improve a single metric. Mature people face what they'd rather deny rather than project it. Democratic societies build structures for disagreement rather than enforce consensus.
 
-The "richness of varieties of experience" emerges only when opposing forces keep pressing against each other. Monocultures—psychological, social, ecological—trade resilience for efficiency. Diversity means protecting space for the contradictory, the uncomfortable, the unresolved.
+The "richness of varieties of experience" emerges only when opposing forces keep pressing against each other. Monocultures—psychological, social, ecological—trade resilience for efficiency.
 
-The therapeutic goal is not eliminating symptoms but expanding the capacity for paradox. Not harmony but productive dissonance. Not resolution but ever-finer integration of irreconcilable demands.
-
-Marion Milner first explored this in _On Not Being Able to Paint_. The principles go beyond art into how we navigate a world that won't simplify.
+Marion Milner first explored this in _On Not Being Able to Paint_. The principles go beyond art into how we live in a world that won't simplify.
 
 Sources:
 
