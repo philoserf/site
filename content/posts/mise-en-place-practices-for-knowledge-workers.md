@@ -13,8 +13,8 @@ Summary of [Mise-en-Place for Knowledge Workers: 6 Practices for Working Clean](
 
 Decide the order is about strategic sequencing—like a chef knowing they need the sauce reduction started before the main dish. In knowledge work, this means deliberately planning which tasks create dependencies for others, or understanding your energy patterns to tackle complex work when you're sharpest.
 
-Perform background tasks before immersive tasks parallels how chefs complete prep work before active cooking. For knowledge workers, this means handling emails, scheduling, or gathering resources before diving into deep work like writing or analysis. This prevents context switching during focused work.
+Perform background tasks before immersive tasks parallels how chefs complete prep work before active cooking. Emails, scheduling, and resource gathering come first; otherwise they surface mid-task and pull you out of it.
 
-Use placeholders parallels a chef having mise containers ready even before ingredients arrive. In knowledge work, this means creating document structures, setting up project folders, or drafting outlines before having all the content. It creates a "space" for the work to flow into.
+Use placeholders is about creating document structures, setting up project folders, or drafting outlines before you have all the content.
 
-Have a finishing mindset reflects how chefs think through to plating before they start cooking. For knowledge workers, this means beginning with a clear vision of the end product—understanding what "done" looks like and working backward from there.
+Have a finishing mindset reflects how chefs think through to plating before they start cooking. The practice starts with a clear vision of the end product: knowing what "done" looks like, then working backward.
