@@ -1,14 +1,20 @@
 ---
 title: Books I have read
 description: Personal reading log spanning fiction and nonfiction, organized by genre with works from 1908 to 2026. This list, started in late 2022, is far from complete. I'm sure I've missed some and will again.
-date: 2026-07-21
+date: 2026-08-13
 ---
 
 ## Finished in 2026
 
+- _A Philosophy of Walking_ by Frédéric Gros (2014)
+- _The Triumph of the Moon_ by Ronald Hutton (1999)
+- _Weaveworld_ by Clive Barker (1987)
+- _Ravenwood_ by Nathan Lowell (2011)
+- _Storythinking_ by Angus Fletcher (2023)
+- _Primal Intelligence_ by Angus Fletcher (2025)
 - _The Rise of the Dragon_ by George R. R. Martin (2022)
 - _Story Grid_ by Shawn Coyne (2015)
-- _A Monestary Within_ by Gil Fronsdal (2010)
+- _A Monastery Within_ by Gil Fronsdal (2010)
 - _Confessions of an English Opium-Eater_ by Thomas De Quincey (1821)
 - _Naked Lunch_ by William S. Burroughs (1959)
 
