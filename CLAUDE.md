@@ -8,29 +8,14 @@ The current next step for this repo is tracked in the workspace backlog at `../N
 
 All commands use Task (Taskfile.yml). Run `task` or `task help` to see available tasks.
 
-```bash
-task setup   # Install dependencies
-task dev     # Start development server with drafts and future content
-task build   # Build production site with minification
-task clean   # Remove generated files
-task check   # Verify site builds correctly
-task format  # Format code
-task new -- path/file.md     # Create new content file
-task new:post -- post-title  # Create new blog post
-task optimize-images         # Optimize images under static/
-```
-
 ## Architecture
 
 - **Config**: hugo.yaml. `enableGitInfo: true` — posts can omit `lastmod` and Hugo falls back to the git commit date; do not disable without auditing every post.
-- **Layouts**: hand-rolled, no theme/submodule. `layouts/_default/{baseof,single,list}.html`, `layouts/index.html`, `layouts/404.html`, `layouts/partials/{description,math,mermaid,motto,resolve-pagerefs}.html`. `baseof.html` owns the `<main id="main">` element; templates override the `main-class` block (default `prose`).
-- **Content**: content/ directory with posts/ subdirectory
+- **Layouts**: hand-rolled, no theme/submodule. `baseof.html` owns the `<main id="main">` element; templates override the `main-class` block (default `prose`).
 - **Archetypes**: archetypes/default.md (pages — `lastmod` only) and archetypes/posts.md (posts — `date` only, no `lastmod`); the asymmetry is load-bearing — posts deliberately omit `lastmod` so `enableGitInfo` backfills it from the git commit date
 - **Front matter schema**: implicit. Archetypes scaffold `title` + dates + `draft`, but real posts also carry `description`, `tags`, sometimes `aliases`/`series`/`created`. The schema is enforced by the upstream publisher, not Hugo. `layouts/partials/description.html` falls back `.Description → .Summary → Site.Params.description`, so a missing `description` degrades gracefully rather than failing.
-- **Styling**: static/style.css for the site, static/callout.css for publisher callouts (CSS variables for theming)
-- **Shortcodes**: `latin-motto`, `callout`, `mermaid` under `layouts/shortcodes/`. `callout` and `mermaid` are reference templates from `../obsidian-publisher/hugo-shortcodes/` — keep in sync if the publisher's output format changes. Mermaid loads from jsDelivr with an SRI hash via `layouts/partials/mermaid.html`, conditionally on `.HasShortcode "mermaid"` — bumping the pinned version requires recomputing the `integrity` hash.
+- **Shortcodes**: `callout` and `mermaid` are reference templates from `../obsidian-publisher/hugo-shortcodes/` — keep in sync if the publisher's output format changes. Mermaid loads from jsDelivr with an SRI hash via `layouts/partials/mermaid.html`, conditionally on `.HasShortcode "mermaid"` — bumping the pinned version requires recomputing the `integrity` hash.
 - **Generated text files**: `robots.txt`, `site.webmanifest`, `vcard.vcf`, `llms.txt` render from `layouts/` templates via custom output formats on the home page — do not re-create them under `static/`
-- **Build output**: public/ (gitignored), resources/ (gitignored)
 
 ## Content Provenance
 
@@ -44,11 +29,7 @@ The deploy workflow also runs `lychee` over `public/` (external links and anchor
 
 ## Deployment
 
-Automated to GitHub Pages via GitHub Actions (.github/workflows/deploy.yml):
-
-- Triggers on pushes to `main` and daily at 08:25 UTC
-- Builds with `hugo --gc --minify --panicOnWarning` (production is Hugo's default environment for `hugo` builds); local `task build` and PR builds use the same strict flags.
-- Deploys via `actions/upload-pages-artifact` + `actions/deploy-pages` (artifact-based; no `gh-pages` branch)
+Automated to GitHub Pages via GitHub Actions (`.github/workflows/deploy.yml`). Builds with `hugo --gc --minify --panicOnWarning` (production is Hugo's default environment for `hugo` builds); local `task build` and PR builds use the same strict flags.
 
 ## Notes
 
