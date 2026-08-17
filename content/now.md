@@ -2,7 +2,7 @@
 title: Now
 eyebrow: "Currently"
 description: "What I'm reading, focused on, and looking toward right now. Updated when reality changes."
-lastmod: 2026-07-21
+lastmod: 2026-08-17
 aliases:
   - /posts/now/
 ---
@@ -16,19 +16,19 @@ At home in Greater Grand Rapids, Michigan
 - _There is No Antimemetics Division_ by Qntm (2025)
 - _Derai_ by E. C. Tubb (1968)
 - _Practical Mysticism_ by Evelyn Underhill (1914)
-- _Primal Intelligence_ by Agnus Fletcher (2025)
+- _Wonderworks_ by Angus Fletcher (2019)
 
 ## What am I focused on
 
-- Establishing fresh, healthy routines
-- Reestablishing a running routine
-- Returning to golf
+- Continuing a running routine
+- Refinding my golf swing and game
+- Settling back into home after a three-week road trip
 
 ## What I'm looking forward to
 
-- Roadtripping to [GopherCon 2026](https://gophercon.com/) in Seattle
 - An autumn weeklong getaway
-- A trip to Ireland
+- [C&RBGC](https://crbgc.org) in June 2027
+- A trip to Ireland in autumn 2027
 
 ---
 
