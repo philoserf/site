@@ -1,5 +1,5 @@
 ---
-title: Practice Before Theory
+title: Practice Preceding Theory
 description: Practice historically precedes theory—working artifacts arrive before their explanations, as with steam engines, aspirin, and LLMs.
 date: 2026-09-21
 ---
@@ -15,3 +15,5 @@ The darker reading concerns what "works" silently smuggles in. Cargo cults work 
 A phenomenological layer sits underneath all of this. Polanyi's observation that we know more than we can tell points to the priority of tacit competence over articulate explanation. The expert diagnostician pattern-matches the sick child before she could narrate what tipped her off; the articulation comes later, partial and lossy. Wittgenstein's gesture toward meaning as use runs the same direction: we do not understand a word and then deploy it, we deploy it competently and call that understanding. Cognition is largely reverse-engineering of our own behavior. We watch ourselves succeed and theorize about how.
 
 Something like an inverted pragmatism emerges. Theory is the residue of practice that has already been working. The honest scientist concedes this; the honest engineer never doubted it. It arrives as commentary on what has already happened, and the gap between the demonstrable fact of a thing working and any particular story told about why deserves appropriate humility.
+
+What this asks of anyone trying to build well is a particular seriousness about practice. Respect the working artifact even when its principles are obscure. Trust accumulated craft and the people who carry it. Recognize that explanation, when it finally comes, is more often the recovery of what was already known by hand than the revelation of something that was never there. Treat theory as something owed to working practice, not a license to dismiss it—and, per the darker reading above, not a substitute for asking whether what works is working for the reason you think.
