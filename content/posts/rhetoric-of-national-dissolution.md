@@ -4,6 +4,8 @@ description: Unpacks the rhetorical moves behind calls to dissolve the U.S.—"d
 date: 2026-08-28
 ---
 
+Is it time to disolve these dis-United states?
+
 I wrote this as an exercise: put the call down as if in earnest and see what the words alone could do without a policy behind them. That's worth saying plainly, because what follows treats the call to dissolve these dis-United States as if I'd delivered it in dead seriousness—and it should. The rhetoric doesn't check my sincerity before it starts working on the reader; a line built to convert frustration into historical mandate performs identically whether I post it in earnest or type it to test it. The hyphenated unmasking of the official name, the declaration that the hour has come—these do most of the work through three small lexical choices that deserve attention before any question of my intent.
 
 The verb dissolve is what you do to a body of salt in water, to a marriage in court, to a parliament before new elections, to a corporation that has outlived its usefulness. The Declaration of Independence used precisely this verb when it announced that the colonies would dissolve the political bands which had connected them to another.
