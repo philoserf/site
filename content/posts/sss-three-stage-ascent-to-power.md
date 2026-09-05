@@ -1,7 +1,7 @@
 ---
-date: 2026-10-21
-description: How the SS moved from outside the law, to above it, to dissolving law itself—each step enabled by others' consent.
 title: SS's Three-Stage Ascent to Power
+description: How the SS moved from outside the law, to above it, to dissolving law itself—each step enabled by others' consent.
+date: 2026-10-21
 ---
 
 The SS can be told in three verbs. It began outside the law, became an organization above the law, and ended as one that undid the law. Put it that compactly and the part usually left out shows: each step needed permission from people who still had the power to refuse. The sequence looks inevitable now. It was not. It was ratified three times.

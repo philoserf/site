@@ -1,7 +1,7 @@
 ---
-date: 2026-10-16
-description: Wealth is only secure when institutions, not personal political leverage, protect property from rulers' claims.
 title: Wealth Without Political Power
+description: Wealth is only secure when institutions, not personal political leverage, protect property from rulers' claims.
+date: 2026-10-16
 ---
 
 There is a saying that it is dangerous to be rich and not powerful. Read as advice to rich people it is cynical and mostly wrong. Read as a description of a kind of state it is exact. The danger arises wherever political authority is strong enough to threaten property and too weakly constrained to respect it, and that is a defect in the state, not a gap in anyone's personal stock of influence.
