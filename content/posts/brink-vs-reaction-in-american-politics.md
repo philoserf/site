@@ -14,5 +14,6 @@ The second reading is bleaker and better supported. Imminent reckoning followed 
 
 The revised model also dissolves the sentence's weakest word. "We" did not manage this. American politics is not collective in the way that construction suggests; particular actors, factions, donors and courts did it, largely through structural advantage rather than persuasion."Somehow" confesses that the mechanism is opaque, and it is not. It is the same mechanism each time, and a model that expects it can name it. "Unholy" is accurate to the experience. "Mess" is exculpatory, since a mess implies accident. What happened was not an accident and not a surprise. It was built, as it has been built before, by people who understood the country's rhythm better than the people grieving it.
 
-[^1]: George Saunders, interview, "[George Saunders Reveals the Short Story That Changed His Life For Good](https://www.culturedmag.com/article/2026/04/23/literature-george-saunders-vigil/)," _CULTURED_, April 23, 2026.  
-$1
+[^1]:
+    George Saunders, interview, "[George Saunders Reveals the Short Story That Changed His Life For Good](https://www.culturedmag.com/article/2026/04/23/literature-george-saunders-vigil/)," _CULTURED_, April 23, 2026.  
+    $1
