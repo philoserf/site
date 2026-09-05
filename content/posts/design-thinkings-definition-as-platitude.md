@@ -1,7 +1,7 @@
 ---
 title: Design Thinking's Definition as Platitude
 description: Traces how Design Thinking's core definition shifted from a specific hypothesis to an empty legitimating formula over two decades.
-date: 2026-10-07
+date: 2026-11-09
 ---
 
 When Design Thinking was a young movement—the era of the Stanford d.school, IDEO's ascendancy, Tim Brown's 2008 essay announcing it to managers—a description of it as something that "links smart ideas and practical methods from different areas together, and creates new combinations" did real work. It pointed. There was a recognizable practice it was trying to name: a way of treating designerly habits, prototyping, user observation, iteration, as transferable beyond product styling and importable into strategy, services, and organizational problems. The sentence felt true partly because it felt specific. It distinguished a new thing from the older, narrower sense of design as the shaping of objects.

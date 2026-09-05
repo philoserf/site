@@ -1,7 +1,7 @@
 ---
-date: 2026-10-23
-description: Explains how oppressed groups internalize hierarchies and police each other, and why collective solidarity, not individual defiance, breaks the pattern.
 title: Horizontal Policing of Oppression
+description: Explains how oppressed groups internalize hierarchies and police each other, and why collective solidarity, not individual defiance, breaks the pattern.
+date: 2026-10-23
 ---
 
 Colonial administrations, prisons, corporations: wherever one group holds power over another, the same arrangement appears. The powerful do not police the powerless. The powerless police each other. Nobody has to design it. Much of it assembles itself.

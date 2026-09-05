@@ -1,7 +1,7 @@
 ---
 title: The Case Materialism Can't Close
 description: Materialism has strong empirical support but cannot fully close the hard problem of consciousness.
-date: 2026-10-12
+date: 2026-11-11
 ---
 
 The case for materialism is real but weaker than its proponents present it, and it can never be fully closed.

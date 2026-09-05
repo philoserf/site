@@ -1,7 +1,7 @@
 ---
 title: Why Science Resists Correction
 description: Decisive evidence rarely produces immediate institutional change, as replication crises and medical reversals show science corrects slowly through communities, not logic alone.
-date: 2026-10-05
+date: 2026-11-06
 ---
 
 A persistent belief about science holds that decisive evidence has decisive consequences. Demonstrate that a prominent theory is false, expose widespread methodological failures, or even uncover outright fraud across an influential field, and the expectation is that researchers will abandon old conclusions and rebuild on firmer ground. Reality is considerably less accommodating. Entire bodies of scientific literature can be shown to rest on weak foundations without producing changes proportional to the force of the criticism. Evidence changes minds more readily than it changes institutions.

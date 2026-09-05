@@ -1,7 +1,7 @@
 ---
 title: Opportunity Framing vs. Obstacle Framing
 description: A critique of the "opportunity vs. obstacle" maxim, showing its advantage is conditional, not universal or permanent.
-date: 2026-10-02
+date: 2026-11-04
 ---
 
 To say "The person who approaches a problem like an opportunity has an advantage that the person who sees an obstacle will never understand" is to stake a claim about temperament: that how someone construes a difficulty, more than what the difficulty is, decides who prevails. The sentence carries real cargo. Appraisal shapes behavior in measurable ways—the person who reads a setback as a challenge attends to options and sustains effort longer than the person who reads the same setback as a threat, who narrows and exits. In genuinely open situations—a stalled negotiation, a research dead end that might be a turn—construing the difficulty as containing possibility keeps you searching the space where you find the payoff, if it exists. That is a defensible advantage, and it compounds: the searcher accumulates information and second chances that the avoider, having withdrawn, never generates.
