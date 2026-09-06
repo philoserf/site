@@ -2,7 +2,7 @@
 title: Now
 eyebrow: "Currently"
 description: "What I'm reading, focused on, and looking toward right now. Updated when reality changes."
-lastmod: 2026-08-17
+lastmod: 2026-09-06
 aliases:
   - /posts/now/
 ---
@@ -17,6 +17,8 @@ At home in Greater Grand Rapids, Michigan
 - _Derai_ by E. C. Tubb (1968)
 - _Practical Mysticism_ by Evelyn Underhill (1914)
 - _Wonderworks_ by Angus Fletcher (2019)
+
+Also: [books I have read]({{< relref "books-i-have-read" >}}) and [books I may read]({{< relref "books-i-may-read" >}}).
 
 ## What am I focused on
 
