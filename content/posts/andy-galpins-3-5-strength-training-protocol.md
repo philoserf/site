@@ -1,0 +1,23 @@
+---
+title: Andy Galpin's 3-5 strength training protocol
+description: "Andy Galpin's 3-5 rule for strength: 3–5 days per week, exercises, reps, sets, and minutes of rest, using loads of 85%+ of one-rep max to maximize CNS and muscle fiber recruitment. Includes source links."
+date: 2023-02-01
+aliases:
+  - Galpin's 3-5 Training Rule
+---
+
+Dr. Andy Galpin's strength training protocol:
+
+3–5 days per week  
+3–5 exercises  
+3–5 repetitions  
+3–5 sets  
+3–5 minutes rest between sets
+
+The protocol uses heavy loads (typically 85%+ of one-rep max) to engage the central nervous system and recruit maximum muscle fibers. The 3-5 minute rest periods allow full CNS recovery between sets, maintaining peak performance throughout the workout.
+
+Sources:
+
+- [Building Strength and Power: Andy Galpin's 3-5 Protocol Explained](https://makeawavecincy.com/building-strength-and-power-andy-galpins-3-5-protocol-explained/)
+- [Guest Series: Dr. Andy Galpin – Optimal Protocols To Build Strength (Huberman Lab)](https://podcastnotes.org/huberman-lab/guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-part-2-huberman-lab/)
+- [What is the 3-5 protocol? - Ask Dr. Andy Galpin](https://ask.andygalpin.com/s/Zipl39ZF)
