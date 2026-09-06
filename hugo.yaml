@@ -10,14 +10,8 @@ params:
   since: 2005
   description: "Short, plain, unhedged essays on thinking and cognition, civilization, and identity — with poetry, story, and the small crafts of attention: coffee, calendars, kitchens, and code."
   email: "mark@philoserf.com"
-  # Three-line Latin motto; primary is the line used standalone (vCard NOTE)
-  # and also appears in lines — keep the two in sync.
-  motto:
-    primary: "COGITA·DISCE·NECTE·ENUNTIA"
-    lines:
-      - "HOMO·HOMINIS·ESSE"
-      - "COGITA·DISCE·NECTE·ENUNTIA"
-      - "PERCIPE·STRUE·EFFICE"
+  # The Latin motto — home page, About page, and the vCard NOTE field.
+  motto: "COGITA·DISCE·NECTE·FARE"
   nickname: "philoserf"
   # Warm-paper background hexes; must match --background-color in static/style.css
   themeColor:

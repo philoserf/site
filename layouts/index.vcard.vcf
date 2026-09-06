@@ -19,6 +19,6 @@ X-SOCIALPROFILE;type=github:{{ $s.github }}
 X-SOCIALPROFILE;type=mastodon:{{ $s.mastodon }}
 PHOTO;VALUE=URI:{{ "apple-touch-icon.png" | absURL }}
 SOURCE:{{ "vcard.vcf" | absURL }}
-NOTE:{{ .Site.Params.motto.primary }}
+NOTE:{{ .Site.Params.motto }}
 REV:{{ now.UTC.Format "20060102T150405Z" }}
 END:VCARD
