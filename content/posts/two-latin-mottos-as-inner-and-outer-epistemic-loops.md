@@ -6,7 +6,7 @@ aliases:
   - Two Epistemic Cycles
 ---
 
-**Note added 2026-09-06:** the epistemic line now reads COGITA·DISCE·NECTE·FARE — _fare_, the imperative of the deponent _fari_, "to speak", in place of _enuntia_, "declare" — and PERCIPE·STRUE·EFFICE is no longer one of my mottos. The reading below is left as it was written.
+**Note added 2026-09-06:** the epistemic line now reads COGITA·DISCE·NECTE·FARE—_fare_, the imperative of the deponent _fari_, "to speak", in place of _enuntia_, "declare"—and PERCIPE·STRUE·EFFICE is no longer one of my mottos. The reading below is left as it was written.
 
 > COGITA·DISCE·NECTE·ENUNTIA  
 > PERCIPE·STRUE·EFFICE
