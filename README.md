@@ -1,6 +1,6 @@
 # philoserf.com
 
-Personal essays by Mark Ayers — semi-weekly, on technology, strategy, and personal development. Read them at [philoserf.com](https://philoserf.com/), not here. **Site motto:** COGITA·DISCE·NECTE·ENUNTIA (Think, Learn, Connect, Articulate).
+Personal essays by Mark Ayers — semi-weekly, on technology, strategy, and personal development. Read them at [philoserf.com](https://philoserf.com/), not here. **Site motto:** COGITA·DISCE·NECTE·FARE (Think, Learn, Connect, Speak).
 
 For a linear tour of the layouts, partials, and build pipeline, see [walkthrough.md](./walkthrough.md). For a theory of the codebase in Peter Naur's sense — the publisher relationship, the load-bearing abstractions, the seams, and what kinds of change the system is shaped to accommodate — see [theory.md](./theory.md).
 

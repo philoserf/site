@@ -60,7 +60,7 @@ params:
   since: 2005
   description: "Personal digital presence of Mark Ayers — semi-weekly essays on technology, strategy, and personal development."
   email: "mark@philoserf.com"
-  motto: "COGITA·DISCE·NECTE·ENUNTIA"
+  motto: "COGITA·DISCE·NECTE·FARE"
 ```
 
 ```bash
@@ -498,9 +498,7 @@ cat layouts/shortcodes/latin-motto.html
 
 ```output
 <div class="latin-motto">
-  <p>HOMO·HOMINIS·ESSE</p>
-  <p>COGITA·DISCE·NECTE·ENUNTIA</p>
-  <p>PERCIPE·STRUE·EFFICE</p>
+  <p>COGITA·DISCE·NECTE·FARE</p>
 </div>
 ```
 
