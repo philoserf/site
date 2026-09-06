@@ -28,13 +28,13 @@ params:
     headline: "Uncompressed public thinking"
     startHereIntro: "Essays that say what the rest is trying to do."
     featured:
-      - pageRef: /posts/agency-without-a-self
-      - pageRef: /posts/elasticity-of-moral-circles
+      - pageRef: /posts/agency-without-a-self-or-free-will
+      - pageRef: /posts/moral-circles-contract-under-scarcity-and-threat
     startHere:
-      - pageRef: /posts/two-epistemic-cycles
-      - pageRef: /posts/uncompressed-public-thinking
-      - pageRef: /posts/old-man-by-the-river
-      - pageRef: /posts/republic-continuity-as-achievement
+      - pageRef: /posts/two-latin-mottos-as-inner-and-outer-epistemic-loops
+      - pageRef: /posts/why-feynman-and-watts-lectures-still-resonate
+      - pageRef: /posts/the-wheel-turns-an-old-man-and-his-son-by-the-river
+      - pageRef: /posts/the-republic-as-something-each-generation-must-keep
 
   contact:
     givenName: "Mark"
