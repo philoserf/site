@@ -2,9 +2,9 @@
 title: How AI agents multiply the cost of wasted time
 description: Parallel AI agents turn idle time into (opportunity cost × 1) + (opportunity cost × N), shifting the bottleneck from execution to delegation. Covers compounding guilt, and the rest, quality, and meaning paradoxes that undermine flourishing.
 date: 2025-12-21
-math: true
 aliases:
   - AI Agents and Opportunity Cost
+math: true
 ---
 
 AI agents transformed the mathematics of wasted time. Human productivity once meant serial processing—one task, one moment, one opportunity cost. Artificial agents introduced parallel execution and restructured everything.
