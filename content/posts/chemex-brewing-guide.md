@@ -1,5 +1,5 @@
 ---
-title: Chemex Brewing Guide
+title: Chemex brewing guide
 description: Step-by-step Chemex brewing guide with measurements, pour timing, and roast-specific adjustments for a balanced cup.
 date: 2025-04-30
 ---
