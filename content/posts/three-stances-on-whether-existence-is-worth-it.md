@@ -3,7 +3,7 @@ title: Three stances on whether existence is worth it
 description: "Three mutually exclusive stances toward existence: affirmation (Nietzsche's amor fati, Camus's Sisyphus), rejection (Schopenhauer, Buddha, Benatar's antinatalism), and suspension of judgment (Pyrrho), with the cost each stance imposes."
 date: 2026-04-09
 aliases:
-  - Three Positions on Existence
+  - /posts/three-positions-on-existence/
 ---
 
 You face three choices about existence. Taking any one costs you the other two.

@@ -3,7 +3,7 @@ title: Voice as location Larkin versus Frost
 description: Poetic voice as the ground a poem stands on rather than applied style, contrasting Larkin's deductive British bleakness with Frost's inductive New England particulars, and why a fragmented "dopamine" poem fails to earn authority through typography.
 date: 2026-02-26
 aliases:
-  - Poetic Voice as Cultural Location
+  - /posts/poetic-voice-as-cultural-location/
 ---
 
 Larkin's voice is post-war British, library-dwelling, no-bullshit about the genteel lies. The profanity isn't decoration—it's class, period, and philosophical stance all at once. He can say "they fuck you up" because his cultural location authorizes that rupture of decorum.

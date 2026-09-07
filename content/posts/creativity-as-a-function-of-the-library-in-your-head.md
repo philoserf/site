@@ -3,7 +3,7 @@ title: Creativity as a function of the library in your head
 description: Close reading of the maxim "what you create is a function of the library in your head," weighing its case for wide, curious input against its neglect of lived experience, collaboration, and accident, and ending with it as practical advice.
 date: 2026-03-23
 aliases:
-  - Creativity as a Function of Library
+  - /posts/creativity-as-a-function-of-library/
 ---
 
 "What you create is a function of the library in your head"—the phrase sounds almost too obvious to be worth saying. Of course a jazz musician who has absorbed Coltrane and Monk will improvise differently than one raised on pop standards alone. The library sets the vocabulary, and the vocabulary constrains what can be said.

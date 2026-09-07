@@ -3,7 +3,7 @@ title: Goal pursuit probability model
 description: Goal persistence modeled as value alignment, skill growth, willpower depletion, and interference, with worked examples of learning Go and adopting Obsidian. Identifies the middle phase as the danger zone and lists interventions for each parameter.
 date: 2025-12-06
 aliases:
-  - Goal Persistence Model
+  - /posts/goal-persistence-model/
 math: true
 ---
 

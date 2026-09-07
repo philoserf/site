@@ -3,7 +3,7 @@ title: How accumulated context overrides Claude's training priors
 description: A Claude quote explaining why training priors dominate early in a conversation while the user's accumulated words reshape responses deep in context, with the author noting the key point is that LLM chatbots accumulate context in coherent conversations.
 date: 2025-12-21
 aliases:
-  - Context Length vs. Training Bias
+  - /posts/context-length-vs-training-bias/
 ---
 
 Quoting Claude:

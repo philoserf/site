@@ -3,7 +3,7 @@ title: AI coding agents as attention amplifiers
 description: Critique of David Wilson's "thermonuclear ADHD amplifier" claim about AI coding agents, arguing removed friction shifts scarcity from execution to attention, that agents amplify existing dispositions in both directions, and that focus depends on workflow choices rather than the tool.
 date: 2026-08-17
 aliases:
-  - AI Coding Agents and Attention
+  - /posts/ai-coding-agents-and-attention/
 ---
 
 An AI coding agent collapses the distance between wanting a change and watching it happen. What that collapse removes is friction—and friction, it turns out, was load-bearing. It kept a programmer's attention on one problem long enough to understand it, and it capped how many problems a person could hold in mind at once. Take the friction away and the cap goes with it. Attention is now the scarce resource in this work, not execution, and nobody has built the habits that scarcity demands.

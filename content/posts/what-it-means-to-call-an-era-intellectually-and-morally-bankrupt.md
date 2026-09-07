@@ -3,7 +3,7 @@ title: What it means to call an era intellectually and morally bankrupt
 description: Intellectual bankruptcy as sophistication that produces argument without rigor, and moral bankruptcy as inflated moral language emptied of reasoning. Proposes a checkable test—whether anyone changes a public position because an argument defeated it—and warns that rigor is a transmitted skill, not an instinct.
 date: 2026-08-31
 aliases:
-  - Intellectual and Moral Bankruptcy
+  - /posts/intellectual-and-moral-bankruptcy/
 ---
 
 To call an era intellectually and morally bankrupt is to allege exhaustion at the root: the collapse not of institutions but of the capacity to build them. Intellectual bankruptcy does not mean ignorance. It means the machinery of thought turns without catching, producing argument without rigor. The danger is sophistication spent on nothing. Elaborate frameworks justify predetermined conclusions. Credentialed people say things everyone knows are false, knowing that everyone knows.

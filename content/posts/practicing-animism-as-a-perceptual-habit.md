@@ -3,7 +3,7 @@ title: Practicing animism as a perceptual habit
 description: "Four practices for cultivating an animist perception: sustained attention to a single non-human entity, catching mechanistic language, bracketing metaphysics to stay with experience, and reciprocal land work, with a suggested reading order of Abram, Kimmerer, Harvey, and Descola."
 date: 2026-06-14
 aliases:
-  - Cultivating Animist Perception
+  - /posts/cultivating-animist-perception/
 ---
 
 The most honest starting point is that animism isn't a belief you install but a perceptual habit you cultivate. It is not about adopting propositions like "rocks are alive"; it is about relaxing the habit that treats everything non-human as inert backdrop. There are several entry paths, none of them mutually exclusive, and the work is a kind of training.

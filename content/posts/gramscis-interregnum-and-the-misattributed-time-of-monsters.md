@@ -3,7 +3,7 @@ title: Gramsci's interregnum and the misattributed time of monsters
 description: Gramsci's Prison Notebooks say "morbid symptoms," not monsters; the "time of monsters" wording traces to Žižek (2010) and earlier French sources. The essay examines why the shift from symptom to monster and the interregnum framing distort analysis.
 date: 2026-08-24
 aliases:
-  - Interregnum and the Time of Monsters
+  - /posts/interregnum-and-the-time-of-monsters/
 ---
 
 The old world is dead, the new world is not yet born, and now is the time of monsters—the line is everywhere now, credited to Gramsci and passed along as the sharpest available diagnosis of the present. Whether he wrote exactly that can wait; the claim is worth testing on its own terms first. To say it is to describe an interregnum: the interval between two orders, when one framework of authority has lost its grip and no successor has yet earned legitimacy. The claim does real diagnostic work, and the work is structural rather than atmospheric. Legitimacy is not destroyed and replaced in a single motion; there is a lag, and in that lag the rules that once bound behavior no longer bind while the rules that might replace them do not yet exist. Institutions still stand and still issue commands, but nothing underwrites them. That is a useful way to understand why periods of breakdown so often feel less like a clean fight between old and new than like an eruption of forms that obey no recognizable logic at all.

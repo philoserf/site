@@ -3,7 +3,7 @@ title: Tasting diluted cocktail ingredients
 description: A four-step routine for learning cocktail ingredients by diluting 14ml in 1L of water, sipping, and taking notes. Applies to bases, bitters, liquors, juices, and syrups; hot-spicy tinctures need a different ratio.
 date: 2024-06-01
 aliases:
-  - Cocktail Ingredient Dilution Tasting
+  - /posts/cocktail-ingredient-dilution-tasting/
 ---
 
 1. Mix 14ml of an ingredient with 1L of water

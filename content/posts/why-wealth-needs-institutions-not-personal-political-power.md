@@ -3,7 +3,7 @@ title: Why wealth needs institutions, not personal political power
 description: Wealth without institutional protection is vulnerable to state seizure, as medieval expulsions of Jewish financiers, Edward III's default on the Bardi and Peruzzi, and Russia after Yukos show; secure property depends on constrained government, not personal influence.
 date: 2026-10-16
 aliases:
-  - Wealth Without Political Power
+  - /posts/wealth-without-political-power/
 ---
 
 There is a saying that it is dangerous to be rich and not powerful. Read as advice to rich people it is cynical and mostly wrong. Read as a description of a kind of state it is exact. The danger arises wherever political authority is strong enough to threaten property and too weakly constrained to respect it, and that is a defect in the state, not a gap in anyone's personal stock of influence.

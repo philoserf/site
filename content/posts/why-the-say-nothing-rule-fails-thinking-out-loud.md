@@ -3,7 +3,7 @@ title: Why the say-nothing rule fails thinking out loud
 description: Critique of the maxim to stay silent when unsure what to say, arguing it conflates not knowing what to say, having nothing to say, and not yet knowing what one thinks, and misreads Socrates as its witness.
 date: 2026-09-02
 aliases:
-  - Limits of Silence as Counsel
+  - /posts/limits-of-silence-as-counsel/
 ---
 
 The impulse to speak and the need to think out loud produce the same sensation. Both arrive as pressure, both feel urgent, and neither announces which it is. This is the difficulty with "if you do not know what to say, say nothing, even if the impulse is to say something"—a line that circulates without an owner and asks for a judgment nobody can make in time. It requires the speaker to classify an impulse before acting on it. The classification is only available afterward.

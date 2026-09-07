@@ -3,7 +3,7 @@ title: Nordstrom Innovation Lab toolkit of methods and frameworks
 description: Catalog of innovation lab techniques grouped by empathy, frameworks, prioritization, validation, rituals, and facilitation, plus a reading list, ten anti-patterns, remote-work suitability ratings, and modern additions like Assumption Mapping and Opportunity Solution Trees.
 date: 2025-10-18
 aliases:
-  - Nordstrom Innovation Lab Toolkit
+  - /posts/nordstrom-innovation-lab-toolkit/
 ---
 
 ## Nordstrom's Innovation Lab

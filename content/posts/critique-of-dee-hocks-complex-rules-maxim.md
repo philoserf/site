@@ -3,7 +3,7 @@ title: Critique of Dee Hock's complex rules maxim
 description: Dee Hock's line that complex rules produce simple, stupid behavior holds as a diagnosis of displaced judgment but fails as a general law, with surgical checklists, aviation protocol, and post-2008 finance as counterexamples.
 date: 2026-09-28
 aliases:
-  - Dee Hock's Rules Maxim, Examined
+  - /posts/dee-hocks-rules-maxim-examined/
 ---
 
 Dee Hock, who built Visa International as a deliberately decentralized network and later theorized organizations as "chaordic"—part chaos, part order—held that "Complex rules and regulations give rise to simple and stupid behavior." The line is the darker half of a paired maxim whose first clause, about simple purpose and clear principles producing complex and intelligent behavior, rarely travels with it, and that omission is where the difficulty starts, because the missing twin carries most of the real claim.

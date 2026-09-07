@@ -3,7 +3,7 @@ title: Conviction, fanaticism and the republic's capacity to change its mind
 description: "Critique of the claim that self-certain saviors damage America most: abolitionists disprove it, yet the mechanism holds when conviction stops being answerable to reality, illustrated by Indian Removal, McCarthy and Vietnam, with Popper on reversible error."
 date: 2026-10-30
 aliases:
-  - Conviction Versus Fanaticism
+  - /posts/conviction-versus-fanaticism/
 ---
 
 A sentence circulates in several forms: no one has done more damage to the United States than those most certain they are saving it. It is wrong in a useful way, and the useful part is worth separating from the wrong part before the wrong part gets quoted again.

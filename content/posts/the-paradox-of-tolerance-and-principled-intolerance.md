@@ -3,7 +3,7 @@ title: The paradox of tolerance and principled intolerance
 description: Popper's argument that tolerant societies must be intolerant of intolerance to survive, extended to relationships, communities, and organizations. Cites Weimar Germany's collapse and advocates principled intolerance that distinguishes legitimate disagreement from existential threats.
 date: 2026-05-25
 aliases:
-  - Paradox of Tolerance
+  - /posts/paradox-of-tolerance/
 ---
 
 The Paradox of Tolerance presents a tension in liberal societies: unlimited tolerance destroys tolerance itself. Popper argued that tolerant societies must be intolerant of intolerance to preserve their tolerance.

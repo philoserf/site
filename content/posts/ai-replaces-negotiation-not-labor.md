@@ -3,7 +3,7 @@ title: AI replaces negotiation, not labor
 description: AI works within set constraints and fails transparently, while human collaborators resist constraints, reinterpret goals, and protect status or credit. Argues that AI most readily replaces negotiation rather than labor, while acknowledging some friction is legitimate judgment.
 date: 2026-01-30
 aliases:
-  - AI vs Human Collaboration
+  - /posts/ai-vs-human-collaboration/
 ---
 
 AI serves your intent. Humans protect their own. That distinction matters more than most arguments about capability.  

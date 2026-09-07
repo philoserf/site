@@ -3,7 +3,7 @@ title: Ecclestone and selling what you never owned
 description: Eddie Jordan's quip that Bernie Ecclestone sold Formula 1 four times without ever owning it, examined as a lesson that control and structural indispensability, not legal title, are the real basis of durable power.
 date: 2026-03-05
 aliases:
-  - Owning What You Never Had
+  - /posts/owning-what-you-never-had/
 ---
 
 Eddie Jordan, the Irish Formula 1 team owner known for his irreverence and sharp eye for talent, once offered what might be the most concise summary of Bernie Ecclestone's genius ever spoken: "Anyone who has had a business, sold it four times, has never bought it back, has never lost its control, and still owns it is pretty special. And do you know the most important thing? He never fucking owned it in the first place."

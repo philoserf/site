@@ -4,7 +4,7 @@ description: Antifa is described as an anti-fascist, anti-racist, pro-worker com
 date: 2026-06-06
 aliases:
   - /antifa/
-  - Antifa Defined
+  - /posts/antifa-defined/
 ---
 
 What is this Antifa that some in power see as dangerous?

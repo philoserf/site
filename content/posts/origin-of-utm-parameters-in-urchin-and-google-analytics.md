@@ -3,7 +3,7 @@ title: Origin of UTM parameters in Urchin and Google Analytics
 description: Urchin Software Corporation created the Urchin Tracking Module and utm_ URL parameters in the early 2000s; Google acquired Urchin in 2005 and kept the convention in Google Analytics. Lists the five parameters (source, medium, campaign, term, content).
 date: 2026-07-06
 aliases:
-  - UTM Parameter Origins
+  - /posts/utm-parameter-origins/
 ---
 
 The utm query-string pattern originated with Urchin Software Corporation's web analytics product. Urchin introduced a set of URL parameters in the early 2000s as part of the Urchin Tracking Module (UTM) to track where web traffic came from and how marketing campaigns performed. Google acquired Urchin in 2005, integrated its technology into what became Google Analytics, and kept the utm_ prefix and parameter conventions for campaign tracking. The utm_ prefix acts as a namespace, keeping these parameters from colliding with others in the URL.

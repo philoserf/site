@@ -3,7 +3,7 @@ title: Why the social contract cannot break
 description: 'Argues the "broken social contract" metaphor obscures diagnosis: contracts borrow binding force from prior norms, Hume shows no one consented, and Hobbes, Rousseau, Kant, and Rawls each located obligation elsewhere. Lists the separable failures the phrase conceals.'
 date: 2026-10-07
 aliases:
-  - Social Contract as Metaphor
+  - /posts/social-contract-as-metaphor/
 ---
 
 When a polity is in trouble, the phrase everyone reaches for is that the social contract has broken. Taken literally the sentence says nothing. There was no contract, and no clause to breach. Taken as a symptom report it is useful, but only if someone then asks which of the things that hold a society together has failed. The metaphor is built to stop that question from being asked.

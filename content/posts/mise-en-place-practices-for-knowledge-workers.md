@@ -3,7 +3,7 @@ title: Mise-en-place practices for knowledge workers
 description: 'Four kitchen-inspired practices for knowledge work: sequencing tasks by dependencies and energy, clearing background tasks like email before deep work, using placeholders such as outlines and folders, and defining what "done" looks like before starting.'
 date: 2026-05-22
 aliases:
-  - Mise-en-Place Practices for Knowledge Workers
+  - /posts/mise-en-place-practices-for-knowledge-workers/
 ---
 
 Summary of [Mise-en-Place for Knowledge Workers: 6 Practices for Working Clean](https://www.goodreads.com/author_blog_posts/21462019-mise-en-place-for-knowledge-workers-6-practices-for-working-clean). Four practices stand out:

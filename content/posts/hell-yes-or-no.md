@@ -3,7 +3,7 @@ title: Hell yes or no
 description: Derek Sivers' heuristic treats qualified or hesitant responses as a hidden no, reserving commitment for discretionary choices that spark clear enthusiasm. Covers where it applies, its limits for growth and long-term skill building, and related ideas.
 date: 2025-12-29
 aliases:
-  - Hell Yes or No Heuristic
+  - /posts/hell-yes-or-no-heuristic/
 ---
 
 A decision-making heuristic popularized by [Derek Sivers](https://sive.rs/hellyeah): tepid enthusiasm indicates misalignment, not compromise.

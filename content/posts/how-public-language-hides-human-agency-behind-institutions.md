@@ -3,7 +3,7 @@ title: How public language hides human agency behind institutions
 description: Attributing agency to organizations ("the company decided," "the algorithm decided") hides the humans, incentives, and decision processes behind outcomes, weakening moral accountability. Public relations and government spokespersons exploit this deliberately; the countermeasure is asking who decided, who benefits, who is accountable.
 date: 2026-06-22
 aliases:
-  - Language, Framing, and Institutional Agency
+  - /posts/language-framing-and-institutional-agency/
 ---
 
 Language influences what we can think, not just how we express it. The Sapir-Whorf hypothesis in its weak form is well-supported: the words and frames available to us bias the conclusions we reach. This is why public language carries such power. The press, public relations professionals, and government spokespersons don't merely report; they manufacture the conceptual vocabulary through which millions of people will reason. Control the framing, and you've narrowed the range of possible responses before anyone has a chance to think independently.

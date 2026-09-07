@@ -3,7 +3,7 @@ title: Where markets stop being a mechanism
 description: "Distinguishes goods a market allocates badly from goods a price converts into something else, such as justice, citizenship and testimony. Proposes a test: ask what the good becomes when someone declines to pay, drawing on Walzer and Sandel."
 date: 2026-10-12
 aliases:
-  - When Pricing Changes the Good
+  - /posts/when-pricing-changes-the-good/
 ---
 
 The usual argument about markets is about degree: how free, how regulated, how much correction for this failure or that externality. It is worth having, but it hides a prior distinction that is not about degree at all. Some goods are allocated badly by a market. Others are changed into different goods by being priced. Most bad thinking about what markets are for confuses the two.

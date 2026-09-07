@@ -3,7 +3,7 @@ title: Baseless misery in a world bursting with life
 description: Close reading of the phrase "walking around in baseless existential misery while the world bursts with life," examining objectless suffering, vitality experienced as accusation, the foreclosure of nihilistic comfort, and the past tense as retrospective recovery.
 date: 2025-04-08
 aliases:
-  - Baseless Misery and World Out of Phase
+  - /posts/baseless-misery-and-world-out-of-phase/
 ---
 
 Walking around in baseless existential misery while the world bursts with life is one of the most precisely human conditions there is—and the word "baseless" is where the real pressure lives. To call one's misery baseless is not to dismiss it. It is to acknowledge a particular species of suffering: grief without a grievance, dread without an object, unhappiness that cannot be negotiated with because it offers no terms. This is distinct from sorrow that has cause and therefore, in theory, remedy. Baseless misery floats. And floating makes it worse, because the sufferer cannot point at the wound.
