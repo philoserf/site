@@ -3,7 +3,7 @@ title: The rat race from industrialization to automation
 description: Wage labor's origins in mechanization and factory discipline, the 1940s coining of "rat race," and how automation, AI, and decentralized economies could sever effort from survival, shifting competition toward attention, reputation, and influence.
 date: 2026-01-02
 aliases:
-  - Origins and Future of Rat Race
+  - /posts/origins-and-future-of-rat-race/
 ---
 
 Before industrialization, most people worked land, crafts, or household trades. Urban laborers and apprentices earned wages, but survival didn't depend on them. Life followed seasonal cycles, guild obligations, local routines. Competition had boundaries. There was no rat race.

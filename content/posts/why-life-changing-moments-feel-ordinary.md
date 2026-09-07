@@ -3,7 +3,7 @@ title: Why life-changing moments feel ordinary
 description: "Reflection on a James S.A. Corey quote about life-changing moments lacking ceremony: significance is assigned retroactively, the brain has no significance detector, and the flatness of pivotal events lets us live rather than perform."
 date: 2026-02-08
 aliases:
-  - Retrospective Meaning-Making
+  - /posts/retrospective-meaning-making/
 ---
 
 > The huge moments in life seemed like they should have more ceremony and effects. The important words—the life-changing ones—should echo a little. But they didn't.—James S.A. Corey

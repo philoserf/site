@@ -3,7 +3,7 @@ title: Strong opinions, weakly held
 description: Paul Saffo's maxim for committing decisively while staying ready to revise, countering confirmation bias, sunk cost, and ego involvement. Covers separating confidence in method from conclusions, the social cost of changing positions, and the principle's recursive nature.
 date: 2026-06-05
 aliases:
-  - Strong Opinions, Weakly Held
+  - /posts/strong-opinions-weakly-held/
 ---
 
 "Strong opinions, weakly held" captures the tension between acting decisively and adapting. This phrase, popularized by venture capitalist Paul Saffo, describes an approach where you form definitive positions based on available evidence while maintaining readiness to abandon those positions when better information emerges.

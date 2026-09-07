@@ -3,7 +3,7 @@ title: Selling a business four times without losing control
 description: Selling partial equity stakes repeatedly while keeping voting control through dual-class shares or supermajority rights, contrasted with founders who lose control or buy back stakes; extends the value-versus-control distinction to knowing what is non-negotiable in life.
 date: 2026-03-06
 aliases:
-  - Selling Without Surrendering Control
+  - /posts/selling-without-surrendering-control/
 ---
 
 Selling a business four times without buying it back, losing control, or giving up ownership—and calling that "pretty special"—operates first as understatement and second as a riddle.

@@ -3,7 +3,7 @@ title: Political grief and the myth of the brink
 description: A George Saunders line about a country "on the brink" of realizing its founding principles prompts a distinction between mourning an achievement and mourning a forecast, arguing reaction is America's norm and "we somehow" obscures specific actors.
 date: 2026-10-28
 aliases:
-  - Brink vs. Reaction in American Politics
+  - /posts/brink-vs-reaction-in-american-politics/
 ---
 
 "We've somehow managed to convert a country on the brink of actually making sense of its founding principles into an unholy mess of cruelty and self-dealing."[^1] The sentence carries a particular kind of political grief, and grief of this kind has a hidden premise worth pulling into the light.

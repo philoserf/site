@@ -3,7 +3,7 @@ title: Cultural evolution and the 300-times-faster headline
 description: Charles Perreault's 2026 PNAS model estimates a mammal would need 88 million years and over 2,200 species to match the human range; humans did it culturally in 300,000 years. Examines how the "300 times faster" headline overstates the paper's claim.
 date: 2026-09-14
 aliases:
-  - Cultural Evolution and Human Range Expansion
+  - /posts/cultural-evolution-and-human-range-expansion/
 ---
 
 "Humans conquered the planet 300 times faster than genetic evolution can explain." That number is not a measurement. It is a division.

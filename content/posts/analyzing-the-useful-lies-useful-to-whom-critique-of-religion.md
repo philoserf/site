@@ -3,7 +3,7 @@ title: Analyzing the useful lies, useful to whom critique of religion
 description: Rhetorical and philosophical analysis of "your religion is built on useful lies; but useful to whom?", tracing links to Plato, Nietzsche, Marx, and Harari, the power-shift in the closing question, and the category error in calling myth a lie.
 date: 2026-05-07
 aliases:
-  - Religion, Utility, and Power
+  - /posts/religion-utility-and-power/
 ---
 
 "Your religion is built on a vast collection of useful lies; but, useful to whom?" operates on at least three levels simultaneously, and the semicolon pivot from declaration to question is doing most of the rhetorical work.

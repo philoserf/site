@@ -3,7 +3,7 @@ title: Leading and conforming as modes, not types
 description: Leading and conforming framed as situational modes of action rather than personality types, with context—stakes, cost of error, others' tolerance for challenge—deciding which fits, and the skill being to tell the difference in time.
 date: 2026-05-13
 aliases:
-  - Leading vs. Conforming
+  - /posts/leading-vs-conforming/
 ---
 
 Lead or conform. The two look like types of people but work as modes of action, and most of us move between them without noticing.

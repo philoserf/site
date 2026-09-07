@@ -3,7 +3,7 @@ title: Costs of perpetual liminality on identity and attachment
 description: Perpetual transition builds ambiguity tolerance while leaving identity unconsolidated and attachments provisional or clingy. Chosen movement and movement as avoidance of vulnerability look identical from outside but differ from inside.
 date: 2026-09-09
 aliases:
-  - Perpetual Transition and Identity
+  - /posts/perpetual-transition-and-identity/
 ---
 
 Perpetual liminality builds real capacities—tolerance for ambiguity, the trick of holding two views at once, comfort inside a question that won't resolve. It also builds a hole where identity was supposed to consolidate. Ask this person who they are and they'll tell you what they do, or where they've been. They get skilled at becoming. They never get to be.

@@ -3,7 +3,7 @@ title: Mumpsimus definition and etymology
 description: A mumpsimus is someone who stubbornly clings to an error after being corrected, or the error itself. The term comes from a 16th-century priest who misread Latin "sumpsimus" in Mass and refused to fix it.
 date: 2026-03-30
 aliases:
-  - Mumpsimus Stubborn Adherence to Error
+  - /posts/mumpsimus-stubborn-adherence-to-error/
 ---
 
 Mumpsimus: a person who obstinately adheres to old ways, customs, or ideas despite clear evidence they're wrong or outdated. Also refers to the error or practice itself.

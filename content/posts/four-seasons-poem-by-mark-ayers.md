@@ -3,7 +3,7 @@ title: Four seasons poem by Mark Ayers
 description: "Short poem by Mark Ayers (2017) moving through four seasons in spare imagery: bare feet on snow, stillness in thunder, dew on grass at dawn, bees among summer flowers, closing on a silent mountain and each moment complete."
 date: 2026-03-31
 aliases:
-  - Bare Feet on Snow
+  - /posts/bare-feet-on-snow/
 ---
 
 by Mark Ayers, 2017

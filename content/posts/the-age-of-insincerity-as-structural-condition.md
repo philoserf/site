@@ -3,7 +3,7 @@ title: The age of insincerity as structural condition
 description: "Insincerity as a structural condition rather than individual dishonesty: templated apologies, algorithmic incentives, and eroded grammar for telling conviction from performance. Notes the persistent hunger for the real and the self-exempting irony of declaring the age insincere."
 date: 2026-04-22
 aliases:
-  - Structural Insincerity in Modern Life
+  - /posts/structural-insincerity-in-modern-life/
 ---
 
 "We live in the age of insincerity" functions as observation, diagnosis, and lament—and that most people would nod along without examining what they're agreeing to is itself a small proof of the claim.

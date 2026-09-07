@@ -3,7 +3,7 @@ title: Little Red Riding Hood retold in the style of Poe
 description: A Poe-style pastiche retelling Little Red Riding Hood in the voice of "The Tell-Tale Heart," with a nervous unreliable narrator, a pulsing crimson hood, the Wolf's knowing eyes, and a haunted aftermath.
 date: 2026-06-15
 aliases:
-  - Little Red Riding Hood Retelling
+  - /posts/little-red-riding-hood-retelling/
 ---
 
 _After Edgar Allan Poe's "The Tell-Tale Heart."_

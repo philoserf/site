@@ -3,7 +3,7 @@ title: Parable of curiosity and the ever-deepening world
 description: "A parable reworking the Eden story: eating the fruit awakens the need to understand, and each question causes the creator to enlarge the world, so knowledge recedes as it grows. Suggests the only escape is ceasing to demand explanation."
 date: 2026-07-31
 aliases:
-  - Curiosity, Creation, and Regress
+  - /posts/curiosity-creation-and-regress/
 ---
 
 The creator made a world simple enough to serve its purpose. Into it he placed us, free to live as we chose. He also planted a tree whose fruit would awaken the need to understand.

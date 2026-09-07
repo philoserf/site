@@ -3,7 +3,7 @@ title: The republic as something each generation must keep
 description: Fragility of the American order at its 250th anniversary, arguing continuity is achieved through renewal, not destiny. Cites Madison, Franklin, Arendt, and Jefferson, notes the Civil War and Jim Crow as breaks, and questions what "recommitment" concretely demands.
 date: 2026-07-03
 aliases:
-  - Republic Continuity as Achievement
+  - /posts/republic-continuity-as-achievement/
 ---
 
 A republic is the kind of thing that has to be kept. Anniversaries resist that idea. They reach for permanence—enduring, robust, exceptional, providential—and a 250th birthday invites the grandest version of the reflex: we have arrived, the founding is secure, the inheritance complete. The truer description runs the other way. The American order is fragile: it has had to be kept intact. Continuity is achievement, not destiny. The republic did not have to last. That it has lasted rests on choices made and renewed.

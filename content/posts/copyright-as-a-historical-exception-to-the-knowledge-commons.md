@@ -3,7 +3,7 @@ title: Copyright as a historical exception to the knowledge commons
 description: Free knowledge sharing across 200,000 years of oral tradition, Roman law, Alexandria, and Islamic libraries, contrasted with copyright's 1710 origin in printing-press economics. Cites Jefferson, Boyle's second enclosure, science, cuisine, and fashion as productive commons.
 date: 2026-03-18
 aliases:
-  - Copyright as Historical Exception
+  - /posts/copyright-as-historical-exception/
 ---
 
 For roughly 200,000 years, _Homo sapiens_ has been generating, sharing, and building upon knowledge without any concept of intellectual property. Copyright has existed for 315 years. That is 0.16% of the span of human existence.

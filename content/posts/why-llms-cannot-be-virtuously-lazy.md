@@ -3,7 +3,7 @@ title: Why LLMs cannot be virtuously lazy
 description: LLMs lack the programmer's virtue of laziness because effort costs them nothing; without scarcity or stakes they cannot decline or say "this is fine," so the user must supply the judgment by discarding output and asking for less.
 date: 2026-04-27
 aliases:
-  - LLMs and Virtuous Laziness
+  - /posts/llms-and-virtuous-laziness/
 ---
 
 Laziness in its useful sense is a refined economy of effort. Larry Wall called it a cardinal virtue of the programmer: the instinct to build a tool once rather than repeat the task, to recognize when a problem does not deserve the energy it demands. LLMs lack this virtue, and the lack is easy to miss among their more obvious failings. They will generate six hundred lines where twenty would serve, and answer earnestly questions that should have been dismissed. They have no internal friction against effort, because for them effort costs nothing.

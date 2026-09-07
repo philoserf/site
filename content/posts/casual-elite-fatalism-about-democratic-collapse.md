@@ -3,7 +3,7 @@ title: Casual elite fatalism about democratic collapse
 description: "A wealthy American's offhand doubt about future free elections, analyzed for its epistemic, social, and practical implications: closed-loop beliefs, normalization of authoritarian consolidation, and self-fulfilling collapse via elite withdrawal that costs the speaker nothing."
 date: 2026-02-25
 aliases:
-  - Elite Normalization of Democratic Collapse
+  - /posts/elite-normalization-of-democratic-collapse/
 ---
 
 A wealthy American said recently, in an interview, "if the Dems ever have a president again or if we ever have a free election again." The remark was casual, incidental to the larger conversation.

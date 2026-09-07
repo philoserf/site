@@ -3,7 +3,7 @@ title: Why the democracy–freedom incompatibility argument is about definitions
 description: "Peter Thiel's 2009 claim that freedom and democracy are incompatible rests on stipulated definitions: negative liberty per Berlin and pure majoritarianism nobody practices. Constitutional limits admit the tension; the incompatibility is manufactured to remove decisions from voting."
 date: 2026-10-05
 aliases:
-  - Democracy vs. Freedom Debate
+  - /posts/democracy-vs-freedom-debate/
 ---
 
 Arguments that two things are structurally incompatible are usually arguments about vocabulary wearing the costume of arguments about the world. The claim that democracy and freedom cannot coexist is the clearest available case. It sounds like a discovery about how political systems behave. It is a stipulation about what two words mean, and once the stipulation is granted the conclusion arrives without further work.

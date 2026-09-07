@@ -3,7 +3,7 @@ title: Dream recall as translation from outside space and time
 description: Dreams as experience outside space and time that the waking, body-bound mind translates and partly discards on return. Weighs the picture's fidelity to how dreaming feels against REM neuroscience, Kant's forms of intuition, and cheaper memory-encoding explanations.
 date: 2026-07-15
 aliases:
-  - Dreams as Translation Loss
+  - /posts/dreams-as-translation-loss/
 ---
 
 Suppose the mind were the kind of thing that could leave the body—that it lived two lives on incompatible terms. Awake, it inhabits the standard world that holds the body in space and time, threaded onto sequence and pinned to a place. Asleep, it slips that frame: consciousness joins with the subconscious and unconscious somewhere outside space and time, then is drawn back into the body, where it must make sense of experience that lay outside that frame. The dream we carry into morning would then never be the dream we had. It would be a translation, and like every translation it would shed whatever the receiving language has no slot for—what the now body-bound mind cannot integrate gets discarded.

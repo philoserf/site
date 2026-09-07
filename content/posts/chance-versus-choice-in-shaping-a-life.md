@@ -3,7 +3,7 @@ title: Chance versus choice in shaping a life
 description: Chance sets the scale of a life while accumulated small choices set its shape and prepare the person who meets misfortune; examines Stoic detachment, the cruelty of demanding agency from the suffering, and compounding habits.
 date: 2026-08-12
 aliases:
-  - Luck vs. Agency in Life Outcomes
+  - /posts/luck-vs-agency-in-life-outcomes/
 ---
 
 Chance governs the scale of a life more than choice does. Choice governs its shape.

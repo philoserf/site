@@ -3,7 +3,7 @@ title: Chesterton's fence modernists versus nihilists
 description: "Chesterton's fence parable applied to two kinds of reformer: modernists who remove institutions they don't understand but can be persuaded by explanation, and nihilists who destroy institutions precisely because they function and reject meaning entirely."
 date: 2025-07-03
 aliases:
-  - Modernism vs. Nihilism on Institutions
+  - /posts/modernism-vs-nihilism-on-institutions/
 ---
 
 We've been here before.

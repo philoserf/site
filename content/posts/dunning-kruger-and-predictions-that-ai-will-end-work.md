@@ -3,7 +3,7 @@ title: Dunning-Kruger and predictions that AI will end work
 description: "Confident predictions that AI will end work often come from people whose shallow, pattern-matched output is precisely what current systems already replicate. Capabilities that persist: problem formulation, cross-domain synthesis, and decisions under genuine ambiguity."
 date: 2026-02-13
 aliases:
-  - Dunning-Kruger and AI Displacement
+  - /posts/dunning-kruger-and-ai-displacement/
 ---
 
 Mediocre thinkers who overestimate their abilities now predict AI will eliminate work for people like themselves. The irony is sharp.

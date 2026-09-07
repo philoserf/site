@@ -3,7 +3,7 @@ title: How the Design Thinking definition decayed into a platitude
 description: A once-specific definition of Design Thinking as "linking ideas and methods from different areas into new combinations" now excludes nothing and functions as a legitimating platitude, tracked against critiques by Natasha Jen, Lee Vinsel, and Maggie Gram.
 date: 2026-11-09
 aliases:
-  - Design Thinking's Definition as Platitude
+  - /posts/design-thinkings-definition-as-platitude/
 ---
 
 When Design Thinking was a young movement—the era of the Stanford d.school, IDEO's ascendancy, Tim Brown's 2008 essay announcing it to managers—a description of it as something that "links smart ideas and practical methods from different areas together, and creates new combinations" did real work. It pointed. There was a recognizable practice it was trying to name: a way of treating designerly habits, prototyping, user observation, iteration, as transferable beyond product styling and importable into strategy, services, and organizational problems. The sentence felt true partly because it felt specific. It distinguished a new thing from the older, narrower sense of design as the shaping of objects.

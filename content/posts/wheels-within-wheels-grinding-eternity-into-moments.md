@@ -3,7 +3,7 @@ title: Wheels within wheels grinding eternity into moments
 description: Close reading of a cosmic-clockwork image fusing Ptolemaic celestial spheres and Ezekiel's ophanim with the Planck scale, weighing its grind-versus-song tonal shift, Boethian eternity, the quantum-gravity problem of time, and its determinism-versus-quantum incoherence.
 date: 2026-07-10
 aliases:
-  - Time, Eternity, and Cosmic Machinery
+  - /posts/time-eternity-and-cosmic-machinery/
 ---
 
 To picture _wheels within wheels that drive the gears of the celestial spheres, each a Planck quantum distance from the next, grinding eternity into moments_, is to weld together two cosmologies that stand some four centuries and a complete conceptual revolution apart. The celestial spheres belong to the Ptolemaic and Aristotelian world, the nested crystalline shells carrying the planets in their courses; the wheels within wheels carry an older echo still, the ophanim of Ezekiel's vision. The Planck distance belongs to twentieth-century physics, the scale at which some theories of quantum gravity expect the smooth continuum of space to dissolve into something granular. Setting these against each other does real work: it suggests that the human impulse to imagine the universe as a mechanism is continuous across the rupture between premodern and modern thought. We have only ever changed the gauge of the gears, not the conviction that there are gears.

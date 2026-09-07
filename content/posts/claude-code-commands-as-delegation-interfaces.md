@@ -3,7 +3,7 @@ title: Claude Code commands as delegation interfaces
 description: Claude Code commands act as declarations of intent that route work to skills or agents rather than executing logic. Covers the delegation statement, skills versus agents, argument passing, and failure modes like procedural or oversized commands.
 date: 2026-01-02
 aliases:
-  - Commands as Intent in Claude Code
+  - /posts/commands-as-intent-in-claude-code/
 ---
 
 ## Commands Are Not Instructions

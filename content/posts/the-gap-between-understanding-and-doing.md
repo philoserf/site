@@ -3,7 +3,7 @@ title: The gap between understanding and doing
 description: "Understanding and execution are separate capacities, and starting and finishing are two failures with a shared root: action costs attention, nerve, and stamina that insight does not. Updates Aristotle's akrasia and distinguishes chosen restraint from unchosen incapacity."
 date: 2026-06-17
 aliases:
-  - Understanding vs. Execution Gap
+  - /posts/understanding-vs-execution-gap/
 ---
 
 To grasp something and to carry it through are separate powers, and the distance between them is wider than we admit. The mind can hold a complete picture of what should be done while the will produces nothing, or a beginning that never arrives.

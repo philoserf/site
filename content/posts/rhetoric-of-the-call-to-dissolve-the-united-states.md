@@ -3,7 +3,7 @@ title: Rhetoric of the call to dissolve the United States
 description: Rhetorical analysis of a deliberately provocative secession slogan, examining how "dissolve," the hyphen in "dis-United," and "it is time" convert frustration into apparent historical mandate, then weighing real polarization against the humanitarian costs of actual dissolution.
 date: 2026-08-28
 aliases:
-  - Rhetoric of National Dissolution
+  - /posts/rhetoric-of-national-dissolution/
 ---
 
 Is it time to disolve these dis-United states?
