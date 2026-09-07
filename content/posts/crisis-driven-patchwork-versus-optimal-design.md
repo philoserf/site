@@ -2,8 +2,6 @@
 title: Crisis-driven patchwork versus optimal design
 description: Critique of the claim that systems evolve through crisis-driven patchwork rather than optimal design, arguing the contrast is rigged against a strawman, conflates trigger with mode, ignores survivorship bias, and risks becoming an alibi for neglecting foresight.
 date: 2026-09-23
-aliases:
-  - /posts/the-myth-of-patchwork-inevitability/
 ---
 
 Fire escapes followed fires, deposit insurance followed bank runs, and the modern building code reads as a ledger of past disasters rewritten in the grammar of prevention. If the realistic trajectory is crisis-driven patchwork rather than optimal design, the evidence is everywhere a person cares to look. Tax law accretes rather than evolves; financial regulation arrives one crash late; the protocols carrying this sentence across the internet were never planned so much as repeatedly amended around the failures of their predecessors. The standard story of how large systems acquire their shape is one of damage, response, and the hardening of that response into something nobody would have chosen from scratch but everybody now depends on.

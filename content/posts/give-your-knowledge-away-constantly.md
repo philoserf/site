@@ -2,8 +2,6 @@
 title: Give your knowledge away constantly
 description: Argues for sharing expertise freely instead of hoarding it, since value comes from continued creation rather than withheld secrets. Notes limits like client confidentiality and security, and cites Hyde, Mauss, Raymond, Polanyi, and Lessig.
 date: 2026-02-20
-aliases:
-  - /posts/case-for-radical-knowledge-sharing/
 ---
 
 Give everything away constantly.

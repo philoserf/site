@@ -2,8 +2,6 @@
 title: Moral circles contract under scarcity and threat
 description: Argues that the scope of human moral concern expands with security and abundance and contracts to family and local community under threat, tracing the shift from 1990s globalization through the 2008 crisis, 2016 populism, and the 2020 pandemic.
 date: 2026-02-06
-aliases:
-  - /posts/elasticity-of-moral-circles/
 ---
 
 Broad human cooperation is a luxury of abundance and security. Our moral circle is elastic, widening from local to national to global when we feel safe and pulling back to family and neighborhood when we feel threatened.

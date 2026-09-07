@@ -2,8 +2,6 @@
 title: Practice precedes theory working comes before understanding
 description: Working artifacts historically precede the theories that explain them—steam engines before thermodynamics, aspirin before prostaglandins, LLMs before interpretability. Draws on Polanyi and Wittgenstein, warns of survivorship bias, and urges respect for craft while questioning why things work.
 date: 2026-09-21
-aliases:
-  - /posts/practice-preceding-theory/
 ---
 
 The claim—we see something that works, and then we understand it—inverts the textbook ordering of theory and practice. The textbook says: hypothesize, predict, test, confirm. Understanding leads, practice follows. The actual historical record usually runs the other way. The steam engine predates thermodynamics by a century. Chemists synthesized aspirin in 1897 and doctors prescribed it routinely for seventy years before anyone identified the prostaglandin mechanism. Bread predates microbiology by ten millennia. The Wright brothers flew before aerodynamicists could fully account for lift. Penicillin was a contaminant before it was a treatment, and a treatment before anyone had a coherent theory of antibiotic action. The working artifact arrives first; the explanation arrives, sometimes much later, to make sense of what already worked.

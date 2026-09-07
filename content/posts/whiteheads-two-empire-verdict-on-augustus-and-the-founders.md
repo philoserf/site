@@ -2,8 +2,6 @@
 title: Whitehead's two-empire verdict on Augustus and the Founders
 description: Critique of Whitehead's claim that only Augustan Rome and revolutionary America saw near-optimal imperial leadership, faulting its unfalsifiable "as well as could be expected" standard, teleological use of "emerging," great-man bias, and neglected cases like the Rashidun, Han, Dutch, and Meiji.
 date: 2026-08-26
-aliases:
-  - /posts/whiteheads-two-empires-claim/
 ---
 
 Alfred North Whitehead's count is exactly two. The philosopher—an Englishman who had settled at Harvard and was writing in the years just after the Second World War, at the moment American power was inheriting the world—reckoned that in recorded history, the political leadership of an emerging empire performed as well as one could realistically expect on only two occasions: Rome under Caesar Augustus and the United States in the revolutionary era. The arresting move is the yardstick hidden inside _performing as well as one could realistically expect_. That phrase converts a judgment about goodness into a judgment about ceilings—about how near a set of leaders came to the best feasible result given the materials they had. It is a deflationary standard, and a slippery one. It does not claim Augustus or the Founders were admirable; it claims they were close to optimal relative to what their circumstances permitted. The trouble is that no one can specify the space of realistic possibilities with enough precision to test such a claim. Counterfactual ceilings are unobservable. To say Augustus did as well as anyone could is to compare his reign against an imagined distribution of outcomes that never happened, scored by a judge who already knows how the actual case turned out.

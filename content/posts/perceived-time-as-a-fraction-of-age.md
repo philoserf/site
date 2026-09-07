@@ -2,8 +2,6 @@
 title: Perceived time as a fraction of age
 description: Tables showing a day, month, and year as a percentage of life lived at ages 10 through 80, plus a cross-age ratio matrix; a year at age 10 feels 8x as significant as one at age 80.
 date: 2026-05-09
-aliases:
-  - /posts/time-perception-by-age/
 ---
 
 | Age | 1 Day   | 1 Month | 1 Year |

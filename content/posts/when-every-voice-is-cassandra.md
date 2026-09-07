@@ -2,8 +2,6 @@
 title: When every voice is Cassandra
 description: "Reflection on how the saturation of urgent warnings destroys the ability to distinguish genuine alarm from manufactured outrage, using Cassandra as a foil: prophecy depends on scarcity, moderate voices read as absent, and truth becomes legible only in hindsight."
 date: 2026-03-22
-aliases:
-  - /posts/cassandra-inversion/
 ---
 
 When every voice is Cassandra, no one hears the warning. Not because the warnings are wrong—some of them are desperate and true—but because prophecy depends on scarcity. A single voice crying out against complacency can change the course of a city. A thousand voices crying out at once is just weather.

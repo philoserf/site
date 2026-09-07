@@ -2,8 +2,6 @@
 title: Always-on out-of-office message for infrequent email checking
 description: Always-on auto-reply text explaining infrequent inbox checks due to pairing-station work, with expected delays of up to 32 hours midweek and 80 hours on Mondays, plus a phone number for urgent meeting changes.
 date: 2024-04-03
-aliases:
-  - /posts/async-email-boundary-setting/
 ---
 
 Once upon a time in a corporate environment, this was my always-on out-of-office message:

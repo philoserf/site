@@ -2,8 +2,6 @@
 title: Leverage from selling what you never owned
 description: Knowledge, trust, and attention are non-rivalrous assets that compound when shared, letting consultants and teachers profit from what they never owned. Hoarding expertise misapplies scarcity intuition; the leverage is morally neutral, hinging on whether recipients gain capability or dependency.
 date: 2026-03-07
-aliases:
-  - /posts/non-rivalrous-asset-leverage/
 ---
 
 "A person who sells what they never owned and never loses what they repeatedly give away has mastered a form of leverage that most people never perceive as possible." The sentence operates on at least three levels, and each one reframes what counts as an asset.

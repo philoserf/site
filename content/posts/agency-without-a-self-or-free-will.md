@@ -2,8 +2,6 @@
 title: Agency without a self or free will
 description: Naturalistic reframing of agency as influence over probabilities rather than sovereign control, treating identity as ongoing construction, meaning as self-made, and life design as tuning habits, environments, and decision rules toward outcomes instead of authenticity.
 date: 2026-07-01
-aliases:
-  - /posts/agency-without-a-self/
 ---
 
 Recognizing that selfhood and free will are illusions does not diminish agency. It clarifies what agency was always doing.

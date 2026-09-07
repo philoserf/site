@@ -2,8 +2,6 @@
 title: Why materialism cannot fully close its case
 description: Materialism about mind rests on causal closure, neural correlation, and parsimony, yet the hard problem, Hempel's dilemma, and the supervenience-versus-identity gap keep it from being fully closed; dissolution rather than proof is the likely outcome.
 date: 2026-11-11
-aliases:
-  - /posts/the-case-materialism-cant-close/
 ---
 
 The case for materialism is real but weaker than its proponents present it, and it can never be fully closed.

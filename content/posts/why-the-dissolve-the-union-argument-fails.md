@@ -2,8 +2,6 @@
 title: Why the dissolve-the-union argument fails
 description: Critique of the claim that unresolved political differences justify dissolving the United States, examining its assumptions about resolvable disagreement, historical urgency, a unified "we," and the practical incoherence of partition given interleaved partisans.
 date: 2026-09-16
-aliases:
-  - /posts/against-threats-of-american-dissolution/
 ---
 
 Threats of dissolution have a long American pedigree, but the formulation that "if we do not resolve our political differences soon it will become time to dissolve these dis-United States" deserves scrutiny precisely because its tidy wordplay disguises a stack of contestable assumptions. The first is that political differences are the sort of thing that get resolved. Policy disputes get adjudicated, coalitions reshuffle, electoral majorities shift, but the underlying facts that political life exists to manage—scarcity, value pluralism, irreducibly competing visions of the good—remain unresolved on any human timescale. A free polity is precisely the institution that holds disagreement productively without requiring its disappearance. To demand resolution as the price of continued union is to misunderstand what a union is for.

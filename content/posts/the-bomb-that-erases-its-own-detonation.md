@@ -2,8 +2,6 @@
 title: The bomb that erases its own detonation
 description: Close reading of a passage about a bomb that erases knowledge of its own detonation, framing it as a parable of civilizational amnesia, trauma-driven forgetting, and recurring financial crises, with attention to its flat after-action-report tone.
 date: 2026-04-16
-aliases:
-  - /posts/self-erasing-catastrophe-and-civilizational-amnesia/
 ---
 
 There is a particular kind of catastrophe that leaves no scar, no crater, no memorial—the catastrophe that erases the evidence of its own occurrence. The image of a bomb that "destroyed itself, and erased its own successful detonation, and flattened all the knowledge which had gone together to build it" captures something more unsettling than mere destruction. Ordinary bombs leave rubble. This one leaves a clean slate, which is far worse, because a clean slate looks identical to innocence.

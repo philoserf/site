@@ -2,8 +2,6 @@
 title: Why Feynman and Watts lectures still resonate
 description: Mid-century lectures by Richard Feynman and Alan Watts outperform modern talks because they predate metric-driven rhetoric, disciplinary silos, and reputational risk. Argues their appeal is uncompressed, live thinking aloud without penalty, not nostalgia.
 date: 2026-02-19
-aliases:
-  - /posts/uncompressed-public-thinking/
 ---
 
 > I have recently listened to lectures by Feynman and Watts. They seem 'of an era' that still resonates better than any talk I'll hear next year. Why?

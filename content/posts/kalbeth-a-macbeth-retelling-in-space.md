@@ -2,8 +2,6 @@
 title: Kalbeth a Macbeth retelling in space
 description: "Science-fiction retelling of Macbeth: war-captain Kalbeth receives prophecies from Precursor-era predictive AIs on Titan, murders Administrator Duncan to seize the Directorate, and falls to vat-born Klyne as engineered fungal forests march across Europa."
 date: 2026-02-24
-aliases:
-  - /posts/kalbeth-of-the-orbital-authority/
 ---
 
 Kalbeth was a war-captain for the Orbital Authority, a veteran of skirmishes against the Outer Colonies. He had fought for the Central Directorate, and in their endless wars of consolidation, he had gained both reputation and unease. For he knew—though he rarely admitted it aloud—that the Directorate was as unstable as the stars it sought to rule.

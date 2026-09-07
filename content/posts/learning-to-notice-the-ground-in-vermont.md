@@ -2,8 +2,6 @@
 title: Learning to notice the ground in Vermont
 description: "Two city dwellers relocate from a fourth-floor apartment to a Vermont farmhouse for six months and discover the ground beneath them: a well that fails without power, knee-deep March mud, and learning to name a song sparrow."
 date: 2026-06-26
-aliases:
-  - /posts/urban-displacement-into-nature/
 ---
 
 We were not people who noticed the ground.

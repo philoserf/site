@@ -2,8 +2,6 @@
 title: Poem by Mark Ayers on human marks seen from a plane
 description: Short 2019 poem by Mark Ayers observing human traces on a remote mountain valley from a westbound flight at 35,000 feet, reading the hard-edged geometry between cloud and snow as a declaration of who we are.
 date: 2026-03-08
-aliases:
-  - /posts/fingerprints-of-our-fellow-man/
 ---
 
 by Mark Ayers, 2019

@@ -2,8 +2,6 @@
 title: Anatomy of a 90-minute downtempo playlist arc
 description: "Critical walkthrough of a 90-minute downtempo playlist's arc: near-silent O'Halloran and Kodomo opening, a 30-minute Kruder & Dorfmeister/Tosca trip-hop heart, a Bonobo–St Germain plateau crest, and a long descent hinging on John Stanford's \"The Edge\"."
 date: 2026-06-20
-aliases:
-  - /posts/sound-seedlings-playlist/
 ---
 
 Near-silence is the riskiest opening a sequence can choose, because it stakes the next 90 minutes on a promise of patience the listener has not yet agreed to keep. Dustin O'Halloran's "An Ending, A Beginning," clipped to two minutes, makes the promise almost too lightly to notice: a handful of piano figures suspended in reverb, the title equating arrival and departure so that you stop trying to tell which one you are in. Kodomo's "Concept 1" holds the hush rather than breaking it, electronics soft enough to read as weather, and for nearly ten minutes the playlist is barely present at all. That refusal to build is the whole opening gambit. It earns the right to rise later by declining to rise first, and a listener who needs an immediate hook will already have left.

@@ -2,8 +2,6 @@
 title: Why scientific evidence changes institutions slowly
 description: Evidence changes minds faster than institutions, illustrated by psychology's replication crisis, fragile nutrition science, reversed medical practices like hormone replacement therapy, persistent citations of retracted papers, and Kuhn's account of paradigms, framing scientific self-correction as slow and evolutionary.
 date: 2026-11-06
-aliases:
-  - /posts/why-science-resists-correction/
 ---
 
 A persistent belief about science holds that decisive evidence has decisive consequences. Demonstrate that a prominent theory is false, expose widespread methodological failures, or even uncover outright fraud across an influential field, and the expectation is that researchers will abandon old conclusions and rebuild on firmer ground. Reality is considerably less accommodating. Entire bodies of scientific literature can be shown to rest on weak foundations without producing changes proportional to the force of the criticism. Evidence changes minds more readily than it changes institutions.

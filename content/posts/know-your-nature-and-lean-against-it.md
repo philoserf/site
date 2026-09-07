@@ -2,8 +2,6 @@
 title: Know your nature and lean against it
 description: The maxim "know your nature, and lean against it" reads as permanent counterpressure against durable defaults rather than transformation, a middle path between self-acceptance and brute discipline that requires precise self-knowledge to avoid building the wrong counterweights.
 date: 2026-03-16
-aliases:
-  - /posts/leaning-against-your-nature/
 ---
 
 "Know your nature, and lean against it" carries a quiet paradox: it asks you to understand yourself deeply and then resist what you find. It is not advice about self-improvement in the conventional sense—not a call to build new habits or acquire new strengths—but something stranger. It treats self-knowledge not as a destination but as the prerequisite for a lifelong counterforce.

@@ -2,8 +2,6 @@
 title: Claude models compared on an invisibility-or-danger prompt
 description: Side-by-side responses from Claude Haiku, Sonnet, Opus, and a QA-project Sonnet to the prompt "remain invisible, inconsequential, or become dangerous," with each model dissecting the trilemma's assumptions about visibility, power, and threat.
 date: 2025-11-05
-aliases:
-  - /posts/visibility-inconsequence-danger-trilemma/
 ---
 
 I asked Anthropic's Claude (Haiku, Sonnet, Opus; Sonnet with two different projects instructions, and Sonnet deep research) to

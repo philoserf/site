@@ -2,8 +2,6 @@
 title: Montaigne and the essay as attempt
 description: "Montaigne's essais as literal attempts: writing from the self as an honest instrument, digressive structure mirroring thought, \"Que sais-je?\" as method, and a trusting tone that outlasts the modern preference for essays that land cleanly."
 date: 2026-04-29
-aliases:
-  - /posts/montaignes-essay-method/
 ---
 
 Montaigne invented the essay, or at least named it. He called his writings essais, attempts, and meant it literally: acts of trying, the way you try a door to see if it opens.

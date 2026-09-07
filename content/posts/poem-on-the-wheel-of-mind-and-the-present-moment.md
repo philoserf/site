@@ -2,8 +2,6 @@
 title: Poem on the wheel of Mind and the present moment
 description: Skaldic-style poem by Mark Ayers (2025) in which Óðinn and Bragi debate the wheel of Mind grinding memory to dust, contrasting statistical measures of fate with the fleeting present moment where wisdom lives.
 date: 2026-05-15
-aliases:
-  - /posts/wheels-turning/
 ---
 
 by Mark Ayers, 2025

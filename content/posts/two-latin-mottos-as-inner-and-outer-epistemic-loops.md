@@ -2,8 +2,6 @@
 title: Two Latin mottos as inner and outer epistemic loops
 description: "Two Latin mottos—cogita·disce·necte·enuntia and percipe·strue·effice—read as inner and outer epistemic loops: a four-step recursive cycle of formation versus a three-step transactional cycle of action, joined by connection as the shared pivot."
 date: 2026-04-07
-aliases:
-  - /posts/two-epistemic-cycles/
 ---
 
 **Note added 2026-09-06:** the epistemic line now reads COGITA·DISCE·NECTE·FARE—_fare_, the imperative of the deponent _fari_, "to speak", in place of _enuntia_, "declare"—and PERCIPE·STRUE·EFFICE is no longer one of my mottos. The reading below is left as it was written.

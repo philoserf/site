@@ -2,8 +2,6 @@
 title: Wisdom as recovered innocence after experience
 description: David Bentley Hart's definition of wisdom as innocence recovered after experience, linked to Husserl's epoché, Zen beginner's mind, and the Dreyfus skill model, where masters regain conscious awareness of perception while keeping expert performance.
 date: 2026-02-18
-aliases:
-  - /posts/wisdom-as-recovered-perception/
 ---
 
 > Wisdom is the recovery of innocence at the far end of experience; it is the ability to see again what most of us have forgotten how to see, but now fortified by the ability to translate some of that vision into words, however inadequate.―David Bentley Hart

@@ -2,8 +2,6 @@
 title: Reading armed movements by iconography, not rhetoric
 description: Uniforms, torchlight marches, and leader portraits reveal when an armed anti-system faction shifts from dissent to seizing power, since rhetoric is universal and cheap. Charlottesville 2017 and the January 30, 1933 Brandenburg Gate march illustrate the shift.
 date: 2026-10-26
-aliases:
-  - /posts/uniforms-as-a-warning-sign/
 ---
 
 Self-description in politics is worthless as evidence. Almost every faction that has seized power by force did so in the name of liberation, restoration or defense against a corrupt system, so a movement's claim to be against the system is not a warning sign or a reassurance. It is the universal preamble. What tells you something is what the movement does with the instruments of organized power once it has them, and there is a moment when that becomes visible to anyone standing on the sidewalk.

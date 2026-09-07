@@ -2,8 +2,6 @@
 title: Story idea the regional food twenty minutes outside town
 description: "Story concept following a food writer or chef tracing the informal food economy twenty minutes outside a small town: unlicensed kitchens, immigrant gardens, adapted recipes. Central tension pits authenticity against branding and legibility, with chapters organized by dish and producer."
 date: 2026-08-07
-aliases:
-  - /posts/regional-food-outside-town/
 ---
 
 Twenty minutes outside town is where the regional food lives. It's the tamale stand operating out of a converted garage, the smoker in someone's front yard with a hand-painted plywood sign, the farm stand selling whatever came up this week alongside jarred preserves with handwritten labels. The restaurant in town has a menu and a health inspection grade and a Yelp page. Twenty minutes out, someone's grandmother is making the thing the restaurant is trying to approximate, and she's not trying to approximate anything.

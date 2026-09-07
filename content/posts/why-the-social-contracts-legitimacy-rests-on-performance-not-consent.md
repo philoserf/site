@@ -2,8 +2,6 @@
 title: Why the social contract's legitimacy rests on performance, not consent
 description: 'Political legitimacy rests on present performance rather than founding consent: the "I never signed" objection proves too much, while reliance on institutions and historical exclusion both become evidence about whether the state currently protects those it binds.'
 date: 2026-07-22
-aliases:
-  - /posts/social-contract-legitimacy/
 ---
 
 No contract you did not sign can bind you. The objection has real force. Contract law, from which the social contract borrows its moral weight, asks for offer, acceptance and consideration, freely given by competent parties—and no one alive ever gave any of the three. Hobbes, Locke and Rousseau all knew this. The contract was always a fiction, a device for explaining why submission to authority might be rational rather than merely coerced, never a claim about a transaction that took place. Take the fiction literally and it collapses: no one signed anything. But the collapse is the clue. If consent at the founding was never obtained, and the theorists never pretended it was, then consent at the founding was never what made authority legitimate in the first place.

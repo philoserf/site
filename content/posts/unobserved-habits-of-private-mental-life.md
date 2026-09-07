@@ -2,8 +2,6 @@
 title: Unobserved habits of private mental life
 description: Default mental activity—rumination, fantasy, worry, replaying memories—forms habits through repetition rather than choice, unfolds free from external judgment, and largely escapes articulation, leaving a structural gap between inner experience and what can be shared.
 date: 2026-05-29
-aliases:
-  - /posts/privacy-of-mental-habits/
 ---
 
 Most of mental life happens unobserved. Not the dramatic moments of decision or creativity—those announce themselves and get cataloged. The default operations: rumination, fantasy, worry, rehearsal of conversations, replay of memories, mental wandering. These unfold beneath external scrutiny, and they take up most of the available hours.

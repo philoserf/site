@@ -2,8 +2,6 @@
 title: The cost and consequence of honor in a dishonorable world
 description: Maintaining honor among those who defect from shared standards brings tactical loss, isolation, vigilance, and grief, yet the friction itself forges moral strength, as Stoic and military traditions hold—the real outcome is transformation, not survival.
 date: 2026-02-23
-aliases:
-  - /posts/cost-of-honor-in-corrupt-systems/
 ---
 
 Honor in a dishonorable world costs more than it pays—by any conventional measure. You pass on corrupt opportunities, refuse shortcuts, speak when silence would protect you. In systems where others defect from shared standards, you bear costs they avoid while they capture benefits you forgo. Predictability becomes exploitable.

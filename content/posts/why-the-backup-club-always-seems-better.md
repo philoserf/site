@@ -2,8 +2,6 @@
 title: Why the backup club always seems better
 description: Golfers cycle between drivers and putters because absent equipment escapes daily disappointment; three deceptions—selective memory, novelty sharpening attention, and expectation shaping movement—drive the pattern, which hickory golf breaks by forcing adaptation over replacement.
 date: 2026-08-03
-aliases:
-  - /posts/the-backup-club-effect/
 ---
 
 The backup club enjoys one profound advantage: it is not currently disappointing us.

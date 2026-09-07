@@ -2,8 +2,6 @@
 title: Action goals outlast identity goals
 description: Identity-based goals like "writer" or "athlete" collapse under pressure because labels carry no instructions, while action-based goals endure. Interesting work sustains itself when motivation fades; recognition arrives as a byproduct.
 date: 2026-05-11
-aliases:
-  - /posts/identity-goals-vs-action-goals/
 ---
 
 Goals pinned to an identity—writer, athlete, founder—tend to collapse under pressure, because the label carries no instructions. Goals pinned to action hold up better. Someone who wants to be fit endures workouts he hates. Someone who wants to train goes to the gym.

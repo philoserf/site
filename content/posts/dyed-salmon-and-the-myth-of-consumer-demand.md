@@ -2,8 +2,6 @@
 title: Dyed salmon and the myth of consumer demand
 description: Farmed Atlantic salmon dyed pink via SalmoFan-selected feed pigment exposes how "consumer demand" rhetoric conflates revealed preference with articulated request; extends the pattern to gassed tomatoes, brined chicken, and doctored bread.
 date: 2026-06-29
-aliases:
-  - /posts/food-industry-demand-rhetoric/
 ---
 
 When an industry says it only gives people what they want, ask who, in the whole chain of human persons, ever wrote the request. Agribusiness mouthpieces say it is consumer demand, but no consumer asked that farmed Atlantic salmon be camouflaged to look like healthy wild-caught Pacific salmon—and the gap between those two assertions is exactly where the rhetoric of market sovereignty collapses. The claim of demand-driven production is supposed to function as a moral terminus: producers do what they do because the public asked for it, so any objection is an objection to the public itself. But the salmon case exposes the trick. Farmed Atlantic salmon flesh is gray. It is gray because the fish are not eating the krill and small crustaceans whose astaxanthin pigments wild Pacific flesh pink-orange. To sell the gray fish at the price the pink fish commands, the industry adds synthetic pigment to the feed and chooses the hue from a printed color fan—a SalmoFan—the way a paint store sells eggshell versus oyster. The output is a product engineered to mimic a different one. No customer wrote that requisition.
