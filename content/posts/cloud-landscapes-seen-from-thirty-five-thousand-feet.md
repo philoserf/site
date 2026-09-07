@@ -2,8 +2,6 @@
 title: Cloud landscapes seen from thirty-five thousand feet
 description: Poem by Mark Ayers (2018) written from a plane at thirty-five thousand feet, where clouds resemble landscapes and snow-fields blur with cloud-banks, leaving the mind to navigate by imagination between what is and what it seems.
 date: 2026-04-02
-aliases:
-  - /posts/on-the-real-terrain/
 ---
 
 by Mark Ayers, 2018

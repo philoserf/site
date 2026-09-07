@@ -2,8 +2,6 @@
 title: How the powerless come to police each other
 description: Oppressed groups come to enforce hierarchy on themselves through scarcity, internalized standards (Fanon, Freire), promoted deputies and normalization over time. Breaking it requires collective solidarity, not lone resistance, since the first to step out is punished.
 date: 2026-10-23
-aliases:
-  - /posts/horizontal-policing-of-oppression/
 ---
 
 Colonial administrations, prisons, corporations: wherever one group holds power over another, the same arrangement appears. The powerful do not police the powerless. The powerless police each other. Nobody has to design it. Much of it assembles itself.

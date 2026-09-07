@@ -2,8 +2,6 @@
 title: Heisenberg on how methods of questioning shape knowledge
 description: Heisenberg's claim that observation reveals nature only as exposed to our methods, extended from quantum measurement to disciplines, culture, and language; concludes knowledge is provisional and method-dependent, favoring complementary perspectives over dogmatism.
 date: 2026-06-08
-aliases:
-  - /posts/methods-of-inquiry-shape-knowledge/
 ---
 
 > What we observe is not nature itself, but nature exposed to our method of questioning.

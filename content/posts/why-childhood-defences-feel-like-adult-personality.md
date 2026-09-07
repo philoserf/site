@@ -2,8 +2,6 @@
 title: Why childhood defences feel like adult personality
 description: Childhood coping strategies persist into adulthood and get mistaken for personality traits, which is why insight alone rarely breaks patterns. Change starts by asking what a response was originally built to accomplish and judging it against present conditions.
 date: 2026-07-29
-aliases:
-  - /posts/childhood-norms-shaping-adult-behavior/
 ---
 
 The dysfunctions and idiosyncrasies of childhood became the self-evident norms of adulthood.

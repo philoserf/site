@@ -2,8 +2,6 @@
 title: Critique of the invisible chains self-help claim
 description: Analysis of the self-help claim that conditioning traps us from our true selves, granting the learned-helplessness insight while rejecting the Sartrean-untenable "true self" and the conflation of belief-based limits with structural constraints like poverty or illness.
 date: 2026-09-18
-aliases:
-  - /posts/invisible-chains-real-constraints/
 ---
 
 The claim that we are conditioned to believe we can't change our lives, trapped by invisible chains that hold us back from our true selves, performs a familiar rhetorical maneuver: it diagnoses a problem in such a way that mere recognition of the diagnosis becomes the cure. If the chains are invisible, then seeing them is already the first liberation. This is the founding gesture of an enormous self-help literature, and it contains a real insight braided together with two questionable assumptions.

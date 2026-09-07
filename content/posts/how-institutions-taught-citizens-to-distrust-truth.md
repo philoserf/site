@@ -2,8 +2,6 @@
 title: How institutions taught citizens to distrust truth
 description: Traces how institutional manipulation of facts, from Bush v. Gore and Iraq war intelligence to 2020 election denial, teaches citizens to treat truth as an instrument of power, drawing on Bakunin to distinguish creative destruction from nihilism.
 date: 2026-08-10
-aliases:
-  - /posts/truth-power-and-political-decay/
 ---
 
 Governments have always lied; the deeper danger was that power might damage the means by which a lie could be exposed, leaving citizens without enough common reality to argue about what should be done.

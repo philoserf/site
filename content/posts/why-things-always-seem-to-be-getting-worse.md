@@ -2,8 +2,6 @@
 title: Why things always seem to be getting worse
 description: Declinism as an inherited negativity bias that makes every generation believe things are getting worse despite data on crime, lifespan, and literacy. Offers three questions to check the reflex and warns against applying it to one's own aging.
 date: 2026-02-15
-aliases:
-  - /posts/decline-narrative-bias/
 ---
 
 I catch myself saying "things used to be better" and forgetting how bad things were. Everyone does. Every generation mourns declining standards, weakening morals, lost golden ages. "Restoration" rhetoric works because it promises a return to a state that never existed as we remember it.

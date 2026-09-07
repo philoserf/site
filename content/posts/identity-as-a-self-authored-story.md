@@ -2,8 +2,6 @@
 title: Identity as a self-authored story
 description: "Personal identity works as a continuously edited self-narrative: we select defining memories, recast embarrassments as growth, and rewrite luck as merit below awareness. Recognizing this unconscious editing reveals identity as fluid and puts the pen in your hand."
 date: 2026-04-11
-aliases:
-  - /posts/identity-as-self-narrative/
 ---
 
 Your identity is a story you're constantly writing.

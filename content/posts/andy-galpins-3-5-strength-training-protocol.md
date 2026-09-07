@@ -2,8 +2,6 @@
 title: Andy Galpin's 3-5 strength training protocol
 description: "Andy Galpin's 3-5 rule for strength: 3–5 days per week, exercises, reps, sets, and minutes of rest, using loads of 85%+ of one-rep max to maximize CNS and muscle fiber recruitment. Includes source links."
 date: 2023-02-01
-aliases:
-  - /posts/galpins-3-5-training-rule/
 ---
 
 Dr. Andy Galpin's strength training protocol:

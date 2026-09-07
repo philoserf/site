@@ -2,8 +2,6 @@
 title: Labels we choose to wear
 description: Short reflection by Mark Ayers (2024) on how people adopt labels to define themselves to others, only to later recognize the chosen label never truly matched who they are.
 date: 2026-03-09
-aliases:
-  - /posts/labels-and-self-definition/
 ---
 
 by Mark Ayers, 2024

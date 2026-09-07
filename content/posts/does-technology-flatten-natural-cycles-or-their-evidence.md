@@ -2,8 +2,6 @@
 title: Does technology flatten natural cycles or their evidence
 description: Critique of the elegiac claim that technology erases the physical traces of natural cycles, using the Aswan Dam, refrigerated fruit, and fossil fuels to argue the metaphor inverts at planetary scale, where burning carbon steepens cycles rather than smoothing them.
 date: 2026-08-21
-aliases:
-  - /posts/technology-flattening-natural-cycles/
 ---
 
 To flatten the physical evidence of natural cycles is a quieter ambition than conquering nature, and a more thorough one. The conqueror leaves a battlefield; the leveler leaves a smooth surface on which nothing seems to have happened at all. A heated room in February, a peach on the shelf in January, a city that burns at the same wattage at three in the morning as at noon—none of these present themselves as victories over anything. They simply remove the friction by which a body once knew where it stood in the turning of the year or the day. The flattening is not the destruction of a cycle but the sanding-down of its traces: the muffling of the marks that seasons, tides, growth, and rot once pressed into the world's surface, until it stops recording them.

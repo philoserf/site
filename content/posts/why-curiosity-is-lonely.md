@@ -2,8 +2,6 @@
 title: Why curiosity is lonely
 description: "Curiosity as a bid for companionship that usually goes unmet: the curious are scattered rather than merely scarce, learn restraint after repeated rebuffs, and find that understanding others' incuriosity brings no reciprocity."
 date: 2026-08-05
-aliases:
-  - /posts/curiosity-and-intellectual-loneliness/
 ---
 
 A question is an offer, which is why curiosity carries a loneliness that no appetite for facts would explain. Curiosity reaches outward. It offers a question or an unfinished thought and waits for someone else to take it up. When the offer is returned with another question, both people enter ground that neither occupied before. When it meets a shrug, a joke or a quick change of subject, a bid for companionship has failed. Someone who approaches each encounter hoping to be met is disappointed more often than not.

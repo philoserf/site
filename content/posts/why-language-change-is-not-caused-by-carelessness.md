@@ -2,8 +2,6 @@
 title: Why language change is not caused by carelessness
 description: "Critique of the claim that language changes because speakers neglect prior meanings, arguing drift is structurally unavoidable: no speaker accesses a word's full history, diligent fields like law still drift, and change is an unintended aggregate outcome."
 date: 2026-06-12
-aliases:
-  - /posts/mechanism-of-semantic-drift/
 ---
 
 A theory of linguistic change is compressed into a single claim: that language changes through its use by those who took no care to understand what the words they use meant to others who had previously used those words. It identifies a mechanism—imperfect transmission between generations of speakers—and at once assigns something close to blame. "Took no care" frames the result as a lapse, a failure of diligence, as though a word arrives with a fixed prior meaning that an attentive speaker could have preserved and a careless one let slip.

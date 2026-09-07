@@ -2,8 +2,6 @@
 title: The forbidden fruit as a permanent hunger for knowledge
 description: "Reflection reinterpreting the Eden story: the fall's true punishment is an unending hunger for knowledge, where each discovery widens awareness of ignorance, answers become placeholders, and unifying theories recede like a mirage."
 date: 2025-08-04
-aliases:
-  - /posts/hunger-that-knowledge-refines/
 ---
 
 The story goes like this: in the garden, there was one tree we weren't supposed to touch. One bite, and we'd know too much. We bit. We knew. We fell.

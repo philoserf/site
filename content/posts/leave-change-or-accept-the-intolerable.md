@@ -2,8 +2,6 @@
 title: Leave, change, or accept the intolerable
 description: Framework for responding to intolerable situations by leaving, changing, or accepting them, with the costs of each path, the trap of passive endurance with resentment, and how depression, anxiety, and anger distort what counts as intolerable.
 date: 2026-05-27
-aliases:
-  - /posts/stoic-responses-to-suffering/
 ---
 
 When facing circumstances that feel unbearable, three options exist: departure, transformation, or acceptance. This framework, rooted in Stoic philosophy and echoed in modern cognitive therapy, offers a deceptively simple map of suffering.

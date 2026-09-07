@@ -2,8 +2,6 @@
 title: Why the institutional distrust cycle has no internal brake
 description: Leaders exploit low institutional trust by degrading agencies rather than reforming them, making the play cheaper each cycle. Real grievances lend cover, citizens lose the ability to separate warranted from manufactured distrust, and blanket cynicism becomes reversed credulity.
 date: 2026-10-19
-aliases:
-  - /posts/the-institutional-trust-cycle/
 ---
 
 The familiar complaint about institutional trust is that it keeps falling. That is true of most institutions and it is the less interesting half. The damage that compounds is the destruction of a citizen's ability to tell warranted distrust from manufactured distrust, because once those are indistinguishable, every institution is defended and attacked on identical terms and no evidence settles anything.

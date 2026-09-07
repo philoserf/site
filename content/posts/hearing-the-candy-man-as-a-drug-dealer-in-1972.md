@@ -2,8 +2,6 @@
 title: Hearing The Candy Man as a drug dealer in 1972
 description: A ten-year-old in 1972 hears Sammy Davis Jr.'s "The Candy Man" as a song about a drug dealer, reading its Willy Wonka lyrics through an era of Vietnam, Watergate, and half-understood slang where "candy" doubled as code.
 date: 2026-06-10
-aliases:
-  - /posts/candy-mans-double-meaning/
 ---
 
 In 1972, I was ten years old—old enough to listen carefully to song lyrics and young enough to believe I understood them. One song caught my ear that year: Sammy Davis Jr.'s "The Candy Man." Its cheerful melody was everywhere, on the radio, on television, leaking from transistor speakers in neighborhood yards. Most kids were singing along and thinking about chocolate bars and gumdrops. I had a different idea.

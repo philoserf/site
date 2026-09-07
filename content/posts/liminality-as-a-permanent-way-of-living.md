@@ -2,8 +2,6 @@
 title: Liminality as a permanent way of living
 description: Liminality framed as permanent residence in transitional spaces—airports, provisional leases, unfinished identities—weighing the openness it buys against the grounded knowledge it costs, and contrasting those forced into the gap with those who choose it.
 date: 2026-09-07
-aliases:
-  - /posts/liminality-and-threshold-living/
 ---
 
 Liminality is life at the threshold—the airport terminal, the hotel lobby, the year between one name for yourself and the next. Not stopped there. Stationed there, as if transit were the residence and arrival only ever a rumor.

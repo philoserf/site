@@ -2,8 +2,6 @@
 title: Why government failure and market failure compound rather than cancel
 description: Critique of the chiasm "government fails at much it undertakes; markets fail to undertake much that must be done," arguing the two failures are sequential and compounding rather than balanced, and that only deliberately designed public-private handoffs escape the trap.
 date: 2026-10-09
-aliases:
-  - /posts/government-and-market-failure-symmetry/
 ---
 
 That government fails at much it undertakes is the oldest grievance in democratic life—the cost overrun, the program that outlives its purpose, the agency that defends its budget more ably than its mission. That markets fail to undertake much that must be done is the complaint pointed the other way: no firm will privately fund the basic research whose returns leak to competitors, price the clean air it fouls, or build the seawall from whose benefit no one can be charged and no one excluded. Joined into a single chiasm, the two grievances form a creed of institutional humility, and the creed has a distinguished pedigree on both sides.

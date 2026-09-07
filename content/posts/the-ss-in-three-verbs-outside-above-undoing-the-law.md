@@ -2,8 +2,6 @@
 title: The SS in three verbs outside, above, undoing the law
 description: Three-stage pattern by which the SS grew from a disavowable bodyguard unit to a state within the state and finally dissolved legal order in the camps and occupied East, stressing that each stage required tacit consent from institutions able to refuse.
 date: 2026-10-21
-aliases:
-  - /posts/sss-three-stage-ascent-to-power/
 ---
 
 The SS can be told in three verbs. It began outside the law, became an organization above the law, and ended as one that undid the law. Put it that compactly and the part usually left out shows: each step needed permission from people who still had the power to refuse. The sequence looks inevitable now. It was not. It was ratified three times.

@@ -2,8 +2,6 @@
 title: Why a summary cannot replace reading a book
 description: "Argument that a book's worth lies in the reader's hours of grappling rather than its extractable content, qualified by three objections: bad books also provoke thought, good books resist rather than mirror, and reshaping must leave a trace."
 date: 2026-08-19
-aliases:
-  - /posts/reading-as-cognitive-event/
 ---
 
 Much of what reading does to a person happens not at the instant a sentence yields its meaning but across the hours a mind spends afterward on what the book raised—grappling with it, drawing connections, arriving at thoughts it would not otherwise have had. But not every such hour is well spent.

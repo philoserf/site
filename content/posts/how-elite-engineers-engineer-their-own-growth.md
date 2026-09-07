@@ -2,8 +2,6 @@
 title: How elite engineers engineer their own growth
 description: "Conditions that produce elite engineers: long-term project ownership through maintenance, breadth across codebases, a mix of wins and failures, mentorship alongside self-directed learning, and spare hours invested in growth that compounds over years."
 date: 2026-04-14
-aliases:
-  - /posts/conditions-for-elite-engineering/
 ---
 
 Elite engineers don't get there through talent alone—they engineer specific conditions for growth.

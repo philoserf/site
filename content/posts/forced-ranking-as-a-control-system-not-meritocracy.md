@@ -2,8 +2,6 @@
 title: Forced ranking as a control system, not meritocracy
 description: Ranger School peer rankings, subverted by a coordinated scheme that rotated first-place votes and self-ranked everyone last, reveal forced ranking as a control mechanism enforcing obedience rather than measuring merit—a pattern corporate systems copy without the shared-stress conditions.
 date: 2026-02-16
-aliases:
-  - /posts/forced-ranking-as-control/
 ---
 
 At Ranger School, we force-ranked one another at the end of each phase. The intent was blunt: peers, stripped by exhaustion and hunger, were the most accurate judges of who did the work, who broke, and who could be trusted when nothing was left. The ranking had nothing to do with morale or development. It was selection under stress.

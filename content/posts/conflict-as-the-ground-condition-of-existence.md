@@ -2,8 +2,6 @@
 title: Conflict as the ground condition of existence
 description: Tension between competing forces as the permanent ground of existence rather than a failure to fix, drawing on Keats's negative capability, Milner, Klein, and Prigogine to argue health means tolerating irresolvable conflict instead of suppressing one side.
 date: 2026-02-21
-aliases:
-  - /posts/tolerating-irresolvable-tension/
 ---
 
 Conflict is not failure. Tension—between competing desires, between self and world, between individuals, between groups—is the ground condition of existence, not a fall from some harmonious baseline.

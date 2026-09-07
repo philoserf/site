@@ -2,8 +2,6 @@
 title: Why government is not weather
 description: "Critique of the maxim to treat government like weather: weather has no author while government is made of contestable decisions. Accepts the Stoic reading as personal discipline but rejects it as a theory of citizenship, since it produces the powerlessness it describes."
 date: 2026-11-02
-aliases:
-  - /posts/government-is-not-weather/
 ---
 
 Treat government like weather, the advice goes: not something to control, but something to adapt to. It recommends a posture, accommodation over agency, and its appeal is immediate. Most people, most of the time, experience government roughly as they experience a cold front, a large impersonal force that arrives on its own schedule, indifferent to their preferences, best met with the civic equivalent of a coat. Against the exhausting modern expectation that one should have opinions about everything and be perpetually mobilized, the counsel to adapt offers relief.

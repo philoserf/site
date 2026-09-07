@@ -2,8 +2,6 @@
 title: Why merely useful glasses get forgotten
 description: Vision good enough to leave glasses behind causes a daily judgment call that often proves wrong, unlike wallet and keys. Merely helpful things must keep justifying themselves, while only necessities become automatic habits.
 date: 2026-09-04
-aliases:
-  - /posts/trap-of-adequate-vision/
 ---
 
 The problem with my eyesight is this. I see well enough to leave my glasses behind.

@@ -2,8 +2,6 @@
 title: All stories are true, false, and all there is
 description: 'Interpretation of the aphorism "All stories are true. All stories are false. There are only stories," arguing each claim does distinct work: fidelity to human reality, inevitable distortion, and the absence of any non-narrative vantage, shifting the question from truth to ethics.'
 date: 2026-03-17
-aliases:
-  - /posts/there-are-only-stories/
 ---
 
 "All stories are true. All stories are false. There are only stories." These read as contradictions. They aren't. Each sentence does real work, and the sequence matters.

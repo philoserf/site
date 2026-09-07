@@ -2,8 +2,6 @@
 title: Aqualung and the projection of menace onto poverty
 description: Jethro Tull's 1971 song "Aqualung" as an indictment of observers who project menace onto poverty, using the "bad intent" line and two contrasting vocal styles to show society criminalizing the homeless to justify looking away.
 date: 2026-01-26
-aliases:
-  - /posts/aqualungs-projected-menace/
 ---
 
 Ian Anderson's "Aqualung" reads as a character study of a homeless man in unflinching detail, a portrait that refuses both sentimentality and contempt. But listen closer: the song shows not the threat from its subject but the threat projected onto him by observers.

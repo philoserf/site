@@ -2,8 +2,6 @@
 title: Semantic diffusion in vibe coding, DevOps, and technical debt
 description: Martin Fowler's 2006 concept of semantic diffusion—coined terms losing precision through loose use—illustrated by vibe coding (Karpathy's deliberate non-review definition), DevOps (dissolving dev/ops incentives), and technical debt (Cunningham's compound-interest metaphor).
 date: 2026-02-09
-aliases:
-  - /posts/semantic-diffusion-in-software-terms/
 ---
 
 Martin Fowler coined Semantic Diffusion in 2006 with this definition: Semantic diffusion occurs when you have a word coined by a person or group, often with a good definition, but then spread through the wider community in a way that weakens that definition. This weakening risks losing the definition entirely—and with it any usefulness to the term.

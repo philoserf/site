@@ -2,8 +2,6 @@
 title: Montaigne on the art of conversation, paraphrased
 description: "Modernized paraphrase of Montaigne's essay on conversation as the sharpest test of judgment: valuing sharp disagreement over lazy agreement, abandoning positions when they fail, distrusting eloquence without substance, and treating debate as shared search rather than combat."
 date: 2026-02-12
-aliases:
-  - /posts/montaigne-on-conversation/
 ---
 
 A faithful paraphrase of Montaigne's "Of the Art of Conference" (Book III, Chapter VIII), tightened and modernized for a mid-21st-century reader.

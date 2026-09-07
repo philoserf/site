@@ -2,8 +2,6 @@
 title: Alienation in an inherited world and the missing map of influence
 description: "Powerlessness within inherited economic, political and social structures is framed as a problem of knowledge as much as force: without a map of cause and effect, effort feels wasted and withdrawal looks like experience. Alienation eases once actionable pressure points become visible."
 date: 2026-07-24
-aliases:
-  - /posts/powerlessness-in-inherited-systems/
 ---
 
 Being trapped in an inherited world is alienating. Being unable to see how anyone changes it is worse. The first condition limits your power; the second hides where power might begin.

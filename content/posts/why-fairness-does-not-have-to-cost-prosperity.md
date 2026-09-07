@@ -2,8 +2,6 @@
 title: Why fairness does not have to cost prosperity
 description: "Argues the assumed tradeoff between fairness and prosperity conflates three meanings of fairness: outcome, opportunity, and procedure. Only heavy outcome-compression taxes growth; procedural fairness and equal opportunity build the substrate growth compounds on, as Nordic Gini and GDP data suggest."
 date: 2026-07-20
-aliases:
-  - /posts/fairness-vs-prosperity-tradeoff/
 ---
 
 There is a familiar intuition that fairness comes at the expense of prosperity. Compress the rewards a society offers, the reasoning goes, and you dull the motive to innovate, to take risks, to outwork the next person; aggregate output falls. This is Okun's leaky bucket: redistribution spills some of what it carries, and smoothing outcomes taxes the engine that produces them. The intuition is not empty. Venture capital is inegalitarian in its returns by design, and concentrated private wealth funds concentrated bets that diffuse social ownership rarely matches. A society that will not let anyone get very rich may also be one that cannot let anyone lose very big, and capping the downside caps the experiments that produce outsized gains. As far as it goes, the logic holds.

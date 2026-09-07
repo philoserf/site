@@ -2,8 +2,6 @@
 title: Madison, Hamilton, and Adams debate the republic's failures
 description: Fictional dialogue in which Madison blames faction's triumph on media that profit from emotional alignment, Hamilton proposes a single six-year presidential term to restore executive energy, and Adams warns that concentrated power becomes faction's final prize.
 date: 2026-06-19
-aliases:
-  - /posts/founders-debate-republican-failure/
 ---
 
 They convene without a formal call. Someone—probably Madison—circulated a letter. The room is smaller than Philadelphia. There is no gallery, and no one has thought to bring a clerk.
