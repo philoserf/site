@@ -6,7 +6,7 @@ date: 2026-09-07
 
 Liminality is life at the threshold—the airport terminal, the hotel lobby, the year between one name for yourself and the next. Not stopped there. Stationed there, as if transit were the residence and arrival only ever a rumor.
 
-The waiting rooms multiply: the frequent flyer, the provisional lease, the perpetual newcomer, the permanent student—flexibility bought by never fully signing anything.
+The waiting rooms take other names: the frequent flyer, the provisional lease, the perpetual newcomer, the permanent student—flexibility bought by never fully signing anything.
 
 It buys something. Old structures dissolve, new ones haven't calcified, and for the length of that gap almost anything is still possible, because nothing has been decided yet. It costs something too: the ground under a decision made, the particular knowledge available only to people who stay long enough to pay for it.
 
