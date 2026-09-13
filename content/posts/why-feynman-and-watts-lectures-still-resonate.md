@@ -18,4 +18,6 @@ They addressed the listener as an adult. Nothing in the talks motivates, reassur
 
 What you hear is uncompressed thought: ideas unfolding at human speed, arguments given space, meaning accumulating rather than arriving. Most contemporary talks are compressed to survive the feed.
 
-What resonates is not the past. It is the sound of thinking aloud without penalty.
+This is not nostalgia. It is capacity.
+
+What resonates is not the past. It is the sound of thinking aloud without penalty—a condition now structurally scarce.

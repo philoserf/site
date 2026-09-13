@@ -10,4 +10,4 @@ Crisis—economic collapse, scarcity, war, pandemic—strips abstract loyalties.
 
 The 1990s brought peak globalization and "global citizen" identity. The 2008 financial crisis reversed it. Populist movements in 2016 and the 2020 pandemic pushed us further back, to nationalism and local concerns.
 
-Broad cooperation, universal human rights, international law: civilization is fragile.
+Broad cooperation, universal human rights, international law: civilization is fragile. It depends on people feeling secure enough to care about distant others.
