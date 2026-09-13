@@ -1,5 +1,5 @@
 ---
-title: Why childhood defences feel like adult personality
+title: Why childhood defenses feel like adult personality
 description: Childhood coping strategies persist into adulthood and get mistaken for personality traits, which is why insight alone rarely breaks patterns. Change starts by asking what a response was originally built to accomplish and judging it against present conditions.
 date: 2026-07-29
 ---
@@ -8,9 +8,9 @@ The dysfunctions and idiosyncrasies of childhood became the self-evident norms o
 
 Children do not judge the worlds into which they are born. They adapt to them. A child in a house where conflict is avoided may learn that disagreement threatens love. A child in a chaotic home may learn that constant watchfulness keeps danger at bay. These responses are not defects. They are intelligent solutions to the conditions at hand.
 
-The trouble begins when the conditions change and the solutions remain. What once brought safety comes to feel like personality: I am easygoing; I notice everything; I do not need anyone; I must always be useful. The adult experiences an old defence not as a response but as the self.
+The trouble begins when the conditions change and the solutions remain. What once brought safety comes to feel like personality: I am easygoing; I notice everything; I do not need anyone; I must always be useful. The adult experiences an old defense not as a response but as the self.
 
-Familiarity then passes for truth. People may recreate the emotional structure of childhood in their relationships, work and habits, even while changing its outward form. A child of an alcoholic may never drink but still organise life around compulsion, unpredictability or the need to control what cannot be controlled. The content changes. The old task remains.
+Familiarity then passes for truth. People may recreate the emotional structure of childhood in their relationships, work and habits, even while changing its outward form. A child of an alcoholic may never drink but still organize life around compulsion, unpredictability or the need to control what cannot be controlled. The content changes. The old task remains.
 
 This helps explain why insight alone seldom breaks a pattern. A person may know that a response causes harm and still experience any alternative as reckless, selfish or false. The pattern was learned before it could be examined. It carries the force not merely of habit but of reality.
 

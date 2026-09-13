@@ -13,7 +13,7 @@ James Brown makes the comparison more than decorative. His recordings—"Funky D
 
 DNA as a "choice James Brown sample" therefore carries both the promise of remix and its oldest dispute. Sampling can release possibilities hidden inside familiar material. It can also turn someone else's inheritance into raw material. The question is not only what can be made, but who has the right to make it, who bears the risk and who receives the gain.
 
-The verbs trace a movement from continuity to rupture. "Re-sampled" and "recycled" suggest reuse: the old material persists inside the new. "Glitched" finds productive beauty in error. "Chopped and screwed" names DJ Screw's Houston method of slowing records and cutting between copies until the source acquired a new weight and atmosphere. By the end of the sequence, the original has not vanished, but it has become hard to recognise.
+The verbs trace a movement from continuity to rupture. "Re-sampled" and "recycled" suggest reuse: the old material persists inside the new. "Glitched" finds productive beauty in error. "Chopped and screwed" names DJ Screw's Houston method of slowing records and cutting between copies until the source acquired a new weight and atmosphere. By the end of the sequence, the original has not vanished, but it has become hard to recognize.
 
 Biology has always worked this way. Sexual reproduction shuffles two genetic libraries. Mutation introduces copying errors. Natural selection keeps some of them and discards others. Evolution is a remix without a producer: repetition, variation and selection carried across four billion years. Genetic engineers did not bring remix into a pristine system. They entered a process already under way, shortened its timescale and began choosing the edits.
 

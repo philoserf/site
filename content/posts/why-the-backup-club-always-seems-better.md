@@ -24,7 +24,7 @@ Putters make the pattern plainest. Many golfers own several and rotate them acco
 
 The cycle depends on three small deceptions.
 
-First, memory favours the absent club. The golfer using Driver B must live with every fresh mistake it produces. Driver A, meanwhile, exists only in recollection, where poor shots fade faster than great ones.
+First, memory favors the absent club. The golfer using Driver B must live with every fresh mistake it produces. Driver A, meanwhile, exists only in recollection, where poor shots fade faster than great ones.
 
 Second, novelty alters attention. A new or newly restored club interrupts habit. The golfer grips it more carefully, notices the face, commits to the target and makes a swing rather than merely repeating one. The improvement is real, but its cause may not be where the golfer thinks it is.
 
