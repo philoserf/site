@@ -1,12 +1,12 @@
 ---
 title: Why noticing problems is easier than fixing them
-description: Explains why people can detect problems more easily than they can solve them, since spotting issues relies on intuitive pattern recognition while fixing them requires systemic understanding. Argues feedback should be treated as diagnosis of a need rather than a literal prescription to follow.
+description: Explains why people detect problems more easily than they solve them, since noticing relies on intuitive pattern recognition while fixing requires understanding the system. Argues feedback should be treated as diagnosis rather than prescription, then turns the claim on the essay itself—the signal and the capacity to act rarely sit with the same person.
 date: 2026-11-13
 ---
 
-People excel at spotting when something doesn't work but struggle to prescribe fixes.
+People excel at noticing when something doesn't work but struggle to prescribe fixes.
 
-Spotting what's wrong requires pattern recognition and emotional response—sensing misalignment, inconsistency, or failure to meet expectations. These are fast, intuitive processes. A reader knows when dialogue sounds false, a user knows when an interface frustrates them, a listener knows when an argument feels incomplete. The problem registers as discomfort.
+Noticing what's wrong requires pattern recognition and emotional response—sensing misalignment, inconsistency, or failure to meet expectations. These are fast, intuitive processes. A reader knows when dialogue sounds false, a user knows when an interface frustrates them, a listener knows when an argument feels incomplete. The problem registers as discomfort.
 
 Fixing what's wrong demands different capabilities: understanding causes, imagining alternatives, accounting for constraints, and predicting outcomes. You have to build a solution. The reader who hears false dialogue may suggest "make it more natural" without knowing the scene has to plant backstory. The user who finds an interface confusing proposes new features that would create new problems. The listener who detects a weak argument might recommend evidence that doesn't strengthen the case.
 
