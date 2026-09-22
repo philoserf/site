@@ -8,3 +8,6 @@
 # Hugo templates — Prettier doesn't handle Hugo template syntax
 /layouts/
 /archetypes/
+
+# Ignored through the global core.excludesfile, which prettier does not read.
+/.issues/
