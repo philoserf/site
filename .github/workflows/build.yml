@@ -33,5 +33,12 @@ jobs:
         with:
           extended: true
 
+      # A default build leaves out future-dated posts and drafts, so a post
+      # written ahead of time would first be rendered by the unattended cron
+      # deploy on the day it publishes. Render them here, in memory, so a
+      # template warning fails the pull request instead. (crbgc's pattern.)
+      - name: Validate future-dated posts and drafts
+        run: hugo --buildFuture -D --renderToMemory --gc --panicOnWarning
+
       - name: Build with Hugo
         run: hugo --gc --minify --panicOnWarning
