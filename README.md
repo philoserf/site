@@ -1,5 +1,7 @@
 # philoserf.com
 
+![Status: Active](https://img.shields.io/badge/Status-Active-blue.svg)
+
 Personal essays by Mark Ayers — semi-weekly, on technology, strategy, and personal development. Read them at [philoserf.com](https://philoserf.com/), not here. **Site motto:** COGITA·DISCE·NECTE·FARE (Think, Learn, Connect, Speak).
 
 For a linear tour of the layouts, partials, and build pipeline, see [WALKTHROUGH.md](./WALKTHROUGH.md). For a theory of the codebase in Peter Naur's sense — the publisher relationship, the load-bearing abstractions, the seams, and what kinds of change the system is shaped to accommodate — see [THEORY.md](./THEORY.md).
