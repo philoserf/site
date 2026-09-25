@@ -12,15 +12,16 @@ Not aspirations, and not everything I've tried.
 - Desk: Mac Mini (M4 Pro), LG 34" Ultra-Wide QHD monitor
 - Portable: MacBook Air (M4), iPad Pro (M4) with Pencil Pro
 - Pocket: iPhone Air
-- Wearable: Apple Watch Series 10, AirPods Pro 3
+- Wearable: Apple Watch Series 12, AirPods Pro 3
 
 ## Software
 
-- Editor: Neovim
 - Terminal: Ghostty
+- Shell: zsh
+- Editor: Neovim
 - Languages: Go (primary), occasional TypeScript
-- Notes: Obsidian (2,800-note vault)
 - Writing partner: Claude Code
+- Notes: Obsidian (2,800-note vault)
 - Documents: Pandoc, Typst
 - Site: Hugo, published from Obsidian via obsidian-publisher
 

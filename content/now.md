@@ -29,7 +29,7 @@ Also: [books I have read]({{< relref "books-i-have-read" >}}) and [books I may r
 
 ## What I'm looking forward to
 
-- An autumn weeklong getaway
+- The family Thanksgiving gathering
 - [C&RBGC](https://crbgc.org) in June 2027
 - A trip to Ireland in autumn 2027
 
