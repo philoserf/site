@@ -621,6 +621,7 @@ footer a:hover {
 .start-grid article,
 .archive-row {
   display: grid;
+  margin-bottom: 0; /* cancel the single-post article margin, which doubles the row gap */
   padding: 1.2rem 0;
   border-top: 1px solid var(--border-color);
 }
