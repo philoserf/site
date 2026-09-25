@@ -3,6 +3,7 @@ title: Books I have read
 eyebrow: "What I have read"
 description: Personal reading log spanning fiction and nonfiction, organized by genre with works from 1908 to 2026. This list, started in late 2022, is far from complete. I'm sure I've missed some and will again.
 lastmod: 2026-08-13
+showUpdated: true
 aliases:
   - /posts/books-i-have-read/
 ---

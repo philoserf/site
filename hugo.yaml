@@ -2,6 +2,10 @@ baseURL: https://philoserf.com/
 locale: en-us
 title: Mark Ayers
 enableGitInfo: true
+# A hand-set lastmod beats the git date: structural pages set lastmod when their
+# content changes, while posts omit it and fall back to the last commit.
+frontmatter:
+  lastmod: [lastmod, ":git", date, publishDate]
 enableRobotsTXT: true
 taxonomies: {} # intentionally empty to disable tags and categories
 

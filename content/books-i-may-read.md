@@ -3,6 +3,7 @@ title: Books I may read
 eyebrow: "What I may read"
 description: Curated reading list spanning fiction, nonfiction, and series with themed paths for focused exploration.
 lastmod: 2026-04-03
+showUpdated: true
 aliases:
   - /posts/books-i-may-read/
 ---
