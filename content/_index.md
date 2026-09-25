@@ -1,5 +1,5 @@
 ---
-description: "Essays by Mark Ayers on thinking and writing, poetry and story, AI and cognition, civilization, identity and ethics, and craft — short, plain, unhedged."
+description: "Short, plain, unhedged essays by Mark Ayers on thinking and writing, AI and cognition, civilization, identity and ethics, and craft, plus poetry and story."
 aliases:
   - /start-here/
 ---

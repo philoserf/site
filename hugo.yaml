@@ -8,7 +8,7 @@ taxonomies: {} # intentionally empty to disable tags and categories
 params:
   author: "Mark Ayers"
   since: 2005
-  description: "Short, plain, unhedged essays on thinking and cognition, civilization, and identity — with poetry, story, and the small crafts of attention: coffee, calendars, kitchens, and code."
+  description: "Short, plain, unhedged essays on thinking and cognition, civilization, and identity, with poetry, story, and the small crafts of attention: coffee, calendars, kitchens, and code."
   email: "mark@philoserf.com"
   # The Latin motto — home page, About page, and the vCard NOTE field.
   motto: "COGITA·DISCE·NECTE·FARE"
