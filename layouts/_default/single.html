@@ -26,7 +26,12 @@
       {{ if eq .Section "posts" }}<p class="eyebrow">Post</p>{{ else }}{{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}{{ end }}
       <h1>{{ .Title }}</h1>
       {{ with .Description }}<p class="deck">{{ . }}</p>{{ end }}
-      {{ if not .Date.IsZero }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
+      {{ if eq .Section "posts" }}
+        {{ if not .Date.IsZero }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
+      {{ else if and .Params.showUpdated (not .Lastmod.IsZero) }}
+        {{/* Structural pages have no publish date; Hugo's date falls back to lastmod, so opt in to an "Updated" line instead */}}
+        <time datetime="{{ .Lastmod.Format "2006-01-02" }}">Updated {{ .Lastmod.Format "January 2, 2006" }}</time>
+      {{ end }}
     </header>
     <div class="content">{{ .Content }}</div>
     {{ if eq .Section "posts" }}<aside class="continue"><p class="eyebrow">Continue reading</p><a href="{{ "/posts/" | relURL }}">Browse all posts &rarr;</a></aside>{{ end }}
