@@ -1,25 +1,26 @@
 ---
 title: Uses
 eyebrow: "What I use"
-description: "What I use day to day for writing, coding, and publishing. Updated when reality changes."
-lastmod: 2026-07-21
+description: "The hardware, software, golf clubs, and car I actually use. Updated when reality changes."
+lastmod: 2026-09-25
 ---
 
-What I use day to day. Updated when reality changes — not aspirations, not everything I've tried.
+Not aspirations, and not everything I've tried.
 
 ## Hardware
 
 - Desk: Mac Mini (M4 Pro), LG 34" Ultra-Wide QHD monitor
 - Portable: MacBook Air (M4), iPad Pro (M4) with Pencil Pro
 - Pocket: iPhone Air
-- Wearable: Whoop, Apple Watch Series 10, AirPods Pro 3
+- Wearable: Apple Watch Series 10, AirPods Pro 3
 
 ## Software
 
-- Editor: Visual Studio Code
+- Editor: Neovim
+- Terminal: Ghostty
 - Languages: Go (primary), occasional TypeScript
-- Notes: Obsidian (2,700+ note vault)
-- Writing partners: Claude Code
+- Notes: Obsidian (2,800-note vault)
+- Writing partner: Claude Code
 - Documents: Pandoc, Typst
 - Site: Hugo, published from Obsidian via obsidian-publisher
 
@@ -32,7 +33,6 @@ What I use day to day. Updated when reality changes — not aspirations, not eve
 
 - Vehicle: 2005 Honda Element
 - Camper: Fifth Element micro-camper kit
-- Phone mount: Peak Design
 
 ---
 
