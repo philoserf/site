@@ -1,7 +1,6 @@
 /* ============================================================
    philoserf — Warm Paper theme
-   Retinted + retyped for comfortable reading; selectors match the
-   pre-redesign stylesheet.
+   Base styles first, then page components (home, archive, article).
    The header wordmark is rendered by baseof.html from .Site.Title.
    ============================================================ */
 
@@ -39,8 +38,7 @@
   --fs-h4: clamp(1.1rem, 1.05rem + 0.25vw, 1.2rem); /* 18 → 19 */
   --fs-small: 0.85rem;
 
-  /* Measure — comfortable line length for prose */
-  --measure-prose: 38rem;
+  /* Page shell width; each <main> class sets its own measure */
   --measure-shell: 70rem;
 }
 
@@ -261,7 +259,6 @@ header {
 /* --- Main (prose-width container) --- */
 
 main {
-  max-width: var(--measure-prose);
   margin: 0 auto;
   padding: 0.5rem 0;
   min-height: calc(100vh - 320px);
@@ -369,22 +366,6 @@ article {
   margin-bottom: 2rem;
 }
 
-article > header {
-  border: none;
-  margin-bottom: 1.6rem;
-  padding-bottom: 0;
-}
-
-article > header time {
-  display: block;
-  font-family: var(--font-sans);
-  color: var(--text-muted);
-  font-size: 0.75rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  margin: 0 0 0.75rem;
-}
-
 /* --- Utilities --- */
 
 .latin-motto {
@@ -479,8 +460,7 @@ footer a:hover {
 }
 
 /* --- Editorial redesign --- */
-.home-main,
-.archive {
+.home-main {
   max-width: none;
   padding-top: 0;
 }
@@ -500,7 +480,7 @@ footer a:hover {
   align-items: center;
   gap: 3rem;
   max-width: 68rem;
-  padding: 4rem 0 4rem;
+  padding: 4rem 0;
 }
 
 .hero-text {
@@ -795,6 +775,7 @@ main.prose {
 }
 
 article > .article-head {
+  margin-bottom: 1.6rem;
   padding-bottom: 1.8rem;
   border-bottom: 1px solid var(--border-color);
 }
@@ -815,12 +796,17 @@ article > .article-head {
 }
 
 .article-head time {
+  display: block;
+  margin: 0 0 0.75rem;
+  color: var(--text-muted);
+  font-family: var(--font-sans);
   font-size: 0.8rem;
   letter-spacing: 0.1em;
+  text-transform: uppercase;
 }
 
 .content {
-  padding: 2rem 0 2rem;
+  padding: 2rem 0;
   font-size: clamp(1.08rem, 1rem + 0.25vw, 1.2rem);
   line-height: 1.64;
 }
