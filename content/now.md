@@ -1,7 +1,7 @@
 ---
 title: Now
 eyebrow: "Currently"
-description: "What I'm reading, focused on, and looking toward right now. Updated when reality changes."
+description: "Where I am, what I'm reading, what I'm focused on, and what I'm looking forward to. Updated when reality changes."
 lastmod: 2026-09-25
 aliases:
   - /posts/now/
@@ -13,7 +13,7 @@ At home in Greater Grand Rapids, Michigan
 
 ## What I'm reading
 
-- _There is No Antimemetics Division_ by Qntm (2025)
+- _There Is No Antimemetics Division_ by qntm (2025)
 - _Derai_ by E. C. Tubb (1968)
 - _Practical Mysticism_ by Evelyn Underhill (1914)
 - _Wonderworks_ by Angus Fletcher (2021)
@@ -24,8 +24,8 @@ Also: [books I have read]({{< relref "books-i-have-read" >}}) and [books I may r
 
 - Preparing for winter
 - Enjoying autumn
-- Staying in contact with local place and time
-- Making incremental improvements to my routine
+- Staying in touch with local place and time
+- Improving my routine, a little at a time
 
 ## What I'm looking forward to
 
