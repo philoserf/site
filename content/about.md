@@ -22,5 +22,3 @@ A thought is unfinished until I can share it. Writing is how I test whether some
 If you leave here asking better questions, even if you disagree with my answers, this site has done its job.
 
 The easiest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
-
-_The views here are my own._
