@@ -114,7 +114,6 @@ aliases:
 - _Hammer's Slammers_ by David Drake (1979): mercenary tank warfare, told from the ground
 - _Sky Raiders_ by William H. Keith Jr. (1982): space marines
 - _Revelation Space_ by Alastair Reynolds (2000): war under real physics
-- _Decider_ by L. E. Modesitt Jr. (2001)
 - _The Praxis_ by Walter Jon Williams (2002): fleet strategy at scale
 
 ### Medieval Social History
@@ -134,8 +133,8 @@ aliases:
 - _The Crystal Cave_ by Mary Stewart (1970): Merlin's youth, leading into Arthur
 - _The Winter King_ by Bernard Cornwell (1995): Arthur without the magic
 - _Dreaming the Eagle_ by Manda Scott (2003): Boudica's rebellion from the Celtic side
-- _Isolde_ by Joan Allen (1989): Tristan and Isolde as romance
-- _The High Kings_ by Joy Chant (1983–1988): the British legends retold as one epic
+- _Isolde, Queen of the Western Isle_ by Rosalind Miles (2002): Tristan and Isolde as romance
+- _The High Kings_ by Joy Chant (1983): Arthur's Celtic ancestors, told as tales at his court
 - _Down the Long Wind_ by Gillian Bradshaw (1980–1982): Gawain's story, to finish
 
 ### Frank Lloyd Wright
