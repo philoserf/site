@@ -5,7 +5,7 @@ description: "The hardware, software, golf clubs, and car I actually use. Update
 lastmod: 2026-09-25
 ---
 
-Not aspirations, and not everything I've tried.
+Only what's in daily use.
 
 ## Hardware
 
