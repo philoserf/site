@@ -3,6 +3,7 @@ title: Now
 eyebrow: "Currently"
 description: "Where I am, what I'm reading, what I'm focused on, and what I'm looking forward to. Updated when reality changes."
 lastmod: 2026-09-25
+showUpdated: true
 aliases:
   - /posts/now/
 ---

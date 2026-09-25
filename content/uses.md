@@ -3,6 +3,7 @@ title: Uses
 eyebrow: "What I use"
 description: "The hardware, software, golf clubs, and car I actually use. Updated when reality changes."
 lastmod: 2026-09-25
+showUpdated: true
 ---
 
 Only what's in daily use.
