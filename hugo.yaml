@@ -19,8 +19,8 @@ params:
   nickname: "philoserf"
   # Warm-paper background hexes; must match --background-color in static/style.css
   themeColor:
-    light: "#faf7f1"
-    dark: "#201d18"
+    light: "#dfe7eb"
+    dark: "#1c272d"
 
   home:
     headline: "Uncompressed public thinking"

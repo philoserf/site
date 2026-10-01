@@ -1,5 +1,5 @@
 /* ============================================================
-   philoserf — Warm Paper theme
+   philoserf — Alpine theme
    Base styles first, then page components (home, archive, article).
    The header wordmark is rendered by baseof.html from .Site.Title.
    ============================================================ */
@@ -7,18 +7,18 @@
 /* --- Tokens --- */
 
 :root {
-  /* Color — warm paper. The background hexes are mirrored outside CSS via
-     params.themeColor in hugo.yaml (theme-color metas, webmanifest) — keep
-     them in sync when retinting. */
-  --primary-color: #0a66a8;
+  /* Color — alpine: snow, slate, and denim. The background hexes are
+     mirrored outside CSS via params.themeColor in hugo.yaml (theme-color
+     metas, webmanifest) — keep them in sync when retinting. */
+  --primary-color: #455a76;
   /* Hover shifts away from the resting link color: darker on the light
      scheme, brighter on the dark one — named by role, not lightness */
-  --link-hover: #084e82;
-  --text-color: #241f18;
-  --text-muted: #6d6353;
-  --background-color: #faf7f1;
-  --surface-color: #f3eee3;
-  --border-color: #e5ddce;
+  --link-hover: #344458;
+  --text-color: #354a54;
+  --text-muted: #4f636c;
+  --background-color: #dfe7eb;
+  --surface-color: #d2dfe8;
+  --border-color: #bcd2e3;
 
   /* Font stacks — platform-native */
   --font-sans:
@@ -44,13 +44,13 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --primary-color: #6aabdd;
-    --link-hover: #93c4e8;
-    --text-color: #e9e4da;
-    --text-muted: #a89d8c;
-    --background-color: #201d18;
-    --surface-color: #2a2620;
-    --border-color: #3a352c;
+    --primary-color: #88b2d8;
+    --link-hover: #acc9e4;
+    --text-color: #dfe7eb;
+    --text-muted: #a4adb2;
+    --background-color: #1c272d;
+    --surface-color: #27373f;
+    --border-color: #324750;
   }
 }
 
