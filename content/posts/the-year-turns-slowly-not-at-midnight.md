@@ -4,7 +4,6 @@ description: Revisits the author's own claim that the year fades from late autum
 date: 2026-10-01
 ---
 
-
 The year does not turn at midnight on December 31. It dies slowly across five months, from late autumn into spring, and the new one arrives only when the light has visibly returned. I once put it in three sentences: "The old year is not replaced by the new year in one grand celebration on January 1. The old year starts to fade away in late autumn, and the new year doesn't replace it until spring. Equinox and Solstice, new moon and full, not a neo-Celtic wheel, but still time and cycle."
 
 The claim is about lived time, not astronomy or the civil calendar. January 1 is a convention, adopted by the Romans as the day consuls took office, and it has no natural correlate in the northern hemisphere's sky or soil. Nothing happens on that date: the solstice has already passed, the coldest weeks lie ahead, and the days are only just lengthening. A person who feels the year turning at New Year's is feeling a social fact. I meant that the felt year ends with the decline of light and growth through October and November, and begins with the thaw and greening of March and April. The civil boundary describes the year poorly.
