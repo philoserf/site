@@ -2,7 +2,7 @@
 title: Uses
 eyebrow: "What I use"
 description: "The hardware, software, golf clubs, and car I actually use. Updated when reality changes."
-lastmod: 2026-09-25
+lastmod: 2026-10-01
 showUpdated: true
 ---
 
@@ -17,14 +17,11 @@ Only what's in daily use.
 
 ## Software
 
-- Terminal: Ghostty
-- Shell: zsh
-- Editor: Neovim
+- Terminal: Ghostty, zsh, Vim
 - Languages: Go (primary), occasional TypeScript
-- Writing partner: Claude Code
+- Programming pair, co-editor, and writing partner: Claude Code
 - Notes: Obsidian (2,800-note vault)
-- Documents: Pandoc, Typst
-- Site: Hugo, published from Obsidian via obsidian-publisher
+- Site: Hugo, published from Obsidian
 
 ## Golf
 
