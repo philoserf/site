@@ -13,3 +13,9 @@ The statement's first weakness is the direction of its causality. It presents le
 Its second weakness is what it conceals about the price of the input. Aristotle's leisure rested on slaves; the monastery's rested on lay brothers, tenants, and donors; the don's rests on an endowment someone else accumulated. A defender can answer that this is a fact about unjust distribution, not about contemplation itself, and that is the strongest reply: the dependency on leisure is structural, and the question of who pays for whose leisure is separable. The reply mostly succeeds. But it leaves a residue, because a contemplative tradition that never asks who is doing its laundry has built a blind spot into its account of the highest life, and the blind spot is philosophical as well as moral. If contemplation is the human good, and contemplation requires exemption from necessity, then the human good is constitutively unavailable to most humans in most arrangements—a conclusion that Aristotle accepted with equanimity and that should instead count as pressure on the premise.
 
 The statement is true in its weak form and misleading in its strong one. A contemplative life needs some protected margin—nobody sustains theoria on four hours of sleep and three jobs—but the margin is smaller than the aristocratic tradition assumed, and it is necessary without being sufficient. The scarce resource was never time. It is the capacity to be claimed by something other than need or distraction, and that capacity behaves less like a possession than like a skill, which means it can be built inside constrained lives and squandered inside free ones.
+
+## Sources
+
+- Aristotle, [_Nicomachean Ethics_](https://www.gutenberg.org/ebooks/8438), book 10 (c. 340 BC)
+- Josef Pieper, _Leisure, the Basis of Culture_ (Pantheon, 1952)
+- Saint Benedict, [_The Rule of St. Benedict_](https://www.gutenberg.org/ebooks/50040), chapter 48 (c. 530)

@@ -10,7 +10,7 @@ That was the point. A golf course is a real estate problem disguised as a recrea
 
 Nicklaus built the showcase at the Hyatt Regency on Grand Cayman. Britannia opened in 1985, laid out as an 18-hole par-three executive course overlaid on a nine-hole championship course, playable three ways depending on which ball you teed up. It was a demonstration piece, an argument in turf, and the first real golf on an island where developers had been promising courses since the 1970s without delivering any.
 
-The argument lost. Golfers would not adopt a ball the rules of golf did not allow, and the short-course market that might have absorbed the idea did not yet exist. The ball receded into trivia. The course survived it by three decades, which is a longer run than most demonstration projects get, and then met a more ordinary fate. In 2016 the Dart group acquired the old Hyatt property and the golf course with it, announced that keeping nine holes open was not commercially viable, and closed Britannia. The beach club was redeveloped and reopened under a new name. The golf ground was left alone.
+The argument lost. Golfers would not adopt a ball the rules of golf did not allow, and the short-course market that might have absorbed the idea did not yet exist. The ball receded into trivia. The course survived it by three decades, a longer run than most demonstration projects get, and then met a more ordinary fate. In 2016 the Dart group acquired the old Hyatt property and the golf course with it, announced that keeping nine holes open was not commercially viable, and closed Britannia. The beach club was redeveloped and reopened under a new name. The golf ground was left alone.
 
 The resort had been laid out and developed in the late 1980s and early 1990s, and the developer sold villas and condominiums on the strength of its amenities, writing those amenities into the land titles in instruments dated 1992 to 2001. Owners held what the documents called golf playing rights: the right, non-exclusive and by pre-reservation, to play the Britannia course without paying green fees, alongside a parallel set of rights to the beach club. Dart argued that these had been registered under the wrong legal category—as restrictive agreements rather than easements—and so did not bind a new owner of the land. The Grand Court sided with the homeowners in 2021. The Court of Appeal reversed in 2023. The Privy Council in London heard final argument in April 2025 and ruled for the owners that June, Lord Briggs finding that the rights had been mislabeled and that the mislabeling did not destroy them.
 
@@ -18,7 +18,7 @@ So roughly 200 households now hold a judicially confirmed, permanent right to pl
 
 Which is to say that the litigation, after six years and three courts, has produced a legal instrument that would have been legible to a Scottish burgh in the 16th century.
 
-The canonical document is the 1552 charter at St Andrews, which licensed Archbishop John Hamilton to rear rabbits on the links while confirming the townspeople's right to play golf over the same ground. That is not a golf club. It is a right of play over land that carried other uses, the community's game and the archbishop's rabbits sharing the same turf. The relationship is what the Privy Council has now restored at Britannia: a right of play running with the land, held against an owner who wants the ground for something else.
+The canonical document is the 1552 charter at St Andrews, which licensed Archbishop John Hamilton to rear rabbits on the links while confirming the townspeople's right to play golf over the same ground. The charter created no golf club, only a right of play over land that carried other uses, the community's game and the archbishop's rabbits sharing the same turf. The relationship is what the Privy Council has now restored at Britannia: a right of play running with the land, held against an owner who wants the ground for something else.
 
 The physical resemblance is at least as close as the legal one. Links golf was played over common ground that nobody groomed for the purpose, shared with whoever else was on it, with hazards where the ground put them rather than where a designer wanted them, and the line of play negotiated in the moment. Britannia in 2026 and the links at Leith, outside Edinburgh, in 1650 answer to the same description: unmaintained coastal turf, dog-walkers, no green fee, no starter, no tee sheet.
 
@@ -26,7 +26,7 @@ The final coincidence belongs to the ball. A featherie, the stitched leather bal
 
 The one anachronism is the direction of the constraint. The featherie was short because nobody yet knew how to make it long. The Cayman ball was short because Nicklaus paid engineers to make it so, in the belief that the game's appetite for land had become its central problem. He was right about that, and 40 years early, and the market punished him for it. The ball failed, the course closed, and the land reverted to something older than either.
 
-Sources
+## Sources
 
 - Cayman Shores Development Ltd and another v The Proprietors, Strata Plan No. 79 and others [2025] UKPC 27
 - Cayman Shores Development Ltd and Palm Sunshine Ltd v Registrar of Lands and others, FSD Cause No. 143 of 2019 (Grand Court, judgment June 9, 2021)

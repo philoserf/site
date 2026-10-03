@@ -15,3 +15,7 @@ There is a more defensible reading. For any single person, most of government is
 The trouble is that the metaphor cannot stay narrow. It collapses a distinction the Stoics kept: weather is beyond everyone's control, while government is beyond any one person's control and well within reach of people acting together. Adaptation is the right individual answer to a hurricane and an incomplete one to a policy, because a policy has a second address, the collective, at which it can be answered. Counsel that treats the two as identical does not merely describe powerlessness. It generalizes a private limitation into a public principle, and so helps produce the condition it claims only to observe. If enough people decide government is weather, it becomes weather: unaccountable because unattended.
 
 So the advice is a half-truth, dangerous in proportion to how completely it is believed. As a personal discipline it is humane and necessary. As a theory of citizenship it is abdication dressed as serenity. The harder stance is to adapt to government as weather in the part of your life that is yours alone, and to refuse in the part you share with others, where the front moving in has an author, and authors can be made to answer. The most effective way to remove something from human control is to persuade everyone it was never under human control to begin with.
+
+## Sources
+
+- Epictetus, [_The Enchiridion_](https://www.gutenberg.org/ebooks/45109) (c. 125)
