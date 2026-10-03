@@ -12,8 +12,12 @@ Trouble arises when instrumental goods colonize domains that ought to remain end
 
 Work is where the colonization runs deepest, because occupations now answer "Who are you?" before they answer "How do you earn a living?" That makes the paycheck both more and less important. More, because it appears to validate personal worth: someone who loses a job faces a crisis of self-understanding along with the financial anxiety. Less, because no amount of compensation can satisfy expectations that properly belong to friendship, family, citizenship or spiritual life. Work becomes overloaded with responsibilities it cannot discharge.
 
-The alternative is not to reject paid employment or pretend that money does not matter. It is to restore proportion. Once survival is secure, pursuing money as life's ultimate objective is like building scaffolding after the building stands. The structure exists to support something else. Forget that, and one extends the scaffolding forever without ever inhabiting the house.
+The alternative is not to reject paid employment or pretend money does not matter. It is to restore proportion. Once survival is secure, pursuing money as life's ultimate objective is like building scaffolding after the building stands. The structure exists to support something else. Forget that, and one extends the scaffolding forever without ever inhabiting the house.
 
 The test is what survives when payment stops. A cabinetmaker pursues cleaner joints almost no customer will notice. A gardener tends plants that will never be sold. Neither is paid for that part, and that part is the work.
 
-The paycheck can purchase time, options and stability. It cannot purchase finding one's own activity inherently worth doing.
+The paycheck can purchase time, options and stability. It cannot purchase the discovery that one's own activity is inherently worth doing.
+
+## Sources
+
+- Aristotle, [_Nicomachean Ethics_](https://www.gutenberg.org/ebooks/8438) (c. 340 BC)
