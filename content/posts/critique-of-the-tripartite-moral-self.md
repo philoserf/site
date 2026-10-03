@@ -20,8 +20,15 @@ The statement is right that the good often starts outside. Much of what becomes 
 
 The geometry fails as a map of motivation, too. Attachment, empathy, parental care, and the capacity for self-sacrifice are as native to human beings as aggression; an animal this cooperative could not have evolved without them. Evil arrives from outside as readily as good does, since cruelty can be taught, rewarded, bureaucratized, and imposed by institutions.
 
-The statement assumes, too, that the two occupants can be cleanly labeled. Anger at cruelty is embedded, appetitive, and often exactly right, while a benevolent-seeming external voice can be the internalized approval of a group whose standards deserve no loyalty. Impulses rarely announce which of the two they belong to, and much moral work consists of sorting them.
+The statement also assumes that the two occupants can be cleanly labeled. Anger at cruelty is embedded, appetitive, and often exactly right, while a benevolent-seeming external voice can be the internalized approval of a group whose standards deserve no loyalty. Impulses rarely announce which of the two they belong to, and much moral work consists of sorting them.
 
 The statement is a faithful picture of the beginning of moral life and a false picture of its structure. The good feels external in proportion to how little it has been practiced, and evil feels embedded in proportion to how much appetite precedes reflection. Both conditions are real, and both are temporary in anyone who is changing. A theory that fixes the addresses of good and evil cannot register the movement between them, and that movement is where most of ethics happens.
 
 The one thing the statement gets more right than its Pauline ancestor is its refusal to disown the evil. Separating the self from its impulses has a real use—a person who can imagine violence need not identify as violent—but Paul's "it is no longer I who do it" converts indwelling sin into a tenant for whom the landlord bears no responsibility, and that move has licensed a long history of self-exculpation. By calling evil embedded and keeping it inside the creature's own definition, the statement denies that exit. The same logic, applied honestly, should have forced the good inside as well, because what one is answerable for cannot be limited to what one resists; it must include what one has become.
+
+## Sources
+
+- _The Shepherd of Hermas_, Mandate 6 (c. 140)
+- Paul, _Letter to the Romans_, chapter 7 (c. 57)
+- Augustine, _On Grace and Free Will_ (c. 426)
+- Aristotle, [_Nicomachean Ethics_](https://www.gutenberg.org/ebooks/8438), book 2 (c. 340 BC)
