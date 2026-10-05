@@ -2,7 +2,7 @@
 title: Books I have read
 eyebrow: "What I have read"
 description: "My reading log since late 2022, by genre, with works from 1821 to 2026. It's incomplete: I've missed some and will again."
-lastmod: 2026-09-25
+lastmod: 2026-10-04
 showUpdated: true
 aliases:
   - /posts/books-i-have-read/
@@ -10,6 +10,7 @@ aliases:
 
 ## Finished in 2026
 
+- _Practical Mysticism_ by Evelyn Underhill (1914)
 - _A Philosophy of Walking_ by Frédéric Gros (2014)
 - _The Triumph of the Moon_ by Ronald Hutton (1999)
 - _Weaveworld_ by Clive Barker (1987)
