@@ -18,4 +18,4 @@ Sources:
 
 - [Building Strength and Power: Andy Galpin's 3-5 Protocol Explained](https://makeawavecincy.com/building-strength-and-power-andy-galpins-3-5-protocol-explained/)
 - [Guest Series: Dr. Andy Galpin – Optimal Protocols To Build Strength (Huberman Lab)](https://podcastnotes.org/huberman-lab/guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-part-2-huberman-lab/)
-- [What is the 3-5 protocol? - Ask Dr. Andy Galpin](https://ask.andygalpin.com/s/Zipl39ZF)
+- [Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin (Huberman Lab)](https://www.hubermanlab.com/episode/essentials-how-to-build-strength-muscle-size-and-endurance-andy-galpin)
