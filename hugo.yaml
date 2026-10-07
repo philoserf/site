@@ -14,6 +14,8 @@ params:
   since: 2005
   description: "Short, plain, unhedged essays on thinking and cognition, civilization, and identity, with poetry, story, and the small crafts of attention: coffee, calendars, kitchens, and code."
   email: "mark@philoserf.com"
+  # RFC 9116 contact for /.well-known/security.txt
+  securityEmail: "mark+security@philoserf.com"
   # The Latin motto — home page, About page, and the vCard NOTE field.
   motto: "COGITA·DISCE·NECTE·FARE"
   nickname: "philoserf"
@@ -100,6 +102,13 @@ outputFormats:
     baseName: vcard
     isPlainText: true
     notAlternative: true
+  security:
+    name: security
+    mediaType: text/plain
+    baseName: security
+    path: .well-known
+    isPlainText: true
+    notAlternative: true
 
 outputs:
   home:
@@ -108,3 +117,4 @@ outputs:
     - llms
     - manifest
     - vcard
+    - security
