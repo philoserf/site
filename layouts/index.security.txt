@@ -1,0 +1,6 @@
+{{- /* Expires rolls forward on every build, so it lapses only if the site
+     stops deploying — RFC 9116 recommends less than a year ahead. */ -}}
+Contact: mailto:{{ .Site.Params.securityEmail }}
+Expires: {{ (now.AddDate 0 6 0).UTC.Format "2006-01-02T15:04:05Z" }}
+Preferred-Languages: en
+Canonical: {{ "/.well-known/security.txt" | absURL }}
