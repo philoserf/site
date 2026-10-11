@@ -1,6 +1,6 @@
 ---
-title: Poem on the wheel of Mind and the present moment
-description: Skaldic-style poem by Mark Ayers (2025) in which Óðinn and Bragi debate the wheel of Mind grinding memory to dust, contrasting statistical measures of fate with the fleeting present moment where wisdom lives.
+title: Thought's great saga
+description: A 2025 poem by Mark Ayers weaving Norse mythology (Odin, Hliðskjálf, Bragi, wyrd) with reflections on memory, statistical distributions, and the fleeting value of the present moment.
 date: 2026-05-15
 ---
 
