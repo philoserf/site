@@ -43,7 +43,6 @@ jobs:
       - uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
-          include-hidden-files: true # ships /.well-known/security.txt
 
   deploy:
     runs-on: ubuntu-latest
