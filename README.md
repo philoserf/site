@@ -15,9 +15,11 @@ The rendering half of a two-repo writing pipeline. The author writes in an Obsid
 ```bash
 task setup   # install dependencies via Homebrew
 task dev     # hugo server -D -F (drafts + future content visible)
-task build   # hugo --minify (production)
+task build   # hugo --gc --minify --panicOnWarning (production)
 task check   # hugo --renderToMemory --panicOnWarning (the integration test)
 task format  # prettier --write .
+task links   # lychee over public/ (external links and anchors)
+task deploy  # build and deploy by hand; pushes to main deploy on their own
 ```
 
 Run `task --list` for the rest.
@@ -33,7 +35,7 @@ Run `task --list` for the rest.
 
 ## Deployment
 
-GitHub Pages, artifact-based, via `.github/workflows/deploy.yml`. Triggered on push to `main`, manual dispatch, and daily at 08:25 UTC. The deploy build is stricter than the PR build — see `THEORY.md` for the implications.
+A Cloudflare Worker serving `public/` as static assets, with Hugo's `404.html` as the not-found page. Workers Builds, Cloudflare's git integration, runs `bunx wrangler deploy` on every push to `main`, and `bunx wrangler versions upload` on other branches. Either one first runs `build.command` from `wrangler.jsonc`: a validate pass over drafts and future-dated posts, then the strict build. `almanac` calls the Worker's deploy hook every day at 05:00 Eastern from `~/.config/refresh.zsh`, so a future-dated post goes live the morning of its date. The build image's Hugo is set by the `HUGO_VERSION` build variable in the dashboard, not by this repo.
 
 ## License
 
