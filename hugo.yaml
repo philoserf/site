@@ -17,7 +17,7 @@ params:
   # The Latin motto — home page, About page, and the vCard NOTE field.
   motto: "COGITA·DISCE·NECTE·FARE"
   nickname: "philoserf"
-  # Warm-paper background hexes; must match --background-color in static/style.css
+  # Warm-paper background hexes; must match --background-color in assets/css/style.css
   themeColor:
     light: "#dfe7eb"
     dark: "#1c272d"

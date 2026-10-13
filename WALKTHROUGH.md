@@ -32,7 +32,8 @@ layouts/
   partials/        description, resolve-pagerefs, motto, math, mermaid
   shortcodes/      callout, mermaid (publisher contract), latin-motto (local)
 archetypes/        default.md (pages), posts.md (posts)
-static/            style.css, callout.css, icons, og-image.png
+assets/css/        style.css, callout.css (fingerprinted by Hugo)
+static/            _headers, icons, og-image.png
 Taskfile.yml       local tasks; Brewfile for the local toolchain
 ```
 
@@ -250,9 +251,9 @@ Open Graph and article metadata come next:
 
 `eq .Section "posts"` is how templates recognize a post. The `article:*` block is guarded by `.IsPage` alone, so structural pages also get a `published_time`, taken from their `lastmod` (section 3). Tracked as #949.
 
-`theme-color` metas read `params.themeColor.light` and `.dark`. They must match `--background-color` in `static/style.css`, and the stylesheet says so:
+`theme-color` metas read `params.themeColor.light` and `.dark`. They must match `--background-color` in `assets/css/style.css`, and the stylesheet says so:
 
-`static/style.css` — `:root`
+`assets/css/style.css` — `:root`
 
 ```css
   /* Color — alpine: snow, slate, and denim. The background hexes are
@@ -265,8 +266,9 @@ The head closes by loading stylesheets and scripts, three of them only when need
 `layouts/_default/baseof.html` — `<head>`
 
 ```go-html-template
-  <link rel="stylesheet" href="{{ "style.css" | relURL }}">
-  {{ if .HasShortcode "callout" }}<link rel="stylesheet" href="{{ "callout.css" | relURL }}">{{ end }}
+  {{ $style := resources.Get "css/style.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+  {{ if .HasShortcode "callout" }}{{ $callout := resources.Get "css/callout.css" | minify | fingerprint }}<link rel="stylesheet" href="{{ $callout.RelPermalink }}" integrity="{{ $callout.Data.Integrity }}">{{ end }}
   {{ partial "math.html" . }}
   {{ partial "mermaid.html" . }}
 
@@ -454,7 +456,7 @@ Three shortcodes exist. `callout` and `mermaid` are copied from the publisher's 
 </div>
 ```
 
-The callout type arrives exactly as Obsidian spells it and becomes a `callout-<type>` class. `static/callout.css` colors those classes, in light and dark, and `baseof.html` loads it only when the page uses the shortcode. `layouts/shortcodes/mermaid.html` HTML-escapes its body into a `<pre class="mermaid">`, and this partial loads the library:
+The callout type arrives exactly as Obsidian spells it and becomes a `callout-<type>` class. `assets/css/callout.css` colors those classes, in light and dark, and `baseof.html` loads it only when the page uses the shortcode. `layouts/shortcodes/mermaid.html` HTML-escapes its body into a `<pre class="mermaid">`, and this partial loads the library:
 
 `layouts/partials/mermaid.html` — whole file
 
