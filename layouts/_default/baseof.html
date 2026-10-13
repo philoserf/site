@@ -43,8 +43,9 @@
   <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
   {{ end }}
 
-  <link rel="stylesheet" href="{{ "style.css" | relURL }}">
-  {{ if .HasShortcode "callout" }}<link rel="stylesheet" href="{{ "callout.css" | relURL }}">{{ end }}
+  {{ $style := resources.Get "css/style.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+  {{ if .HasShortcode "callout" }}{{ $callout := resources.Get "css/callout.css" | minify | fingerprint }}<link rel="stylesheet" href="{{ $callout.RelPermalink }}" integrity="{{ $callout.Data.Integrity }}">{{ end }}
   {{ partial "math.html" . }}
   {{ partial "mermaid.html" . }}
 
