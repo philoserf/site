@@ -35,7 +35,7 @@ Run `task --list` for the rest.
 
 ## Deployment
 
-A Cloudflare Worker serving `public/` as static assets, with Hugo's `404.html` as the not-found page. Workers Builds, Cloudflare's git integration, runs `bunx wrangler deploy` on every push to `main`, and `bunx wrangler versions upload` on other branches. Either one first runs `build.command` from `wrangler.jsonc`: a validate pass over drafts and future-dated posts, then the strict build. `almanac` calls the Worker's deploy hook every day at 05:00 Eastern from `~/.config/refresh.zsh`, so a future-dated post goes live the morning of its date. The build image's Hugo is set by the `HUGO_VERSION` build variable in the dashboard, not by this repo.
+A Cloudflare Worker serving `public/` as static assets, with Hugo's `404.html` as the not-found page. Workers Builds, Cloudflare's git integration, runs `bunx wrangler deploy` on every push to `main`, and `bunx wrangler versions upload` on other branches. Either one first runs `build.command` from `wrangler.jsonc`: a validate pass over drafts and future-dated posts, then the strict build. A cron trigger in `wrangler.jsonc` runs `worker.js` every day at 09:00 UTC (05:00 Eastern in summer, 04:00 in winter), which POSTs the Worker's own deploy hook, so a future-dated post goes live the morning of its date. That script is the Worker's only code: requests are served from `public/`, and one matching no file is handed straight back to asset serving for the 404 page. The build image's Hugo is set by the `HUGO_VERSION` build variable in the dashboard, not by this repo.
 
 ### Cloudflare settings
 
@@ -45,9 +45,9 @@ A Cloudflare Worker serving `public/` as static assets, with Hugo's `404.html` a
 - **Production branch** `main`, deploy command `bunx wrangler deploy`.
 - **Non-production branches** on, deploy command `bunx wrangler versions upload`. They build and validate, and report as the "Workers Builds: site" check on GitHub, but get no preview URL: `preview_urls` is off.
 - **Build variable** `HUGO_VERSION=latest` on both, so the build image's Hugo floats.
-- **Deploy hook** "almanac daily rebuild" on `main`. Its URL is a secret kept only in `~/.config/site-deploy-hook` (mode 600) on `almanac`, which `refresh.zsh` POSTs. To replace it, create a hook under Settings → Builds → Deploy Hooks, write its URL to that file, and delete the old hook.
+- **Deploy hook** "daily rebuild" on `main`. Its URL is the Worker secret `DEPLOY_HOOK`, which `worker.js` POSTs on the cron. To replace it, create a hook under Settings → Builds → Deploy Hooks, pipe its URL to `bunx wrangler secret put DEPLOY_HOOK`, and delete the old hook.
 
-On a fresh account, run `task deploy` once to create the Worker and attach the domain, then connect Builds. The domain attaches only when no other DNS record holds the hostname.
+On a fresh account, run `task deploy` once to create the Worker and attach the domain, then connect Builds and set `DEPLOY_HOOK`. Until the secret exists, the cron fails and nothing else does. The domain attaches only when no other DNS record holds the hostname.
 
 The zone serves `/.well-known/security.txt` as a Cloudflare-managed file (Security → Settings); this repo has none.
 
