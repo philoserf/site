@@ -38,6 +38,21 @@ tasks:
     cmds:
       - hugo --gc --minify --panicOnWarning
 
+  deploy:
+    desc: Build and deploy by hand (Workers Builds deploys every push to main)
+    cmds:
+      # wrangler.jsonc's build.command validates and builds before uploading.
+      - |
+        if token=$(security find-generic-password -s cloudflare-api-token -w 2>/dev/null); then
+          export CLOUDFLARE_API_TOKEN="$token"
+        fi
+        bunx wrangler deploy
+
+  links:
+    desc: Check external links and anchors in public/ (run task build first)
+    cmds:
+      - lychee --cache --max-cache-age 2d --root-dir "$PWD/public" --include-fragments --no-progress 'public/**/*.html'
+
   clean:
     desc: Clean up generated files
     cmds:

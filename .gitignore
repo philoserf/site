@@ -13,3 +13,6 @@
 
 # Local issue tracking
 /.issues/
+
+# Wrangler local state
+/.wrangler/
