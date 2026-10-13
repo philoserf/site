@@ -11,4 +11,5 @@
     "command": "{ [ \"$(git rev-parse --is-shallow-repository)\" = false ] || git fetch --unshallow --quiet; } && hugo --buildFuture -D --renderToMemory --gc --panicOnWarning && rm -rf public && hugo --gc --minify --panicOnWarning",
   },
   "assets": { "directory": "./public", "not_found_handling": "404-page" },
+  "routes": [{ "pattern": "philoserf.com", "custom_domain": true }],
 }
