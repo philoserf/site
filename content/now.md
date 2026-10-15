@@ -2,7 +2,7 @@
 title: Now
 eyebrow: "Currently"
 description: "Where I am, what I'm reading, what I'm focused on, and what I'm looking forward to. Updated when reality changes."
-lastmod: 2026-10-04
+lastmod: 2026-10-15
 showUpdated: true
 aliases:
   - /posts/now/
@@ -16,8 +16,8 @@ At home in Greater Grand Rapids, Michigan
 
 - _There Is No Antimemetics Division_ by qntm (2025)
 - _Derai_ by E. C. Tubb (1968)
-- _Round Up_ by Ring Lardner (1929)
 - _Wonderworks_ by Angus Fletcher (2021)
+- _The Thirty-Nine Steps_ by John Buchan (1915)
 
 Also: [books I have read]({{< relref "books-i-have-read" >}}) and [books I may read]({{< relref "books-i-may-read" >}}).
 
