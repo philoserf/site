@@ -10,6 +10,7 @@ aliases:
 
 ## Finished in 2026
 
+- _Round Up_ by Ring Lardner (1929)
 - _Practical Mysticism_ by Evelyn Underhill (1914)
 - _A Philosophy of Walking_ by Frédéric Gros (2014)
 - _The Triumph of the Moon_ by Ronald Hutton (1999)
