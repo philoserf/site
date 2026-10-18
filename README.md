@@ -16,7 +16,7 @@ The rendering half of a two-repo writing pipeline. The author writes in an Obsid
 task setup   # install dependencies via Homebrew
 task dev     # hugo server -D -F (drafts + future content visible)
 task build   # hugo --gc --minify --panicOnWarning (production)
-task check   # hugo --renderToMemory --panicOnWarning (the integration test)
+task check   # build.command's validate and strict passes, in memory (the integration test)
 task format  # prettier --write .
 task links   # lychee over public/ (external links and anchors)
 task deploy  # build and deploy by hand; pushes to main deploy on their own

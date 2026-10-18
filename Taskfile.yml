@@ -59,10 +59,12 @@ tasks:
       - rm -rf public resources
 
   check:
-    desc: Check content and links
+    desc: Run build.command's validate and strict passes in memory
     deps: [setup]
     cmds:
-      - hugo --renderToMemory --panicOnWarning
+      # The two Hugo passes of wrangler.jsonc's build.command, without writing public/.
+      - hugo --buildFuture -D --renderToMemory --gc --panicOnWarning
+      - hugo --gc --minify --renderToMemory --panicOnWarning
 
   new:
     desc: Create a new content file
