@@ -1,6 +1,9 @@
 baseURL: https://philoserf.com/
 locale: en-us
 title: Mark Ayers
+# Date-only front matter is midnight here, not UTC, so a queued essay goes live
+# on its own date rather than the evening before. Matches params.contact.timezone.
+timeZone: America/Detroit
 enableGitInfo: true
 # A hand-set lastmod beats the git date: structural pages set lastmod when their
 # content changes, while posts omit it and fall back to the last commit.
