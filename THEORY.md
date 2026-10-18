@@ -22,12 +22,12 @@ That is the job of the daily Cron Trigger in `wrangler.jsonc`. It calls `worker.
 
 Several features exist only because of the queue:
 
-- **Two passes in `build.command`.** The first runs `hugo --buildFuture -D --renderToMemory --panicOnWarning` and renders queued posts and drafts in memory. The second renders the live site. Without the first pass, a queued post that breaks a template would be rendered for the first time by an unattended cron build on its release morning. With it, the PR that delivers the post fails (#899). The two passes see different page sets, and each can fail where the other passes. `resolve-pagerefs.html` calls `errorf` on a home-page `featured` or `startHere` ref that resolves to nothing. A ref to a queued post passes the first pass and fails the second, because `site.GetPage` cannot find a page the build excluded. Home-page curation may point only at live posts.
+- **Two passes in `build.command`.** The first runs `hugo --buildFuture -D --renderToMemory --panicOnWarning` and renders queued posts and drafts in memory. The second renders the live site. Without the first pass, a queued post that breaks a template would be rendered for the first time by an unattended cron build on its release morning. With it, the PR that delivers the post fails (#899). The two passes see different page sets, and each can fail where the other passes. `resolve-pagerefs.html` calls `errorf` on a home-page `featured` or `startHere` ref that resolves to nothing. A ref to a queued post passes the first pass and fails the second, because `site.GetPage` cannot find a page the build excluded. Home-page curation may point only at live posts. `task check` runs both passes locally (#950).
 - **A failed build stops the clock, not the site.** Workers Builds keeps serving the previous version, so nothing visible breaks: a post simply doesn't appear on its date. The deploy hook reports only that it accepted the call. The build's outcome is in the Workers Builds dashboard and nowhere else.
 - **The build tools float.** Hugo comes from the dashboard variable `HUGO_VERSION=latest`, and also floats locally through the Brewfile. Both passes of every deploy build run with `--panicOnWarning`. A Hugo release that starts warning about something this site uses will therefore fail the next cron build, with no commit involved. When a post fails to appear on a quiet day, check for that first.
-- **Release time is UTC midnight, not the morning.** Post dates are date-only and `hugo.yaml` sets no `timeZone`, so Hugo reads them as midnight UTC: 20:00 Eastern the day before in summer, 19:00 in winter. The 09:00 UTC cron is the latest a post can appear. Any push to `main` in the evening releases the next day's post then. This contradicts the README's "goes live the morning of its date".
+- **Release time is Eastern midnight.** Post dates are date-only, and `hugo.yaml`'s `timeZone: America/Detroit` reads them as local midnight (#954). Until then they were UTC midnight, the evening before. The 09:00 UTC cron (04:00–05:00 Eastern) releases each post on the morning of its date; any build after midnight Eastern releases it sooner.
 
-Dates under the queue need care. `enableGitInfo` with `frontmatter.lastmod: [lastmod, ":git", date, publishDate]` gives each post a `Lastmod` equal to the last commit that changed its bytes. That is when the publisher last delivered it. It is neither when the author last revised it nor when it was released. A batch publish rewrites every note the publisher selects (`status: publish`), and git records only the files that differ. So when the publisher's transform changes, most posts change in one commit and keep that commit's date: 124 posts still carry `bee4d8e`'s timestamp from #874. For a queued post, delivery comes before release, so its `dateModified` falls before its `datePublished`. This is visible in its JSON-LD, its `article:modified_time` and `sitemap.xml`. The `lastmod`-first ordering was added for structural pages (#913). The rule that posts never set `lastmod` is enforced outside this repo, by the publisher's strip list.
+Dates under the queue need care. `enableGitInfo` with `frontmatter.lastmod: [lastmod, ":git", date, publishDate]` gives each post a `Lastmod` equal to the last commit that changed its bytes. That is when the publisher last delivered it. It is neither when the author last revised it nor when it was released. A batch publish rewrites every note the publisher selects (`status: publish`), and git records only the files that differ. So when the publisher's transform changes, most posts change in one commit and keep that commit's date: 124 posts still carry `bee4d8e`'s timestamp from #874. For a queued post, delivery comes before release, so its `Lastmod` falls before its `Date`. The templates read that as no modification: a post gets `dateModified` and `article:modified_time` only when `Lastmod` is after `Date`, and `layouts/sitemap.xml` writes the later of the two (#948). The one post with a non-ASCII filename gets no git date at all and falls back to its `date` (#974). The `lastmod`-first ordering was added for structural pages (#913). The rule that posts never set `lastmod` is enforced outside this repo, by the publisher's strip list.
 
 ## Two owners, one directory each
 
@@ -47,13 +47,7 @@ Structural pages are the opposite case. They carry a hand-set `lastmod`, and fou
 
 `eq .Section "posts"` is the site's definition of a post. The home page uses it for featured and recent, `llms.txt` for its Writing list, and `single.html` to choose the "Post" eyebrow, the `<time>`, the continue-reading aside, and `BlogPosting` over `WebPage`.
 
-The predicate matters because Hugo's default `frontmatter.date` chain falls back to `lastmod`, so a structural page has a `.Date` that is really its last-edited date. `single.html` knows this. Its comment says structural pages "have no publish date", and it shows "Updated" in their place. Three places don't apply the predicate, and in each the fallback date leaks out as a publish date:
-
-- the `article:published_time` meta in `baseof.html`, guarded only by `.IsPage`
-- the JSON-LD `datePublished` in `single.html`
-- Hugo's built-in home RSS template, the site's only advertised feed, which lists all five structural pages dated by `lastmod`
-
-So editing Now pushes it up subscribers' feeds as if it were a new essay. Anything new that needs to tell posts from pages should use `and .IsPage (eq .Section "posts")`. `.IsPage` excludes the `/posts/` archive itself, which currently tells Open Graph it is an `article`.
+The predicate matters because Hugo's default `frontmatter.date` chain falls back to `lastmod`, so a structural page has a `.Date` that is really its last-edited date. `single.html` knows this. Its comment says structural pages "have no publish date", and it shows "Updated" in their place. So every place that publishes a publish date applies the predicate as `and .IsPage (eq .Section "posts")` (#949): `og:type` and the `article:*` metas in `baseof.html`, the JSON-LD `datePublished` in `single.html`, and `layouts/index.rss.xml`, the home feed, which lists posts only. Before that, the fallback date leaked out as a publish date, and editing Now pushed it up subscribers' feeds as if it were a new essay. `.IsPage` excludes the `/posts/` archive itself. Anything new that needs to tell posts from pages should use the same predicate.
 
 ## Identity is data, and every public file is built from it
 
@@ -86,7 +80,7 @@ Heavy assets load only on the pages that need them: `callout.css` and Mermaid wh
 
 **Cloudflare holds part of the system outside the repository:** the Workers Builds connection, `HUGO_VERSION`, the deploy hook behind `DEPLOY_HOOK`, preview URLs turned off, and the zone-managed `/.well-known/security.txt`. The README's "Cloudflare settings" section records all of it, and that section is the only way to rebuild the Worker.
 
-**The staging twin.** `philoserf/sandbox` is a copy of this site with placeholder prose and invented contact details. Its `layouts/`, `static/`, `Taskfile.yml` and `worker.js` are meant to stay byte-identical to this repo's. Rendering changes are tried there first: the Workers move and the cron both landed in sandbox before here. That arrangement is recorded only in sandbox. Nothing in this repo mentions it, and nothing checks that the two stay identical.
+**The staging twin.** `philoserf/sandbox` is a copy of this site with placeholder prose and invented contact details. Its `layouts/`, `static/`, `Taskfile.yml` and `worker.js` are meant to stay byte-identical to this repo's. Rendering changes are tried there first: the Workers move and the cron both landed in sandbox before here. CLAUDE.md records the arrangement, and sandbox's README lists the intended differences. Nothing checks that the two stay identical.
 
 **One boundary is an accident.** `layouts/_default/list.html` is the posts archive under the default name. It hard-codes the "Posts" heading and "Published Monday, Wednesday, and Friday". It is the default only because `posts` is the only section and taxonomies are off (`taxonomies: {}`). A second section would inherit the posts archive's heading.
 
@@ -99,7 +93,7 @@ It absorbs easily:
 - **A new home-page format:** the four-step recipe.
 - **A new publisher shortcode:** a template under `layouts/shortcodes/` named to match the publisher's setting, mirrored to sandbox.
 - **A heavy dependency:** a conditional partial.
-- **A change to the release schedule:** the cron expression, though see the UTC-midnight point above.
+- **A change to the release schedule:** the cron expression, though see the release-time point above.
 
 It resists:
 
@@ -113,8 +107,6 @@ A maintainer who understands the theory looks first at `hugo.yaml` for identity 
 
 ## Uncertainties
 
-- **Release-time intent.** I read the intended release time as the morning of the post's date, from the README and the Eastern-time comment in `wrangler.jsonc`. The code releases at midnight UTC on any build. I treat the code as drift from the stated intent. The opposite reading, that early-evening release is fine, is possible.
-- **Structural pages in the feed.** I treat their presence in RSS as an oversight because the code's own comment says structural pages have no publish date. Someone might want Now updates in the feed. Nothing records either intent.
 - **Why `aliases` is stripped.** I guess the strip was a response to the problem #862 records, aliases that built literally as titles. The vault's pipeline note records only that the strip breaks renames. No record links the two.
 - **What happens when a page isn't found.** I have not checked how Cloudflare routes such requests. I take `worker.js`'s comment and #942's manual checks as the record.
 - **The publishing cadence.** "Published Monday, Wednesday, and Friday" is a vault convention restated in a template. Recent dates are mostly on those days, with some Tuesdays and Thursdays. The label states an intent, not a constraint.

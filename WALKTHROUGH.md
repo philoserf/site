@@ -186,7 +186,7 @@ date: 2026-10-13
 ---
 ```
 
-Every post has those three fields and nothing else, except three that add `math: true`. The publisher strips everything else from the vault note. Hugo's default rule turns the filename into the URL: `/posts/how-business-is-done-as-a-rhetorical-defense/`. The `date` has no time, and `hugo.yaml` sets no `timeZone`, so Hugo reads it as midnight UTC.
+Every post has those three fields and nothing else, except three that add `math: true`. The publisher strips everything else from the vault note. Hugo's default rule turns the filename into the URL: `/posts/how-business-is-done-as-a-rhetorical-defense/`. The `date` has no time, and `hugo.yaml` sets `timeZone: America/Detroit`, so Hugo reads it as midnight Eastern.
 
 A structural page:
 
@@ -238,18 +238,18 @@ Open Graph and article metadata come next:
 `layouts/_default/baseof.html` — `<head>`
 
 ```go-html-template
-  <meta property="og:type" content="{{ if eq .Section "posts" }}article{{ else }}website{{ end }}">
+  <meta property="og:type" content="{{ if $isPost }}article{{ else }}website{{ end }}">
   <meta property="og:image" content="{{ $ogImage }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  {{ if and .IsPage (not .Date.IsZero) }}
+  {{ if and $isPost (not .Date.IsZero) }}
   <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-  {{ if not .Lastmod.IsZero }}<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+  {{ if .Lastmod.After .Date }}<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
   <meta property="article:author" content="{{ .Site.Params.author }}">
   {{ end }}
 ```
 
-`eq .Section "posts"` is how templates recognize a post. The `article:*` block is guarded by `.IsPage` alone, so structural pages also get a `published_time`, taken from their `lastmod` (section 3). Tracked as #949.
+`$isPost`, set earlier in the head as `and .IsPage (eq .Section "posts")`, is how templates recognize a post. Structural pages have a `.Date` that is really their `lastmod` (section 3), so they and the `/posts/` archive get `og:type` `website` and no `article:*` metas. `article:modified_time` appears only when a post changed after its publish date: one delivered ahead of its date has a `Lastmod` (the delivery commit) before its `Date`.
 
 `theme-color` metas read `params.themeColor.light` and `.dark`. They must match `--background-color` in `assets/css/style.css`, and the stylesheet says so:
 
@@ -292,19 +292,20 @@ Every regular page, post or structural, renders through `single.html`. Its `head
 `layouts/_default/single.html` — `define "head"`
 
 ```go-html-template
-{{ $type := cond (eq .Section "posts") "BlogPosting" "WebPage" }}
+{{ $isPost := and .IsPage (eq .Section "posts") }}
+{{ $type := cond $isPost "BlogPosting" "WebPage" }}
 {{ $desc := partial "description.html" . }}
 {{ $author := dict "@type" "Person" "name" .Site.Params.author "email" .Site.Params.email }}
 {{ $publisher := dict "@type" "Person" "name" .Site.Params.author }}
 ```
 
 ```go-html-template
-{{ if not .Date.IsZero }}{{ $jsonld = merge $jsonld (dict "datePublished" (.Date.Format "2006-01-02")) }}{{ end }}
-{{ if not .Lastmod.IsZero }}{{ $jsonld = merge $jsonld (dict "dateModified" (.Lastmod.Format "2006-01-02")) }}{{ end }}
+{{ if and $isPost (not .Date.IsZero) }}{{ $jsonld = merge $jsonld (dict "datePublished" (.Date.Format "2006-01-02")) }}{{ end }}
+{{ if and (not .Lastmod.IsZero) (or (not $isPost) (.Lastmod.After .Date)) }}{{ $jsonld = merge $jsonld (dict "dateModified" (.Lastmod.Format "2006-01-02")) }}{{ end }}
 <script type="application/ld+json">{{ $jsonld | jsonify (dict "indent" "  ") | safeJS }}</script>
 ```
 
-Dates are added only when present, using `merge`. For a post delivered ahead of its release, `Lastmod` (the delivery commit) comes before `Date`, so `dateModified` is earlier than `datePublished`. Tracked as #948.
+Dates are added only when present, using `merge`. Only posts get `datePublished`. A structural page always gets `dateModified`, since its `lastmod` is set by hand; a post gets it only when `Lastmod` is after `Date`, for the same reason as `article:modified_time`.
 
 The `main` block draws the article header differently for each kind of page:
 
@@ -434,7 +435,7 @@ Allow: /
 Sitemap: {{ "sitemap.xml" | absURL }}
 ```
 
-The RSS feed (`index.xml`) and `sitemap.xml` use Hugo's built-in templates. The home feed lists every regular page, including the structural ones (#949).
+The RSS feed (`index.xml`) and `sitemap.xml` have their own templates, `layouts/index.rss.xml` and `layouts/sitemap.xml`, each Hugo's built-in one narrowed. The feed lists posts only. A sitemap `<lastmod>` is the later of `Lastmod` and `Date`, so a queued post is never dated before it was published.
 
 ### 9. Shortcodes and assets that load on demand
 
@@ -504,19 +505,21 @@ draft: true
 
 ### 11. Local tasks: `Taskfile.yml`
 
-`task dev` runs `hugo server -D -F`, which includes drafts and future posts. `task check` is the quick strict check:
+`task dev` runs `hugo server -D -F`, which includes drafts and future posts. `task check` is the strict check:
 
 `Taskfile.yml` — `check`
 
 ```yaml
   check:
-    desc: Check content and links
+    desc: Run build.command's validate and strict passes in memory
     deps: [setup]
     cmds:
-      - hugo --renderToMemory --panicOnWarning
+      # The two Hugo passes of wrangler.jsonc's build.command, without writing public/.
+      - hugo --buildFuture -D --renderToMemory --gc --panicOnWarning
+      - hugo --gc --minify --renderToMemory --panicOnWarning
 ```
 
-That is the live pass from `build.command` without `--gc`, and without the validate pass, so queued posts go unchecked (#950). `task build` runs the live pass into `public/`, and Task skips it when its inputs haven't changed:
+Those are the two Hugo passes from `build.command`, writing nothing, so a queued post that breaks a template fails here before it fails a deploy. `task build` runs the live pass into `public/`, clearing it first:
 
 `Taskfile.yml` — `build`
 
@@ -524,16 +527,11 @@ That is the live pass from `build.command` without `--gc`, and without the valid
   build:
     desc: Build site for production
     deps: [setup]
-    sources:
-      - hugo.yaml
-      - content/**/*
-      - static/**/*
-      - layouts/**/*
-      - archetypes/**/*
-    generates:
-      - public/**/*
     cmds:
+      # No sources/generates: the output also depends on the clock (future-dated
+      # posts) and git history (enableGitInfo). rm -rf because Hugo never prunes public/.
+      - rm -rf public
       - hugo --gc --minify --panicOnWarning
 ```
 
-Most tasks depend on `setup`, which runs `brew bundle` against the repo's `Brewfile` (Hugo, Task, Prettier, gh, the image tools, lychee). `task links` runs lychee over the HTML in `public/`, checking external links and `#fragment` anchors, and expects `task build` to have run first. `task deploy` loads a Cloudflare API token from the macOS keychain if one is there, then runs `bunx wrangler deploy`, which runs `build.command` before uploading. `task format` runs Prettier. `.prettierignore` excludes `layouts/` and `archetypes/` (Prettier can't parse Hugo templates) and `content/posts/` (publisher output). `task optimize-images` compresses PNGs and JPEGs under `static/`.
+Most tasks depend on `setup`, which runs `brew bundle` against the repo's `Brewfile` (Hugo, Task, Prettier, gh, the image tools, lychee), and is skipped while the Brewfile's checksum is unchanged. `task links` runs lychee over the HTML in `public/`, checking external links and `#fragment` anchors, and expects `task build` to have run first. `task deploy` loads a Cloudflare API token from the macOS keychain if one is there, then runs `bunx wrangler deploy`, which runs `build.command` before uploading. `task format` runs Prettier. `.prettierignore` excludes `layouts/` and `archetypes/` (Prettier can't parse Hugo templates) and `content/posts/` (publisher output). `task optimize-images` compresses PNGs and JPEGs under `static/`.
