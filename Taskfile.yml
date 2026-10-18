@@ -26,15 +26,10 @@ tasks:
   build:
     desc: Build site for production
     deps: [setup]
-    sources:
-      - hugo.yaml
-      - content/**/*
-      - static/**/*
-      - layouts/**/*
-      - archetypes/**/*
-    generates:
-      - public/**/*
     cmds:
+      # No sources/generates: the output also depends on the clock (future-dated
+      # posts) and git history (enableGitInfo). rm -rf because Hugo never prunes public/.
+      - rm -rf public
       - hugo --gc --minify --panicOnWarning
 
   deploy:
