@@ -1,5 +1,6 @@
 {{ define "head" }}
-{{ $type := cond (eq .Section "posts") "BlogPosting" "WebPage" }}
+{{ $isPost := and .IsPage (eq .Section "posts") }}
+{{ $type := cond $isPost "BlogPosting" "WebPage" }}
 {{ $desc := partial "description.html" . }}
 {{ $author := dict "@type" "Person" "name" .Site.Params.author "email" .Site.Params.email }}
 {{ $publisher := dict "@type" "Person" "name" .Site.Params.author }}
@@ -15,7 +16,8 @@
   "publisher" $publisher
   "inLanguage" .Site.Language.Locale
 }}
-{{ if not .Date.IsZero }}{{ $jsonld = merge $jsonld (dict "datePublished" (.Date.Format "2006-01-02")) }}{{ end }}
+{{/* Structural pages have no publish date; Hugo's date falls back to lastmod */}}
+{{ if and $isPost (not .Date.IsZero) }}{{ $jsonld = merge $jsonld (dict "datePublished" (.Date.Format "2006-01-02")) }}{{ end }}
 {{ if not .Lastmod.IsZero }}{{ $jsonld = merge $jsonld (dict "dateModified" (.Lastmod.Format "2006-01-02")) }}{{ end }}
 <script type="application/ld+json">{{ $jsonld | jsonify (dict "indent" "  ") | safeJS }}</script>
 {{ end }}
