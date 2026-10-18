@@ -471,10 +471,10 @@ The version is pinned with an SRI hash, so updating Mermaid means recomputing `i
 `layouts/partials/math.html` — guard
 
 ```go-html-template
-{{- if or .Params.math .Site.Params.math -}}
+{{- if .Params.math -}}
 ```
 
-The three posts with `math: true` load it. Nothing sets `.Site.Params.math`.
+The three posts with `math: true` load it, and no other page does.
 
 The third shortcode, `latin-motto`, belongs to this site. About uses it, and it wraps the shared partial:
 
