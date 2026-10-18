@@ -6,7 +6,8 @@
   // enableGitInfo, so fetch full history first (and fail if that fails). Hugo
   // keys git dates by the paths git log prints, which git quotes when they hold
   // non-ASCII characters, so turn quoting off in the clone's config (Hugo's exec
-  // env allowlist drops a GIT_CONFIG_* override). The validate pass renders drafts and future-dated posts in memory, so one
+  // env allowlist drops a GIT_CONFIG_* override). The validate pass renders
+  // drafts and future-dated posts in memory, so one
   // written ahead of time fails here rather than on the day it publishes.
   // rm -rf because Hugo never prunes public/.
   "build": {
