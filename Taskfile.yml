@@ -13,7 +13,6 @@ tasks:
   setup:
     desc: Install required tools with Homebrew
     sources: [Brewfile]
-    generates: [Brewfile.lock.json]
     cmds:
       - brew bundle
     platforms: [darwin]
