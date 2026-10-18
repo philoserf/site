@@ -3,12 +3,14 @@
   "compatibility_date": "2026-10-12",
   // Runs before every deploy, on a Mac or in Workers Builds. Workers Builds
   // clones shallow, which gives every post the head commit's date under
-  // enableGitInfo, so fetch full history first (and fail if that fails). The
-  // validate pass renders drafts and future-dated posts in memory, so one
+  // enableGitInfo, so fetch full history first (and fail if that fails). Hugo
+  // keys git dates by the paths git log prints, which git quotes when they hold
+  // non-ASCII characters, so turn quoting off in the clone's config (Hugo's exec
+  // env allowlist drops a GIT_CONFIG_* override). The validate pass renders drafts and future-dated posts in memory, so one
   // written ahead of time fails here rather than on the day it publishes.
   // rm -rf because Hugo never prunes public/.
   "build": {
-    "command": "{ [ \"$(git rev-parse --is-shallow-repository)\" = false ] || git fetch --unshallow --quiet; } && hugo --buildFuture -D --renderToMemory --gc --panicOnWarning && rm -rf public && hugo --gc --minify --panicOnWarning",
+    "command": "{ [ \"$(git rev-parse --is-shallow-repository)\" = false ] || git fetch --unshallow --quiet; } && git config core.quotepath false && hugo --buildFuture -D --renderToMemory --gc --panicOnWarning && rm -rf public && hugo --gc --minify --panicOnWarning",
   },
   "main": "./worker.js",
   "assets": {
