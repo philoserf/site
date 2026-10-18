@@ -49,16 +49,17 @@ Every deploy, whether from Workers Builds or `task deploy`, starts with one shel
 
 ```jsonc
   "build": {
-    "command": "{ [ \"$(git rev-parse --is-shallow-repository)\" = false ] || git fetch --unshallow --quiet; } && hugo --buildFuture -D --renderToMemory --gc --panicOnWarning && rm -rf public && hugo --gc --minify --panicOnWarning",
+    "command": "{ [ \"$(git rev-parse --is-shallow-repository)\" = false ] || git fetch --unshallow --quiet; } && git config core.quotepath false && hugo --buildFuture -D --renderToMemory --gc --panicOnWarning && rm -rf public && hugo --gc --minify --panicOnWarning",
   },
 ```
 
-It runs four steps, each gated on the one before by `&&`:
+It runs five steps, each gated on the one before by `&&`:
 
 1. **Unshallow.** Workers Builds clones with shallow history. Post dates come from git (section 3), and with one commit visible every post would carry the head commit's date. The brace group fetches full history, and a failed fetch fails the build.
-2. **Validate.** `--buildFuture -D` brings future-dated posts and drafts into the build, and `--renderToMemory` writes nothing. A queued post that breaks a template fails the PR that delivers it, not the cron build on its release day.
-3. **Clean.** Hugo never deletes stale files from `public/`, so the directory is removed.
-4. **Build.** The live page set is rendered, minified, into `public/`.
+2. **Unquote paths.** Hugo matches each post to its git date by the path `git log` prints. Under git's default `core.quotepath`, a path with a non-ASCII character prints quoted and octal-escaped, so that post would get no git date. Hugo passes git only an allowlisted environment, so the setting goes in the clone's config.
+3. **Validate.** `--buildFuture -D` brings future-dated posts and drafts into the build, and `--renderToMemory` writes nothing. A queued post that breaks a template fails the PR that delivers it, not the cron build on its release day.
+4. **Clean.** Hugo never deletes stale files from `public/`, so the directory is removed.
+5. **Build.** The live page set is rendered, minified, into `public/`.
 
 Both Hugo passes use `--panicOnWarning`, which turns any warning into a failure. The two passes differ by exactly the queued posts. This transcript is from a run on 2026-10-13, filtered to the summary rows:
 
