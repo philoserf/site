@@ -2,7 +2,7 @@
 title: Books I may read
 eyebrow: "What I may read"
 description: "Fiction, nonfiction, and series I may read, plus themed reading paths."
-lastmod: 2026-09-25
+lastmod: 2026-10-23
 showUpdated: true
 aliases:
   - /posts/books-i-may-read/
@@ -13,6 +13,7 @@ aliases:
 - _The Creative Habit_ by Twyla Tharp (2003)
 - _The Creative Act_ by Rick Rubin (2023)
 - _Apple: The First 50 Years_ by David Pogue (2026)
+- _Protocols_ by Andrew Huberman (2026)
 
 ## Recently Added
 
