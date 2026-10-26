@@ -4,7 +4,7 @@
       "Bash(obsidian vault=notes open *)",
       "Bash(task check)",
       "Bash(pdftotext *)",
-      "Bash(prettier *)"
+      "Bash(bun fmt *)"
     ]
   }
 }

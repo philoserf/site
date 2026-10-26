@@ -78,9 +78,9 @@ tasks:
     silent: true
 
   format:
-    desc: Format code using Prettier (excluding Hugo templates)
+    desc: Format code with bun fmt (excluding Hugo templates)
     cmds:
-      - prettier --write .
+      - bun fmt .
 
   optimize-images:
     desc: Optimize PNG and JPEG images in static/
