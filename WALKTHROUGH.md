@@ -142,10 +142,9 @@ taxonomies: {} # intentionally empty to disable tags and categories
   home:
     headline: "Uncompressed public thinking"
     startHereIntro: "Essays that say what the rest is trying to do."
-    featured:
-      - pageRef: /posts/agency-without-a-self-or-free-will
-      - pageRef: /posts/moral-circles-contract-under-scarcity-and-threat
 ```
+
+Below those, `featured` and `startHere` list posts by `pageRef`. Their entries change, so they are not quoted here.
 
 `menus.main` defines the four navigation links: About, Now, Uses, Posts. Each carries a `params.description`, and Posts also carries `llmsSection: writing`, which `llms.txt` reads (section 8). The last three blocks register extra home-page outputs:
 
@@ -219,6 +218,7 @@ Every HTML page renders through `baseof.html`. Templates fill its `head`, `main-
 
   {{ $description := partial "description.html" . }}
   {{ $ogImage := "og-image.png" | absURL }}
+  {{ $isPost := and .IsPage (eq .Section "posts") }}
   <meta name="description" content="{{ $description }}">
   <meta name="author" content="{{ .Site.Params.author }}">
 ```
