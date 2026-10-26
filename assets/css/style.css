@@ -693,7 +693,8 @@ footer a:hover {
 
 .archive > h1 {
   margin: 0;
-  font-size: clamp(2.125rem, 1.6rem + 1.6vw, 2.75rem); /* 34 → 44, matches .article-head h1 */
+  /* 34 → 44, matches .article-head h1 */
+  font-size: clamp(2.125rem, 1.6rem + 1.6vw, 2.75rem);
   font-weight: 600;
   letter-spacing: -0.015em;
   line-height: 1.15;

@@ -1,6 +1,6 @@
 brew "hugo"
 brew "go-task"
-brew "prettier"
+brew "bun"
 brew "gh"
 brew "imagemagick"
 brew "pngquant"
