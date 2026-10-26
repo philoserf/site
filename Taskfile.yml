@@ -12,7 +12,10 @@ tasks:
 
   setup:
     desc: Install required tools with Homebrew
-    sources: [Brewfile]
+    # Up to date only when every Brewfile entry is installed; a checksum of the
+    # Brewfile would miss tools removed from the machine.
+    status:
+      - brew bundle check --file=Brewfile --no-upgrade
     cmds:
       - brew bundle
     platforms: [darwin]
