@@ -20,7 +20,7 @@ Base URL: {{ .Site.BaseURL }}
 - [{{ .Name }}]({{ .URL | absURL }}): {{ .Params.description }}
 {{- end }}
 {{- end }}
-{{- range first 20 (where .Site.RegularPages "Section" "posts") }}
+{{- range where .Site.RegularPages "Section" "posts" }}
 - [{{ .Title }}]({{ .Permalink }}){{ with .Date }} — {{ .Format "2006-01-02" }}{{ end }}
 {{- end }}
 

@@ -69,7 +69,7 @@
   </header>
   <main id="main" class="{{ block "main-class" . }}prose{{ end }}">{{ block "main" . }}{{ end }}</main>
   <footer>
-    <p>&copy; {{ with .Site.Params.since }}{{ . }}&ndash;{{ end }}{{ now.Format "2006" }} {{ .Site.Params.author }} &middot; <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">CC BY-NC-SA 4.0</a>{{ with .Site.Home.OutputFormats.Get "RSS" }} &middot; <a href="{{ .Permalink }}">RSS</a>{{ end }}</p>
+    <p>&copy; {{ with .Site.Params.since }}{{ . }}&ndash;{{ end }}{{ now.Format "2006" }} {{ .Site.Params.author }} &middot; <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">CC BY-NC-SA 4.0</a>{{ with .Site.Home.OutputFormats.Get "RSS" }} &middot; <a href="{{ .Permalink }}">RSS</a>{{ end }}{{ with .Site.Home.OutputFormats.Get "llms" }} &middot; <a href="{{ .Permalink }}">llms.txt</a>{{ end }}</p>
   </footer>
 </body>
 </html>
