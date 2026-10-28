@@ -16,7 +16,7 @@ The claim tries to collapse three levels of reality into a single explanatory pr
 
 Read charitably, the claim holds this much: across all three domains, stable configurations tend to involve balanced exchange of some kind—energy, information, fitness costs and benefits, social obligation. Instability, in physics and ecology and human systems alike, often traces to uncompensated asymmetry that eventually demands resolution. That pattern is real. But "secret" implies a hidden depth where there is only emergence, and "mirrored" implies a symmetry more precise than any of the three domains exhibits.
 
-## Sources
+Sources:
 
 - Alvin W. Gouldner, [_The Norm of Reciprocity: A Preliminary Statement_](https://doi.org/10.2307/2092623) (American Sociological Review, 1960)
 - Robert L. Trivers, [_The Evolution of Reciprocal Altruism_](https://doi.org/10.1086/406755) (Quarterly Review of Biology, 1971)

@@ -16,7 +16,7 @@ There is evidence for decline, though it does not establish an inevitable end. V
 
 Western liberal democracy faces a serious decline, with the United States now a central example, but calling it unrecoverable would confuse a danger with a destiny. The decisive question is whether enough citizens and officeholders will defend the rules that constrain their own side while those rules still cost them something. Once restraint is expected only of opponents, even an electoral victory for democracy's defenders may reproduce the habit that is destroying it.
 
-## Sources
+Sources:
 
 - V-Dem Institute, [_Democracy Report 2026: Unraveling the Democratic Era?_](https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf) (University of Gothenburg, 2026)
 - Freedom House, [_Freedom in the World 2026: The Growing Shadow of Autocracy_](https://freedomhouse.org/report/freedom-world/2026/growing-shadow-autocracy) (2026)

@@ -20,7 +20,7 @@ The phrase moves responsibility from the person to the structure. A scam needs a
 
 My position is that the phrase is almost always a confession dressed as a defense. People who work in fair markets don't need to say it. It turns up exactly when someone has been shown the gap between what they charge and what they deliver and has chosen to defend the gap rather than close it. It is reliably the last thing said before someone decides not to change anything.
 
-## Sources
+Sources:
 
 - [Burnett v. National Association of Realtors](https://en.wikipedia.org/wiki/Burnett_v._National_Association_of_Realtors)—Wikipedia
 - [NAR settles commission lawsuits for $418 million](https://www.housingwire.com/articles/nar-settles-commission-lawsuits-for-418-million/)—HousingWire

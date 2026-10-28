@@ -14,7 +14,7 @@ Conceding the hybrids does not rescue the comforting reading the chiasm invites,
 
 The conjunction is worse than either clause taken alone, because the work markets refuse and the work government bungles are the same work, and the sentence's elegant balance disguises that compounding as a wash. It holds wherever provision is left to default—where the state is handed the market's leavings and told to cope. It breaks only where someone designs the handoff deliberately, paying the market to do the delivery the state performs poorly and using the state to buy the goods the market will not supply, so that each institution faces the half of the problem it can solve. Absent that design, the chiasm's counsel of humility becomes a description of how necessary things get done badly or not at all, and the symmetry that makes it quotable is the part to distrust most.
 
-## Sources
+Sources:
 
 - James M. Buchanan and Gordon Tullock, _The Calculus of Consent_ (University of Michigan Press, 1962)
 - Jeffrey L. Pressman and Aaron Wildavsky, _Implementation_ (University of California Press, 1973)

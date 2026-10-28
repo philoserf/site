@@ -14,7 +14,7 @@ In public speech the contract works as a placeholder for expectations of fairnes
 
 That is the cost of the metaphor. It supplies a single satisfying object to mourn and hides the several unglamorous things that would have to be rebuilt. Whatever holds a society together was never the agreement. It was the habits underneath it, which no one signed either, and which are easier to lose.
 
-## Sources
+Sources:
 
 - David Hume, [_Of the Original Contract_](https://davidhume.org/texts/empl2/oc) (1748)
 - Thomas Hobbes, [_Leviathan_](https://www.gutenberg.org/ebooks/3207) (1651)

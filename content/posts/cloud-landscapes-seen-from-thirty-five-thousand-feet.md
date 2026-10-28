@@ -8,7 +8,7 @@ by Mark Ayers, 2018
 
 The clouds forge phantom landscapes  
 As mind's eye strives to match them  
-To the hidden earth below—
+To the hidden earth below—  
 Each peak and valley traced  
 In vaporous invention
 
@@ -29,7 +29,7 @@ And nothing is quite what it seems
 In this realm of shifting shapes
 
 Through breaks in cloud,  
-Brief glimpses ground us—
+Brief glimpses ground us—  
 Then close again, leaving us  
 To navigate by imagination's  
 Uncertain compass, suspended  

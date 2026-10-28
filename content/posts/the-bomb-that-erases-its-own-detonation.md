@@ -18,6 +18,6 @@ A formal quality worth noticing: the passage is structured as a sequence of conf
 
 What the passage asks is whether there exists any form of knowledge robust enough to survive its own consequences. Can we build a kind of understanding that the bomb cannot flatten? The honest answer, given the evidence of history, is uncertain at best. But the passage itself—the act of describing the cycle—is a small wager that naming the pattern might be the one thing the pattern cannot erase. Writing it down is an attempt to build something the next detonation cannot reach. Whether that wager pays off is, of course, exactly the kind of thing we would have no way of knowing.
 
----
+Sources:
 
-Tribute to _There is No Antimemetics Division_ by Qntm (2025)
+- qntm, _There Is No Antimemetics Division_ (2025)

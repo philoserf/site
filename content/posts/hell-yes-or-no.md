@@ -4,7 +4,7 @@ description: Derek Sivers' heuristic treats qualified or hesitant responses as a
 date: 2025-12-29
 ---
 
-A decision-making heuristic popularized by [Derek Sivers](https://sive.rs/hellyeah): tepid enthusiasm indicates misalignment, not compromise.
+A decision-making heuristic popularized by Derek Sivers: tepid enthusiasm indicates misalignment, not compromise.
 
 The framework eliminates middle ground: no "maybe" or "I should." When an opportunity draws a qualified response ("sounds interesting, but…" or "I guess I could…"), the hesitation is a preference you haven't admitted to yourself.
 
@@ -26,6 +26,6 @@ _Related: satisficing vs. maximizing (Herbert Simon), paradox of choice (Barry S
 
 ---
 
-**Sources:**
+Sources:
 
 - [No yes. Either HELL YEAH! or no. - Derek Sivers](https://sive.rs/hellyeah)

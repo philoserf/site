@@ -54,7 +54,7 @@ This piece appears on Thursday, November 12. The Moon was new early Monday morni
 
 The crescent provides neither an explanation nor a command. It sets an appointment: twenty-nine or thirty days have passed, so we go back and look again, knowing the landscape will not be what it was. The practice itself need not be elaborate. During the dark moon, we close what can be closed. When the crescent shows, we go outside and find it if the weather lets us, or note the sky if it does not, then walk ground we know—the Rogue, or another place chosen and kept—and record enough to compare when the crescent comes back. Kept long enough, the record stops being a log. Names stop being inventions and become descriptions; festivals answer events instead of dates; memories gather around years the ordinary calendar treats as interchangeable. Agricultural societies watched the Moon because they needed a calendar. Modern Rockford does not; the old necessity can become a chosen discipline. The phone can tell us to the minute when another month has begun. It cannot tell us what happened here while it passed.
 
-## Sources
+Sources:
 
 - Olga Mayoral, Jordi Solbes, José Cantó and Tatiana Pina, [_What Has Been Thought and Taught on the Lunar Influence on Plants in Agriculture? Perspective from Physics and Biology_](https://doi.org/10.3390/agronomy10070955) (Agronomy, 2020)
 - Jeevan R. Singiri et al., [_Moonlight Is Perceived as a Signal Promoting Genome Reorganization, Changes in Protein and Metabolite Profiles and Plant Growth_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10004791/) (Plants, 2023)

@@ -20,6 +20,6 @@ That is what the sentence gets right, and it is narrower than what it claims. Th
 
 Conviction cannot be rationed, and a country of people holding their beliefs loosely would not have abolished anything. The question worth asking of one's own certainty is what it would take to move it, and whether that answer has become nothing at all.
 
-## Sources
+Sources:
 
 - Karl Popper, _The Open Society and Its Enemies_ (Routledge, 1945)

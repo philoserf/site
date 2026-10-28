@@ -32,7 +32,7 @@ Nothing changes in the lab. Neuroscientists keep working in physical coordinates
 
 If a future framework reconceives the relation between physical structure and experience so that the hard problem and the combination problem stop looking like problems—the way special relativity dissolved the question of what medium light travels through—then neither materialism nor idealism will be vindicated. Both will be superseded by a view that shows the debate was badly framed. Dissolution is not closure; it admits the question was wrong, which is a different kind of resolution. And it is the only kind available for a question whose terms guarantee that no answer given within them is complete.
 
-## Sources
+Sources:
 
 - David Bourget and David J. Chalmers, "What Do Philosophers Believe?," _Philosophical Studies_ 170 (2014): 465–500
 - Bernardo Kastrup, "The Universe in Consciousness," _Journal of Consciousness Studies_ 25, nos. 5–6 (2018): 125–155

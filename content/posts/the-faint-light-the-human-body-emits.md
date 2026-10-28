@@ -18,7 +18,7 @@ The glow changes what counts as impressive. Sunlight earns its standing partly b
 
 Reading the glow well takes discipline. The temptation is to inflate the biophoton into more than it is—soul, signal, aura, evidence of subtle bodies. The honest reading holds the fact at its magnitude: weak, metabolic, probably without the informational content the physicist Fritz-Albert Popp and his followers proposed for it. Its force is that it needs no inflating. The bare fact—that a living human is a continuous, faint source of light—is enough to dislodge the assumption that our bodies are merely illuminated objects. We are not only lit but lighting. The sun pours into the morning, and we, less visibly and on another scale, pour back.
 
-## Sources
+Sources:
 
 - Michal Cifra and Pavel Pospíšil, [_Ultra-weak photon emission from biological samples: Definition, mechanisms, properties, detection and applications_](https://doi.org/10.1016/j.jphotobiol.2014.02.009) (Journal of Photochemistry and Photobiology B: Biology, 2014)
 - Michal Cifra, Christian Brouder, Michaela Nerudová and Ondřej Kučera, [_Biophotons, coherence and photocount statistics: A critical review_](https://doi.org/10.1016/j.jlumin.2015.03.020) (Journal of Luminescence, 2015)

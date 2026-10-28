@@ -16,7 +16,7 @@ Michelson had company. Livy, writing his history of Rome as Augustus took power,
 
 The feeling persists anyway, because objective frontiers were never the point. You want to be a protagonist, not an inheritor, and from inside the present you can't tell which you are. Michelson couldn't, and the evidence was his own experiment.
 
-## Sources
+Sources:
 
 - Albert A. Michelson, "Some of the Objects and Methods of Physical Science," address at the dedication of the Ryerson Physical Laboratory, _University of Chicago Quarterly Calendar_ 3, no. 2 (August 1894): 12–15
 - Livy, _History of Rome_, preface, translated by B. O. Foster (Loeb, 1919)

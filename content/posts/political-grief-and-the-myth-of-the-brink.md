@@ -4,7 +4,7 @@ description: A George Saunders line about a country "on the brink" of realizing 
 date: 2026-10-28
 ---
 
-"We've somehow managed to convert a country on the brink of actually making sense of its founding principles into an unholy mess of cruelty and self-dealing."[^1] The sentence carries a particular kind of political grief, and grief of this kind has a hidden premise worth pulling into the light.
+"We've somehow managed to convert a country on the brink of actually making sense of its founding principles into an unholy mess of cruelty and self-dealing." The sentence carries a particular kind of political grief, and grief of this kind has a hidden premise worth pulling into the light.
 
 There is a difference between mourning an achievement and mourning an expectation. If the country stood at the brink, then something real was destroyed and the right response is restoration: recover the position, punish the wreckers, resume. If the brink was a projection, an inference drawn from a few decades of visible progress by people who had reason to want the arc to be real, then nothing was taken. A forecast failed, and the right response is to revise the model of the country that produced it. Everything downstream depends on which of these you are doing, and the grief cannot afford to ask.
 
@@ -14,4 +14,6 @@ The second reading is bleaker and better supported. Imminent reckoning followed 
 
 The revised model also dissolves the sentence's weakest word. "We" did not manage this. That construction implies a collective agency American politics does not have; particular actors, factions, donors and courts did it, largely through structural advantage rather than persuasion. "Somehow" confesses that the mechanism is opaque, and it is not. It is the same mechanism each time, and a model that expects it can name it. "Unholy" is accurate to the experience. "Mess" is exculpatory, since a mess implies accident. Nothing about it was accidental or surprising. It was built, as it has been built before, by people who understood the country's rhythm better than the people grieving it.
 
-[^1]: George Saunders, interview, "[George Saunders Reveals the Short Story That Changed His Life For Good](https://www.culturedmag.com/article/2026/04/23/literature-george-saunders-vigil/)," _CULTURED_, April 23, 2026.
+Sources:
+
+- George Saunders, interview, "[George Saunders Reveals the Short Story That Changed His Life For Good](https://www.culturedmag.com/article/2026/04/23/literature-george-saunders-vigil/)," _CULTURED_, April 23, 2026.

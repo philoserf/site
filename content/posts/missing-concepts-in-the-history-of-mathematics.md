@@ -14,7 +14,7 @@ The shift happens when someone reframes the problem. Mathematicians stopped aski
 
 Integration, once it comes, is total. The new primitive becomes so embedded that students cannot imagine mathematics without it. We lose access to the old way of seeing, which is why we struggle to identify our current blind spots—we cannot think our way back to the confusion that would reveal them.
 
-## Sources
+Sources:
 
 - J J O'Connor and E F Robertson, [_A history of Zero_](https://mathshistory.st-andrews.ac.uk/HistTopics/Zero/) (MacTutor History of Mathematics, 2000)
 - J J O'Connor and E F Robertson, [_Brahmagupta_](https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/) (MacTutor History of Mathematics)

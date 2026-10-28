@@ -22,7 +22,7 @@ Democratic equality assumes political voice is distributed on different terms th
 
 Whether the Court got the doctrine wrong or merely incomplete is a smaller question than it looks. The elision that matters is the assumption, shared by the justices and most of their critics, that political influence works by convincing people, when the most durable kind works by settling, in advance and out of view, what there is to be convinced about.
 
-## Sources
+Sources:
 
 - [_Buckley v. Valeo_](https://supreme.justia.com/cases/federal/us/424/1/), 424 U.S. 1 (1976)
 - [_Citizens United v. Federal Election Commission_](https://supreme.justia.com/cases/federal/us/558/310/), 558 U.S. 310 (2010)

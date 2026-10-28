@@ -26,7 +26,7 @@ The statement is a faithful picture of the beginning of moral life and a false p
 
 The one thing the statement gets more right than its Pauline ancestor is its refusal to disown the evil. Separating the self from its impulses has a real use—a person who can imagine violence need not identify as violent—but Paul's "it is no longer I who do it" converts indwelling sin into a tenant for whom the landlord bears no responsibility, and that move has licensed a long history of self-exculpation. By calling evil embedded and keeping it inside the creature's own definition, the statement denies that exit. The same logic, applied honestly, should have forced the good inside as well, because what one is answerable for cannot be limited to what one resists; it must include what one has become.
 
-## Sources
+Sources:
 
 - _The Shepherd of Hermas_, Mandate 6 (c. 140)
 - Paul, _Letter to the Romans_, chapter 7 (c. 57)

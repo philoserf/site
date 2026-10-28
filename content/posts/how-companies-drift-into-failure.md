@@ -20,7 +20,7 @@ The strongest reading treats the aphorism as a description of organizational epi
 
 Read that way, the aphorism reaches beyond business. Families, governments, universities, and nonprofits all depend on their capacity to replace reassuring narratives with accurate ones before circumstances force the issue. The danger is not occasional optimism; it is the slow trade of external correspondence for internal coherence. Institutions remain viable only while they permit reality to revise their self-understanding faster than habit can defend it. Failure begins when preserving confidence matters more than preserving contact with the world. The balance sheet turns red much later.
 
-## Sources
+Sources:
 
 - Sidney Dekker, _Drift into Failure_ (Ashgate, 2011)
 - Diane Vaughan, _The Challenger Launch Decision_ (University of Chicago Press, 1996)

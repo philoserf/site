@@ -18,7 +18,7 @@ One objection survives, and it is serious. Constitutional limits can be amended,
 
 The tension is real and the incompatibility is manufactured. The manufactured version is worth attending to because of its function: it is the argument reached for by people who have concluded that fewer decisions should be subject to a vote, and it lets them present that preference as a finding. The definitions are where the case is made. Anyone who accepts them has already agreed to the conclusion, and anyone who wants to contest it should start there rather than in the historical examples, which both sides can supply in quantity.
 
-## Sources
+Sources:
 
 - Peter Thiel, [_The Education of a Libertarian_](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/) (Cato Unbound, 2009)
 - Alexis de Tocqueville, [_Democracy in America_](https://www.gutenberg.org/ebooks/815), vol. 1 (1835)

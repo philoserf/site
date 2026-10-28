@@ -20,7 +20,7 @@ Denying consciousness as such risks eliminating what we are trying to explain. I
 
 The proposition is right to reject reifying consciousness, but incomplete. Consciousness is activity, stance, openness toward something—never a substance. Speaking of "consciousness itself" misleads. Yet the capacity behind being-conscious-of cannot be dismissed. Consciousness may not be a thing, but neither is it exhausted by its objects.
 
-Links:
+Sources:
 
 - [Consciousness and Intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/)—Stanford Encyclopedia of Philosophy
 - [Facing Up to the Problem of Consciousness](https://consc.net/papers/facing.pdf)—David Chalmers (1995)
