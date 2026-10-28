@@ -10,7 +10,7 @@ This matches Arendt's "banality of evil"—ordinary rationality enabling atrocit
 
 Sound reasoning doesn't guarantee sound ethics. Sanity provides tools—self-control, planning, social understanding—that serve whatever values direct them. The devious sane person has the full instrument intact and aimed at corrupt purpose.
 
-Sources:
+## Sources
 
 - Walter M. Miller Jr., _A Canticle for Leibowitz_, 1959
 - Hannah Arendt, _Eichmann in Jerusalem: A Report on the Banality of Evil_, 1963

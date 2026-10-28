@@ -21,6 +21,6 @@ One can be reasoned with. The other cannot.
 
 ---
 
-**Sources:**
+## Sources
 
 - G.K. Chesterton, _The Thing: Why I am a Catholic_ (1929), Chapter 4: "The Drift from Domesticity"

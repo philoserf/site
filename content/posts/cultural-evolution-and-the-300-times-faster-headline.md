@@ -24,7 +24,7 @@ Hold the estimate loosely. It is one model, in one paper, by one author, and it 
 
 What does not move is the direction. For most animals adaptation waits on who breeds. For humans it waits on who watches, listens, and remembers. Agriculture, writing, and machine learning run on the same mechanism, at speeds no genome can match, because knowledge outlives the people who find it.
 
-Sources:
+## Sources
 
 - Scientific American, "Humans Conquered the Planet 300 Times Faster Than Genetic Evolution Can Explain," March 2026
 - Charles Perreault, "Cultural evolution accelerated human range expansion by more than two orders of magnitude," PNAS 123(11), e2523038123, March 17, 2026

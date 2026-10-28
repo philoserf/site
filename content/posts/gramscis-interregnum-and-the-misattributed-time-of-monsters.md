@@ -22,6 +22,6 @@ The same shape governs the liminal passages of a single life, well below the sca
 
 What the statement withholds, in every register, is consolation about duration. It marks the present as a time of monsters without promising the new world will be born at all, or born well. This is the part most often dropped when the line is quoted approvingly, as though the monsters were a thrilling weather system to be admired while waiting for it to pass. The more demanding reading treats them as work: if they are portents, they are warnings about what the unborn world will become unless someone does the unglamorous labor of midwifing a better one. The danger of an interregnum is not the monsters themselves but the temptation to find them so vivid, so confirming of one's sense of living in significant times, that one forgets they are signs of a birth someone has to bring about. The hardest discipline is not seeing that the ground has shifted; it is refusing to use that sight in the service of standing where you used to stand. Advantage in an interregnum belongs not to those who see first but to those who, having seen, consent to move.
 
-Sources:
+## Sources
 
 - [‘The time of monsters’: everyone is quoting Gramsci – but what did he actually say?](https://www.inkl.com/news/the-time-of-monsters-everyone-is-quoting-gramsci-but-what-did-he-actually-say)

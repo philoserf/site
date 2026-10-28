@@ -4,7 +4,7 @@ description: AI works within set constraints and fails transparently, while huma
 date: 2026-01-30
 ---
 
-AI serves your intent. Humans protect their own. That distinction matters more than most arguments about capability.  
+AI serves your intent. Humans protect their own. That distinction matters more than most arguments about capability.
 You set constraints for an AI; it works inside them. Its behavior varies, but predictably. Humans resist constraints, reinterpret goals, inject ego, and play status games. You issue commands to an AI. You negotiate with people.
 
 An AI does not tire or sulk. You can drive it hard without bargaining over process or managing feelings. A human collaborator often pushes back against the work itself—adding abstraction to justify presence, turning a simple task into a territory dispute. That friction is not accidental. It comes from the fact that a person's relationship to work is never only about the work.

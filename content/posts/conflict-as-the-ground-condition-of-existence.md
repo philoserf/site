@@ -20,7 +20,7 @@ The "richness of varieties of experience" emerges only when opposing forces keep
 
 Marion Milner first explored this in _On Not Being Able to Paint_. The principles go beyond art into how we live in a world that won't simplify.
 
-Sources:
+## Sources
 
 - John Keats, letter to George and Thomas Keats, 21 December 1817, in _The Letters of John Keats, 1814–1821_, ed. Hyder E. Rollins (Harvard University Press, 1958)
 - Ilya Prigogine and Isabelle Stengers, _Order Out of Chaos: Man's New Dialogue with Nature_ (1984)

@@ -20,7 +20,7 @@ The song appeared on Metheny's _The Falcon and the Snowman_ soundtrack album and
 
 As a model for collaboration, the track still holds up. The political themes land now as sharply as they did in 1985; questions about American identity and credibility have not gone away. Genre boundaries keep blurring, and artists keep reaching across them, yet few partnerships achieve what this one did: three distinct voices producing a unified sound without anyone disappearing into the mix.
 
-Sources:
+## Sources
 
 - [Official Charts: "This Is Not America"](https://www.officialcharts.com/songs/david-bowie-and-the-pat-metheny-group-this-is-not-america/)
 - [American Songwriter: The Story Behind "This Is Not America"](https://americansongwriter.com/the-story-behind-this-is-not-america-the-surprising-1985-david-bowie-pat-metheny-group-collaboration/)

@@ -22,7 +22,7 @@ A second nervous system mixes reflex and deliberation. Autocomplete and suggesti
 
 Writing turns into editing what the machine drafts. Learning moves from memorization to shaping models with constraints and feedback. Expertise shows up as sharper questions, tighter bounds, faster rejection of bad output. Information and speed stop being scarce. Judgment becomes the bottleneck.
 
-Sources:
+## Sources
 
 - Douglas Engelbart, _Augmenting Human Intellect_ (1962)
 - Vannevar Bush, _As We May Think_ (1945)

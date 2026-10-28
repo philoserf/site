@@ -32,7 +32,7 @@ How do you protect a term from diffusion? The strongest defense is what Haslam i
 
 But vigilance is exhausting. It requires constant correction. And it's unpopular—people resent being told they're using a word wrong. Eventually the community decides it's easier to just let the term diffuse. And so the terms die, one loosening at a time.
 
-Sources:
+## Sources
 
 - <https://martinfowler.com/bliki/SemanticDiffusion.html>
 - <https://x.com/karpathy/status/1886192184808149383>

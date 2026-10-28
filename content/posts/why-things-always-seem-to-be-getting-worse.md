@@ -16,7 +16,7 @@ Knowing the bias doesn't kill it. When something feels like decline, I ask: comp
 
 The most dangerous version: believing decline narratives about my own capabilities as I age, turning a bias into a self-fulfilling prophecy.
 
-Sources:
+## Sources
 
 - Hans Rosling, _Factfulness: Ten Reasons We're Wrong About the World—and Why Things Are Better Than You Think_ (2018)
 - Steven Pinker, _Enlightenment Now: The Case for Reason, Science, Humanism, and Progress_ (2018)

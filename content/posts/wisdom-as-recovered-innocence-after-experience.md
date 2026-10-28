@@ -18,7 +18,7 @@ Neuroscience confirms this. Beginners process with conscious effort. Experts bec
 
 You cannot skip to the far end. Innocence preserved through avoidance—a refusal to enter experience—lacks wisdom's discrimination. Only those who have lived inside conceptual frameworks can see beyond them while still using them to navigate.
 
-Sources:
+## Sources
 
 - Edmund Husserl, _Ideas Pertaining to a Pure Phenomenology_ (1913)
 - Hubert Dreyfus and Stuart Dreyfus, _Mind Over Machine_ (1986)

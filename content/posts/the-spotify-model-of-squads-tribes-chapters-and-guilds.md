@@ -13,7 +13,7 @@ The model centered on autonomy balanced by alignment. Squads owned a product are
 
 I admired what these papers described, and an employer of mine emulated parts of it during the most productive stretch of my career. The autonomy was real enough to matter, the alignment loose enough to trust, and that experience remains the high-water mark for what an engineering organization can be.
 
-Sources:
+## Sources
 
 - [Spotify Engineering Culture — Part 1](https://engineering.atspotify.com/2014/03/spotify-engineering-culture-part-1/) (March 2014)
 - [Spotify Engineering Culture — Part 1 (video)](https://youtu.be/Yvfz4HGtoPc)

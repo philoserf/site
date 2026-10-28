@@ -14,7 +14,7 @@ Larkin can deliver cosmic bleakness in twelve lines because his voice already is
 
 You can't port the "dopamine" poem into successful verse without establishing who speaks and why we should listen. The fragmented lines and symbols try to generate authority through typography. But voice comes from location, history, presence—the thing itself, not the formatting of the announcement.
 
-Sources:
+## Sources
 
 - Philip Larkin, _High Windows_ (1974)
 - Robert Frost, _North of Boston_ (1914)

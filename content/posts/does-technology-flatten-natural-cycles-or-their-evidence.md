@@ -16,7 +16,7 @@ The same technologies render most natural cycles visible at all. Milankovitch's 
 
 What survives the criticism is narrower and more honest than the original reach: that comfort has a cost in attention, that a life sealed against weather and season loses orientation, and that the smoothing of a landscape's self-recording can destroy information and resilience we did not know we were keeping. What does not survive is the implied verdict that the unflattened condition was the better one. The attunement being mourned was rarely chosen; it was compelled by danger, and the people who lived inside the cycles spent most of their ingenuity trying to flatten them.
 
-Sources:
+## Sources
 
 - [The Nile River and Aswan Dam](https://serc.carleton.edu/integrate/teaching_materials/water_science_society/student_materials/887)
 - [Explainer: What the new IPCC report says about extreme weather and climate change](https://www.carbonbrief.org/explainer-what-the-new-ipcc-report-says-about-extreme-weather-and-climate-change)

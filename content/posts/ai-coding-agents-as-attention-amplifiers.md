@@ -18,4 +18,6 @@ Borrowing a clinical term to describe what is really a report of how the work no
 
 The tool didn't take that discipline from you. It just stopped requiring it—which means, for the first time, you have to supply it yourself.
 
-Source: David Wilson, "The solution might be cancelling my AI subscription," thoughts.hmmz.org, May 31, 2026 (also linked the same day by Simon Willison on simonwillison.net).
+## Sources
+
+- David Wilson, "The solution might be cancelling my AI subscription," thoughts.hmmz.org, May 31, 2026 (also linked the same day by Simon Willison on simonwillison.net).
