@@ -14,11 +14,12 @@ The "far end of experience" matters. Recovered innocence differs from innocence 
 
 Language pulls against perception. Vision precedes and exceeds words. Words categorize, and so distort. Yet putting perception into language tests it against structure, opens private insight to collective refinement, connects what I see to what we can share. The gap never closes. The attempt still matters.
 
-Neuroscience confirms this. Beginners process with conscious effort. Experts become automatic and lose awareness of how they do it. Masters regain awareness while keeping expert performance—Dreyfus's fifth stage. The pianist who recovers feeling in a familiar piece, the physicist who rediscovers wonder in equations: expertise reconnecting with the immediate rather than vanishing into abstraction.
+The Dreyfus model of skill acquisition comes close. Beginners work by conscious rule; experts act intuitively and lose sight of how. Wisdom would be a stage past that, where awareness returns while the expert performance stays. The pianist who recovers feeling in a familiar piece, the physicist who rediscovers wonder in equations: expertise reconnecting with the immediate rather than vanishing into abstraction.
 
 You cannot skip to the far end. Innocence preserved through avoidance—a refusal to enter experience—lacks wisdom's discrimination. Only those who have lived inside conceptual frameworks can see beyond them while still using them to navigate.
 
 Sources:
 
+- David Bentley Hart, _The Experience of God: Being, Consciousness, Bliss_ (Yale University Press, 2013)
 - Edmund Husserl, _Ideas Pertaining to a Pure Phenomenology_ (1913)
 - Hubert Dreyfus and Stuart Dreyfus, _Mind Over Machine_ (1986)

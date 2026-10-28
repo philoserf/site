@@ -4,9 +4,7 @@ description: "Mastery breeds unawareness: frequent activities like breathing, ro
 date: 2026-02-27
 ---
 
-> We know the least about that which we do the most.
-
-This is the automation paradox: mastery breeds unawareness. The activities that consume most of our time—breathing, walking, thinking patterns, daily routines—run below conscious notice because they are so ingrained.
+We know the least about that which we do the most. This is the automation paradox: mastery breeds unawareness. The activities that consume most of our time—breathing, walking, thinking patterns, daily routines—run below conscious notice because they are so ingrained.
 
 That unawareness creates blind spots. We study weekend hobbies more than weekday workflows, weigh vacation meals more than breakfast habits, debug stray code more than daily assumptions.
 

@@ -4,7 +4,7 @@ description: A George Saunders line about a country "on the brink" of realizing 
 date: 2026-10-28
 ---
 
-"We've somehow managed to convert a country on the brink of actually making sense of its founding principles into an unholy mess of cruelty and self-dealing." The sentence carries a particular kind of political grief, and grief of this kind has a hidden premise worth pulling into the light.
+George Saunders said in an April 2026 interview: "We've somehow managed to convert a country on the brink of actually making sense of its founding principles into an unholy mess of cruelty and self-dealing." The sentence carries a particular kind of political grief, and grief of this kind has a hidden premise worth pulling into the light.
 
 There is a difference between mourning an achievement and mourning an expectation. If the country stood at the brink, then something real was destroyed and the right response is restoration: recover the position, punish the wreckers, resume. If the brink was a projection, an inference drawn from a few decades of visible progress by people who had reason to want the arc to be real, then nothing was taken. A forecast failed, and the right response is to revise the model of the country that produced it. Everything downstream depends on which of these you are doing, and the grief cannot afford to ask.
 

@@ -4,9 +4,7 @@ description: Argument that consciousness is always consciousness of something, d
 date: 2026-03-04
 ---
 
-> There is no consciousness; there is only being conscious of something.
-
-Consciousness is not a thing but an activity—directed awareness. It never appears alone. It is always consciousness _of_ something: an object, a sensation, a situation.
+There is no consciousness; there is only being conscious of something. Consciousness is not a thing but an activity—directed awareness. It never appears alone. It is always consciousness _of_ something: an object, a sensation, a situation.
 
 Phenomenology supports this. Since Husserl, consciousness has been understood as intentional: always directed toward something. Try to isolate "pure consciousness" and you find only minimal content—breath, darkness, silence, the sense of effort. Consciousness has no existence apart from what it's directed at. Treating it as a thing is a category error. Language confirms this: we are conscious of pain, of a sound, of an idea, but never of "consciousness itself" except in retrospect.
 

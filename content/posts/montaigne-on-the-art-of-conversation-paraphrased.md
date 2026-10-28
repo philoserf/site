@@ -4,7 +4,7 @@ description: "Modernized paraphrase of Montaigne's essay on conversation as the 
 date: 2026-02-12
 ---
 
-A faithful paraphrase of Montaigne's "Of the Art of Conference" (Book III, Chapter VIII), tightened and modernized for a mid-21st-century reader.
+A faithful paraphrase of Montaigne's "Of the Art of Conference" (Book III, Chapter VIII), tightened and modernized for a 21st-century reader.
 
 ---
 
