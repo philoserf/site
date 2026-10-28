@@ -16,6 +16,6 @@ The word "better" is where the smuggling happens. Calling slow destruction "bett
 
 Everything here depends on market power. Rent extraction requires a moat, because in a contested market a team that spends down its brand is overtaken by a rival that invests in one, and the slow-destruction strategy becomes slow suicide. Where the aphorism describes reality, it does so because competitive pressure has failed—concentration, network lock-in, switching costs, and regulatory capture have removed the discipline that would punish the harvester. The failure compounds in the market for corporate control. Once a moat makes the harvest safe, a buyer who plans to harvest can always outbid one who plans to steward, because extraction pays sooner; over enough sales, the brand ends up in harvesting hands. The statement reads as a thesis about executives, but the market they operate in sets its truth-conditions. How well it fits any given firm is a reading on how thoroughly that sector has neutralized competition. Where the aphorism sounds truest, something upstream of the boardroom has already gone wrong.
 
-## Sources
+Sources:
 
 - Cory Doctorow, _Enshittification_ (MCD, 2025)

@@ -22,7 +22,7 @@ My position: the statement is a productive intuition. It points to two real thin
 
 The original six words still work as something other than physics. If matter is energy holding a shape, then everything we experience as solid and permanent is a pattern maintaining itself against entropy—and so are we. Most of the atoms in you a decade ago are gone, yet something persists. The shape holds. Until it doesn't, and the energy returns to less organized forms—which is as clean a description of mortality as physics can offer.
 
-## Sources
+Sources:
 
 - Particle Data Group, "Atomic and nuclear properties of the neutron" (2024): mean life 878.4 ± 0.5 s
 - Yang et al., "Proton Mass Decomposition from the QCD Energy Momentum Tensor," _Physical Review Letters_ 121, 212001 (2018)

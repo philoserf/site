@@ -20,7 +20,7 @@ That is what makes the arrangement so hard to break. It no longer needs the peop
 
 Freire's word for the way out was conscientização, the moment the oppressed see the structure as a structure. But seeing does not stop the first person to touch the wall from getting hurt. The sideways policing exists because lone resistance is punished, so what has to be built is a solidarity thick enough to absorb that punishment: some guarantee that the first person to step out of line will not stand there alone. The unit of liberation is not the person. It is the group that agrees to stop policing itself.
 
-## Sources
+Sources:
 
 - Frantz Fanon, _Black Skin, White Masks_ (Grove Press, 1967)
 - Paulo Freire, _Pedagogy of the Oppressed_ (Herder and Herder, 1970)

@@ -16,7 +16,7 @@ That source, wu wei, is not drift; it is the refusal of forced, ego-driven effor
 
 What survives the critique is narrower but truer: only dead fish lack agency. The living thing can tell a current worth riding from one worth leaving, and can make its own motion when neither is on offer. The test is whether any of the movement is authored. To a casual observer, a person holding their ground looks identical to one snagged on a rock. The difference is interior, and the aphorism, for all its rhetorical energy, cannot reach it.
 
-## Sources
+Sources:
 
 - G. K. Chesterton, _The Everlasting Man_ (Hodder & Stoughton, 1925)
 - David N. Beal, Franz S. Hover, Michael S. Triantafyllou, James C. Liao and George V. Lauder, [_Passive propulsion in vortex wakes_](https://doi.org/10.1017/S0022112005007925) (Journal of Fluid Mechanics, 2006)

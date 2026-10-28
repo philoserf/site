@@ -18,6 +18,6 @@ The test is what survives when payment stops. A cabinetmaker pursues cleaner joi
 
 The paycheck can purchase time, options and stability. It cannot purchase the discovery that one's own activity is inherently worth doing.
 
-## Sources
+Sources:
 
 - Aristotle, [_Nicomachean Ethics_](https://www.gutenberg.org/ebooks/8438) (c. 340 BC)

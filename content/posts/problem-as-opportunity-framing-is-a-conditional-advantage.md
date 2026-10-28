@@ -16,6 +16,6 @@ The strongest version of the claim survives this, and it is worth separating fro
 
 What remains is a true observation wearing the costume of a law. Disposition matters, and framing changes outcomes; the approach-orientation pays in the kind of open-ended situation our aspirational stories are built from. But the sentence earns its memorability by overclaiming: by promising a permanent advantage where it can only promise a conditional one, and by sorting people into the seeing and the blind where the real division is between those who reframe on cue and those who reframe when the situation rewards it. Its function is exhortation, not description, and as exhortation it has a specific failure mode: it arrives most persuasively at exactly the moment a person should be checking whether the door is a door, and tells them to push.
 
-## Sources
+Sources:
 
 - Richard S. Lazarus and Susan Folkman, _Stress, Appraisal, and Coping_ (Springer, 1984)

@@ -20,7 +20,7 @@ The question may dissolve, which would be more modest and more interesting than 
 
 The demand—deriving first-person facts from third-person descriptions—is inherently unsatisfiable. The best materialism can achieve is continued empirical success plus the absence of a better alternative. That is a strong practical position. It is also a permanent stalemate.
 
-## Sources
+Sources:
 
 - David J. Chalmers, [_Facing Up to the Problem of Consciousness_](https://consc.net/papers/facing.html) (Journal of Consciousness Studies, 1995)
 - Daniel C. Dennett, _Consciousness Explained_ (Little, Brown, 1991)

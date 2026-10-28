@@ -16,6 +16,6 @@ The trouble is that the metaphor cannot stay narrow. It collapses a distinction 
 
 So the advice is a half-truth, dangerous in proportion to how completely it is believed. As a personal discipline it is humane and necessary. As a theory of citizenship it is abdication dressed as serenity. The harder stance is to adapt to government as weather in the part of your life that is yours alone, and to refuse in the part you share with others, where the front moving in has an author, and authors can be made to answer. The most effective way to remove something from human control is to persuade everyone it was never under human control to begin with.
 
-## Sources
+Sources:
 
 - Epictetus, [_The Enchiridion_](https://www.gutenberg.org/ebooks/45109) (c. 125)

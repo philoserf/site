@@ -14,7 +14,7 @@ Its second weakness is what it conceals about the price of the input. Aristotle'
 
 The statement is true in its weak form and misleading in its strong one. A contemplative life needs some protected margin—nobody sustains theoria on four hours of sleep and three jobs—but the margin is smaller than the aristocratic tradition assumed, and it is necessary without being sufficient. The scarce resource was never time. It is the capacity to be claimed by something other than need or distraction, and that capacity behaves less like a possession than like a skill, which means it can be built inside constrained lives and squandered inside free ones.
 
-## Sources
+Sources:
 
 - Aristotle, [_Nicomachean Ethics_](https://www.gutenberg.org/ebooks/8438), book 10 (c. 340 BC)
 - Josef Pieper, _Leisure, the Basis of Culture_ (Pantheon, 1952)

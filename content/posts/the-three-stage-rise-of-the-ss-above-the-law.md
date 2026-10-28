@@ -14,6 +14,6 @@ Undoing the law goes past even this: it dissolves the idea that any legal order 
 
 The pattern is not peculiar to the SS or to fascism. Tolerated illegality, then claimed superiority, then the end of legal order: it recurs wherever those in power treat checks as obstacles instead of foundations. No organization undoes the law it has not first been allowed to stand outside, and none rises above the law without the consent of those still nominally administering it. Read the three stages in order and you hear three doors close. Each one had someone standing beside it.
 
-## Sources
+Sources:
 
 - Eugen Kogon, _Der SS-Staat_ (Verlag Karl Alber, 1946), in English as _The Theory and Practice of Hell_ (1950)

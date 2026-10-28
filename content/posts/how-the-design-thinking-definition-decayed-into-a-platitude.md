@@ -14,7 +14,7 @@ This drift tracks Design Thinking's history. The practice ran a full hype cycle.
 
 Fairly classified, it is the wrong kind of statement to interrogate for truth. Better to file it as a platitude, or more precisely a legitimating formula: a sentence whose present function is social rather than epistemic. It signals affiliation with a respected practice and reassures an audience; it does not transmit a testable claim or pick out a referent. That is a real and common category—plenty of once-substantive ideas end up there. The honest move is to demote the sentence accordingly: keep it, if at all, as period rhetoric, and reach for a sharper account if you want to say what Design Thinking is or whether it works. A definition that fits everything has stopped being a definition and become a mood.
 
-## Sources
+Sources:
 
 - Tim Brown, [_Design Thinking_](https://hbr.org/2008/06/design-thinking) (Harvard Business Review, 2008)
 - Natasha Jen, _Design Thinking Is Bullshit_, talk (99U Conference, 2017)

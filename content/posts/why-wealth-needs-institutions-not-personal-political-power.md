@@ -18,6 +18,6 @@ The saying also flatters the wealthy by understating what they already hold. Wea
 
 The distinction that matters is between wealth protected by institutions and wealth protected by proximity to rulers, and it is visible in what a rich person must do to sleep. Under constitutional government they can afford to be politically ordinary. Under personalist government they must join the regime, buy patrons or accept that ownership continues at someone's pleasure. The remedy is an order in which no fortune needs a senator or a militia, because the moment wealth needs power to survive, rights have already stopped being enough, and the wealthy are merely the first to find out.
 
-## Sources
+Sources:
 
 - Edwin S. Hunt, [_A New Look at the Dealings of the Bardi and Peruzzi with Edward III_](https://doi.org/10.1017/S0022050700035762) (Journal of Economic History, 1990)

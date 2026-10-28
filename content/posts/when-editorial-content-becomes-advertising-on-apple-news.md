@@ -16,7 +16,7 @@ What matters is why an article exists: who chose its subject and what incentives
 
 That is the distinction the claim exaggerates to make visible, and the one the feed erases. A reader scrolling Apple News cannot tell whether a piece was selected because somebody thought it important or because somebody discovered the topic monetizes well. The old advertisement announced that it was selling. The new one has learned to look like the reason you came.
 
-## Sources
+Sources:
 
 - Apple, [_Apple News_](https://www.apple.com/apple-news/) (Apple, accessed 2026-10-21)
 - Jack Nicas, [_Apple News's Radical Approach: Humans Over Machines_](https://www.nytimes.com/2018/10/25/technology/apple-news-humans-algorithms.html) (The New York Times, 2018)

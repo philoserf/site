@@ -26,7 +26,7 @@ The final coincidence belongs to the ball. A featherie, the stitched leather bal
 
 The one anachronism is the direction of the constraint. The featherie was short because nobody yet knew how to make it long. The Cayman ball was short because Nicklaus paid engineers to make it so, in the belief that the game's appetite for land had become its central problem. He was right about that, and 40 years early, and the market punished him for it. The ball failed, the course closed, and the land reverted to something older than either.
 
-## Sources
+Sources:
 
 - Cayman Shores Development Ltd and another v The Proprietors, Strata Plan No. 79 and others [2025] UKPC 27
 - Cayman Shores Development Ltd and Palm Sunshine Ltd v Registrar of Lands and others, FSD Cause No. 143 of 2019 (Grand Court, judgment June 9, 2021)

@@ -16,7 +16,7 @@ The test is not how competitive a proposed market will be but what the good beco
 
 This does the work that "market failure" cannot. Market failure is a diagnosis internal to the model: the price was wrong, the externality went uncounted, so fix the inputs and the market will work. That is right for groceries, freight and phones. It is wrong for a court, and applying it there produces people proposing to correct the price of justice. The problem was that a price existed at all. Where that is so, the market is not a mechanism in need of adjustment. It is the failure itself, arriving on schedule and looking like efficiency.
 
-## Sources
+Sources:
 
 - Michael Walzer, _Spheres of Justice_ (Basic Books, 1983)
 - Michael J. Sandel, _What Money Can't Buy_ (Farrar, Straus and Giroux, 2012)

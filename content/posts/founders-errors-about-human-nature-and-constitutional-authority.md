@@ -12,7 +12,7 @@ Both habitual readings of the founders miss this. The hagiographic one flattens 
 
 The consequence is about authority. If the founders were wrong about human nature, then invoking their intent as a trump card is a category error; you cannot borrow the authority of men whose premises you have just conceded were false. This cuts against original-intent jurisprudence and against a style of civic veneration. It does not cut against the public-meaning originalist, who appeals to what was ratified rather than to what Madison believed, and it does not cut against the institutions, which can be defended or attacked on their own record without reference to Jefferson on agrarian virtue or Adams on natural aristocracy. The structures outlived the anthropology that produced them. That is the strongest reason to take the structures seriously, and the only reason the anthropology still gets a hearing.
 
-## Sources
+Sources:
 
 - James Madison, [_The Federalist No. 10_](https://avalon.law.yale.edu/18th_century/fed10.asp) (1787)
 - James Madison, [_The Federalist No. 51_](https://avalon.law.yale.edu/18th_century/fed51.asp) (1788)

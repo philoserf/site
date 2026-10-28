@@ -26,7 +26,7 @@ The distinction between eventual correction and immediate response matters. Peop
 
 Evidence must interact with incentives, generational turnover, methodological reform, funding priorities, and repeated practical failures before it produces durable transformation. Exposing an entire field's weaknesses can therefore seem strangely inconsequential in the short term, because institutions have an inertia that evidence alone cannot overcome. The correction eventually comes, if it comes at all, through the slow convergence of intellectual argument and social change. Scientific knowledge advances by discovering better explanations, but scientific communities advance only when enough people find it worthwhile to abandon the old ones.
 
-## Sources
+Sources:
 
 - Open Science Collaboration, [_Estimating the Reproducibility of Psychological Science_](https://doi.org/10.1126/science.aac4716) (Science, 2015)
 - Writing Group for the Women's Health Initiative Investigators, [_Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women_](https://doi.org/10.1001/jama.288.3.321) (JAMA, 2002)
