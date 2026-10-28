@@ -8,7 +8,7 @@ Kalbeth was a war-captain for the Orbital Authority, a veteran of skirmishes aga
 
 One night on the dark sands of Titan's surface, Kalbeth and his fellow officer, Rynko, stumbled into an abandoned relay station. The machines within were not dead: a cluster of predictive AIs, relics from the Precursor Wars, flickered back to life. They spoke not as computers but as something stranger, feeding fragmented visions directly into Kalbeth's cortex.
 
-"You will be Administrator of Mars," the first said.
+"You will be Prefect of Mars," the first said.
 
 "You will control the Directorate after Mars," the second whispered.
 
