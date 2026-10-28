@@ -10,7 +10,7 @@ The restlessness spreads. Attachment wants a rhythm—you leave, you return, you
 
 The work of it is exhausting, though it rarely looks like work. Getting your bearings all the time costs something. Craft takes years. Knowing a person takes seasons. The traveler samples and moves on, and the stories pile up without compounding into anything.
 
-Some make a virtue of it and become useful precisely for belonging nowhere. Fine, if chosen. The trouble is when the motion is itself the evasion—when leaving is how you avoid the harder business of staying put long enough to be known.
+Some are pushed into it—immigrants, refugees, a family a recession moved without asking. Some make a virtue of it and become useful precisely for belonging nowhere. Fine, if chosen. The trouble is when the motion is itself the evasion—when leaving is how you avoid the harder business of staying put long enough to be known.
 
 Kierkegaard called this the aesthetic life: preserving every possibility by committing to none. It feels like freedom until you notice what you haven't built.
 

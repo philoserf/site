@@ -4,7 +4,7 @@ description: Explains two personal Latin mottos—COGITA·DISCE·NECTE·ENUNTIA 
 date: 2026-04-07
 ---
 
-**Note added 2026-09-06:** the epistemic line now reads COGITA·DISCE·NECTE·FARE—_fare_, the imperative of the deponent _fari_, "to speak", in place of _enuntia_, "declare"—and PERCIPE·STRUE·EFFICE is no longer one of my mottos. The reading below is left as it was written.
+**Note added 2026-09-06:** the epistemic line now reads COGITA·DISCE·NECTE·FARE—_fare_, the imperative of the deponent _fari_, "to speak", in place of _enuntia_, "declare"—and PERCIPE·STRUE·EFFICE is no longer one of my mottos. The reading below is left as it was written. One correction, added 2026-10-28: STRUE, read below as "connect," means "build" (from _struere_). The two mottos share no step, so the claim that connection is the hinge of both does not hold.
 
 > COGITA·DISCE·NECTE·ENUNTIA  
 > PERCIPE·STRUE·EFFICE
