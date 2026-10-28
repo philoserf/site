@@ -4,7 +4,7 @@ description: Explains why people detect problems more easily than they solve the
 date: 2026-11-13
 ---
 
-People excel at noticing when something doesn't work but struggle to prescribe fixes.
+As Neil Gaiman put it in his rules for writing, people excel at noticing when something doesn't work but struggle to prescribe fixes.
 
 Noticing what's wrong requires pattern recognition and emotional response—sensing misalignment, inconsistency, or failure to meet expectations. These are fast, intuitive processes. A reader knows when dialogue sounds false, a user knows when an interface frustrates them, a listener knows when an argument feels incomplete. The problem registers as discomfort.
 
@@ -15,3 +15,7 @@ Problems live in the experience; solutions live in the system. A problem shows y
 Treat feedback as diagnosis, not prescription. When someone says your work is wrong, investigate what they're responding to. When they tell you how to fix it, look for the need behind the suggestion. The problem they've identified is data. The solution they've proposed is a hypothesis about that need, aimed at the symptom they experienced rather than the cause you can address.
 
 Critics of a solution often correctly identify the new problems it would create, even when their counter-proposal would fare no better. This essay is not exempt. It diagnoses a gap and prescribes a posture, and a posture is what's left when you can't supply the fix. A fix would have to be specific—this system, this constraint, this reader. The signal sits with whoever felt it, the capacity to act with whoever holds the system, and they are rarely the same person. Neither becomes the other by trying harder.
+
+Sources:
+
+- Neil Gaiman, "Ten Rules for Writing Fiction," _The Guardian_, 20 February 2010
