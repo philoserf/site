@@ -1,7 +1,7 @@
 ---
-date: 2026-12-30
-description: Examines how Apple News blurs the line between journalism and advertising, arguing the key distinction is institutional intent—whether commerce is a consequence of editorial judgment or its driving purpose.
 title: When editorial content becomes advertising on Apple News
+description: Examines how Apple News blurs the line between journalism and advertising, arguing the key distinction is institutional intent—whether commerce is a consequence of editorial judgment or its driving purpose.
+date: 2026-12-30
 ---
 
 On Apple News, ninety percent of what isn't advertising is advertising. The figure is rhetorical, not statistical, but the claim names a recognizable experience: take away the labeled advertisements and much of what remains still seems built to sell, promote, convert, or cultivate a customer. Inside a news product, editorial content and commercial persuasion have blurred.
