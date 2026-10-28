@@ -6,9 +6,9 @@ date: 2026-02-09
 
 > Thought only becomes real when you put it into words others can use.
 
-The statement carries real force. Let me work through it in three moves.
+The statement carries real force. It is worth working through in three moves.
 
-Embracing it: there's a pragmatist lineage running from Peirce through Wittgenstein to Brandom. A thought locked inside a single skull has no public accountability, no way to be corrected, refined, or built upon. Putting thought into shared language submits it to the discipline of logic, evidence, and consequence. Until you articulate an idea in terms others can pick up and operate with, it remains a private impression—closer to a feeling than knowledge. Science, law, engineering, and every collaborative enterprise depend on this principle. The motto "speak" points here: the final move in any serious intellectual process is making thought available for use.
+Embracing it: there's a pragmatist lineage running from Peirce through Wittgenstein to Brandom. A thought locked inside a single skull has no public accountability, no way to be corrected, refined, or built upon. Putting thought into shared language submits it to the discipline of logic, evidence, and consequence. Until you articulate an idea in terms others can pick up and operate with, it remains a private impression—closer to a feeling than knowledge. Science, law, engineering, and every collaborative enterprise depend on this principle. The final move in any serious intellectual process is making thought available for use.
 
 Testing it: the claim gains strength when you notice how many supposedly private insights evaporate the moment someone tries to write them down. Formulation is itself thinking—it exposes contradictions, forces precision, demands structure. Vygotsky's research on inner speech supports this: even private thought is shaped by language. Mathematical proof, software architecture, strategic planning—none of these exist as finished thought until they've been put in a form others can evaluate and extend. The test case that matters most is the insight you're certain you understand until you try to explain it and discover you don't.
 

@@ -4,7 +4,7 @@ description: Free knowledge sharing across 200,000 years of oral tradition, Roma
 date: 2026-03-18
 ---
 
-For roughly 200,000 years, _Homo sapiens_ has been generating, sharing, and building upon knowledge without any concept of intellectual property. Copyright has existed for 315 years. That is 0.16% of the span of human existence.
+For roughly 200,000 years, _Homo sapiens_ has been generating, sharing, and building upon knowledge without any concept of intellectual property. Copyright has existed since 1710, a little over three centuries. That is 0.16% of the span of human existence.
 
 The baseline is a species that transmits knowledge as freely as it transmits language—because for most of history, knowledge was language, carried in the voice and in memory. Oral traditions have no concept of ownership over information. The Homeric epics circulated across the Greek-speaking world for centuries before anyone wrote them down, evolving in every retelling. Aboriginal Australian songlines encode precise navigational and ecological knowledge across tens of thousands of years—maintained not through property rights but through communal obligation. The idea that a particular arrangement of words could be owned by an individual would have been unintelligible to the vast majority of humans who have ever lived.
 
@@ -27,3 +27,9 @@ Even within the copyright era, the commons kept producing. Cuisine has never bee
 The internet did not create a new model of knowledge sharing. It restored the old one. For 200,000 years, knowledge was shared freely because transmission cost nothing. The press introduced artificial scarcity. Copyright emerged to regulate it. The internet has returned the marginal cost of reproduction to near zero. The economic conditions that justified copyright no longer obtain for digital goods. Yet copyright terms now run life plus 70 years. Scope has expanded to software, databases, architectural works. Statutory damages reach $150,000 per infringement.
 
 We are tightening the fences of enclosure precisely as the commons becomes more productive and accessible than ever. The technology says knowledge wants to be free. The law says knowledge must be owned. The law is winning, but it is winning against the grain of both history and physics.
+
+Sources:
+
+- Thomas Jefferson, letter to Isaac McPherson, 13 August 1813
+- Louis Brandeis, dissent in _International News Service v. Associated Press_, 248 U.S. 215 (1918)
+- James Boyle, "The Second Enclosure Movement and the Construction of the Public Domain," _Law and Contemporary Problems_ 66 (2003)

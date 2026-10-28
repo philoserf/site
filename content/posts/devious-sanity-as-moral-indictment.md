@@ -4,7 +4,7 @@ description: "A line from Miller's A Canticle for Leibowitz reframes sanity as i
 date: 2026-02-10
 ---
 
-"I don't think he's mad, just devious in his sanity" inverts the usual moral logic. We excuse madness—the insane lack agency, can't help themselves, deserve treatment not condemnation. But someone sane and devious chooses deliberately. Their clarity enables deception, exploitation, calculated harm. Sanity becomes the indictment.
+A line in Walter M. Miller Jr.'s _A Canticle for Leibowitz_—"I don't think he's mad, just devious in his sanity"—inverts the usual moral logic. We excuse madness—the insane lack agency, can't help themselves, deserve treatment not condemnation. But someone sane and devious chooses deliberately. Their clarity enables deception, exploitation, calculated harm. Sanity becomes the indictment.
 
 This matches Arendt's "banality of evil"—ordinary rationality enabling atrocity. Psychopathy research confirms: manipulation requires intact cognitive function. Understanding others well enough to exploit them. Maintaining false narratives. Passing sanity tests while pursuing destruction.
 

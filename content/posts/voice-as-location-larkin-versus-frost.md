@@ -12,7 +12,7 @@ Voice isn't style applied to content. It's the ground the poem stands on—who s
 
 Larkin can deliver cosmic bleakness in twelve lines because his voice already is cosmically bleak British librarian. Frost needs the snow, the neighbor, the wall, the specific failure that implies the pattern. Different epistemologies: Larkin deduces from bitter clarity; Frost induces from accumulated particulars.
 
-You can't port the "dopamine" poem into successful verse without establishing who speaks and why we should listen. The fragmented lines and symbols try to generate authority through typography. But voice comes from location, history, presence—the thing itself, not the formatting of the announcement.
+Take a fragmented poem about dopamine, all broken lines and symbols. You can't port it into successful verse without establishing who speaks and why we should listen. Its typography tries to generate authority. But voice comes from location, history, presence—the thing itself, not the formatting of the announcement.
 
 Sources:
 

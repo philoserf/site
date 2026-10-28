@@ -4,7 +4,7 @@ description: "A wealthy American's offhand doubt about future free elections, an
 date: 2026-02-25
 ---
 
-A wealthy American said recently, in an interview, "if the Dems ever have a president again or if we ever have a free election again." The remark was casual, incidental to the larger conversation.
+I recently heard a wealthy American say, in an interview, "if the Dems ever have a president again or if we ever have a free election again." The remark was casual, incidental to the larger conversation.
 
 That casualness matters. The speaker treats democratic collapse as established fact—not a threat to prevent but an existing condition. Three implications follow.
 
