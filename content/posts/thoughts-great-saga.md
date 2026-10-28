@@ -2,6 +2,7 @@
 title: Thought's great saga
 description: A 2025 poem by Mark Ayers weaving Norse mythology (Odin, Hliðskjálf, Bragi, wyrd) with reflections on memory, statistical distributions, and the fleeting value of the present moment.
 date: 2026-05-15
+eyebrow: Poem
 ---
 
 by Mark Ayers, 2025

@@ -18,6 +18,8 @@
 }}
 {{/* Structural pages have no publish date; Hugo's date falls back to lastmod */}}
 {{ if and $isPost (not .Date.IsZero) }}{{ $jsonld = merge $jsonld (dict "datePublished" (.Date.Format "2006-01-02")) }}{{ end }}
+{{/* A post's form (essay unless its eyebrow says Poem, Fiction, or Quotation) tells readers whose voice it is */}}
+{{ if $isPost }}{{ $jsonld = merge $jsonld (dict "genre" (lower (.Params.eyebrow | default "Essay"))) }}{{ end }}
 {{/* An essay committed ahead of its date has a Lastmod before its Date: not a modification */}}
 {{ if and (not .Lastmod.IsZero) (or (not $isPost) (.Lastmod.After .Date)) }}{{ $jsonld = merge $jsonld (dict "dateModified" (.Lastmod.Format "2006-01-02")) }}{{ end }}
 <script type="application/ld+json">{{ $jsonld | jsonify (dict "indent" "  ") | safeJS }}</script>
@@ -26,7 +28,7 @@
 {{ define "main" }}
   <article>
     <header class="article-head">
-      {{ if eq .Section "posts" }}<p class="eyebrow">Post</p>{{ else }}{{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}{{ end }}
+      {{ if eq .Section "posts" }}<p class="eyebrow">{{ .Params.eyebrow | default "Essay" }}</p>{{ else }}{{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}{{ end }}
       <h1>{{ .Title }}</h1>
       {{ with .Description }}<p class="deck">{{ . }}</p>{{ end }}
       {{ if eq .Section "posts" }}

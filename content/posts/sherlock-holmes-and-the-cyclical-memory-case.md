@@ -2,6 +2,7 @@
 title: Sherlock Holmes and the cyclical memory case
 description: A fictional Sherlock Holmes tale in which Professor Moriarty's station-master brother discovers his meticulous train records reveal periodic memory lapses, leading Holmes to muse on memory's orbital, illusory nature.
 date: 2026-12-16
+eyebrow: Fiction
 ---
 
 It was in the latter part of the year '87 that a most singular case came to the attention of my friend, Mr. Sherlock Holmes. The affair began on a dreary November evening as we sat before the fire at 221B Baker Street, Holmes idly examining the agony column while I dozed over a medical journal.
