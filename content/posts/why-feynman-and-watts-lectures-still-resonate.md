@@ -1,6 +1,6 @@
 ---
 title: Why Feynman and Watts lectures still resonate
-description: Feynman and Watts lectured before institutional caution, algorithmic clipping, and permanent crisis reshaped public speech, allowing uncompressed, adult, cross-disciplinary thought unfolding live rather than as artifact.
+description: Feynman and Watts lectured before institutional caution, algorithmic clipping, and a crisis that never leaves the feed reshaped public speech, allowing uncompressed, adult, cross-disciplinary thought unfolding live rather than as artifact.
 date: 2026-02-19
 ---
 
@@ -12,7 +12,7 @@ They caught the last of lecturing as a thinking practice. Speech was a live tool
 
 Feynman moved freely between physics, pedagogy, and play. Watts combined philosophy, comparative religion, performance, and mysticism. They crossed disciplines before those disciplines hardened into specialties. Crossing them now costs money and standing.
 
-They spoke before permanent crisis became the background: ecological timelines had not shortened, platforms did not yet optimize behavior continuously, strangers did not archive and misread every utterance. Without that anxiety they could afford irony, play, and not-knowing.
+They did not speak before crisis. Feynman helped build the bomb, and after the war he watched people building a bridge and thought them crazy for not understanding that it was useless. Watts lectured through the years of fallout shelters and the missile crisis. The dread was real. What they lacked was crisis as a continuous feed: platforms did not yet optimize behavior around it, and strangers did not archive and misread every utterance. The fear came and went with the news, and between broadcasts there was room for irony, play, and not-knowing.
 
 They addressed the listener as an adult. Nothing in the talks motivates, reassures, or sells a system. They trusted the audience to hold paradox and unresolved thought. They could be wrong in public. That posture performs badly in attention markets, so it is rare.
 
@@ -21,3 +21,7 @@ What you hear is uncompressed thought: ideas unfolding at human speed, arguments
 This is not nostalgia. It is capacity.
 
 What resonates is not the past. It is the sound of thinking aloud without penalty—a condition now structurally scarce.
+
+Sources:
+
+- Richard P. Feynman, _"Surely You're Joking, Mr. Feynman!"_ (W. W. Norton, 1985)
