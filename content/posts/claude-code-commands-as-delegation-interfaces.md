@@ -4,6 +4,8 @@ description: Claude Code commands act as declarations of intent that route work 
 date: 2026-01-03
 ---
 
+**Note added 2026-10-28:** Written in early 2026, when Claude Code kept commands and skills as separate layers. They have since merged.
+
 ## Commands Are Not Instructions
 
 In Claude Code, a command is not a script, macro, or thin wrapper around a tool call.
