@@ -1,7 +1,7 @@
 ---
-date: 2026-12-28
-description: Critiques the claim that people are merely "the stories others tell about us," arguing it conflates social reputation with the irreducible inner self, citing Ricoeur's narrative identity theory while rejecting its reduction to pure story.
 title: Identity is more than the stories others tell
+description: Critiques the claim that people are merely "the stories others tell about us," arguing it conflates social reputation with the irreducible inner self, citing Ricoeur's narrative identity theory while rejecting its reduction to pure story.
+date: 2026-12-28
 ---
 
 The claim that we aren't people, only "the stories others tell about us," reduces identity to its social residue. It gets one thing right and then claims too much.

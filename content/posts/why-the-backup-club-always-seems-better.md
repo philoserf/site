@@ -14,7 +14,7 @@ Driver B is more than a club. It is a possibility. It carries no recent disappoi
 
 The verdict seems obvious: Driver B was the answer all along.
 
-Then Driver B acquires a history. Missed fairways accumulate. Confidence fades. One day the golfer looks towards the garage again.
+Then Driver B acquires a history. Missed fairways accumulate. Confidence fades. One day the golfer looks toward the garage again.
 
 There sits Driver A.
 
