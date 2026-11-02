@@ -4,7 +4,7 @@ description: Freedom involves more than rejecting societal norms; it also requir
 date: 2026-10-08
 ---
 
-Freedom, on one view, is defensive: a space carved out against collective constraint, asserted by rejecting the norms of one's society.
+Freedom, in one view, is defensive: a space carved out against collective constraint, asserted by rejecting the norms of one's society.
 
 This view has obvious appeal. Individual conscience has often defied prevailing norms: abolitionists, suffragists, and civil rights activists all claimed freedom by standing against their society's accepted practices. Their rejections made room for broader liberties. The capacity to say "no" to convention looks foundational to freedom.
 
