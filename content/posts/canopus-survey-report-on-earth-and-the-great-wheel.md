@@ -1,8 +1,8 @@
 ---
 title: Canopus survey report on Earth and the Great Wheel
 description: A Canopus agent's fictional field report on Earth, describing the Great Wheel that erases humanity's collective memory in cycles, interviews with a resistant subject named Martha, temporal-attention statistics, and a recommendation to dissolve the Wheel.
-date: 2026-07-08
 eyebrow: Fiction
+date: 2026-07-08
 ---
 
 _From the Archives of Canopus: Survey Document 31572-B_  
