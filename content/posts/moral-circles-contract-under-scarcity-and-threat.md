@@ -1,6 +1,6 @@
 ---
 title: Moral circles contract under scarcity and threat
-description: Human cooperation and moral inclusivity expand during abundance and security but contract to family and local ties during crises like economic collapse, war, or pandemics. Traces this pattern from 1990s globalization through 2008, 2016, and 2020.
+description: Universal human rights and international law depend on people caring about distant others. The 1990s brought peak globalization and the "global citizen." Then came 2008, 2016, and 2020.
 date: 2026-02-06
 ---
 

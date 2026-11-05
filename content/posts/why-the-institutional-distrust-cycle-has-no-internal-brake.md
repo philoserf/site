@@ -1,6 +1,6 @@
 ---
 title: Why the institutional distrust cycle has no internal brake
-description: Leaders exploit low institutional trust by degrading agencies rather than reforming them, making the play cheaper each cycle. Real grievances lend cover, citizens lose the ability to separate warranted from manufactured distrust, and blanket cynicism becomes reversed credulity.
+description: A leader names low trust in an institution as the problem and offers himself as the remedy. The institution degrades, trust falls further, and the next leader finds the play cheaper. The grievances are often real.
 date: 2026-10-19
 ---
 

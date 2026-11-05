@@ -1,6 +1,6 @@
 ---
 title: Baseless misery in a world bursting with life
-description: Close reading of the phrase "walking around in baseless existential misery while the world bursts with life," examining objectless suffering, vitality experienced as accusation, the foreclosure of nihilistic comfort, and the past tense as retrospective recovery.
+description: Someone walks around in baseless existential misery while the world bursts with life. You might expect the vivid world to console. And who can call misery baseless from inside it?
 date: 2025-04-08
 ---
 

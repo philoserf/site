@@ -1,6 +1,6 @@
 ---
 title: Solutions move problems rather than solve them
-description: Interventions displace difficulty rather than eliminate it, illustrated by antibiotics, the Green Revolution, social media, and vaccines. Argues progress should be judged by where problems migrate and whether the new terrain is more tolerable.
+description: Antibiotics cured infections and bred resistance. The Green Revolution averted famine and depleted groundwater. Is anything ever solved?
 date: 2026-04-18
 ---
 

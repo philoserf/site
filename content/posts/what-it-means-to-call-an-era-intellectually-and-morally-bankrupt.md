@@ -1,6 +1,6 @@
 ---
 title: What it means to call an era intellectually and morally bankrupt
-description: Intellectual bankruptcy as sophistication that produces argument without rigor, and moral bankruptcy as inflated moral language emptied of reasoning. Proposes a checkable test—whether anyone changes a public position because an argument defeated it—and warns that rigor is a transmitted skill, not an instinct.
+description: Credentialed people say things everyone knows are false, knowing that everyone knows. Julien Benda leveled the charge of bankruptcy at Europe's intellectuals in 1927. Is it anything more than nostalgia?
 date: 2026-08-31
 ---
 

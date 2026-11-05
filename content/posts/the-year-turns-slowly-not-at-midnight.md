@@ -1,6 +1,6 @@
 ---
 title: The year turns slowly, not at midnight
-description: Revisits the author's own claim that the year fades from late autumn and turns only in spring, keeping solstices, equinoxes, and lunar phases while refusing the neo-pagan wheel of the year. Concedes the claim is northern and temperate and that January 1 is a social clock in its own right, and finds its best point in the winter, when the returning light and the deepening cold belong to different years.
+description: I once wrote that the old year fades in late autumn and lasts until spring, whatever January 1 says. Then who owns the weeks when the light is returning and the cold still deepening?
 date: 2026-10-01
 ---
 

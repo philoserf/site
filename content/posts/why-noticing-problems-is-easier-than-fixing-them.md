@@ -1,6 +1,6 @@
 ---
 title: Why noticing problems is easier than fixing them
-description: Explains why people detect problems more easily than they solve them, since noticing relies on intuitive pattern recognition while fixing requires understanding the system. Argues feedback should be treated as diagnosis rather than prescription, then turns the claim on the essay itself—the signal and the capacity to act rarely sit with the same person.
+description: A reader knows when dialogue rings false. Ask that reader for the fix and things go wrong. Why is the signal so good and the remedy so poor?
 date: 2026-11-13
 ---
 

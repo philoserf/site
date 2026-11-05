@@ -1,6 +1,6 @@
 ---
 title: Why wars end through reconciliation, not defeat
-description: Wars end when enemies reconcile, not when one side is defeated—Versailles against the Marshall Plan, and the same pattern in personal quarrels and truth commissions.
+description: Versailles ended World War I on paper and fed World War II. After 1945, former enemies became partners. Force can stop the fighting, so what does it leave unfinished?
 date: 2026-10-29
 ---
 

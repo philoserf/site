@@ -1,6 +1,6 @@
 ---
 title: Montaigne and the essay as attempt
-description: "Montaigne's essais as literal attempts: writing from the self as an honest instrument, digressive structure mirroring thought, \"Que sais-je?\" as method, and a trusting tone that outlasts the modern preference for essays that land cleanly."
+description: Montaigne called his writings essais, attempts, and meant it the way you try a door. Five centuries on, we still reward the essay that closes cleanly.
 date: 2026-04-29
 ---
 

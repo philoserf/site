@@ -1,6 +1,6 @@
 ---
 title: Wheels within wheels grinding eternity into moments
-description: Close reading of a cosmic-clockwork image fusing Ptolemaic celestial spheres and Ezekiel's ophanim with the Planck scale, weighing its grind-versus-song tonal shift, Boethian eternity, the quantum-gravity problem of time, and its determinism-versus-quantum incoherence.
+description: Wheels within wheels, set a Planck length apart, grinding eternity into moments. The image bolts Ezekiel and the Ptolemaic spheres to twentieth-century physics, and the spheres that once sang now grind.
 date: 2026-07-10
 ---
 

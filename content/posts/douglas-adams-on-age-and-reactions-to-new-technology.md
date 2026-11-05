@@ -1,6 +1,6 @@
 ---
 title: Douglas Adams on age and reactions to new technology
-description: "Douglas Adams quote from The Salmon of Doubt describing how age shapes attitudes toward technology: things existing at birth feel normal, inventions between fifteen and thirty-five seem exciting, and anything after thirty-five feels unnatural."
+description: "In The Salmon of Doubt, Douglas Adams sorts all of technology by one variable: how old you were when it showed up."
 eyebrow: Quotation
 date: 2026-08-14
 ---

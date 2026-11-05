@@ -1,6 +1,6 @@
 ---
 title: Why an opinion is not an idea
-description: Opinions are positions arrived at passively and asserted without visible reasoning, while ideas are constructive movements that connect or reframe things and invite testing. Conflating the two produces discourse of friction without motion and dismisses provisional thinking.
+description: Everyday speech treats an opinion and an idea as the same thing. Much of our arguing depends on not noticing the difference.
 date: 2026-12-02
 ---
 

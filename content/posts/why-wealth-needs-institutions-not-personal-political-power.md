@@ -1,6 +1,6 @@
 ---
 title: Why wealth needs institutions, not personal political power
-description: Wealth without institutional protection is vulnerable to state seizure, as medieval expulsions of Jewish financiers, Edward III's default on the Bardi and Peruzzi, and Russia after Yukos show; secure property depends on constrained government, not personal influence.
+description: It is dangerous to be rich and not powerful, the saying goes. Edward III's default helped break the Bardi and Peruzzi, yet a dentist in Denmark never has to cultivate a minister.
 date: 2026-10-16
 ---
 

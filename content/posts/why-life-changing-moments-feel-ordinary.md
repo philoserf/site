@@ -1,6 +1,6 @@
 ---
 title: Why life-changing moments feel ordinary
-description: "Reflection on a James S.A. Corey quote about life-changing moments lacking ceremony: significance is assigned retroactively, the brain has no significance detector, and the flatness of pivotal events lets us live rather than perform."
+description: The life-changing words "should echo a little," James S.A. Corey wrote. "But they didn't." Stories taught us to expect music, and a routine doctor's visit wears ordinary clothes.
 date: 2026-02-08
 ---
 

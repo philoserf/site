@@ -1,6 +1,6 @@
 ---
 title: Leverage from selling what you never owned
-description: Knowledge, trust, and attention are non-rivalrous assets that compound when shared, letting consultants and teachers profit from what they never owned. Hoarding expertise misapplies scarcity intuition; the leverage is morally neutral, hinging on whether recipients gain capability or dependency.
+description: Eddie Jordan said Bernie Ecclestone sold Formula 1 four times and never owned it in the first place. A teacher doesn't hold title to calculus either, and still gets paid.
 date: 2026-03-07
 ---
 

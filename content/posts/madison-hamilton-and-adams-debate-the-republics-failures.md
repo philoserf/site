@@ -1,6 +1,6 @@
 ---
 title: Madison, Hamilton, and Adams debate the republic's failures
-description: Fictional dialogue in which Madison blames faction's triumph on media that profit from emotional alignment, Hamilton proposes a single six-year presidential term to restore executive energy, and Adams warns that concentrated power becomes faction's final prize.
+description: "They convene without a formal call, in a room smaller than Philadelphia, with no gallery and no clerk. Madison opens with a confession: two failures he believed could not coincide in one republic now have."
 eyebrow: Fiction
 date: 2026-06-19
 ---

@@ -1,6 +1,6 @@
 ---
 title: What Antifa is and why some in power call it dangerous
-description: Antifa is described as an anti-fascist, anti-racist, pro-worker community defense organization resisting white supremacy, sexism, bigotry, and economic exploitation, contrasted with its portrayal by some in power as dangerous.
+description: Some in power see Antifa as dangerous. Here is one sentence on what it is, and one word in reply.
 date: 2026-06-06
 ---
 

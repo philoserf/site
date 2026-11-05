@@ -1,6 +1,6 @@
 ---
 title: Little Red Riding Hood retold in the style of Poe
-description: A Poe-style pastiche retelling Little Red Riding Hood in the voice of "The Tell-Tale Heart," with a nervous unreliable narrator, a pulsing crimson hood, the Wolf's knowing eyes, and a haunted aftermath.
+description: True, very dreadfully nervous, but why will you say I am mad? Little Red Riding Hood, after Poe's "The Tell-Tale Heart," sets out for Grandmother's in a hood that seems to pulse.
 eyebrow: Fiction
 date: 2026-06-15
 ---

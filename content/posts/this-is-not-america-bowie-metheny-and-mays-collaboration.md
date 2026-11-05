@@ -1,6 +1,6 @@
 ---
 title: This Is Not America Bowie, Metheny and Mays collaboration
-description: David Bowie's 1985 collaboration with Pat Metheny and Lyle Mays for The Falcon and the Snowman soundtrack, covering its UK chart peak of 14, the blend of art rock and jazz fusion, and Reagan-era lyrics of political disillusionment.
+description: In 1985 David Bowie sang on a film soundtrack with Pat Metheny and Lyle Mays, and the song reached number 14 in the UK. Neither camp has treated it as essential.
 date: 2026-02-17
 ---
 

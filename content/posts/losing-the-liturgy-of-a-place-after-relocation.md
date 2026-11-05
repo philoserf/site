@@ -1,6 +1,6 @@
 ---
 title: Losing the liturgy of a place after relocation
-description: Seven years of reading a home through its willow, creek pitch, frost hollows, and clay soil, then losing that embodied calendar after a November job transfer to a flat place of Bradford pears and compacted fill dirt.
+description: I learned the year not by calendars but by the willow, the pitch of the creek, the door the wind rattled. Seven years in one place. Then the transfer came in November.
 date: 2026-03-15
 ---
 

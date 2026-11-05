@@ -1,6 +1,6 @@
 ---
 title: Does the contemplative life require leisure
-description: "Evaluates the claim that contemplation requires leisure, drawing on Aristotle's scholē, Pieper, and monasticism, and argues leisure is necessary but insufficient: trained attention produces leisure as much as it depends on it, and the input carries hidden costs."
+description: The oldest argument says contemplation needs leisure. We have more free time than almost anyone before us, and contemplatives are no more common.
 date: 2026-11-25
 ---
 

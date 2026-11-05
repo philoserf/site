@@ -1,6 +1,6 @@
 ---
 title: Why you were born and what you would die for
-description: Two mirrored questions—why you were born and what you would die for—as a test of whether constructed purpose and ultimate commitments align, arguing crisis reveals what you should have been living for all along.
+description: Why were you born? What are you willing to die for? Someone who says they live for their children but would die for national prestige owes an explanation.
 date: 2026-02-14
 ---
 

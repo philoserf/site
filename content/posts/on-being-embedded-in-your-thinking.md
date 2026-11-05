@@ -1,6 +1,6 @@
 ---
 title: On being embedded in your thinking
-description: Close reading of the phrase "you are embedded in your thinking," unpacking why "embedded" and "unfortunately" carry weight, its recursive application to every mind (via Nagel, Wittgenstein, papañca), and the asymmetric relational stance it implies.
+description: '"You are, unfortunately, embedded in your thinking." The sentence seems aimed at one person. So who gets to say it, and from where?'
 date: 2026-06-03
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Why Cutwater's canned Mai Tai isn't a Mai Tai
-description: Cutwater's canned Mai Tai swaps lime, orgeat, and curaçao for citric acid, natural flavors, and carbonation, legally trading on a cocktail's name. Includes a classic two-rum Mai Tai recipe with fresh lime, curaçao, and orgeat.
+description: 'The can says Mai Tai and "real rum," and the rum is real. Now read the rest of the ingredient list: carbonated water, sugar, citric acid, natural flavors, sodium benzoate.'
 date: 2026-06-18
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Leading and conforming as modes, not types
-description: Leading and conforming framed as situational modes of action rather than personality types, with context—stakes, cost of error, others' tolerance for challenge—deciding which fits, and the skill being to tell the difference in time.
+description: The same person who leads at work will conform at dinner. That's awkward for anyone who sorts people into leaders and conformists.
 date: 2026-05-13
 ---
 

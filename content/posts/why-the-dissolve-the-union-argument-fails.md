@@ -1,6 +1,6 @@
 ---
 title: Why the dissolve-the-union argument fails
-description: Critique of the claim that unresolved political differences justify dissolving the United States, examining its assumptions about resolvable disagreement, historical urgency, a unified "we," and the practical incoherence of partition given interleaved partisans.
+description: "Resolve our political differences soon, the warning goes, or it's time to dissolve these dis-United States. The wordplay is tidy. The map isn't: red counties inside blue states, blue cities inside red states, mixed households inside both."
 date: 2026-09-16
 ---
 

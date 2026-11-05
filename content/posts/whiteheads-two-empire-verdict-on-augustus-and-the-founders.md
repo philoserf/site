@@ -1,6 +1,6 @@
 ---
 title: Whitehead's two-empire verdict on Augustus and the Founders
-description: Critique of Whitehead's claim that only Augustan Rome and revolutionary America saw near-optimal imperial leadership, faulting its unfalsifiable "as well as could be expected" standard, teleological use of "emerging," great-man bias, and neglected cases like the Rashidun, Han, Dutch, and Meiji.
+description: "Alfred North Whitehead's count of well-led emerging empires in recorded history was exactly two: Augustus's Rome and revolutionary America. One buried a republic. The other set out to keep power from concentrating."
 date: 2026-08-26
 ---
 

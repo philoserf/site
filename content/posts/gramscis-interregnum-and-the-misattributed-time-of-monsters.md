@@ -1,6 +1,6 @@
 ---
 title: Gramsci's interregnum and the misattributed time of monsters
-description: Gramsci's Prison Notebooks say "morbid symptoms," not monsters; the "time of monsters" wording traces to Žižek (2010) and earlier French sources. The essay examines why the shift from symptom to monster and the interregnum framing distort analysis.
+description: "Everywhere now, credited to Gramsci: the old world is dead, the new not yet born, now is the time of monsters. But can anyone living through an interregnum actually recognize one?"
 date: 2026-08-24
 ---
 

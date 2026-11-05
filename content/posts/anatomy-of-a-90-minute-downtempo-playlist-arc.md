@@ -1,6 +1,6 @@
 ---
 title: Anatomy of a 90-minute downtempo playlist arc
-description: "Critical walkthrough of a 90-minute downtempo playlist's arc: near-silent O'Halloran and Kodomo opening, a 30-minute Kruder & Dorfmeister/Tosca trip-hop heart, a Bonobo–St Germain plateau crest, and a long descent hinging on John Stanford's \"The Edge\"."
+description: A 90-minute playlist called Sound Seedlings opens near-silent, staking everything on a patience the listener hasn't agreed to. Seedlings imply growth. The set rises and recedes to the waterline where it began.
 date: 2026-06-20
 ---
 

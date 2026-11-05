@@ -1,6 +1,6 @@
 ---
 title: Is Western democratic decline self-destructive and irreversible
-description: Argues that democratic backsliding happens through short-term partisan rationales that erode courts, press, and electoral trust, citing V-Dem and Freedom House 2026 data on US decline, while contending recovery remains possible if restraint applies to one's own side.
+description: A party weakens the courts, intimidates journalists, redraws districts, each for a short-term reason, and nobody believes they are choosing decline. Can a democracy repair damage aimed at its own means of repair?
 date: 2026-10-06
 ---
 

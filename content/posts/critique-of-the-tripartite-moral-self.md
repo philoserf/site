@@ -1,6 +1,6 @@
 ---
 title: Critique of the tripartite moral self
-description: Revisits the author's own claim that humans consist of a self, an external benignant angel, and an embedded evil, against Hermas, Paul, and Augustine. Argues the model captures moral phenomenology but fails as anatomy—it leaves the self an empty chooser, ignores how practice brings the good inside, and misplaces where good and evil come from.
+description: I once wrote that a human is three things—itself, something angelic outside, something evil within—and left the sentence unfinished. Does it hold up?
 date: 2026-11-23
 ---
 

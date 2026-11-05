@@ -1,6 +1,6 @@
 ---
 title: Three readings of inner thoughts shape outer reality
-description: "Three readings of the maxim that thoughts shape reality: a defensible behavioral loop (Merton, placebo, Stoics), a trivial claim about perception, and a failed metaphysics propped up by survivorship bias and the just-world fallacy, plus the neglected outer-to-inner direction."
+description: A belief that a bank is failing can produce the run that fails it. A tumor does not retreat before optimism. So what does "inner thoughts shape outer reality" actually claim?
 date: 2026-09-30
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Optimistic nihilism versus nihilistic optimism
-description: Optimistic nihilism treats a meaningless universe as freedom to create personal significance and joy; nihilistic optimism instead starts from optimism while accepting its cosmic insignificance, embracing it for its futility. Includes a summarizing quote for each.
+description: Optimistic nihilism and nihilistic optimism sound like one stance with the words swapped. Both concede that nothing matters cosmically. So where does the difference lie?
 date: 2026-06-01
 ---
 

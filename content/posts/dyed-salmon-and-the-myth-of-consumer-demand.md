@@ -1,6 +1,6 @@
 ---
 title: Dyed salmon and the myth of consumer demand
-description: Farmed Atlantic salmon dyed pink via SalmoFan-selected feed pigment exposes how "consumer demand" rhetoric conflates revealed preference with articulated request; extends the pattern to gassed tomatoes, brined chicken, and doctored bread.
+description: Farmed Atlantic salmon flesh is gray. The industry picks its pink from a printed color fan, then says it only gives people what they want. Who, exactly, asked?
 date: 2026-06-29
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Casual elite fatalism about democratic collapse
-description: "A wealthy American's offhand doubt about future free elections, analyzed for its epistemic, social, and practical implications: closed-loop beliefs, normalization of authoritarian consolidation, and self-fulfilling collapse via elite withdrawal that costs the speaker nothing."
+description: I recently heard a wealthy American say in an interview, "if we ever have a free election again." It was an aside, incidental to the conversation. The aside is the part worth hearing.
 date: 2026-02-25
 ---
 

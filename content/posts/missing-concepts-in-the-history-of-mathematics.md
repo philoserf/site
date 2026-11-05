@@ -1,6 +1,6 @@
 ---
 title: Missing concepts in the history of mathematics
-description: Explores how fundamental concepts like zero, negative numbers, and imaginary numbers first appeared as workarounds or absurdities before being recognized as primitives, suggesting we likely have similar blind spots today.
+description: Mathematicians before zero didn't stare at a hole where zero should be. So what are we not staring at now?
 date: 2027-01-01
 ---
 

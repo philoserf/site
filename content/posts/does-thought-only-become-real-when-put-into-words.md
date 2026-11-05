@@ -1,6 +1,6 @@
 ---
 title: Does thought only become real when put into words
-description: "Three-move analysis of the claim that thought is only real once articulated for others: embracing it via Peirce, Wittgenstein, Brandom and Vygotsky, then challenging it with Polanyi's tacit knowledge and craft skill, concluding it is a good heuristic but poor ontology."
+description: '"Thought only becomes real when you put it into words others can use." Anyone who has failed to explain something they were sure they understood feels the force of that. Then watch a potter work.'
 date: 2026-02-09
 ---
 

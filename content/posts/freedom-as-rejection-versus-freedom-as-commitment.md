@@ -1,6 +1,6 @@
 ---
 title: Freedom as rejection versus freedom as commitment
-description: Freedom involves more than rejecting societal norms; it also requires embracing structures, disciplines, and commitments that enable flourishing, balancing negative liberty with positive liberty.
+description: Abolitionists and suffragists found freedom by refusing their society's norms. The athlete finds it by submitting to a training regimen. One word is covering a lot of ground.
 date: 2026-10-08
 ---
 

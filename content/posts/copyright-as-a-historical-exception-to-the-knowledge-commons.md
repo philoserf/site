@@ -1,6 +1,6 @@
 ---
 title: Copyright as a historical exception to the knowledge commons
-description: Free knowledge sharing across 200,000 years of oral tradition, Roman law, Alexandria, and Islamic libraries, contrasted with copyright's 1710 origin in printing-press economics. Cites Jefferson, Boyle's second enclosure, science, cuisine, and fashion as productive commons.
+description: For roughly 200,000 years humans shared and built on knowledge with no concept of owning it. Copyright dates from 1710. Statutory damages now reach $150,000 per infringement.
 date: 2026-03-18
 ---
 

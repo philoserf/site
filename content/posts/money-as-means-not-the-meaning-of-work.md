@@ -1,6 +1,6 @@
 ---
 title: Money as means, not the meaning of work
-description: Argues that money is an instrumental good, not a final one, and that treating work or paycheck as life's ultimate purpose overloads it beyond what it can deliver.
+description: Money can answer how you'll live. Work now gets asked who you are as well, and a paycheck was never built for that question.
 date: 2026-11-16
 ---
 

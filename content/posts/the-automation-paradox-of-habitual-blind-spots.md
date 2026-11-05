@@ -1,6 +1,6 @@
 ---
 title: The automation paradox of habitual blind spots
-description: "Mastery breeds unawareness: frequent activities like breathing, routines, and thinking patterns run below notice, creating blind spots. Suggests deliberately examining one constant habit as if encountering it for the first time."
+description: We study weekend hobbies more than weekday workflows and weigh vacation meals more than breakfast habits. What we do most is what we know least.
 date: 2026-02-27
 ---
 

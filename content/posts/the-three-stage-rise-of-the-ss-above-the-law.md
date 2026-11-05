@@ -1,6 +1,6 @@
 ---
 title: The three-stage rise of the SS above the law
-description: Traces how the SS moved from extralegal party militia to a self-governing state within the state, and finally to abolishing legal order entirely, with each step requiring tacit permission from those in power.
+description: The SS began as a party bodyguard unit whose violence its leaders could disavow. By midwar, in the camps and the occupied East, no law applied. In hindsight the path looks inevitable.
 date: 2026-10-21
 ---
 

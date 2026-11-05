@@ -1,6 +1,6 @@
 ---
 title: Money as speech and the agenda-setting power of wealth
-description: Buckley v. Valeo and Citizens United frame political spending as expression, while critics call it power; both focus on persuasion. Drawing on Schattschneider, the argument is that money's decisive effect is defining which alternatives get debated at all.
+description: "Buckley v. Valeo in 1976 said political spending is speech. Critics call it power. Both describe the same moment: a message reaching a voter."
 date: 2026-10-14
 ---
 

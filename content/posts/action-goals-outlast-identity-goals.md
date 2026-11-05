@@ -1,6 +1,6 @@
 ---
 title: Action goals outlast identity goals
-description: Identity-based goals like "writer" or "athlete" collapse under pressure because labels carry no instructions, while action-based goals endure. Interesting work sustains itself when motivation fades; recognition arrives as a byproduct.
+description: Writer, athlete, founder. Goals pinned to a title tend to collapse under pressure. Why should a label be the first thing to give way?
 date: 2026-05-11
 ---
 

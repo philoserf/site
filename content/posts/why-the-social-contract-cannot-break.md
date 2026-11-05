@@ -1,6 +1,6 @@
 ---
 title: Why the social contract cannot break
-description: 'Argues the "broken social contract" metaphor obscures diagnosis: contracts borrow binding force from prior norms, Hume shows no one consented, and Hobbes, Rousseau, Kant, and Rawls each located obligation elsewhere. Lists the separable failures the phrase conceals.'
+description: When a polity is in trouble, everyone says the social contract has broken. But David Hume pointed out in 1748 that no one signed anything. So what failed?
 date: 2026-10-07
 ---
 

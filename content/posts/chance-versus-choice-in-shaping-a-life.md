@@ -1,6 +1,6 @@
 ---
 title: Chance versus choice in shaping a life
-description: Chance sets the scale of a life while accumulated small choices set its shape and prepare the person who meets misfortune; examines Stoic detachment, the cruelty of demanding agency from the suffering, and compounding habits.
+description: One diagnosis can undo years of prudence. A marriage's thousand considerate acts can be tested by a layoff neither spouse caused. Against that, which job to take or when to apologize looks small.
 date: 2026-08-12
 ---
 

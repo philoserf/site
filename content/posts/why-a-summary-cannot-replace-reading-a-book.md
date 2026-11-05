@@ -1,6 +1,6 @@
 ---
 title: Why a summary cannot replace reading a book
-description: "Argument that a book's worth lies in the reader's hours of grappling rather than its extractable content, qualified by three objections: bad books also provoke thought, good books resist rather than mirror, and reshaping must leave a trace."
+description: Two readers finish Braudel's The Mediterranean with different books in their heads, and a summary would have given both the same facts. But a conspiracy pamphlet also commands hours of grappling.
 date: 2026-08-19
 ---
 

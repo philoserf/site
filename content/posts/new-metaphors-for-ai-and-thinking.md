@@ -1,6 +1,6 @@
 ---
 title: New metaphors for AI and thinking
-description: "Argues the bicycle-for-the-mind and information-superhighway metaphors fail for AI, which co-regulates rather than amplifies cognition. Proposes alternatives: exoskeleton for thought, personal research cell, cognitive compiler, second nervous system; judgment becomes the bottleneck."
+description: A bicycle for the mind once felt sufficient. Then we paved an information superhighway. Both metaphors still describe something real, and neither describes what comes next.
 date: 2026-02-22
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The Spotify model of squads, tribes, chapters, and guilds
-description: Squads, tribes, chapters, and guilds as described in Kniberg and Ivarsson's 2014 Spotify engineering culture papers, with the principles of servant leadership, minimal bureaucracy, and tolerated failure, plus a personal reflection on working under it.
+description: The industry copied Spotify's squads and tribes widely. Spotify later said the published version was aspirational and that it no longer ran it. I worked under a partial copy during my most productive stretch.
 date: 2026-04-24
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: How public language hides human agency behind institutions
-description: Attributing agency to organizations ("the company decided," "the algorithm decided") hides the humans, incentives, and decision processes behind outcomes, weakening moral accountability. Public relations and government spokespersons exploit this deliberately; the countermeasure is asking who decided, who benefits, who is accountable.
+description: The Pentagon "expresses concern." The market is nervous. The algorithm decided. No one goes to prison for what "the company" believed.
 date: 2026-06-22
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Aqualung and the projection of menace onto poverty
-description: Jethro Tull's 1971 song "Aqualung" as an indictment of observers who project menace onto poverty, using the "bad intent" line and two contrasting vocal styles to show society criminalizing the homeless to justify looking away.
+description: Ian Anderson's "Aqualung" catalogs a homeless man's snot and greasy fingers, then has him "eyeing little girls with bad intent." We never enter his mind. So who, exactly, is doing the looking?
 date: 2026-01-26
 ---
 

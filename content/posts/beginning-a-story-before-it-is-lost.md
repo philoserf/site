@@ -1,6 +1,6 @@
 ---
 title: Beginning a story before it is lost
-description: A short reflective opening in which the narrator acknowledges every story ends and resolves to start writing immediately—recording past, present, and anticipated events—before the memories slip away.
+description: This story will end, the narrator says, whether it builds to something or just stops mid-sentence. There is a lot to get down, and the only way to keep pace is to begin.
 eyebrow: Fiction
 date: 2026-03-19
 ---

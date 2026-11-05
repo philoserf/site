@@ -1,6 +1,6 @@
 ---
 title: Dunning-Kruger and predictions that AI will end work
-description: "Confident predictions that AI will end work often come from people whose shallow, pattern-matched output is precisely what current systems already replicate. Capabilities that persist: problem formulation, cross-domain synthesis, and decisions under genuine ambiguity."
+description: Predicting the end of work signals that you're thinking big, looking forward, seeing the future. It also says something about what forecasters believe they do all day.
 date: 2026-02-13
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Hell yes or no
-description: Derek Sivers' heuristic treats qualified or hesitant responses as a hidden no, reserving commitment for discretionary choices that spark clear enthusiasm. Covers where it applies, its limits for growth and long-term skill building, and related ideas.
+description: Derek Sivers says a hedged answer, like "I should probably go," is already a no. That handles a networking invitation. What about the opportunities that provoke anxiety and would make you grow?
 date: 2025-12-29
 ---
 

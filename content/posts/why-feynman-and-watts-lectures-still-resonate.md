@@ -1,6 +1,6 @@
 ---
 title: Why Feynman and Watts lectures still resonate
-description: Feynman and Watts lectured before institutional caution, algorithmic clipping, and a crisis that never leaves the feed reshaped public speech, allowing uncompressed, adult, cross-disciplinary thought unfolding live rather than as artifact.
+description: "Feynman and Watts gave lectures decades ago that still sound better to me than any talk I'll hear next year. It can't be calmer times: Feynman helped build the bomb."
 date: 2026-02-19
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The age of insincerity as structural condition
-description: "Insincerity as a structural condition rather than individual dishonesty: templated apologies, algorithmic incentives, and eroded grammar for telling conviction from performance. Notes the persistent hunger for the real and the self-exempting irony of declaring the age insincere."
+description: Politicians test messages on focus groups and companies apologize from templates. Most people nod at "we live in the age of insincerity." So who can say that line sincerely?
 date: 2026-04-22
 ---
 

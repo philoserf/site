@@ -1,6 +1,6 @@
 ---
 title: Conflict as the ground condition of existence
-description: Tension between competing forces as the permanent ground of existence rather than a failure to fix, drawing on Keats's negative capability, Milner, Klein, and Prigogine to argue health means tolerating irresolvable conflict instead of suppressing one side.
+description: Suppose no harmonious baseline ever existed, and tension is the ground condition of existence. Then what is a healthy person, or a democracy, supposed to be aiming for?
 date: 2026-02-21
 ---
 

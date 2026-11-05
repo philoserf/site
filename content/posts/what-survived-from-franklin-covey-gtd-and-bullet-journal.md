@@ -1,6 +1,6 @@
 ---
 title: What survived from Franklin Covey, GTD, and Bullet Journal
-description: "A personal hybrid workflow distilled from Franklin Covey, GTD, and the Bullet Journal: values and roles reviewed quarterly, a single daily inbox, next-action sorting, weekly review, and hand-migrated unfinished tasks, with the dropped parts explained."
+description: "Franklin Covey, Getting Things Done, the Bullet Journal: each was sold to me as the one that would make the others unnecessary, and I bought it. None did, though none failed completely."
 date: 2026-07-13
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Why government failure and market failure compound rather than cancel
-description: Critique of the chiasm "government fails at much it undertakes; markets fail to undertake much that must be done," arguing the two failures are sequential and compounding rather than balanced, and that only deliberately designed public-private handoffs escape the trap.
+description: Government fails at much it undertakes; markets fail to undertake much that must be done. The line balances like a creed of humility. Then ask who gets handed the work markets decline.
 date: 2026-10-09
 ---
 

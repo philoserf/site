@@ -1,6 +1,6 @@
 ---
 title: The cost of never staying put
-description: "Perpetual motion as evasion: constant travel makes attachments feel provisional, prevents craft and relationships from compounding, and trains an appetite for beginnings. Draws on Kierkegaard's aesthetic life to ask whether movement teaches or flees stillness."
+description: A man in motion gets good at arriving. But craft takes years and knowing a person takes seasons, and the traveler samples and moves on.
 date: 2026-05-01
 ---
 

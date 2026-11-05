@@ -1,6 +1,6 @@
 ---
 title: Problem-as-opportunity framing is a conditional advantage
-description: Critique of the maxim that treating problems as opportunities confers an advantage obstacle-seers "will never understand." Argues the advantage is real but conditional, survivorship-biased, and that accurate threat detection plus continued search beats pure optimism.
+description: The person who approaches a problem like an opportunity, the maxim goes, has an advantage the person who sees an obstacle "will never understand." Now try it on a genuine dead end.
 date: 2026-11-04
 ---
 

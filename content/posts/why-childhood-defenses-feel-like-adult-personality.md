@@ -1,6 +1,6 @@
 ---
 title: Why childhood defenses feel like adult personality
-description: Childhood coping strategies persist into adulthood and get mistaken for personality traits, which is why insight alone rarely breaks patterns. Change starts by asking what a response was originally built to accomplish and judging it against present conditions.
+description: A child in a chaotic home learns that constant watchfulness keeps danger at bay. The adult says "I notice everything" and calls that a personality.
 date: 2026-07-29
 ---
 

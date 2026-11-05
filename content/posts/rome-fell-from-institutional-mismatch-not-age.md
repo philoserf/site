@@ -1,6 +1,6 @@
 ---
 title: Rome fell from institutional mismatch, not age
-description: Argues the Roman Republic fell from institutional mismatch with imperial scale, not age or moral decay, citing provincial rule, long military commands, and eroded norms, then applies the same scale-versus-design strain to the American constitution.
+description: "The tempting lesson from Rome is numerical: republics last about two and a half centuries. Neat and memorable—and the Republic's last century, with the Gracchi, Marius, Sulla, and Caesar, still needs explaining."
 date: 2026-01-15
 ---
 

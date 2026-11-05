@@ -1,6 +1,6 @@
 ---
 title: Practicing animism as a perceptual habit
-description: "Four practices for cultivating an animist perception: sustained attention to a single non-human entity, catching mechanistic language, bracketing metaphysics to stay with experience, and reciprocal land work, with a suggested reading order of Abram, Kimmerer, Harvey, and Descola."
+description: Forget whether rocks are alive. What would it take to stop treating a tree, a river, or a stone as inert backdrop?
 date: 2026-06-14
 ---
 

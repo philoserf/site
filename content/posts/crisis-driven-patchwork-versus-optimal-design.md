@@ -1,6 +1,6 @@
 ---
 title: Crisis-driven patchwork versus optimal design
-description: Critique of the claim that systems evolve through crisis-driven patchwork rather than optimal design, arguing the contrast is rigged against a strawman, conflates trigger with mode, ignores survivorship bias, and risks becoming an alibi for neglecting foresight.
+description: Fire escapes followed fires, and deposit insurance followed bank runs. Large systems get their shape from damage and repair, the story goes. Then the Articles of Confederation failed, and the response was no patch.
 date: 2026-09-23
 ---
 

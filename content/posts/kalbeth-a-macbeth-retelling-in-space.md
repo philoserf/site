@@ -1,6 +1,6 @@
 ---
 title: Kalbeth a Macbeth retelling in space
-description: "Science-fiction retelling of Macbeth: war-captain Kalbeth receives prophecies from Precursor-era predictive AIs on Titan, murders Administrator Duncan to seize the Directorate, and falls to vat-born Klyne as engineered fungal forests march across Europa."
+description: On Titan, war-captain Kalbeth stumbles into an abandoned relay station where predictive AIs from the Precursor Wars flicker back to life. They promise him Mars and then the Directorate. Soon the first comes true.
 eyebrow: Fiction
 date: 2026-02-24
 ---

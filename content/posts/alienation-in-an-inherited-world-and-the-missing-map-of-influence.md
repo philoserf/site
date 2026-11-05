@@ -1,6 +1,6 @@
 ---
 title: Alienation in an inherited world and the missing map of influence
-description: "Powerlessness within inherited economic, political and social structures is framed as a problem of knowledge as much as force: without a map of cause and effect, effort feels wasted and withdrawal looks like experience. Alienation eases once actionable pressure points become visible."
+description: Economic structures, political institutions and social norms were already running when you arrived. You may want to act, yet you can't tell which pressure point matters or which effort will disappear into the machinery.
 date: 2026-07-24
 ---
 

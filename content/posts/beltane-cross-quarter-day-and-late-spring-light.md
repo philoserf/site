@@ -1,6 +1,6 @@
 ---
 title: Beltane cross-quarter day and late spring light
-description: May Day observation of frost, rain, and birdsong at the vernal equinox–summer solstice midpoint, with first light 05:25, sunrise 06:33, sunset 20:45, last light 21:53, and the cross-quarter moment at 07:52 on May 5.
+description: A frost yesterday, rain this morning, and birds already working. May Day says the midpoint between equinox and solstice has come, though the exact moment is four days off.
 date: 2025-05-01
 ---
 

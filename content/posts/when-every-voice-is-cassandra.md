@@ -1,6 +1,6 @@
 ---
 title: When every voice is Cassandra
-description: "Reflection on how the saturation of urgent warnings destroys the ability to distinguish genuine alarm from manufactured outrage, using Cassandra as a foil: prophecy depends on scarcity, moderate voices read as absent, and truth becomes legible only in hindsight."
+description: Cassandra saw truly and no one believed her. Now everyone claims her gift in the same vocabulary of emergency, and I can't tell the prophet from the propagandist by sound alone.
 date: 2026-03-22
 ---
 

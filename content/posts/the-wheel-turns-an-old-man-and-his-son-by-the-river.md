@@ -1,6 +1,6 @@
 ---
 title: The wheel turns an old man and his son by the river
-description: "Short story in the style of Hemingway's Nick Adams by way of Maclean: an old man and his adult son sit by a river he has fished for decades, reflecting on lost records, faded memories, and the passage of generations."
+description: An old man sits with his thirty-six-year-old son beside the river he has fished for forty years. He once counted every fish he took from it. He no longer remembers the number.
 eyebrow: Fiction
 date: 2026-05-20
 ---

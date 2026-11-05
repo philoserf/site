@@ -1,6 +1,6 @@
 ---
 title: Practice precedes theory working comes before understanding
-description: Explores how working artifacts—steam engines, aspirin, penicillin, LLMs—historically precede theoretical understanding, and warns that 'it works' can mask luck or coincidence rather than genuine mechanism.
+description: The textbook says understanding comes first. The steam engine predates thermodynamics by a century, and doctors prescribed aspirin for seventy years before anyone identified its mechanism. What, then, does "it works" tell us?
 date: 2026-09-21
 ---
 

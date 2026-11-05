@@ -1,6 +1,6 @@
 ---
 title: Is matter just energy in a stable shape
-description: Examines the claim that matter is energy in a stable shape, weighing mass-energy equivalence and quark confinement against quantum field theory, proton stability limits, and conserved quantum numbers.
+description: "Matter is just energy in a stable shape: a neat line of popular physics. Almost every word in it deserves a harder look."
 date: 2026-12-18
 ---
 
@@ -20,7 +20,7 @@ The word "just" needs separate scrutiny. It performs a reduction—matter is mer
 
 My position: the statement is a productive intuition. It points to two real things: mass and energy convert into each other, and confinement produces what we experience as solid matter. As a first approximation it earns its keep. But it fails as a precise ontological claim because it treats energy as a substance rather than a property, overstates the simplicity of stability, and ignores the conserved quantum numbers that distinguish one form of matter from another. A more defensible version: "What we call matter emerges from quantum fields whose excitations carry energy, and the persistence of those excitations under prevailing conditions is what gives matter its apparent solidity." Less elegant, but it keeps the insight without the metaphysical overreach.
 
-The original six words still work as something other than physics. If matter is energy holding a shape, then everything we experience as solid and permanent is a pattern maintaining itself against entropy—and so are we. Most of the atoms in you a decade ago are gone, yet something persists. The shape holds. Until it doesn't, and the energy returns to less organized forms—which is as clean a description of mortality as physics can offer.
+The original eight words still work as something other than physics. If matter is energy holding a shape, then everything we experience as solid and permanent is a pattern maintaining itself against entropy—and so are we. Most of the atoms in you a decade ago are gone, yet something persists. The shape holds. Until it doesn't, and the energy returns to less organized forms—which is as clean a description of mortality as physics can offer.
 
 Sources:
 

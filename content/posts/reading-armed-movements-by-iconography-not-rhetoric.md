@@ -1,6 +1,6 @@
 ---
 title: Reading armed movements by iconography, not rhetoric
-description: Uniforms, torchlight marches, and leader portraits reveal when an armed anti-system faction shifts from dissent to seizing power, since rhetoric is universal and cheap. Charlottesville 2017 and the January 30, 1933 Brandenburg Gate march illustrate the shift.
+description: Almost every faction that seized power by force did so in the name of liberation, restoration, or defense. So a movement's claim to be against the system warns of nothing. What does?
 date: 2026-10-26
 ---
 

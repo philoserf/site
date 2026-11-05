@@ -1,6 +1,6 @@
 ---
 title: How companies drift into failure
-description: Explores the aphorism that companies fail gradually through accumulated comfortable half-truths rather than single dramatic mistakes, using Kodak, Nokia, and Blockbuster as examples, and distinguishes this drift from failures caused by external constraints or shocks.
+description: No company decides to fail, the saying goes; it drifts there one comfortable lie at a time. Kodak's own engineers pioneered digital photography. How does a company know and still not act?
 date: 2026-12-09
 ---
 

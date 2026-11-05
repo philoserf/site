@@ -1,6 +1,6 @@
 ---
 title: Does technology flatten natural cycles or their evidence
-description: Critique of the elegiac claim that technology erases the physical traces of natural cycles, using the Aswan Dam, refrigerated fruit, and fossil fuels to argue the metaphor inverts at planetary scale, where burning carbon steepens cycles rather than smoothing them.
+description: "A heated room in February, a peach in January, a Nile that no longer floods: natural cycles get sanded away. The elegy comes easily. Then you remember the hungry gap of late winter."
 date: 2026-08-21
 ---
 
