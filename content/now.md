@@ -6,6 +6,9 @@ lastmod: 2026-10-23
 showUpdated: true
 aliases:
   - /posts/now/
+  - /where/
+  - /next/
+  - /someday/
 ---
 
 ## Where I am
