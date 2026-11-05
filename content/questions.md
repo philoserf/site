@@ -79,7 +79,7 @@ Six of these questions, each with a few essays that keep asking it.
 
 ### What is the difference between knowing and understanding?
 
-- [Practice precedes theory working comes before understanding]({{< relref "practice-precedes-theory-working-comes-before-understanding" >}}): steam engines before thermodynamics
+- [Practice precedes theory: working comes before understanding]({{< relref "practice-precedes-theory-working-comes-before-understanding" >}}): steam engines before thermodynamics
 - [The gap between understanding and doing]({{< relref "the-gap-between-understanding-and-doing" >}}): why insight isn't enough
 - [Heisenberg on how methods of questioning shape knowledge]({{< relref "heisenberg-on-how-methods-of-questioning-shape-knowledge" >}}): how the asking shapes the answer
 - [Why the say-nothing rule fails thinking out loud]({{< relref "why-the-say-nothing-rule-fails-thinking-out-loud" >}}): speaking before you know what you think
