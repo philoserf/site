@@ -85,7 +85,7 @@ date: 2025-10-18
 ### Reading
 
 Methodology: Lean Startup (Ries), Small Bets (Sims), Sprint (Knapp), Continuous Discovery Habits (Torres)  
-Innovation: The Innovators Dilemma (Christensen), Innovators DNA (Dyer)  
+Innovation: The Innovator's Dilemma (Christensen), The Innovator's DNA (Dyer)  
 Culture: Orbiting the Giant Hairball (MacKenzie), The Toyota Way (Liker)  
 Practice: GameStorming (Gray), Making Work Visible (Benson)  
 Personal: StrengthsFinder (Rath)

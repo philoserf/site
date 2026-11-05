@@ -1,5 +1,5 @@
 ---
-title: Voice as location Larkin versus Frost
+title: "Voice as location: Larkin versus Frost"
 description: Larkin can simply state that man hands on misery to man. Frost can't. He needs the snow, the neighbor, the wall.
 date: 2026-02-26
 ---

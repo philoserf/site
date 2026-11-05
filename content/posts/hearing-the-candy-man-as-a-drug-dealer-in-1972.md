@@ -8,7 +8,7 @@ In 1972, I was ten years old—old enough to listen carefully to song lyrics and
 
 I thought "The Candy Man" was about a drug dealer.
 
-This wasn't childhood cynicism or precocious rebellion. It was what came of growing up when innocence and danger lived side by side, especially in the stories adults didn't think kids could follow. By 1972 the culture had shifted from the optimism of the 1950s into something darker. The Vietnam War was still being televised at dinnertime. Cities were struggling. The news I caught between cartoons was full of hijackings, Watergate hearings, and protests. Words like "acid," "dope," and "candy" were in the air, half-understood.
+This wasn't childhood cynicism or precocious rebellion. It was what came of growing up when innocence and danger lived side by side, especially in the stories adults didn't think kids could follow. By 1972 the culture had shifted from the optimism of the 1950s into something darker. The Vietnam War was still being televised at dinnertime. Cities were struggling. The news I caught between cartoons was full of hijackings, the Watergate break-in, and protests. Words like "acid," "dope," and "candy" were in the air, half-understood.
 
 So when Sammy Davis Jr.—sequins and swing, that sly theatrical tone—crooned, "Who can take a sunrise, sprinkle it with dew…", I didn't hear a candy shop. I heard a dealer. And when he sang, "The Candy Man makes everything he bakes satisfying and delicious," I thought: that's exactly how you'd sell it.
 

@@ -1,5 +1,5 @@
 ---
-title: This Is Not America Bowie, Metheny and Mays collaboration
+title: "This Is Not America: Bowie, Metheny and Mays collaboration"
 description: In 1985 David Bowie sang on a film soundtrack with Pat Metheny and Lyle Mays, and the song reached number 14 in the UK. Neither camp has treated it as essential.
 date: 2026-02-17
 ---

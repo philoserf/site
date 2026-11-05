@@ -1,5 +1,5 @@
 ---
-title: Practice precedes theory working comes before understanding
+title: "Practice precedes theory: working comes before understanding"
 description: The textbook says understanding comes first. The steam engine predates thermodynamics by a century, and doctors prescribed aspirin for seventy years before anyone identified its mechanism. What, then, does "it works" tell us?
 date: 2026-09-21
 ---

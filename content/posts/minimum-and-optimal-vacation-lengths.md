@@ -13,4 +13,4 @@ Minimum days at destination
 
 Optimal: about 23 days
 
-Below the minimums, transit and recovery eat too large a share of the trip—a ten-day long-haul is really five usable days. The optimal is where a long trip stops being a trip and becomes a temporary life: jet lag behind you, a routine settled, depth replacing the checklist. Few will have the leave to reach it often, but it's worth knowing where it sits, if only to recognize how far most vacations fall short of it.
+Below the minimums, transit and recovery eat too large a share of the trip—a ten-day long-haul, door to door, is really five usable days. The optimal is where a long trip stops being a trip and becomes a temporary life: jet lag behind you, a routine settled, depth replacing the checklist. Few will have the leave to reach it often, but it's worth knowing where it sits, if only to recognize how far most vacations fall short of it.

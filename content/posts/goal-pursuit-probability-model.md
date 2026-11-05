@@ -23,7 +23,7 @@ A goal survives when that plateau stays above the point where you quit. Value ra
 
 The race between $s$ and $c$ sets the shape of the approach, not the destination. When skill grows faster than willpower drains ($s > c$), $P(A_{t})$ climbs to an early peak, then sags as depletion catches up, and levels off at the plateau: fast start, vulnerable middle, stable end. When depletion outpaces skill ($c > s$), there is no early peak—only a slow climb that never feels rewarding, which is its own way to lose a goal.
 
-The formula holds its parameters fixed. Real goals don't: value grows as a practice pays off, depletion falls as habits automate, interference rises and falls with the rest of life. The examples below follow those shifts.
+The formula holds $V$ and $d$ fixed, and its plateau moves only with $I_{t}$. Real goals move all of them: value grows as a practice pays off, depletion falls as habits automate, interference rises and falls with the rest of life. The examples below follow those shifts.
 
 ---
 
