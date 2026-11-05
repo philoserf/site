@@ -10,9 +10,9 @@ Only what's in daily use.
 
 ## Hardware
 
-- Always on: Mac mini (M4 Pro)
-- Desk: LG 34" Ultra-Wide QHD monitor
 - Portable: MacBook Air (M4), iPad Pro (M4) with Pencil Pro
+- Desk: the Air, plugged into an LG 34" Ultra-Wide QHD monitor
+- Always on: Mac mini (M4 Pro), headless
 - Pocket: iPhone Air
 - Wearable: Apple Watch Series 12, AirPods Pro 3
 
@@ -22,7 +22,7 @@ Only what's in daily use.
 - Languages: Go, TypeScript
 - Build and packages: Task, Bun, uv
 - Programming pair, co-editor, and writing partner: Claude Code
-- Notes: Obsidian (about 2,700 notes)
+- Notes: Obsidian
 - Browser: Safari
 - Network: Tailscale
 - Site: Hugo, published from Obsidian with my own plugin, served from Cloudflare
