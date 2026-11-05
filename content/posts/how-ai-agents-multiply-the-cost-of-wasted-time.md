@@ -15,7 +15,7 @@ AI agents alter this calculus by introducing multiplicative parallelism. A perso
 
 This produces a new relationship between humans and productivity. Three dynamics emerge:
 
-_Attention becomes directional capacity._ The scarce resource shifts from "time to do work" to "attention to direct work." Human cognition is now primarily task formulation, quality assessment, and strategic prioritization rather than execution. Wasting attention means failing to leverage available productive capacity.
+_Attention becomes directional capacity._ The scarce resource shifts from "time to do work" to "attention to direct work." Human cognition is now primarily task formulation, quality assessment, and strategic prioritization rather than execution. Wasting attention means failing to use available productive capacity.
 
 _Guilt mechanisms transform._ Traditional procrastination guilt emerged from personal failure: "I should have done this myself." The new guilt compounds: "I should have done this myself" plus "I should have delegated five other things while doing nothing." Psychological weight increases because perceived waste scales with available agents.
 

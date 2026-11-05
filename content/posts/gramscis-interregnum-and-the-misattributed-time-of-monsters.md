@@ -24,4 +24,4 @@ What the statement withholds, in every register, is consolation about duration. 
 
 Sources:
 
-- [‘The time of monsters’: everyone is quoting Gramsci – but what did he actually say?](https://www.inkl.com/news/the-time-of-monsters-everyone-is-quoting-gramsci-but-what-did-he-actually-say)
+- ['The time of monsters': everyone is quoting Gramsci – but what did he actually say?](https://www.inkl.com/news/the-time-of-monsters-everyone-is-quoting-gramsci-but-what-did-he-actually-say)
