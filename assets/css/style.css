@@ -873,7 +873,7 @@ article > .article-head {
     gap: 0.6rem;
   }
   .nav-links {
-    gap: 1rem;
+    gap: 0.6rem;
   }
   .post-row {
     grid-template-columns: 1fr;

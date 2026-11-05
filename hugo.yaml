@@ -66,6 +66,11 @@ menus:
       weight: 20
       params:
         description: Current focus
+    - name: Questions
+      pageRef: /questions
+      weight: 25
+      params:
+        description: What I keep asking
     - name: Uses
       pageRef: /uses
       weight: 30
