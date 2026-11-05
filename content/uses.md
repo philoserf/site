@@ -1,8 +1,8 @@
 ---
 title: Uses
 eyebrow: "What I use"
-description: "The hardware, software, golf clubs, and car I actually use. Updated when reality changes."
-lastmod: 2026-10-01
+description: "The hardware, software, and golf clubs I actually use. Updated when reality changes."
+lastmod: 2026-11-04
 showUpdated: true
 ---
 
@@ -10,28 +10,27 @@ Only what's in daily use.
 
 ## Hardware
 
-- Desk: Mac Mini (M4 Pro), LG 34" Ultra-Wide QHD monitor
 - Portable: MacBook Air (M4), iPad Pro (M4) with Pencil Pro
+- Desk: the Air, plugged into an LG 34" Ultra-Wide QHD monitor
+- Always on: Mac mini (M4 Pro), headless
 - Pocket: iPhone Air
 - Wearable: Apple Watch Series 12, AirPods Pro 3
 
 ## Software
 
-- Terminal: Ghostty, zsh, Vim
-- Languages: Go (primary), occasional TypeScript
+- Terminal: Rex, zsh, Neovim
+- Languages: Go, TypeScript
+- Build and packages: Task, Bun, uv
 - Programming pair, co-editor, and writing partner: Claude Code
-- Notes: Obsidian (2,800-note vault)
-- Site: Hugo, published from Obsidian
+- Notes: Obsidian
+- Browser: Safari
+- Network: Tailscale
+- Site: Hugo, published from Obsidian with my own plugin, served from Cloudflare
 
 ## Golf
 
 - Modern: Ping G2 5-wood, Ping S59 irons, Takomo wedges, Ping Craz-E putter, Callaway balls, Ping Hoofer Lite bag
 - Hickory: Tad Moore 8-club set, MacIntyre balls, Tuberon canvas bag
-
-## Automobile
-
-- Vehicle: 2005 Honda Element
-- Camper: Fifth Element micro-camper kit
 
 ---
 
