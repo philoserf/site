@@ -27,6 +27,7 @@ I ask about a lot of things, and I'm still startled to find a subject I hadn't b
 - [How do founding promises outlive their founders?]({{< relref "the-republic-as-something-each-generation-must-keep" >}})
 - Why does hitting off a mat differ from hitting off grass?
 - What is worth doing if it isn't obviously useful?
+- Can we know something is useful before we need it?
 - Is the Great Filter ahead of or behind humanity?
 - Why does continuous improvement so often make things worse?
 - What does it mean to belong?
