@@ -17,3 +17,5 @@ Forced ranking systems in corporate life are justified as tools for differentiat
 The Ranger School version worked because the environment was extreme, bounded, and temporary. Everyone shared the same suffering, the same risks, the same endpoint. Corporate environments lack those properties but import the same mechanisms, mistaking the form for the function. What they get is not clarity but politics, not trust but compliance.
 
 Systems that rely on forced ranking care less about truth than about their own authority, and leadership that exposes that fact will always be both punished and remembered.
+
+Next: [Critique of Dee Hock's complex rules maxim](/posts/critique-of-dee-hocks-complex-rules-maxim/), what rules do to judgment.

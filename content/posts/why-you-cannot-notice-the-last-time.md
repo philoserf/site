@@ -17,3 +17,5 @@ The damage is that the failure feels like ours anyway. The advice arrives as wis
 What is true in the advice survives the correction. Attention does change experience, and it works on what is present. Finitude is present. That the sequence ends is a standing fact of every afternoon in it, available at all times, requiring no forecast and no guess at which one. Which afternoon is the last is available at no time. Confusing them turns a livable awareness into an impossible vigilance, and then into guilt.
 
 You did not miss it. There was nothing to miss: only an afternoon indistinguishable from the others, doing what afternoons do. Lastness is a verdict memory passes, not a signal the world sends, and no amount of noticing would have brought the verdict in any sooner.
+
+Next: [Perceived time as a fraction of age](/posts/perceived-time-as-a-fraction-of-age/), a year, measured against a life.

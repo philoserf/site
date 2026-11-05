@@ -17,3 +17,5 @@ A phenomenological layer sits underneath all of this. Polanyi's observation that
 Something like an inverted pragmatism emerges. Theory is the residue of practice that has already been working. The honest scientist concedes this; the honest engineer never doubted it. It arrives as commentary on what has already happened, and the gap between the demonstrable fact of a thing working and any particular story told about why deserves appropriate humility.
 
 What this asks of anyone trying to build well is a particular seriousness about practice. Respect the working artifact even when its principles are obscure. Trust accumulated craft and the people who carry it. Recognize that explanation, when it finally comes, is more often the recovery of what was already known by hand than the revelation of something that was never there. Treat theory as something owed to working practice, not a license to dismiss it—and, per the darker reading above, not a substitute for asking whether what works is working for the reason you think.
+
+Next: [The gap between understanding and doing](/posts/the-gap-between-understanding-and-doing/), why insight isn't enough.

@@ -15,3 +15,5 @@ We build meaning backward, making certain moments sacred only after we see what 
 This flatness serves us. If every crucial moment demanded ceremony, we'd freeze. The ordinary wrapper lets us live our lives instead of performing.
 
 Hindsight's false clarity works the same way. We remember the words that changed everything, but we spoke and heard thousands of other words that same day. The echo comes from remembering, not speaking—when we finally know which words mattered.
+
+Next: [The year turns slowly, not at midnight](/posts/the-year-turns-slowly-not-at-midnight/), a season the calendar has no name for.

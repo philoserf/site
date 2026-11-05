@@ -15,3 +15,5 @@ Beyond physics, the same logic holds. Every framework we use—scientific paradi
 Nor do we encounter other people directly; we know them only through interpretive frameworks shaped by experience, culture, and cognitive limitations. We don't see "pure" historical events, but events as filtered through available sources, analytical methods, and contemporary concerns.
 
 Our knowledge is always provisional, method-dependent, and incomplete. That argues against dogmatism while affirming the value of multiple approaches. Different methods of questioning don't compete for the single "true" view of nature. They provide complementary perspectives on a reality that always exceeds our capacity to capture it.
+
+Next: [Why the say-nothing rule fails thinking out loud](/posts/why-the-say-nothing-rule-fails-thinking-out-loud/), speaking before you know what you think.
