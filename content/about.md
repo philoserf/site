@@ -2,7 +2,7 @@
 title: About
 eyebrow: "Who I am"
 description: "Why I think in public, what I write about, and the principles behind it, shaped by military service, technology, nonprofit leadership, and retail."
-lastmod: 2026-09-25
+lastmod: 2026-11-04
 aliases:
   - /why/
   - /hello/
@@ -22,6 +22,6 @@ Life has taken me through military service, technology, nonprofit leadership, an
 
 A thought is unfinished until I can share it. Writing is how I test whether something I think is true.
 
-If you leave here asking better questions, even if you disagree with my answers, this site has done its job.
+If you leave here asking better [questions]({{< relref "questions" >}}), even if you disagree with my answers, this site has done its job.
 
 The easiest way to reach me: [mark@philoserf.com](mailto:mark@philoserf.com)
