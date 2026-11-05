@@ -19,6 +19,7 @@ params:
   email: "mark@philoserf.com"
   # The Latin motto — home page, About page, and the vCard NOTE field.
   motto: "COGITA·DISCE·NECTE·FARE"
+  reminder: "QUIESCE"
   nickname: "philoserf"
   # Warm-paper background hexes; must match --background-color in assets/css/style.css
   themeColor:

@@ -1,3 +1,7 @@
 {{- /* The Latin motto, sourced from params.motto so the homepage, the
-     latin-motto shortcode, and the vCard share one copy. */ -}}
+     latin-motto shortcode, and the vCard share one copy. The reminder sits
+     below it on the page but is not part of it, so the vCard leaves it out. */ -}}
 <p>{{ site.Params.motto }}</p>
+{{- with site.Params.reminder }}
+<p>{{ . }}</p>
+{{- end }}
