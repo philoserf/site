@@ -4,7 +4,7 @@ description: "A 250th birthday invites the grandest reflex: we have arrived, the
 date: 2026-07-03
 ---
 
-A republic has to be kept. Anniversaries resist that idea. They reach for permanence—enduring, robust, exceptional, providential—and a 250th birthday invites the grandest version of the reflex: we have arrived, the founding is secure, the inheritance complete. The truer description runs the other way. The American order is fragile, and it has been kept intact anyway. Continuity is achievement, not destiny. The republic did not have to last. That it has lasted rests on choices made and renewed.
+A republic has to be kept. Anniversaries resist that idea. They reach for permanence—enduring, sturdy, exceptional, providential—and a 250th birthday invites the grandest version of the reflex: we have arrived, the founding is secure, the inheritance complete. The truer description runs the other way. The American order is fragile, and it has been kept intact anyway. Continuity is achievement, not destiny. The republic did not have to last. That it has lasted rests on choices made and renewed.
 
 This claim sits in an old tradition. Madison and the other Federalists wrote against the record of failed republics; the founders knew their project might join Athens, Rome, and the Italian city-states in cautionary memory. Franklin's reported remark—"a republic, if you can keep it"—belongs to the same spirit. To say the system has been kept recovers the founders' humility from the later habit of treating survival as effortless. Survival took effort; virtue and geography guaranteed nothing.
 

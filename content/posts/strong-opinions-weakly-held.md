@@ -18,4 +18,4 @@ This approach requires separating your reasoning process from your conclusions. 
 
 Then there is the social cost. Changing positions publicly can appear weak or inconsistent, creating pressure to maintain stances even when private doubts emerge. Yet cultures that reward intellectual honesty over consistency produce better collective decisions. The phrase provides a framework for communicating that revision represents strength rather than weakness.
 
-The principle is recursive. You can hold the opinion that strong opinions should be weakly held, while remaining open to evidence that the approach is flawed. This creates a self-correcting system that becomes more robust through application.
+The principle is recursive. You can hold the opinion that strong opinions should be weakly held, while remaining open to evidence that the approach is flawed. This creates a self-correcting system that becomes stronger through application.

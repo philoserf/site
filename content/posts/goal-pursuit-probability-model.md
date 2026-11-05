@@ -1,6 +1,6 @@
 ---
 title: Goal pursuit probability model
-description: A goal can start with high value and fast progress, then quietly stall. Four terms in one equation try to say when, followed through learning Go and adopting Obsidian.
+description: A goal can start with high value and fast progress, then stall. Four terms in one equation try to say when, followed through learning Go and adopting Obsidian.
 date: 2025-12-06
 math: true
 ---

@@ -15,8 +15,8 @@ I admired what these papers described, and an employer of mine emulated parts of
 
 Sources:
 
-- [Spotify Engineering Culture — Part 1](https://engineering.atspotify.com/2014/03/spotify-engineering-culture-part-1/) (March 2014)
-- [Spotify Engineering Culture — Part 1 (video)](https://youtu.be/Yvfz4HGtoPc)
-- [Spotify Engineering Culture — Part 2](https://engineering.atspotify.com/2014/09/spotify-engineering-culture-part-2/) (September 2014)
-- [Spotify Engineering Culture — Part 2 (video)](https://youtu.be/vOt4BbWLWQw)
+- [Spotify Engineering Culture—Part 1](https://engineering.atspotify.com/2014/03/spotify-engineering-culture-part-1/) (March 2014)
+- [Spotify Engineering Culture—Part 1 (video)](https://youtu.be/Yvfz4HGtoPc)
+- [Spotify Engineering Culture—Part 2](https://engineering.atspotify.com/2014/09/spotify-engineering-culture-part-2/) (September 2014)
+- [Spotify Engineering Culture—Part 2 (video)](https://youtu.be/vOt4BbWLWQw)
 - [The Spotify Model](https://www.atlassian.com/agile/agile-at-scale/spotify)—Atlassian

@@ -142,8 +142,8 @@ Avoid remote:
 
 ### When to Use What
 
-Problem unclear: Empathy methods → JTBD → Journey Mapping  
-Solution unclear: Design Thinking → Lightning Decision Jam → Assumption Mapping  
-Validation needed: Smoke Test → Concierge MVP → Wizard of Oz → A/B Test  
-Team forming: Emotional Check-in → StrengthsFinder → Retrospectives  
-Scaling: Kanban → OKRs → North Star Metric → Continuous Discovery
+Problem unclear: Empathy methods, then JTBD, then Journey Mapping  
+Solution unclear: Design Thinking, then Lightning Decision Jam, then Assumption Mapping  
+Validation needed: Smoke Test, then Concierge MVP, then Wizard of Oz, then A/B Test  
+Team forming: Emotional Check-in, then StrengthsFinder, then Retrospectives  
+Scaling: Kanban, then OKRs, then North Star Metric, then Continuous Discovery

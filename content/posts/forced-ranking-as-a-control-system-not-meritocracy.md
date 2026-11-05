@@ -12,8 +12,8 @@ There was trouble—the mechanism had been exposed as fragile—and there was re
 
 That moment confirmed what the experience already suggested. The peer ranking was never about finding the best performer. It was about enforcing norms, testing whether we obeyed the process, and protecting the evaluation's authority. The ranking mattered less than that it could not be collectively questioned. Individual dissent could be absorbed; coordinated dissent became a governance problem.
 
-Forced ranking systems in corporate life are justified as tools for differentiation, meritocracy, or accountability. They function as control systems. They demand visible hierarchy, discourage shared judgment, and punish coordination that bypasses management—even when that coordination improves truthfulness. Organizations may quietly note who can lead, but they will openly discipline anyone who shows the system can be gamed.
+Forced ranking systems in corporate life are justified as tools for differentiation, meritocracy, or accountability. They function as control systems. They demand visible hierarchy, discourage shared judgment, and punish coordination that bypasses management—even when that coordination improves truthfulness. Organizations may privately note who can lead, but they will openly discipline anyone who shows the system can be gamed.
 
 The Ranger School version worked because the environment was extreme, bounded, and temporary. Everyone shared the same suffering, the same risks, the same endpoint. Corporate environments lack those properties but import the same mechanisms, mistaking the form for the function. What they get is not clarity but politics, not trust but compliance.
 
-Systems that rely on forced ranking care less about truth than about their own authority, and leadership that exposes that fact will always be both punished and quietly remembered.
+Systems that rely on forced ranking care less about truth than about their own authority, and leadership that exposes that fact will always be both punished and remembered.
