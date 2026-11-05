@@ -1,6 +1,6 @@
 ---
 title: The Cayman ball, Britannia, and rights to play
-description: Traces the Privy Council's 2025 ruling restoring Cayman homeowners' non-exclusive golf playing rights over the defunct Britannia course, linking it to the short-flight Cayman ball, MacGregor Golf, and the 1552 St Andrews charter precedent.
+description: In the 1980s Jack Nicklaus backed a golf ball engineered to fly half as far. Forty years on, about 200 households hold a permanent right to play a course that no longer exists.
 date: 2026-11-18
 ---
 

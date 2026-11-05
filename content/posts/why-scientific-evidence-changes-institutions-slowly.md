@@ -1,6 +1,6 @@
 ---
 title: Why scientific evidence changes institutions slowly
-description: Evidence changes minds faster than institutions, illustrated by psychology's replication crisis, fragile nutrition science, reversed medical practices like hormone replacement therapy, persistent citations of retracted papers, and Kuhn's account of paradigms, framing scientific self-correction as slow and evolutionary.
+description: A field can be shown to rest on weak foundations and carry on much as before. Why does decisive evidence have so little immediate effect?
 date: 2026-11-06
 ---
 

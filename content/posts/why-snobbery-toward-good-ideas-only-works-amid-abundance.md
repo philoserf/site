@@ -1,6 +1,6 @@
 ---
 title: Why snobbery toward good ideas only works amid abundance
-description: "Disdain for good ideas pays only where they are plentiful. Tested on Alan Kay's 1982 maxim: greatness is legible only in retrospect, PARC's funding supplied the surplus, and survivorship bias hides the failures."
+description: "\"Turn up your nose at good ideas,\" Alan Kay told an audience in 1982. It's thrilling advice from someone who could afford it. Who else can?"
 date: 2026-11-11
 ---
 

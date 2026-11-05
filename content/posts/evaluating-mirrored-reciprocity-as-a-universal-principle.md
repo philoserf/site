@@ -1,6 +1,6 @@
 ---
 title: Evaluating mirrored reciprocity as a universal principle
-description: Critique of the claim that mirrored reciprocity organizes physics, biology, and human behavior, testing it against Newton's third law, reciprocal altruism, and gift economies. Concludes balanced exchange is a real emergent pattern but "mirrored" and "secret" overclaim it.
+description: Someone claims mirrored reciprocity is the secret organizing physics, biology, and human behavior. A principle that large has to hold in all three.
 date: 2026-12-07
 ---
 

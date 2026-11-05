@@ -1,6 +1,6 @@
 ---
 title: How the Design Thinking definition decayed into a platitude
-description: A once-specific definition of Design Thinking as "linking ideas and methods from different areas into new combinations" now excludes nothing and functions as a legitimating platitude, tracked against critiques by Natasha Jen, Lee Vinsel, and Maggie Gram.
+description: A definition of Design Thinking once pointed at a real practice. The wording hasn't changed since. Everything around it has.
 date: 2026-11-09
 ---
 
