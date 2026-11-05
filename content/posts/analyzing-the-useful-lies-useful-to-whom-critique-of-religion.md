@@ -1,5 +1,5 @@
 ---
-title: Analyzing the useful lies, useful to whom critique of religion
+title: Analyzing the "useful lies, useful to whom" critique of religion
 description: '"Your religion is built on a vast collection of useful lies; but, useful to whom?" The line concedes that religion works. It also files a parable alongside a forged document.'
 date: 2026-05-07
 ---

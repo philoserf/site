@@ -1,5 +1,5 @@
 ---
-title: The wheel turns an old man and his son by the river
+title: "The wheel turns: an old man and his son by the river"
 description: An old man sits with his thirty-six-year-old son beside the river he has fished for forty years. He once counted every fish he took from it. He no longer remembers the number.
 eyebrow: Fiction
 date: 2026-05-20

@@ -4,7 +4,7 @@ description: Without conviction we stall. Yet we cling to positions simply becau
 date: 2026-06-05
 ---
 
-"Strong opinions, weakly held" captures the tension between acting decisively and adapting. This phrase, popularized by venture capitalist Paul Saffo, describes an approach where you form definitive positions based on available evidence while maintaining readiness to abandon those positions when better information emerges.
+"Strong opinions, weakly held" captures the tension between acting decisively and adapting. This phrase, popularized by technology forecaster Paul Saffo, describes an approach where you form definitive positions based on available evidence while maintaining readiness to abandon those positions when better information emerges.
 
 The statement operates on two levels. The "strong opinions" component reflects our need for closure and for deciding under uncertainty. Without conviction, we stall, unable to commit to anything. The "weakly held" element acknowledges that our initial assessments are provisional hypotheses rather than immutable truths.
 

@@ -7,7 +7,7 @@ date: 2026-07-08
 
 _From the Archives of Canopus: Survey Document 31572-B_  
 _Agent Johor, Colonial Service_  
-_Third Assessment: Terminal Phase of Experiment_
+_Third Assessment: The Question of a Terminal Phase_
 
 It is with necessary detachment that I record these observations on the species of Sol-3 (local designation: Earth). As representatives of Canopus, we are charged with monitoring the evolutionary developments of various planetary experiments. This one appears to be approaching a critical juncture.
 

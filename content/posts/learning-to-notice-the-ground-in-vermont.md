@@ -1,6 +1,7 @@
 ---
 title: Learning to notice the ground in Vermont
 description: We were not people who noticed the ground. Then the company sent us from a fourth-floor apartment to a Vermont farmhouse for six months, and when the power failed, the faucet went dry.
+eyebrow: Fiction
 date: 2026-06-26
 ---
 
@@ -30,7 +31,7 @@ We began to understand what here meant.
 
 Here meant: this hillside faces south and catches the first real warmth in April, which is why the dandelions start here and not in the field behind the barn. Here meant: the frost heaves push the stones up out of the pasture every winter, and every spring you walk the fence line and pull them out, and this is not a chore but a conversation with the geology, a negotiation between the living and the lithic that has been ongoing for ten thousand years. Here meant: the creek floods in the same place every time because the bedrock bends there, and the beavers know it, and they've been building in that bend since before the road was a road, and the road floods because the road ignored what the beavers knew.
 
-We had lived in the city for twelve years and we did not know what the bedrock was doing beneath our building. We did not know if there was bedrock, or what kind, or how deep. We did not know what the land had been before it was a parking garage and before that a tenement and before that a tannery and before that whatever it was—a marsh, a forest, a hunting ground, a place where someone whose name was never written down once stood and noticed the angle of the light in October and understood something about the year that we, twelve floors of concrete and ambition above, had never been asked to understand.
+We had lived in the city for twelve years and we did not know what the bedrock was doing beneath our building. We did not know if there was bedrock, or what kind, or how deep. We did not know what the land had been before it was a parking garage and before that a tenement and before that a tannery and before that whatever it was—a marsh, a forest, a hunting ground, a place where someone whose name was never written down once stood and noticed the angle of the light in October and understood something about the year that we, four floors of concrete and ambition above, had never been asked to understand.
 
 The six months passed and something had gotten into us.
 

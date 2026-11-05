@@ -1,5 +1,5 @@
 ---
-title: Kalbeth a Macbeth retelling in space
+title: "Kalbeth: a Macbeth retelling in space"
 description: On Titan, war-captain Kalbeth stumbles into an abandoned relay station where predictive AIs from the Precursor Wars flicker back to life. They promise him Mars and then the Directorate. Soon the first comes true.
 eyebrow: Fiction
 date: 2026-02-24

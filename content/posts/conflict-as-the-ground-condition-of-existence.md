@@ -18,7 +18,7 @@ Healthy relationships sustain difference rather than demand conformity. Producti
 
 The "richness of varieties of experience" emerges only when opposing forces keep pressing against each other. Monocultures—psychological, social, ecological—trade resilience for efficiency.
 
-Marion Milner first explored this in _On Not Being Able to Paint_. The principles go beyond art into how we live in a world that won't simplify.
+Marion Milner explored this in _On Not Being Able to Paint_. The principles go beyond art into how we live in a world that won't simplify.
 
 Sources:
 

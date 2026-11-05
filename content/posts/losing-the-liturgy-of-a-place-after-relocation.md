@@ -1,6 +1,7 @@
 ---
 title: Losing the liturgy of a place after relocation
 description: I learned the year not by calendars but by the willow, the pitch of the creek, the door the wind rattled. Seven years in one place. Then the transfer came in November.
+eyebrow: Fiction
 date: 2026-03-15
 ---
 

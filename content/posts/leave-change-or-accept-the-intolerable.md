@@ -12,6 +12,6 @@ Most prolonged suffering comes from refusing all three paths. People remain in s
 
 The challenge is assessing accurately. What registers as intolerable often reflects temporary states, cognitive distortions, or avoidable suffering rather than genuine impossibility. Depression makes everything feel intolerable. Anxiety catastrophizes. Anger magnifies grievances. The framework assumes you can distinguish between conditions that exceed human tolerance and those that feel difficult.
 
-Each option carries distinct costs. Leaving forfeits accumulated investment and forces you into uncertainty. Changing requires energy, risk of failure, and possible conflict. Acceptance dissolves the ego and can feel like surrender. The statement doesn't minimize these costs—it insists that enduring what you've deemed intolerable while taking no action compounds suffering.
+Each option carries distinct costs. Leaving forfeits accumulated investment and forces you into uncertainty. Changing requires energy, risk of failure, and possible conflict. Acceptance dissolves the ego and can feel like surrender. The framework doesn't minimize these costs—it insists that enduring what you've deemed intolerable while taking no action compounds suffering.
 
 In practice you attempt change first, accept what cannot be modified, and leave if acceptance proves impossible. Or you realize that what seemed intolerable becomes manageable through acceptance.
