@@ -29,7 +29,7 @@ params:
     headline: "Uncompressed public thinking"
     startHereIntro: "Essays that say what the rest is trying to do."
     featured:
-      - pageRef: /posts/why-the-social-contracts-legitimacy-rests-on-performance-not-consent
+      - pageRef: /posts/why-merely-useful-glasses-get-forgotten
       - pageRef: /posts/when-every-voice-is-cassandra
     startHere:
       - pageRef: /posts/why-the-say-nothing-rule-fails-thinking-out-loud
