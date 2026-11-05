@@ -13,3 +13,5 @@ This story does real work. It links who you were to who you'll become. It turns 
 You don't notice yourself doing this. The editing happens below awareness. You revise your past to match your present, rewrite your capabilities to match your fears or ambitions.
 
 Which means identity is more fluid than it feels. The story you tell yourself traps you or frees you. The difference is knowing you hold the pen.
+
+Next: [Why childhood defenses feel like adult personality](/posts/why-childhood-defenses-feel-like-adult-personality/), what passes for personality.

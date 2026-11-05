@@ -13,3 +13,5 @@ He did not write in straight lines. You follow him down a thought about friendsh
 He asked more questions than he answered. His motto, Que sais-je?—what do I know?—was not false modesty. It was a method. Inquiry as destination rather than waypoint. We have not absorbed this. We still reward the essay that closes cleanly, that lands. Montaigne would have found that suspicious.
 
 What holds it all together is the tone: easy, close, almost conspiratorial. He writes as though he trusts you to follow him even when he is not sure where he is going. That trust, extended across five centuries, still works.
+
+Next: [Why a summary cannot replace reading a book](/posts/why-a-summary-cannot-replace-reading-a-book/), what the hours are for.

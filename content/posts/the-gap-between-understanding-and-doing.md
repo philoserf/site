@@ -13,3 +13,5 @@ This is the old problem Aristotle called akrasia, weakness of will: knowing the 
 Still, the gap is not purely a deficit to be closed. Some distance between understanding and action is a form of discernment. Not everything understood should be done; judgment requires that understanding outrun action, holding more in view than it commits to. The pathology is not the gap itself but the gap unchosen—when it marks incapacity rather than restraint, when the start was wanted and never made, the work wanted and never sealed.
 
 Understanding is private and self-certifying; a person can always believe they have grasped enough. Starting and especially finishing are not self-certifying. They produce something outside the mind that either exists or does not. The world, and in honest moments the self, registers only what crossed that gap—which is why the gap, more than the understanding banked behind it, is the truer account of what a person can do.
+
+Next: [Heisenberg on how methods of questioning shape knowledge](/posts/heisenberg-on-how-methods-of-questioning-shape-knowledge/), how the asking shapes the answer.

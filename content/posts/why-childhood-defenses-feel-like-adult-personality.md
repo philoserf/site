@@ -17,3 +17,5 @@ This helps explain why insight alone seldom breaks a pattern. A person may know 
 Change begins when an adult can ask what a response was built to accomplish. Hypervigilance may have detected danger. Silence may have prevented conflict. Achievement may have secured approval. Once the purpose is clear, the response can be judged against present conditions rather than defended as an essential trait.
 
 The difficult discovery is that what feels most natural may be only what was learned earliest. Choosing differently can therefore feel, at first, less like becoming oneself than abandoning oneself. That discomfort is not proof that the new standard is wrong. It may be the first sign that a childhood world has ceased to govern an adult life.
+
+Next: [Consciousness as intentional activity, not a thing](/posts/consciousness-as-intentional-activity-not-a-thing/), whether there's anything to locate.

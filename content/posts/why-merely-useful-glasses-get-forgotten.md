@@ -13,3 +13,5 @@ Usually the answer is no. I can drive. I can shop. I can walk around. Later, whe
 Anything merely useful must keep justifying itself. Only necessities become habits.
 
 The problem with my eyesight is not that I cannot see. It is that I can see just well enough to keep convincing myself I won't need them.
+
+Next: [Tasting diluted cocktail ingredients](/posts/tasting-diluted-cocktail-ingredients/), a liter of water and some notes.

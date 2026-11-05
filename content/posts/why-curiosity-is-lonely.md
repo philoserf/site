@@ -17,3 +17,5 @@ The division is less clean than any of this suggests. Curiosity is not an organ 
 One might expect curiosity to dissolve its own difficulty. A mind able to wonder about anything should be able to wonder why another mind has stopped wondering. But curiosity is an appetite, and appetites are not fed by watching. One can study another person's reserve and silences without receiving the reciprocity one sought. Observation is not companionship. Understanding why a door is closed does not make it open.
 
 None of this makes the curious admirable. They want what everyone wants and ask for it in a form most people do not recognize. The ache is not in having interests others lack, but in finding that attention travels outward without returning.
+
+Next: [Montaigne and the essay as attempt](/posts/montaigne-and-the-essay-as-attempt/), writing as a way of trying.

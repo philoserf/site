@@ -29,3 +29,5 @@ date: 2026-05-09
 | 80  | 0.13x | 0.25x | 0.38x | 0.5x  | 0.63x | 0.75x | 0.88x | 1.0x  |
 
 Rows are the age experiencing a year; columns are the comparison age. A year at age 10 feels 8x as significant as a year at age 80.
+
+Next: [Why life-changing moments feel ordinary](/posts/why-life-changing-moments-feel-ordinary/), when big moments arrive without ceremony.
