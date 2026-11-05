@@ -1,6 +1,6 @@
 ---
 title: Prework as the work of intentional living
-description: Argues that preparatory tasks—laying out gym clothes, blocking calendars, writing tomorrow's priorities—are where values turn into acts, drawing on Seneca and Socrates, and notes the claim fails when preparation never ends in action.
+description: Gym clothes laid out the night before feel like the least of it, a chore ahead of the real work. Are they?
 date: 2026-11-30
 ---
 

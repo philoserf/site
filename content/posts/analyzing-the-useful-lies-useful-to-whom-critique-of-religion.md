@@ -1,6 +1,6 @@
 ---
 title: Analyzing the useful lies, useful to whom critique of religion
-description: Rhetorical and philosophical analysis of "your religion is built on useful lies; but useful to whom?", tracing links to Plato, Nietzsche, Marx, and Harari, the power-shift in the closing question, and the category error in calling myth a lie.
+description: '"Your religion is built on a vast collection of useful lies; but, useful to whom?" The line concedes that religion works. It also files a parable alongside a forged document.'
 date: 2026-05-07
 ---
 

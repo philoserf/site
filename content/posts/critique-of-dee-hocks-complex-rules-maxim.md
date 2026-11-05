@@ -1,6 +1,6 @@
 ---
 title: Critique of Dee Hock's complex rules maxim
-description: Dee Hock's line that complex rules produce simple, stupid behavior holds as a diagnosis of displaced judgment but fails as a general law, with surgical checklists, aviation protocol, and post-2008 finance as counterexamples.
+description: Dee Hock, who built Visa International, held that complex rules give rise to simple and stupid behavior. Then a surgeon picks up a checklist, and a pilot runs a protocol.
 date: 2026-09-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Creativity as a function of the library in your head
-description: Close reading of the maxim "what you create is a function of the library in your head," weighing its case for wide, curious input against its neglect of lived experience, collaboration, and accident, and ending with it as practical advice.
+description: '"What you create is a function of the library in your head." It sounds almost too obvious to say. But I have made things I could not trace back to anything I read.'
 date: 2026-03-23
 ---
 

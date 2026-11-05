@@ -1,6 +1,6 @@
 ---
 title: Identity as a self-authored story
-description: "Personal identity works as a continuously edited self-narrative: we select defining memories, recast embarrassments as growth, and rewrite luck as merit below awareness. Recognizing this unconscious editing reveals identity as fluid and puts the pen in your hand."
+description: The embarrassing thing from ten years ago? Edited out, or recast as growth. The lucky break? Rewritten as earned. You never noticed the editing.
 date: 2026-04-11
 ---
 

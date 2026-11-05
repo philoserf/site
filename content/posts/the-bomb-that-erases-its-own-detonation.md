@@ -1,6 +1,6 @@
 ---
 title: The bomb that erases its own detonation
-description: Close reading of a passage about a bomb that erases knowledge of its own detonation, framing it as a parable of civilizational amnesia, trauma-driven forgetting, and recurring financial crises, with attention to its flat after-action-report tone.
+description: Imagine a bomb that erases its own successful detonation and flattens the knowledge that built it. Ordinary bombs leave rubble. This one leaves a clean slate, and its builders start over.
 date: 2026-04-16
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: The arithmetic of forgetting
-description: A Poe-style narrator builds an ebony wheel apparatus to statistically measure the decay of memories after his beloved Lenore's death, only to realize quantifying loss cannot preserve or replace lived remembrance.
+description: After Lenore's death, a grieving man builds an ebony wheel to measure how fast his memories of her fade. The figures come out exactly as predicted.
+eyebrow: Fiction
 date: 2026-12-14
 ---
 

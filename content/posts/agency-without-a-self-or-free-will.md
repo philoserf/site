@@ -1,6 +1,6 @@
 ---
 title: Agency without a self or free will
-description: Argues that free will and a unified self are illusions, yet agency persists as the ability to shape probabilities, habits, and environments rather than exert sovereign control.
+description: Take selfhood and free will as illusions. No one sits on a sovereign perch outside the causal flow. Then who is left to shape a habit or choose an environment?
 date: 2026-07-01
 ---
 

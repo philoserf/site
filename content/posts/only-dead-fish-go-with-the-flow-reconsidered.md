@@ -1,6 +1,6 @@
 ---
 title: Only dead fish go with the flow, reconsidered
-description: "Critique of the aphorism as a false binary between resistance and drift: real fish read currents and conserve energy, Taoist wu wei means cooperative effort not passivity, and the surviving truth is that only dead fish lack agency."
+description: Only dead fish go with the flow, the saying goes. Then researchers put a dead trout in the right water and watched it move upstream.
 date: 2026-11-27
 ---
 

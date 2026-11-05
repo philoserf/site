@@ -1,6 +1,6 @@
 ---
 title: Lessing smuggling Sufi teaching into science fiction
-description: Doris Lessing's Canopus in Argos series, especially Shikasta, reframes Sufi cosmology as alien intervention, drawing on Idries Shah's study groups and adding species-level evolution to make mysticism palatable to materialist science fiction readers.
+description: Science fiction readers expected aliens and technology, and wouldn't touch "Eastern mysticism." Doris Lessing, who attended Idries Shah's study groups, gave them Shikasta.
 date: 2026-05-04
 ---
 

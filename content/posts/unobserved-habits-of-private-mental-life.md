@@ -1,6 +1,6 @@
 ---
 title: Unobserved habits of private mental life
-description: Default mental activity—rumination, fantasy, worry, replaying memories—forms habits through repetition rather than choice, unfolds free from external judgment, and largely escapes articulation, leaving a structural gap between inner experience and what can be shared.
+description: Nobody decides to spend an afternoon replaying a conversation from three years ago. The mind does it anyway, and most of its hours go this way, with no one watching.
 date: 2026-05-29
 ---
 

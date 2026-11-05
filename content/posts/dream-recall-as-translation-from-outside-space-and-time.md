@@ -1,6 +1,6 @@
 ---
 title: Dream recall as translation from outside space and time
-description: Dreams as experience outside space and time that the waking, body-bound mind translates and partly discards on return. Weighs the picture's fidelity to how dreaming feels against REM neuroscience, Kant's forms of intuition, and cheaper memory-encoding explanations.
+description: Suppose the mind leaves the body in sleep, and the dream you recall is a translation from outside space and time. It fits how dreaming feels. What else would have to be true?
 date: 2026-07-15
 ---
 

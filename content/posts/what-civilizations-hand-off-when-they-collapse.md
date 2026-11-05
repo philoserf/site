@@ -1,6 +1,6 @@
 ---
 title: What civilizations hand off when they collapse
-description: "Civilizations matter less for surviving than for what they hand off: Greek arguments, Song China's techniques and printing, Timbuktu's manuscripts all outlived their political containers. Argues against Pinker's linear progress and frames the present as an interregnum between coordination orders."
+description: Classical Greece, Song China, and Timbuktu had almost nothing in common, except that each collapsed. Now the old coordination can't keep up and the new one hasn't arrived. Which habits make it through?
 date: 2026-05-06
 ---
 

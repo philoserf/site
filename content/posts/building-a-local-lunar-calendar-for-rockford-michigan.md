@@ -1,6 +1,6 @@
 ---
 title: Building a local lunar calendar for Rockford, Michigan
-description: Proposes a naturalistic pagan practice rooted in the Rogue River watershed, beginning lunar months at the visible crescent rather than astronomical conjunction, and building phenological moon names from years of local observation instead of borrowed Wheel of the Year or Indigenous terminology.
+description: A phone can give the instant of the new moon, yet most of us don't know when the ground thaws here. What would a calendar look like if it had to be watched?
 date: 2026-11-12
 ---
 

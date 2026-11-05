@@ -1,6 +1,6 @@
 ---
 title: AI replaces negotiation, not labor
-description: AI works within set constraints and fails transparently, while human collaborators resist constraints, reinterpret goals, and protect status or credit. Argues that AI most readily replaces negotiation rather than labor, while acknowledging some friction is legitimate judgment.
+description: An AI doesn't tire or sulk, and when it fails, it fails plainly. A collaborator adds abstraction and turns a simple task into a territory dispute. Yet some of that friction makes the work better.
 date: 2026-01-30
 ---
 

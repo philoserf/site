@@ -1,6 +1,6 @@
 ---
 title: Leave, change, or accept the intolerable
-description: Framework for responding to intolerable situations by leaving, changing, or accepting them, with the costs of each path, the trap of passive endurance with resentment, and how depression, anxiety, and anger distort what counts as intolerable.
+description: "When circumstances feel unbearable, three options exist: leave, change them, or accept them. The map looks simple, until you notice that depression makes everything feel intolerable."
 date: 2026-05-27
 ---
 

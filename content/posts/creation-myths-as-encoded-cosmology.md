@@ -1,6 +1,6 @@
 ---
 title: Creation myths as encoded cosmology
-description: "Creation myths share a logical constraint with cosmology, not scientific foresight: every origin starts undifferentiated. Physics keeps the shape and reverses the sign—the formless beginning was the most ordered state of all."
+description: Genesis and the Big Bang both seem to begin in formlessness. The parallel falls apart when you check the timeline, yet the two keep arriving at the same place. Why?
 date: 2026-12-04
 ---
 

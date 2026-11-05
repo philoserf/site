@@ -1,6 +1,6 @@
 ---
 title: How business is done as a rhetorical defense
-description: Examines the phrase "it's how business is done" as a test for distinguishing fair market conventions from scams, using real estate commissions, Enron, and drug pricing as cases.
+description: "\"It's not a scam. It's just how business is done.\" Sometimes that defense is fair. For decades it also covered real estate commissions near six percent, until a Missouri jury looked at them."
 date: 2026-10-13
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Political grief and the myth of the brink
-description: A George Saunders line about a country "on the brink" of realizing its founding principles prompts a distinction between mourning an achievement and mourning a forecast, arguing reaction is America's norm and "we somehow" obscures specific actors.
+description: George Saunders mourns a country "on the brink of actually making sense of its founding principles." Mourning an achievement and mourning an expectation call for different responses. Which one is this?
 date: 2026-10-28
 ---
 

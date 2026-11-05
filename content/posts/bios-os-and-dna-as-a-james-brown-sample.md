@@ -1,6 +1,6 @@
 ---
 title: Bios O.S. and DNA as a James Brown sample
-description: Speculative Machines' "Bios O.S." recasts genetic engineering as hip-hop sampling, using James Brown's uncleared breaks to raise questions of ownership, consent and control over edited genomes, descendants and species.
+description: '"Like a choice James Brown sample, our DNA will be re-sampled, recycled, glitched, chopped and screwed," Speculative Machines says. Many early samples of Brown were taken without clearance or payment.'
 date: 2026-07-27
 ---
 

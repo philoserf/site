@@ -1,6 +1,6 @@
 ---
 title: Why the social contract's legitimacy rests on performance, not consent
-description: 'Political legitimacy rests on present performance rather than founding consent: the "I never signed" objection proves too much, while reliance on institutions and historical exclusion both become evidence about whether the state currently protects those it binds.'
+description: No contract you did not sign can bind you, and no one alive signed this one. Yet you rely on roads you did not build and courts you did not fund.
 date: 2026-07-22
 ---
 

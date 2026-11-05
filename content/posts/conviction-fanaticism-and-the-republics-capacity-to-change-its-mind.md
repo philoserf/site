@@ -1,6 +1,6 @@
 ---
 title: Conviction, fanaticism and the republic's capacity to change its mind
-description: "Critique of the claim that self-certain saviors damage America most: abolitionists disprove it, yet the mechanism holds when conviction stops being answerable to reality, illustrated by Indian Removal, McCarthy and Vietnam, with Popper on reversible error."
+description: No one has done more damage to the United States, a sentence goes, than those most certain they are saving it. The abolitionists were certain. So were the marchers in Birmingham.
 date: 2026-10-30
 ---
 

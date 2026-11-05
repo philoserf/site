@@ -1,6 +1,6 @@
 ---
 title: Why the mind-body debate stays stuck
-description: Materialism and idealism each solve what the other cannot, trapped by a shared premise that reality must have one fundamental category; a pragmatic, coordinate-system approach treats them as complementary descriptions rather than competing truths.
+description: Materialism can't get experience out of matter. Idealism can't get separate minds out of experience. Each fails just where the other begins, and that symmetry is a clue.
 date: 2026-12-21
 ---
 

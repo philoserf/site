@@ -1,6 +1,6 @@
 ---
 title: The republic as something each generation must keep
-description: Argues that the American republic's endurance is an ongoing achievement of recommitment rather than a guaranteed inheritance, drawing on Madison, Franklin, Arendt, and Jefferson while questioning what counts as continuity given the Civil War and Jim Crow.
+description: "A 250th birthday invites the grandest reflex: we have arrived, the founding is secure. Set that beside the Civil War and Jim Crow, and it gets harder to say what exactly has lasted."
 date: 2026-07-03
 ---
 

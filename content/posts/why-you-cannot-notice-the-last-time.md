@@ -1,6 +1,6 @@
 ---
 title: Why you cannot notice the last time
-description: Lastness is a relation assigned retrospectively by memory, not a perceptible quality of a moment, so the advice to "notice the last time" demands an impossible perception and produces unearned guilt. Finitude, unlike lastness, is present all along.
+description: "The advice is meant kindly: there will be a last time you carry a child to bed, no one will tell you which, so notice more. Then it's gone, and you didn't notice."
 date: 2026-09-11
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The rat race from industrialization to automation
-description: Wage labor's origins in mechanization and factory discipline, the 1940s coining of "rat race," and how automation, AI, and decentralized economies could sever effort from survival, shifting competition toward attention, reputation, and influence.
+description: Before industrialization competition had boundaries and there was no rat race. By the 1940s the phrase named a way of life. Now automation is shifting the link between effort and reward.
 date: 2026-01-02
 ---
 

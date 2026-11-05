@@ -1,6 +1,6 @@
 ---
 title: Media manufactures culture rather than reflecting it
-description: Television and social media manufacture culture rather than reflect it, then sell it back as indispensable context. Real culture is the place you live, the people you talk to, and what you witness firsthand; the rest is programming.
+description: Until the 2010s, you needed television to follow the broader culture. Since then, you've needed social media. Needed for what, exactly?
 date: 2026-04-04
 ---
 

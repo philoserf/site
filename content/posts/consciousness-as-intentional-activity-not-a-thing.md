@@ -1,6 +1,6 @@
 ---
 title: Consciousness as intentional activity, not a thing
-description: Argument that consciousness is always consciousness of something, drawing on Husserl's intentionality, functional theories, and Buddhist no-self, then weighed against minimal self-awareness, objectless meditative states, and the hard problem.
+description: There is no consciousness, the claim runs, only being conscious of something. Then meditators report awareness with no object at all, and someone still has to say why any of it is experience.
 date: 2026-03-04
 ---
 

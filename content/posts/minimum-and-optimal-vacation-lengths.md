@@ -1,6 +1,6 @@
 ---
 title: Minimum and optimal vacation lengths
-description: "Minimum and optimal vacation lengths weighed against transit and recovery time: at least 5 days on the ground for single-day travel, 10 for long-haul, and about 23 days as the optimum where a trip becomes a temporary life."
+description: A ten-day long-haul is really five usable days. Transit and recovery take their share first, which makes a vacation's length less a matter of preference than of arithmetic.
 date: 2026-07-17
 ---
 

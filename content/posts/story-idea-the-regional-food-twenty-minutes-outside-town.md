@@ -1,6 +1,6 @@
 ---
 title: Story idea the regional food twenty minutes outside town
-description: "Story concept following a food writer or chef tracing the informal food economy twenty minutes outside a small town: unlicensed kitchens, immigrant gardens, adapted recipes. Central tension pits authenticity against branding and legibility, with chapters organized by dish and producer."
+description: Twenty minutes outside town, someone's grandmother is making the thing the restaurant is trying to approximate. A story idea about a town fed by kitchens it doesn't quite acknowledge, and a region someone wants to brand.
 date: 2026-08-07
 ---
 

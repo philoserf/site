@@ -1,6 +1,6 @@
 ---
 title: Why curiosity is lonely
-description: "Curiosity as a bid for companionship that usually goes unmet: the curious are scattered rather than merely scarce, learn restraint after repeated rebuffs, and find that understanding others' incuriosity brings no reciprocity."
+description: A question is an offer, and most meet a shrug, a joke, or a quick change of subject. The curious are dispersed one to a family, one to a workplace, one to a room.
 date: 2026-08-05
 ---
 

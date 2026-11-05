@@ -1,6 +1,6 @@
 ---
 title: Voice as location Larkin versus Frost
-description: Poetic voice as the ground a poem stands on rather than applied style, contrasting Larkin's deductive British bleakness with Frost's inductive New England particulars, and why a fragmented "dopamine" poem fails to earn authority through typography.
+description: Larkin can simply state that man hands on misery to man. Frost can't. He needs the snow, the neighbor, the wall.
 date: 2026-02-26
 ---
 

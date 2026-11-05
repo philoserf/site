@@ -1,6 +1,6 @@
 ---
 title: Two Latin mottos as inner and outer epistemic loops
-description: Explains two personal Latin mottos—COGITA·DISCE·NECTE·ENUNTIA (later FARE) and PERCIPE·STRUE·EFFICE—as inner and outer epistemic loops linking thought, learning, connection, and action.
+description: Two Latin mottos, seven words, read as the inner and outer loops of an epistemic life. A note added later retires one motto and corrects a word the reading depends on.
 date: 2026-04-07
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Why LLMs cannot be virtuously lazy
-description: LLMs lack the programmer's virtue of laziness because effort costs them nothing; without scarcity or stakes they cannot decline or say "this is fine," so the user must supply the judgment by discarding output and asking for less.
+description: Larry Wall called laziness a cardinal virtue of the programmer. An LLM will write six hundred lines where twenty would serve, and it will find issues in any file you ask it to review.
 date: 2026-04-27
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Why watching indecency win corrodes public life
-description: "Reflection on why the public success of indecency is more corrosive than the act itself: moral vertigo, deliberate exhaustion through flooding the zone, historical parallels with fallen republics, and a call to document, build institutions, and guard local decency."
+description: Indecency in public life is not new. What stings is watching it win. What once ended careers now launches them, and what once brought shame now draws applause.
 date: 2026-02-28
 ---
 

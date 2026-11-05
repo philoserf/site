@@ -1,6 +1,6 @@
 ---
 title: Brand destruction is a market failure, not a leadership style
-description: An aphorism scores corporate leaders by how slowly they destroy their brands. It fits real firms—but only where competition has already failed, which makes it a verdict on markets rather than on executives.
+description: One cynical aphorism scores corporate leaders by how slowly they destroy the brand. It fits some firms uncomfortably well. What has to be true for it to fit at all?
 date: 2026-11-20
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Goal pursuit probability model
-description: Goal persistence modeled as value alignment, skill growth, bounded willpower depletion, and interference, with worked examples of learning Go and adopting Obsidian. The middle phase is the sag from early momentum to a plateau, and the plateau decides whether a goal survives.
+description: A goal can start with high value and fast progress, then quietly stall. Four terms in one equation try to say when, followed through learning Go and adopting Obsidian.
 date: 2025-12-06
 math: true
 ---

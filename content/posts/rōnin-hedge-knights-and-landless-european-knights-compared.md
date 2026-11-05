@@ -1,6 +1,6 @@
 ---
 title: Rōnin, hedge knights, and landless European knights compared
-description: "Comparison of Japanese rōnin, Westerosi hedge knights, and European landless knights as warriors without patronage, contrasting legitimacy, mobility, moral framing, and how each society treats their violence: loyalty unmoored versus poverty versus a test of virtue."
+description: A samurai without a lord is a problem. A hedge knight without land may only be unlucky. Both are trained warriors living by skill and reputation.
 date: 2026-02-11
 ---
 

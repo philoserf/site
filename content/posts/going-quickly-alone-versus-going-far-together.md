@@ -1,6 +1,6 @@
 ---
 title: Going quickly alone versus going far together
-description: Explores the proverb about solo speed versus collective endurance, arguing wisdom lies in matching solitude or collaboration to the true distance of the goal rather than treating either as an inherent virtue.
+description: If you want to go quickly, go alone; if you want to go far, go together. The proverb offers a choice, but not everyone gets to make one.
 date: 2026-12-23
 ---
 

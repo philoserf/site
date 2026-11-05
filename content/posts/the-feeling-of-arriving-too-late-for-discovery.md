@@ -1,6 +1,6 @@
 ---
 title: The feeling of arriving too late for discovery
-description: Explores the recurring historical illusion that all major discoveries and frontiers are exhausted, from Michelson's 1894 claim before quantum theory and relativity to Fukuyama's "end of history," arguing the feeling reflects a wish to be a protagonist rather than an inheritor.
+description: In 1894 Albert Michelson said the important laws of physics had all been discovered. Six years later came the quantum. So why does the feeling of arriving too late keep returning?
 date: 2026-12-25
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Devious sanity as moral indictment
-description: "A line from Miller's A Canticle for Leibowitz reframes sanity as indictment: deliberate, clear-headed deviousness is worse than madness because it chooses harm. Links to Arendt's banality of evil and psychopathy research on manipulation requiring intact cognition."
+description: "\"I don't think he's mad, just devious in his sanity,\" runs a line in A Canticle for Leibowitz. We excuse madness. What do we do with the sane?"
 date: 2026-02-10
 ---
 

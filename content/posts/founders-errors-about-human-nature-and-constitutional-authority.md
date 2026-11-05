@@ -1,6 +1,6 @@
 ---
 title: Founders' errors about human nature and constitutional authority
-description: The framers' 1787 model of human nature failed on faction, slavery, and "the people," yet their structural intuitions about fragmenting power held up; this undercuts original-intent jurisprudence while leaving public-meaning originalism and the institutions' own record intact.
+description: The men who drafted the Constitution were wrong about human nature in most of the ways a person could be in 1787. Their intent still gets invoked as a trump card.
 date: 2026-10-02
 ---
 

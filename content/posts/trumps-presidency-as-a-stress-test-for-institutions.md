@@ -1,6 +1,6 @@
 ---
 title: Trump's presidency as a stress test for institutions
-description: Pressure on democratic guardrails reveals which are law and which are convention, forcing the press, courts, and federalism into open defense. Reactive gains hinge on memory and follow-through, since the same pressure erodes trust and normalizes abuses.
+description: Guardrails everyone assumed were solid turn out to be conventions. One administration's pressure forces the press, the courts, and federalism into open defense. Does anything lasting come of being forced to look?
 date: 2026-05-18
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Knowledge as an irreversible trade against peace
-description: Happiness built on not knowing ends irreversibly once examined; the words chosen for that loss (growing up, waking up, disillusionment) decide whether mourning is permitted. Knowledge trades clarity for a peace it cannot restore.
+description: Some happiness depends on not knowing, and once you know, you can't get back. We call this growing up, or waking up, or disillusionment, depending on how much we resent it.
 date: 2026-05-08
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Adulthood as a capacity catalyzed by necessity
-description: Reflection on the claim that adulthood is a latent capacity triggered by necessity rather than gradual growth, covering comfort as an obstacle, the capability-identity gap, Seneca on scarcity, and whether crisis-driven maturity is genuine or merely functional.
+description: "\"We don't become adults until we need to, and when we need to, we do, very quickly.\" An eighteen-year-old loses a parent and runs a household. Then what were the years before?"
 date: 2026-04-20
 ---
 

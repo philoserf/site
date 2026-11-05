@@ -1,6 +1,6 @@
 ---
 title: Why the say-nothing rule fails thinking out loud
-description: Critique of the maxim to stay silent when unsure what to say, arguing it conflates not knowing what to say, having nothing to say, and not yet knowing what one thinks, and misreads Socrates as its witness.
+description: If you do not know what to say, say nothing. The line circulates without an owner, and its usual witness is Socrates, who talked continuously, to strangers, at length.
 date: 2026-09-02
 ---
 

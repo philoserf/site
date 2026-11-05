@@ -1,6 +1,6 @@
 ---
 title: Ecclestone and selling what you never owned
-description: Eddie Jordan's quip that Bernie Ecclestone sold Formula 1 four times without ever owning it, examined as a lesson that control and structural indispensability, not legal title, are the real basis of durable power.
+description: "Eddie Jordan's line on Bernie Ecclestone: sold Formula 1 four times, never bought it back, never lost control, and never owned it in the first place. So what was for sale?"
 date: 2026-03-05
 ---
 

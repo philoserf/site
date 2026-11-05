@@ -1,6 +1,6 @@
 ---
 title: Why fairness does not have to cost prosperity
-description: "Argues the assumed tradeoff between fairness and prosperity conflates three meanings of fairness: outcome, opportunity, and procedure. Only heavy outcome-compression taxes growth; procedural fairness and equal opportunity build the substrate growth compounds on, as Nordic Gini and GDP data suggest."
+description: Compress a society's rewards and you dull the motive to innovate; the logic holds as far as it goes. Yet Norway, Denmark, Sweden, and Finland rank among both the most equal and the richest countries.
 date: 2026-07-20
 ---
 

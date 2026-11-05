@@ -1,6 +1,6 @@
 ---
 title: How the powerless come to police each other
-description: Oppressed groups come to enforce hierarchy on themselves through scarcity, internalized standards (Fanon, Freire), promoted deputies and normalization over time. Breaking it requires collective solidarity, not lone resistance, since the first to step out is punished.
+description: A manager with three people competing for one promotion needs no whip. In colonies, prisons, and corporations alike, the powerless end up policing each other, and nobody has to design it.
 date: 2026-10-23
 ---
 

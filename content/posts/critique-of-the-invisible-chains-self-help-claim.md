@@ -1,6 +1,6 @@
 ---
 title: Critique of the invisible chains self-help claim
-description: 'Examines the self-help trope of "invisible chains," arguing it contains a real insight about internalized limits but rests on two flawed assumptions: a discoverable true self, and conflating belief-based conditioning with material or structural constraint.'
+description: We're conditioned to believe we can't change our lives, the claim goes, trapped by invisible chains. Seeing them is already the first liberation. Someone on poverty wages with dependents can see theirs plainly.
 date: 2026-09-18
 ---
 

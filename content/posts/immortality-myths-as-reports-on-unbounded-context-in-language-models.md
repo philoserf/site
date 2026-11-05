@@ -1,6 +1,6 @@
 ---
 title: Immortality myths as reports on unbounded context in language models
-description: Immortality myths—Tithonus, Struldbruggs, Borges, Makropulos, Tolkien's Elves, vampires, Stableford's emortals—read as failure reports on unbounded context accumulation in language models, mapping each to mechanisms like stale state, signal-to-noise collapse, and mode collapse, ending with Gilgamesh's external artifacts.
+description: Tithonus withers into a grasshopper. Swift's Struldbruggs can't read their own old documents. Long before anyone built a language model, the oldest longevity stories kept filing the same failure report.
 date: 2026-09-25
 ---
 

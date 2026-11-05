@@ -1,6 +1,6 @@
 ---
 title: Where markets stop being a mechanism
-description: "Distinguishes goods a market allocates badly from goods a price converts into something else, such as justice, citizenship and testimony. Proposes a test: ask what the good becomes when someone declines to pay, drawing on Walzer and Sandel."
+description: "The usual fight over markets is about degree: how free, how regulated, how much correction. Then someone proposes to correct the price of justice."
 date: 2026-10-12
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The faint light the human body emits
-description: Living cells emit ultra-weak biophotons as a by-product of metabolism, a faint continuous glow distinct from bioluminescence and too dim to see, yet documented by instruments.
+description: Your body gives off light every moment you're alive. Instruments have measured it. It's too faint to see, and most people never learn it's there.
 date: 2026-12-11
 ---
 

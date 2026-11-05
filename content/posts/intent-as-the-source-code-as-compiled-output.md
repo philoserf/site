@@ -1,6 +1,6 @@
 ---
 title: Intent as the source, code as compiled output
-description: "Argues that with AI coding agents the intent document (PRD) becomes the primary artifact and code is compiled output: version-control specs, regenerate instead of refactor, recover legacy systems via preserved intent, and treat divergent agent outputs as PRD bugs."
+description: You write C and maintain the C; nobody maintains the assembly. Coding agents now turn plain descriptions into code. So which file is the one worth keeping?
 date: 2026-03-20
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Semantic diffusion in vibe coding, DevOps, and technical debt
-description: Martin Fowler's 2006 concept of semantic diffusion—coined terms losing precision through loose use—illustrated by vibe coding (Karpathy's deliberate non-review definition), DevOps (dissolving dev/ops incentives), and technical debt (Cunningham's compound-interest metaphor).
+description: "In February 2025 Andrej Karpathy named vibe coding: accepting an LLM's code without reviewing it. Within months people used the term for carefully reviewed code too. A word can lose its meaning that fast."
 date: 2026-02-07
 ---
 

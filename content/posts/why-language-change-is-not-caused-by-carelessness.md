@@ -1,6 +1,6 @@
 ---
 title: Why language change is not caused by carelessness
-description: "Critique of the claim that language changes because speakers neglect prior meanings, arguing drift is structurally unavoidable: no speaker accesses a word's full history, diligent fields like law still drift, and change is an unintended aggregate outcome."
+description: Language changes, the claim goes, because speakers take no care over what words meant to earlier users. Then why do law, science, and lexicography, the most diligent fields of all, drift too?
 date: 2026-06-12
 ---
 
