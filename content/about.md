@@ -3,6 +3,9 @@ title: About
 eyebrow: "Who I am"
 description: "Why I think in public, what I write about, and the principles behind it, shaped by military service, technology, nonprofit leadership, and retail."
 lastmod: 2026-09-25
+aliases:
+  - /why/
+  - /hello/
 ---
 
 {{< latin-motto >}}

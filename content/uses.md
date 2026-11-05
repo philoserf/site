@@ -4,6 +4,9 @@ eyebrow: "What I use"
 description: "The hardware, software, and golf clubs I actually use. Updated when reality changes."
 lastmod: 2026-11-04
 showUpdated: true
+aliases:
+  - /defaults/
+  - /carry/
 ---
 
 Only what's in daily use.
