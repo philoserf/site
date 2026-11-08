@@ -11,8 +11,5 @@
 # lychee link-checker cache (written when running lychee locally)
 /.lycheecache
 
-# Local issue tracking
-/.issues/
-
 # Wrangler local state
 /.wrangler/
