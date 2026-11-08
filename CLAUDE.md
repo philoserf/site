@@ -2,8 +2,6 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-The current next step for this repo is tracked in the workspace backlog at `../NEXT.md` (the `site` row). Read it when starting work; update it when that step ships.
-
 ## Architecture
 
 - **Config**: hugo.yaml. `enableGitInfo: true` — posts can omit `lastmod` and Hugo falls back to the git commit date; do not disable without auditing every post. `frontmatter.lastmod` puts a hand-set `lastmod` ahead of the git date, so structural pages keep the date their content last changed rather than their last commit.
