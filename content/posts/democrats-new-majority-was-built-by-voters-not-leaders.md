@@ -14,6 +14,6 @@ So the mandate belongs to the new class, and the party owes it three debts:
 
 - Leadership. A majority made by turnover cannot be led by the people it was a verdict on. At least seven incoming senators have declined to pledge Schumer their votes. Senate Democrats decide on December 1, by secret ballot. Every senator, and every newcomer most of all, owes voters a public account of that vote.
 - Seniority. Tenure still hands out gavels. John Larson campaigned on the chairmanship his years would have earned him, and his voters said no. Committee power must answer to voters, as the primaries did.
-- 2028. The nomination has to be an open contest among the generation that won this election, with no elder claiming a turn.
+- 2028\. The nomination has to be an open contest among the generation that won this election, with no elder claiming a turn.
 
 A party that pockets the win and keeps the old arrangement will have spent its voters' mandate on the people they voted to replace.
