@@ -1,7 +1,7 @@
 ---
-date: 2027-01-08
-description: In the 1880s, rail, wire, and the trusts arrived at once, and it took forty years to settle what they broke. The pattern is back. How long does it get this time?
 title: Today's tech upheaval will repeat the Gilded Age, only faster
+description: In the 1880s, rail, wire, and the trusts arrived at once, and it took forty years to settle what they broke. The pattern is back. How long does it get this time?
+date: 2027-01-08
 ---
 
 In the 1880s, everything arrived at once. Railroads and telegraph wires were stitching the continent into a single economic body. Electrification was beginning. Trusts were consolidating capital into forms no prior legal vocabulary had anticipated. Inequality was visible enough to provoke organized labor, yet still deniable. Local life reorganized into system-scale life, and the institutions meant to govern that transition lagged the technology producing it.
