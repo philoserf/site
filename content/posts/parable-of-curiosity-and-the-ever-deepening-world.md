@@ -9,7 +9,7 @@ The creator made a world simple enough to serve its purpose. Into it he placed u
 
 We ate, and innocence ended. What had been enough no longer was. We began to ask why, then what lay beneath the answer, then what lay beneath that.
 
-The creator answered by enlarging the world. Each question made new depths for the answer to occupy. The more closely we looked, the more there was to see. Matter opened into particles, particles into fields and uncertainties. The heavens opened into stars, galaxies and reaches without end. These depths had not waited there for us. Our asking called them into being.
+The creator answered by enlarging the world. Each question made new depths for the answer to occupy. The more closely we looked, the more there was to see. Matter opened into particles, particles into fields and uncertainties. The heavens opened into stars, galaxies, and reaches without end. These depths had not waited there for us. Our asking called them into being.
 
 Curiosity therefore carried its own punishment. Every answer increased the number of questions. Knowledge did not approach completion; it moved completion farther away. To seek was to make more to seek.
 
