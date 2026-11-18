@@ -34,7 +34,7 @@ But vigilance is exhausting. It requires constant correction. And it's unpopular
 
 Sources:
 
-- <https://martinfowler.com/bliki/SemanticDiffusion.html>
-- <https://x.com/karpathy/status/1886192184808149383>
-- <http://c2.com/doc/oopsla92.html>
-- <https://simonwillison.net/2025/Mar/23/semantic-diffusion/>
+- [Martin Fowler, Semantic Diffusion](https://martinfowler.com/bliki/SemanticDiffusion.html)
+- [Andrej Karpathy, vibe coding post on X](https://x.com/karpathy/status/1886192184808149383)
+- [Ward Cunningham, The WyCash Portfolio Management System](http://c2.com/doc/oopsla92.html)
+- [Simon Willison, Semantic Diffusion](https://simonwillison.net/2025/Mar/23/semantic-diffusion/)
