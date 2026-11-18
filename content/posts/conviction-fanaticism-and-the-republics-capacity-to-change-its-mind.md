@@ -1,5 +1,5 @@
 ---
-title: Conviction, fanaticism and the republic's capacity to change its mind
+title: Conviction, fanaticism, and the republic's capacity to change its mind
 description: No one has done more damage to the United States, a sentence goes, than those most certain they are saving it. The abolitionists were certain. So were the marchers in Birmingham.
 date: 2026-10-30
 ---
@@ -8,7 +8,7 @@ A sentence circulates in several forms: no one has done more damage to the Unite
 
 Start with what it gets wrong. Conviction is not the problem. The abolitionists were certain. The suffragists were certain. The people who marched in Birmingham in 1963, knowing about the dogs and the hoses, were certain, and their certainty produced the moral progress this country can point to without flinching. Any account of political damage that indicts strong belief as such ends up indicting the people who turned out to be right, which is a sign the account has gone wrong somewhere. The superlative fails too. Foreign powers have done profound harm through war and terror; panics and pandemics have redirected the country with no help from anyone's moral certainty; plenty of leaders have pursued corrupt ends with no illusion of patriotic virtue, and cynicism has a destructive range of its own. Worst, the sentence cannot tell an abolitionist from a Klansman. Both were certain they were saving the country, and only one was.
 
-What separates conviction that renews a republic from conviction that wrecks one is not how hotly it is held but whether it remains answerable, whether the world is still permitted to talk back. Responsible conviction keeps asking whether reality conforms to its expectations. Fanaticism asks only whether reality has submitted yet. The trouble is that the two feel identical from inside. Both supply energy, clarity and the sense of standing on the right side of an argument that matters. Neither announces which one it is.
+What separates conviction that renews a republic from conviction that wrecks one is not how hotly it is held but whether it remains answerable, whether the world is still permitted to talk back. Responsible conviction keeps asking whether reality conforms to its expectations. Fanaticism asks only whether reality has submitted yet. The trouble is that the two feel identical from inside. Both supply energy, clarity, and the sense of standing on the right side of an argument that matters. Neither announces which one it is.
 
 The American record is largely a record of people who guessed wrong about which they had. The men behind the Indian Removal Act believed they were sparing the republic a century of frontier war. Defenders of slavery came to describe themselves as preserving constitutional liberty against northern aggression. McCarthy presented himself as the defender of American freedom while manufacturing suspicion and institutional cowardice. Advocates of the Vietnam War believed withdrawal would imperil the free world. Sincerity varied across these cases. It never once functioned as a safeguard.
 
