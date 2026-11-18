@@ -10,9 +10,9 @@ Children do not judge the worlds into which they are born. They adapt to them. A
 
 The trouble begins when the conditions change and the solutions remain. What once brought safety comes to feel like personality: I am easygoing; I notice everything; I do not need anyone; I must always be useful. The adult experiences an old defense not as a response but as the self.
 
-Familiarity then passes for truth. People may recreate the emotional structure of childhood in their relationships, work and habits, even while changing its outward form. A child of an alcoholic may never drink but still organize life around compulsion, unpredictability or the need to control what cannot be controlled. The content changes. The old task remains.
+Familiarity then passes for truth. People may recreate the emotional structure of childhood in their relationships, work, and habits, even while changing its outward form. A child of an alcoholic may never drink but still organize life around compulsion, unpredictability, or the need to control what cannot be controlled. The content changes. The old task remains.
 
-This helps explain why insight alone seldom breaks a pattern. A person may know that a response causes harm and still experience any alternative as reckless, selfish or false. The pattern was learned before it could be examined. It carries the force not merely of habit but of reality.
+This helps explain why insight alone seldom breaks a pattern. A person may know that a response causes harm and still experience any alternative as reckless, selfish, or false. The pattern was learned before it could be examined. It carries the force not merely of habit but of reality.
 
 Change begins when an adult can ask what a response was built to accomplish. Hypervigilance may have detected danger. Silence may have prevented conflict. Achievement may have secured approval. Once the purpose is clear, the response can be judged against present conditions rather than defended as an essential trait.
 
