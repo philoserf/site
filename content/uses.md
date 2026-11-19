@@ -2,7 +2,7 @@
 title: Uses
 eyebrow: "What I use"
 description: "The hardware, software, and golf clubs I actually use. Updated when reality changes."
-lastmod: 2026-11-04
+lastmod: 2026-11-19
 showUpdated: true
 aliases:
   - /defaults/
@@ -21,13 +21,13 @@ Only what's in daily use.
 
 ## Software
 
-- Terminal: Rex, zsh, Neovim
+- Center of it all: Rex, one terminal workspace across the Macs, iPad, and iPhone, joined by Tailscale
+- Shell and editor: zsh, Neovim
 - Languages: Go, TypeScript
 - Build and packages: Task, Bun, uv
 - Programming pair, co-editor, and writing partner: Claude Code
 - Notes: Obsidian
 - Browser: Safari
-- Network: Tailscale
 - Site: Hugo, published from Obsidian with my own plugin, served from Cloudflare
 
 ## Golf
